@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Helene Fischer',de,unknown,#111111,#111111,3,0.551523166939
+'Helene Fischer',de,unknown,#111111,#111111,3,0.519201322353
 'Kamel Daoud',de,unknown,#111111,#111111,2,0.509146938042
 'Usha Vance',de,unknown,#111111,#111111,2,0.508695297356
 'prince Andrew',de,unknown,#111111,#111111,2,0.507874172013
@@ -193,12 +193,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gigi Hadid',de,USA,#18e8e8,#18e8e8,1,0.366998126098
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.366872657888
 'Mukesh Ambani',de,Indien,#dd3344,#dd3344,1,0.366804351496
+'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.366742003985
 'Marguerite Cazeneuve',de,Frankreich,#e8e808,#e8e808,1,0.366468865001
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
 'Olivia Nuzzi',de,USA,#18e8e8,#18e8e8,1,0.366448972126
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.366430147416
 'Yorgos Lanthimos',de,Griechenland,#448722,#448722,1,0.365898397103
-'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.365845767031
 'Gwede Mantashe',de,Südafrika,#1144ee,#1144ee,1,0.365704405000
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.365679195115
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.365625574420
@@ -369,11 +369,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kai Wegner',de,Deutschland,#11dd44,#11dd44,3,0.329806804901
 'Sam H',de,unknown,#111111,#111111,1,0.329385495992
 'Ben Affleck',de,USA,#18e8e8,#18e8e8,1,0.329313382900
+'Angela Merkel',de,Deutschland,#11dd44,#11dd44,3,0.329302218092
 'Christiane Schenderlein',de,Deutschland,#11dd44,#11dd44,2,0.329039506920
 'António Guterres',de,Portugal,#66bb22,#66bb22,3,0.328832449824
 'Maybrit Illner',de,Deutschland,#11dd44,#11dd44,3,0.328793380836
 'Roberto Saviano',de,Italien,#7722cc,#7722cc,1,0.328523881987
-'Angela Merkel',de,Deutschland,#11dd44,#11dd44,3,0.328339505211
 'Gérard Larcher',de,Frankreich,#e8e808,#e8e808,1,0.328336642503
 'America Ferrera',de,USA,#18e8e8,#18e8e8,1,0.328313279082
 'Andrew Tate',de,USA,#18e8e8,#18e8e8,1,0.328145935082
