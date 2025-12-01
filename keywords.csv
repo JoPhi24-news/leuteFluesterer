@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Helene Fischer',de,unknown,#111111,#111111,3,0.582539525810
+'Helene Fischer',de,unknown,#111111,#111111,3,0.551523166939
 'Kamel Daoud',de,unknown,#111111,#111111,2,0.509146938042
 'Usha Vance',de,unknown,#111111,#111111,2,0.508695297356
 'prince Andrew',de,unknown,#111111,#111111,2,0.507874172013
@@ -90,11 +90,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.422423498471
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.421607760317
 'Sam Asghari',de,Iran,#11bb99,#11bb99,2,0.421339101920
+'David Cameron',de,UK,#e838e8,#e838e8,1,0.421152386056
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,2,0.420508230232
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.420467017415
-'David Cameron',de,UK,#e838e8,#e838e8,1,0.420358909934
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,3,0.419937972939
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.419329117952
@@ -357,13 +357,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.331629582494
 'Emily Blunt',de,UK,#e838e8,#e838e8,1,0.331553686645
 'Pedro Sánchez',de,Spanien,#1144aa,#1144aa,2,0.331528466584
+'Cristiano Ronaldo',de,Portugal,#66bb22,#66bb22,3,0.331304874532
 'George Washington',de,USA,#18e8e8,#18e8e8,2,0.331284631744
 'Adolf Hitler',de,Deutschland,#11dd44,#11dd44,3,0.331248004861
 'Robert Sesselmann',de,Deutschland,#11dd44,#11dd44,1,0.330955228836
 'Rainer Maria Woelki',de,Deutschland,#11dd44,#11dd44,2,0.330713246305
 'Elizabeth Warren',de,USA,#18e8e8,#18e8e8,1,0.330449612945
 'Albert Einstein',de,Deutschland,#11dd44,#11dd44,3,0.330391176214
-'Cristiano Ronaldo',de,Portugal,#66bb22,#66bb22,3,0.330345611019
 'Anne Will',de,Deutschland,#11dd44,#11dd44,3,0.330123315476
 'Aaron Rodgers',de,USA,#18e8e8,#18e8e8,1,0.329932646100
 'Kai Wegner',de,Deutschland,#11dd44,#11dd44,3,0.329806804901
