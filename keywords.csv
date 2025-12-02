@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Usha Vance',de,unknown,#111111,#111111,2,0.523891152753
 'prince Andrew',de,unknown,#111111,#111111,2,0.507874172013
 'Bill Maher',de,unknown,#111111,#111111,2,0.506739834017
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.506310313238
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.450304416691
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,3,0.445908368118
+'Usha Vance',de,unknown,#111111,#111111,1,0.445307629840
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.444987109373
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.443438644353
