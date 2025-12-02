@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Usha Vance',de,unknown,#111111,#111111,2,0.508695297356
+'Usha Vance',de,unknown,#111111,#111111,2,0.523891152753
 'prince Andrew',de,unknown,#111111,#111111,2,0.507874172013
 'Bill Maher',de,unknown,#111111,#111111,2,0.506739834017
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.506310313238
@@ -53,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.431154766609
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
+'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.430654452729
 'JULIEN MUGUET',de,Frankreich,#e8e808,#e8e808,1,0.430594199863
 'Anant Ambani',de,Indien,#dd3344,#dd3344,1,0.430371334933
 'Karol G',de,Kolumbien,#3355dd,#3355dd,1,0.430327011290
@@ -73,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.426602909016
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.426225224370
-'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.425981864902
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'RFK Jr',de,USA,#18e8e8,#18e8e8,1,0.425642197098
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.409765773082
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
-'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.407359146299
+'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.408177658603
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,2,0.405261188409
 'Ulrich Reitz',de,Deutschland,#11dd44,#11dd44,2,0.405031056036
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.403801314837
