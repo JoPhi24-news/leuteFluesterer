@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kamel Daoud',de,unknown,#111111,#111111,2,0.509146938042
 'Usha Vance',de,unknown,#111111,#111111,2,0.508695297356
 'prince Andrew',de,unknown,#111111,#111111,2,0.507874172013
 'Bill Maher',de,unknown,#111111,#111111,2,0.506739834017
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.434452427761
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.434291890648
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.433451153603
+'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.431803471136
 'Yves Bournazel',de,Frankreich,#e8e808,#e8e808,1,0.431395648904
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.431154766609
