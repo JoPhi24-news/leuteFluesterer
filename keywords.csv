@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'prince Andrew',de,unknown,#111111,#111111,2,0.507874172013
 'Bill Maher',de,unknown,#111111,#111111,2,0.506739834017
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.506310313238
 'Larry Summers',de,unknown,#111111,#111111,2,0.505007542139
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.433451153603
 'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.431803471136
+'prince Andrew',de,unknown,#111111,#111111,1,0.431693151211
 'Yves Bournazel',de,Frankreich,#e8e808,#e8e808,1,0.431395648904
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.431154766609
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
