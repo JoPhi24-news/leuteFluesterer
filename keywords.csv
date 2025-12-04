@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.503391213044
 'Ghislaine Maxwell',de,unknown,#111111,#111111,2,0.503191605701
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,2,0.501723266379
 'Ciryl Gane',de,unknown,#111111,#111111,2,0.501129128113
@@ -29,6 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.450355688268
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.450304416691
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
+'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.446470169724
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,3,0.445908368118
 'Usha Vance',de,unknown,#111111,#111111,1,0.445307629840
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.444987109373
@@ -134,10 +134,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
+'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.396864683200
 'Hans-Werner Sinn',de,Deutschland,#11dd44,#11dd44,1,0.396541427198
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.396344397274
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.395812727176
-'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.395182898176
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.394724927593
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.394082686248
