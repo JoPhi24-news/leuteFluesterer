@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Abdelmadjid Tebboune',de,unknown,#111111,#111111,2,0.501723266379
 'Ciryl Gane',de,unknown,#111111,#111111,2,0.501129128113
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.491755288937
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.486187689028
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,2,0.426889133481
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.426602909016
+'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.426465001422
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.426225224370
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'RFK Jr',de,USA,#18e8e8,#18e8e8,1,0.425642197098
