@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ciryl Gane',de,unknown,#111111,#111111,2,0.501129128113
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.491755288937
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.486187689028
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.426602909016
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.426465001422
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.426225224370
+'Ciryl Gane',de,unknown,#111111,#111111,1,0.425959758896
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'RFK Jr',de,USA,#18e8e8,#18e8e8,1,0.425642197098
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
