@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.487513509415
+'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.473749483836
@@ -7,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.462941479334
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
-'Bill Maher',de,unknown,#111111,#111111,2,0.461478933914
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,2,0.461106414178
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.460004319290
 'Jean Castex',de,Frankreich,#e8e808,#e8e808,1,0.459172337939
