@@ -184,7 +184,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.371160838309
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.370819767256
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
-'Stefan Kolev',de,Deutschland,#11dd44,#11dd44,1,0.369726271510
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
 'Melanie Guttmann',de,Deutschland,#11dd44,#11dd44,1,0.368475000000
 'Paul Konerko',de,USA,#18e8e8,#18e8e8,1,0.368176078984
@@ -454,6 +453,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Müller',de,Deutschland,#11dd44,#11dd44,3,0.315049243587
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,2,0.314754967443
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,2,0.314291324230
+'Stefan Kolev',de,Deutschland,#11dd44,#11dd44,1,0.314267330783
 'Nancy Mace',de,unknown,#111111,#111111,1,0.314251744840
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.314217559537
 'Mario Czaja',de,Deutschland,#11dd44,#11dd44,1,0.314138807309
