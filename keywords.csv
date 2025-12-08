@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.515407161368
 'Francis Ngannou',de,unknown,#111111,#111111,2,0.509186918771
 'Nancy Pelosi',de,unknown,#111111,#111111,2,0.509139555940
 'Affaire Epstein',de,unknown,#111111,#111111,2,0.507772928411
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.502562614304
 'Larry David',de,unknown,#111111,#111111,2,0.502353170786
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.500175747773
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.497680536708
 'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
@@ -83,6 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.426465001422
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.426225224370
 'Ciryl Gane',de,unknown,#111111,#111111,1,0.425959758896
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.425933776332
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'RFK Jr',de,USA,#18e8e8,#18e8e8,1,0.425642197098
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
@@ -92,7 +93,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.424363886107
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.424159636659
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.422423498471
@@ -117,11 +117,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
 'Victoria Beckham',de,UK,#e838e8,#e838e8,2,0.412616962356
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.411027602299
+'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.410579672055
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.410508043383
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.410499833351
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410106622873
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
-'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.409765773082
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.408177658603
@@ -152,8 +152,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.392074267859
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.391393487202
+'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.390912868673
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.390278367301
-'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.390061518993
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
 'John Martinis',de,USA,#18e8e8,#18e8e8,2,0.387703351870
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.387634114114
