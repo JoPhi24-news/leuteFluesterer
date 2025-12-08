@@ -1,5 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.488134465780
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.515407161368
+'Francis Ngannou',de,unknown,#111111,#111111,2,0.509186918771
+'Nancy Pelosi',de,unknown,#111111,#111111,2,0.509139555940
+'Affaire Epstein',de,unknown,#111111,#111111,2,0.507772928411
+'Joy Reid',de,unknown,#111111,#111111,2,0.504784835533
+'Christophe Gleizes',de,unknown,#111111,#111111,2,0.503295325141
+'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.502562614304
+'Larry David',de,unknown,#111111,#111111,2,0.502353170786
+'Karoline Leavitt',de,unknown,#111111,#111111,2,0.500175747773
 'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
@@ -232,9 +240,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.354598354446
+'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.354408502933
 'Mark Meadows',de,USA,#18e8e8,#18e8e8,2,0.353836787281
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
-'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.353489923789
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.353364530276
 'James Cleverly',de,UK,#e838e8,#e838e8,3,0.353336520045
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.353330422752
@@ -720,6 +728,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
+'Mohammed bin Salman',de,SaudiArabien,#2266bb,#2266bb,3,0.244594255322
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
@@ -728,7 +737,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
-'Mohammed bin Salman',de,SaudiArabien,#2266bb,#2266bb,3,0.243499137771
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.243147591647
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
 'Lance Bass',de,unknown,#111111,#111111,1,0.242573035360
@@ -821,9 +829,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.198812136611
 'Jack Ma',de,China,#e88818,#e88818,1,0.198163844432
 'Shahzada Dawood',de,Pakistan,#bb3355,#bb3355,1,0.198103507082
+'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.195304718950
 'Christian Drosten',de,Deutschland,#11dd44,#11dd44,2,0.194786454223
 'Aleksandar Vucic',de,Serbien,#4488cc,#4488cc,3,0.194264146212
-'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.194146934196
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.194025794077
 'Stefan Rahmstorf',de,Deutschland,#11dd44,#11dd44,2,0.193634442976
 'Louis Klamroth',de,Deutschland,#11dd44,#11dd44,2,0.192338651398
