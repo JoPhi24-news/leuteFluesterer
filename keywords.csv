@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Affaire Epstein',de,unknown,#111111,#111111,2,0.507772928411
 'Joy Reid',de,unknown,#111111,#111111,2,0.504784835533
 'Christophe Gleizes',de,unknown,#111111,#111111,2,0.503295325141
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.502562614304
@@ -56,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.431803471136
 'prince Andrew',de,unknown,#111111,#111111,1,0.431693151211
+'Affaire Epstein',de,unknown,#111111,#111111,1,0.431606989149
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.431537322053
 'Yves Bournazel',de,Frankreich,#e8e808,#e8e808,1,0.431395648904
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.431154766609
