@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Larry David',de,unknown,#111111,#111111,2,0.502353170786
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.501505095623
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.503400233435
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.500175747773
 'Nancy Pelosi',de,unknown,#111111,#111111,2,0.494914619723
 'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.457114647426
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.456570527818
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
+'Larry David',de,unknown,#111111,#111111,2,0.454678412895
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.454056456263
@@ -66,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.429715519944
 'reine Mathilde',de,unknown,#111111,#111111,1,0.429258671995
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
+'Callum Turner',de,UK,#e838e8,#e838e8,2,0.428799268548
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.428387283607
@@ -75,7 +76,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.427478252158
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.427331863518
-'Callum Turner',de,UK,#e838e8,#e838e8,2,0.427240558486
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,2,0.426889133481
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
