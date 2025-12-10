@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.503400233435
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.500175747773
 'Nancy Pelosi',de,unknown,#111111,#111111,2,0.494914619723
 'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.478385178874
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.473749483836
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.469477685847
@@ -79,11 +79,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,2,0.426889133481
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.426716433490
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.426602909016
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.426465001422
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.426225224370
 'Ciryl Gane',de,unknown,#111111,#111111,1,0.425959758896
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.425933776332
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'RFK Jr',de,USA,#18e8e8,#18e8e8,1,0.425642197098
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
@@ -344,6 +344,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerry Seinfeld',de,USA,#18e8e8,#18e8e8,1,0.335118759698
 'Mira Murati',de,Albanien,#ee742d,#ee742d,1,0.334870621721
 'Kevin Hart',de,USA,#18e8e8,#18e8e8,3,0.334435673079
+'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.334180410894
 'William Shakespeare',de,UK,#e838e8,#e838e8,2,0.334076163669
 'Oliver Anthony',de,USA,#18e8e8,#18e8e8,1,0.333988588800
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.333939483234
@@ -351,7 +352,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Francis Prevost',de,USA,#18e8e8,#18e8e8,1,0.333712190313
 'Jeff Ross',de,USA,#18e8e8,#18e8e8,2,0.333705848340
 'Yoon Suk Yeol',de,SüdKorea,#22bb66,#22bb66,2,0.333253232075
-'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.333226122552
 'Prince Charles',de,UK,#e838e8,#e838e8,2,0.333174011643
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.333150975781
 'Lily Gladstone',de,USA,#18e8e8,#18e8e8,1,0.333121756003
