@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Karoline Leavitt',de,unknown,#111111,#111111,2,0.500175747773
 'Nancy Pelosi',de,unknown,#111111,#111111,2,0.494914619723
 'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.480418534529
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.478385178874
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.473749483836
-'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.469477685847
+'Karoline Leavitt',de,unknown,#111111,#111111,2,0.471012226516
+'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.470174562789
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.462941479334
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.460004319290
 'Jean Castex',de,Frankreich,#e8e808,#e8e808,1,0.459172337939
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.458339181374
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.457317468413
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.458038482811
 'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.457114647426
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.456570527818
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
@@ -74,12 +74,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.428058622196
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.427497568119
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.427478252158
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.427331863518
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,2,0.426889133481
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.426716433490
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.426602909016
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.426465001422
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.426225224370
@@ -288,10 +288,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.345980942742
 'Angelina Jolie',de,USA,#18e8e8,#18e8e8,3,0.345852097145
 'Peregrine Pearson',de,UK,#e838e8,#e838e8,2,0.345535958885
+'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.345384530915
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.345030443520
 'Chris Luxon',de,Neuseeland,#1818e8,#1818e8,1,0.344952975317
 'Reed Richards',de,USA,#18e8e8,#18e8e8,2,0.344612986480
-'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.344449871782
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.344421163573
 'Eva Green',de,Frankreich,#e8e808,#e8e808,1,0.344241677240
 'Tom Hanks',de,USA,#18e8e8,#18e8e8,3,0.344173681914
