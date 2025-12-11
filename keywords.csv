@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nancy Pelosi',de,unknown,#111111,#111111,2,0.494914619723
 'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.480418534529
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
@@ -102,6 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.421260284182
 'David Cameron',de,UK,#e838e8,#e838e8,1,0.421152386056
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
+'Nancy Pelosi',de,unknown,#111111,#111111,1,0.420677696765
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,2,0.420508230232
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,3,0.419937972939
