@@ -54,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'prince Andrew',de,unknown,#111111,#111111,1,0.431693151211
 'Affaire Epstein',de,unknown,#111111,#111111,1,0.431606989149
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.431537322053
-'Yves Bournazel',de,Frankreich,#e8e808,#e8e808,1,0.431395648904
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.431154766609
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
@@ -200,6 +199,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.366872657888
 'Mukesh Ambani',de,Indien,#dd3344,#dd3344,1,0.366804351496
 'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.366742003985
+'Yves Bournazel',de,Frankreich,#e8e808,#e8e808,1,0.366686301568
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.366562742911
 'Marguerite Cazeneuve',de,Frankreich,#e8e808,#e8e808,1,0.366468865001
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
