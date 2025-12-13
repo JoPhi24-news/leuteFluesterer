@@ -42,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.438786138977
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
+'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.435890242156
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.435135375238
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
@@ -90,8 +91,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.424945741836
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
-'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.424159636659
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.422423498471
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.421913269897
@@ -111,7 +112,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
-'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.414989627499
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
 'Victoria Beckham',de,UK,#e838e8,#e838e8,2,0.412616962356
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.411320517426
@@ -143,8 +143,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans-Werner Sinn',de,Deutschland,#11dd44,#11dd44,1,0.396541427198
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.396344397274
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.395812727176
+'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.395567482620
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
-'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.394724927593
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.394082686248
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.392242329549
@@ -313,10 +313,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Jobs',de,USA,#18e8e8,#18e8e8,3,0.340345782115
 'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.340047785382
 'Abraham Lincoln',de,USA,#18e8e8,#18e8e8,2,0.340009124124
+'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.339975267476
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
 'Demi Moore',de,USA,#18e8e8,#18e8e8,1,0.339225143723
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.339037797718
-'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.339031083776
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,2,0.338295351199
 'Charles Barkley',de,USA,#18e8e8,#18e8e8,1,0.338271583625
