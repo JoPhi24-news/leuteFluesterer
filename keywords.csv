@@ -640,7 +640,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Sarkozy',de,unknown,#111111,#111111,2,0.280989276539
 'Tony Bennett',de,USA,#18e8e8,#18e8e8,1,0.280677826293
 'Katarina Barley',de,EU,#bbff33,#bbff33,2,0.279368283180
-'Antonio Brown',de,unknown,#111111,#111111,1,0.279341470103
 'Hun Sen',de,Kambodscha,#ff33bb,#ff33bb,2,0.279292806147
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
 'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.279060463985
@@ -648,6 +647,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.276964709717
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.276781102769
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.276595110921
+'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
 'Erich Honecker',de,Deutschland,#11dd44,#11dd44,1,0.275128434182
 'Markus Krebber',de,Deutschland,#11dd44,#11dd44,2,0.273364356198
 'Wolfgang Grupp',de,unknown,#111111,#111111,1,0.272989047683
