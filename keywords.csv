@@ -265,7 +265,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roger Federer',de,Schweiz,#88cc44,#88cc44,2,0.349568761947
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.349465252294
-'Jon Hamm',de,USA,#18e8e8,#18e8e8,2,0.349304769446
 'Jane Fonda',de,USA,#18e8e8,#18e8e8,2,0.348890543618
 'Chris Wright',de,USA,#18e8e8,#18e8e8,3,0.348769258732
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.348506567653
@@ -582,6 +581,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.299048179469
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.298866396965
 'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.298551997003
+'Jon Hamm',de,USA,#18e8e8,#18e8e8,2,0.298409204029
 'Jimmy Carter',de,USA,#18e8e8,#18e8e8,1,0.298224335085
 'Gerhard Schröder',de,Deutschland,#11dd44,#11dd44,3,0.298057112754
 'Isaac Newton',de,UK,#e838e8,#e838e8,1,0.297963499739
