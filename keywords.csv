@@ -160,7 +160,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,1,0.384440615963
 'Maria Sacharowa',de,Russland,#e81818,#e81818,3,0.384375669614
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,2,0.383764278711
-'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.383724748083
 'François Bayrou',de,Frankreich,#e8e808,#e8e808,2,0.383300522205
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,2,0.382567375347
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
@@ -265,6 +264,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roger Federer',de,Schweiz,#88cc44,#88cc44,2,0.349568761947
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.349465252294
+'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.349300914052
 'Jane Fonda',de,USA,#18e8e8,#18e8e8,2,0.348890543618
 'Chris Wright',de,USA,#18e8e8,#18e8e8,3,0.348769258732
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.348506567653
@@ -366,12 +366,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Washington',de,USA,#18e8e8,#18e8e8,2,0.331284631744
 'Adolf Hitler',de,Deutschland,#11dd44,#11dd44,3,0.331248004861
 'Robert Sesselmann',de,Deutschland,#11dd44,#11dd44,1,0.330955228836
+'Kai Wegner',de,Deutschland,#11dd44,#11dd44,3,0.330766996117
 'Rainer Maria Woelki',de,Deutschland,#11dd44,#11dd44,2,0.330713246305
 'Elizabeth Warren',de,USA,#18e8e8,#18e8e8,1,0.330449612945
 'Albert Einstein',de,Deutschland,#11dd44,#11dd44,3,0.330391176214
 'Anne Will',de,Deutschland,#11dd44,#11dd44,3,0.330123315476
 'Aaron Rodgers',de,USA,#18e8e8,#18e8e8,1,0.329932646100
-'Kai Wegner',de,Deutschland,#11dd44,#11dd44,3,0.329806804901
 'Sam H',de,unknown,#111111,#111111,1,0.329385495992
 'Ben Affleck',de,USA,#18e8e8,#18e8e8,1,0.329313382900
 'Angela Merkel',de,Deutschland,#11dd44,#11dd44,3,0.329302218092
