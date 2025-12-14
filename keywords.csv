@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.462941479334
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
-'John M. Martinis',de,USA,#18e8e8,#18e8e8,2,0.461106414178
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.460998830632
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.460004319290
 'Jean Castex',de,Frankreich,#e8e808,#e8e808,1,0.459172337939
@@ -150,6 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.392242329549
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.392074267859
+'John M. Martinis',de,USA,#18e8e8,#18e8e8,1,0.391940467051
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.390912868673
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.390278367301
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
