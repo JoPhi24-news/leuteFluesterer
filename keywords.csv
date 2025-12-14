@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.486048443997
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.483110801745
 'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.480418534529
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.473749483836
@@ -155,6 +155,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
 'John Martinis',de,USA,#18e8e8,#18e8e8,2,0.387703351870
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.387634114114
+'Mark Meadows',de,USA,#18e8e8,#18e8e8,2,0.387525659903
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.386600798283
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,1,0.384440615963
@@ -240,7 +241,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.354598354446
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.354408502933
-'Mark Meadows',de,USA,#18e8e8,#18e8e8,2,0.353836787281
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.353364530276
 'James Cleverly',de,UK,#e838e8,#e838e8,3,0.353336520045
