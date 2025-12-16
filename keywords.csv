@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Steve Witkoff',de,unknown,#111111,#111111,2,0.501557036752
+'Steve Witkoff',de,unknown,#111111,#111111,3,0.531288136239
 'Bruna Ferreira',de,unknown,#111111,#111111,2,0.500948863795
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.494315905648
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.494963245545
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.486048443997
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.485603069979
 'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
@@ -65,6 +65,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anant Ambani',de,Indien,#dd3344,#dd3344,1,0.430371334933
 'Karol G',de,Kolumbien,#3355dd,#3355dd,1,0.430327011290
 'Lecornu II ',de,Frankreich,#e8e808,#e8e808,1,0.429980404145
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.429831857815
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.429715519944
 'reine Mathilde',de,unknown,#111111,#111111,1,0.429258671995
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
@@ -72,7 +73,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.428387283607
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.428277182312
 'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.428268717015
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.428058622196
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
@@ -182,6 +182,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.378606857910
 'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.377857079757
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.377206877100
 'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.376929558646
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.376714537676
 'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,3,0.376033132020
@@ -193,7 +194,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.371160838309
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.370819767256
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.369255544091
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
 'Melanie Guttmann',de,Deutschland,#11dd44,#11dd44,1,0.368475000000
 'Paul Konerko',de,USA,#18e8e8,#18e8e8,1,0.368176078984
@@ -217,6 +217,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tig Notaro',de,USA,#18e8e8,#18e8e8,1,0.364395336276
 'Léon XIV',de,Vatikan,#58b8e8,#58b8e8,1,0.364348510187
 'Tim Malone',de,USA,#18e8e8,#18e8e8,1,0.363700408881
+'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.363102303590
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.362944774228
 'Omar M. Yaghi',de,USA,#18e8e8,#18e8e8,1,0.362600249750
 'Gervonta Davis',de,USA,#18e8e8,#18e8e8,1,0.362562268201
@@ -228,7 +229,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.361250000000
 'Richard David Precht',de,Deutschland,#11dd44,#11dd44,2,0.361055188103
 'Sophie Turner',de,UK,#e838e8,#e838e8,1,0.360437274561
-'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.360388763474
 'Keith Kellogg',de,USA,#18e8e8,#18e8e8,3,0.360077520603
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.359994239857
@@ -654,6 +654,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
 'Erich Honecker',de,Deutschland,#11dd44,#11dd44,1,0.275128434182
 'Markus Krebber',de,Deutschland,#11dd44,#11dd44,2,0.273364356198
+'Putin',de,Russland,#e81818,#e81818,3,0.273107448029
 'Wolfgang Grupp',de,unknown,#111111,#111111,1,0.272989047683
 'James Cameron',de,USA,#18e8e8,#18e8e8,1,0.272969903878
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,1,0.272755906180
@@ -663,7 +664,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdoan',de,Türkei,#4411ee,#4411ee,2,0.271462976178
 'Frank Plasberg',de,Deutschland,#11dd44,#11dd44,2,0.271311355898
 'Christian Kroll',de,Deutschland,#11dd44,#11dd44,1,0.271216590942
-'Putin',de,Russland,#e81818,#e81818,3,0.270998380319
 'Narendra Modi',de,Indien,#dd3344,#dd3344,3,0.270765863123
 'Silvio Berlusconi',de,Italien,#7722cc,#7722cc,2,0.270648602368
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.270468949533
