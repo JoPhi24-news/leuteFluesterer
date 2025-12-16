@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Steve Witkoff',de,unknown,#111111,#111111,3,0.536677686569
+'Steve Witkoff',de,unknown,#111111,#111111,3,0.520232767675
 'Bruna Ferreira',de,unknown,#111111,#111111,2,0.500948863795
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.494963245545
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.497539698345
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.486048443997
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.485603069979
 'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.460998830632
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.460511448945
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.460004319290
 'Jean Castex',de,Frankreich,#e8e808,#e8e808,1,0.459172337939
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.459077817231
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.458339181374
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.458038482811
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.456570527818
@@ -34,12 +34,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,2,0.449796338715
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.446470169724
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.445793624901
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.445670918324
 'Usha Vance',de,unknown,#111111,#111111,1,0.445307629840
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.444987109373
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.442803823445
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
@@ -180,9 +180,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.380302120527
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.380051399167
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.378606857910
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.378082225541
 'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.377857079757
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.377206877100
 'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.376929558646
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.376714537676
 'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,3,0.376033132020
@@ -199,12 +199,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Konerko',de,USA,#18e8e8,#18e8e8,1,0.368176078984
 'Mark Cuban',de,USA,#18e8e8,#18e8e8,1,0.368032560177
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.367751180101
+'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.367592086272
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.367457671108
 'Gigi Hadid',de,USA,#18e8e8,#18e8e8,1,0.366998126098
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.366872657888
 'Mukesh Ambani',de,Indien,#dd3344,#dd3344,1,0.366804351496
 'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.366742003985
-'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.366697404029
 'Yves Bournazel',de,Frankreich,#e8e808,#e8e808,1,0.366686301568
 'Marguerite Cazeneuve',de,Frankreich,#e8e808,#e8e808,1,0.366468865001
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
@@ -653,8 +653,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.276595110921
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
 'Erich Honecker',de,Deutschland,#11dd44,#11dd44,1,0.275128434182
+'Putin',de,Russland,#e81818,#e81818,3,0.274159593222
 'Markus Krebber',de,Deutschland,#11dd44,#11dd44,2,0.273364356198
-'Putin',de,Russland,#e81818,#e81818,3,0.273107448029
 'Wolfgang Grupp',de,unknown,#111111,#111111,1,0.272989047683
 'James Cameron',de,USA,#18e8e8,#18e8e8,1,0.272969903878
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,1,0.272755906180
