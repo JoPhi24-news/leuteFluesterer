@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.500095622473
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.486048443997
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.485603069979
 'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.480129259102
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.479924949183
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.476603525842
@@ -43,7 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
-'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.438934185935
+'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.439691445831
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.438786138977
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
@@ -326,6 +326,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,USA,#18e8e8,#18e8e8,1,0.338271583625
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.338187586876
 'Alexander Smirnov',de,Israel,#8822dd,#8822dd,1,0.338133265108
+'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.337850116309
 'Steven Donziger',de,USA,#18e8e8,#18e8e8,1,0.337768750000
 'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
 'Haitham A-Ghais',de,Kuwait,#3fd97a,#3fd97a,1,0.337768750000
@@ -340,7 +341,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cem Özdemir',de,Deutschland,#11dd44,#11dd44,3,0.336292977809
 'Alberto Núñez Feijóo',de,Spanien,#1144aa,#1144aa,2,0.336144572063
 'Derek Chauvin',de,USA,#18e8e8,#18e8e8,1,0.336063797151
-'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659678
 'Königin Camilla',de,UK,#e838e8,#e838e8,2,0.335849257621
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.335685844193
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.335427099223
@@ -504,6 +504,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffen Kotre',de,unknown,#111111,#111111,1,0.310593718750
 'Andrew Schulz',de,unknown,#111111,#111111,1,0.310518741270
 'Robert Badinter',de,unknown,#111111,#111111,1,0.310318554364
+'Mathias Döpfner',de,Deutschland,#11dd44,#11dd44,1,0.310188136329
 'Linda Yaccarino',de,USA,#18e8e8,#18e8e8,2,0.310126589671
 'Jamie Spears',de,unknown,#111111,#111111,1,0.310097464071
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.310094127837
@@ -512,7 +513,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Buzz Aldrin',de,USA,#18e8e8,#18e8e8,1,0.309879240715
 'Ron Howard',de,unknown,#111111,#111111,2,0.309724600684
 'Sunny Hostin',de,unknown,#111111,#111111,1,0.309200073287
-'Mathias Döpfner',de,Deutschland,#11dd44,#11dd44,1,0.309193171998
 'François Braun',de,unknown,#111111,#111111,1,0.309100527042
 'Chris Kirkpatrick',de,unknown,#111111,#111111,1,0.309065915138
 'Katy Perry',de,USA,#18e8e8,#18e8e8,1,0.309014813164
