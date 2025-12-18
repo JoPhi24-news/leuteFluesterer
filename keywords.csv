@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.527186421488
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.485603069979
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.483494113348
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.484830675356
 'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.479924949183
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.476603525842
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
+'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.473749483836
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.470174562789
@@ -33,8 +33,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.450304416691
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,2,0.449796338715
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.447279711584
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.446470169724
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.445793624901
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.445670918324
 'Usha Vance',de,unknown,#111111,#111111,1,0.445307629840
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.444987109373
@@ -881,7 +881,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrea Lindholz',de,Deutschland,#11dd44,#11dd44,2,0.155234411900
 'Horst Seehofer',de,Deutschland,#11dd44,#11dd44,1,0.154154229566
 'Erik Marquardt',de,EU,#bbff33,#bbff33,1,0.153794623858
-'Anthony Albanese',de,Australien,#99aa33,#99aa33,2,0.152560327452
+'Anthony Albanese',de,Australien,#99aa33,#99aa33,2,0.153761281306
 'Macky Sall',de,Senegal,#aa33dd,#aa33dd,1,0.151788206312
 'Martin Sonneborn',de,Deutschland,#11dd44,#11dd44,1,0.151785724284
 'Mojib Latif',de,Deutschland,#11dd44,#11dd44,2,0.151168271046
