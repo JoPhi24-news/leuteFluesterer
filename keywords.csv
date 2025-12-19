@@ -126,7 +126,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.408177658603
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,2,0.405261188409
-'Ulrich Reitz',de,Deutschland,#11dd44,#11dd44,2,0.405031056036
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.403801314837
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.403462674146
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.403157311832
@@ -296,6 +295,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Luxon',de,Neuseeland,#1818e8,#1818e8,1,0.344952975317
 'Reed Richards',de,USA,#18e8e8,#18e8e8,2,0.344612986480
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.344421163573
+'Ulrich Reitz',de,Deutschland,#11dd44,#11dd44,1,0.344276472631
 'Eva Green',de,Frankreich,#e8e808,#e8e808,1,0.344241677240
 'Tom Hanks',de,USA,#18e8e8,#18e8e8,3,0.344173681914
 'Matteo Salvini',de,Italien,#7722cc,#7722cc,2,0.343957319957
