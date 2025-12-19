@@ -537,7 +537,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.307342816440
 'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.307131327466
 'Uwe Neumärker',de,Deutschland,#11dd44,#11dd44,1,0.307062500000
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.307062500000
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,1,0.307062500000
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.307062500000
@@ -706,6 +705,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.261372791549
 'Margaret Thatcher',de,UK,#e838e8,#e838e8,1,0.261165356406
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.261003125000
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.261003125000
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.261003125000
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.261003125000
