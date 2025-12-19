@@ -201,6 +201,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Cuban',de,USA,#18e8e8,#18e8e8,1,0.368032560177
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.367751180101
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.367457671108
+'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.367325317750
 'Gigi Hadid',de,USA,#18e8e8,#18e8e8,1,0.366998126098
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.366872657888
 'Mukesh Ambani',de,Indien,#dd3344,#dd3344,1,0.366804351496
@@ -209,7 +210,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marguerite Cazeneuve',de,Frankreich,#e8e808,#e8e808,1,0.366468865001
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
 'Olivia Nuzzi',de,USA,#18e8e8,#18e8e8,1,0.366448972126
-'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.366430147416
 'Yorgos Lanthimos',de,Griechenland,#448722,#448722,1,0.365898397103
 'Gwede Mantashe',de,Südafrika,#1144ee,#1144ee,1,0.365704405000
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.365625574420
@@ -376,7 +376,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Albert Einstein',de,Deutschland,#11dd44,#11dd44,3,0.330391176214
 'Anne Will',de,Deutschland,#11dd44,#11dd44,3,0.330123315476
 'Aaron Rodgers',de,USA,#18e8e8,#18e8e8,1,0.329932646100
-'Sam H',de,unknown,#111111,#111111,1,0.329385495992
 'Ben Affleck',de,USA,#18e8e8,#18e8e8,1,0.329313382900
 'Angela Merkel',de,Deutschland,#11dd44,#11dd44,3,0.329302218092
 'Christiane Schenderlein',de,Deutschland,#11dd44,#11dd44,2,0.329039506920
@@ -594,6 +593,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander De Croo',de,Belgien,#bb33ff,#bb33ff,1,0.297716995994
 'Jon Batiste',de,unknown,#111111,#111111,1,0.297600966200
 'Paul-Henry Nargeolet',de,Frankreich,#e8e808,#e8e808,1,0.297186599281
+'Sam H',de,unknown,#111111,#111111,1,0.296477821593
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.296302020821
 'King Charles',de,UK,#e838e8,#e838e8,3,0.295966202416
 'Matt Winkelmeyer',de,unknown,#111111,#111111,1,0.295580984723
