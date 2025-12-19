@@ -34,10 +34,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,2,0.449796338715
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.447279711584
+'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.446476369772
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.446470169724
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.445670918324
 'Usha Vance',de,unknown,#111111,#111111,1,0.445307629840
-'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.444987109373
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
@@ -780,6 +780,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Schäuble',de,Deutschland,#11dd44,#11dd44,2,0.223148145736
 'Jean-Denis Combrexelle',de,unknown,#111111,#111111,1,0.222772504283
 'Dieter Salomon',de,Deutschland,#11dd44,#11dd44,1,0.222764701048
+'Joana Cotar',de,Deutschland,#11dd44,#11dd44,2,0.222687770054
 'Jean-Jacques Rousseau',de,Schweiz,#88cc44,#88cc44,1,0.222323499564
 'Xi Jinping',de,China,#e88818,#e88818,3,0.222304410492
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
@@ -942,4 +943,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schellnhuber',de,Deutschland,#11dd44,#11dd44,2,0.088883188899
 'Andrew Forrest',de,Australien,#99aa33,#99aa33,1,0.086922604771
 'Millie Mackintosh',de,UK,#e838e8,#e838e8,1,0.085870735393
-'Joana Cotar',de,Deutschland,#11dd44,#11dd44,1,0.084985558887
