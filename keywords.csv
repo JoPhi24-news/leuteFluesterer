@@ -691,6 +691,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulf Poschardt',de,Deutschland,#11dd44,#11dd44,1,0.264452346876
 'Matt Lauer',de,unknown,#111111,#111111,1,0.264323486282
 'Robert de Niro',de,USA,#18e8e8,#18e8e8,2,0.264175381582
+'Leonard Bernstein',de,unknown,#111111,#111111,1,0.264116365396
 'Bill Geddie',de,unknown,#111111,#111111,1,0.263772524303
 'Oisin Fanning',de,Irland,#33bbff,#33bbff,1,0.263590790846
 'nan Si',de,unknown,#111111,#111111,1,0.263529894355
@@ -721,7 +722,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Munger',de,unknown,#111111,#111111,1,0.255006696635
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.254589514446
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,1,0.252222829181
-'Leonard Bernstein',de,unknown,#111111,#111111,1,0.250842676937
 'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.249471227397
 'Harrison Ford',de,unknown,#111111,#111111,1,0.248675424859
 'Kurt Krömer',de,Deutschland,#11dd44,#11dd44,2,0.248464234503
