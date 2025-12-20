@@ -105,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.420677696765
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,2,0.420508230232
-'Christian Lindner',de,Deutschland,#11dd44,#11dd44,3,0.419937972939
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.419429851702
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.419329117952
@@ -238,6 +237,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.357271204561
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.357264740051
+'Christian Lindner',de,Deutschland,#11dd44,#11dd44,2,0.356948116998
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.355555234139
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
