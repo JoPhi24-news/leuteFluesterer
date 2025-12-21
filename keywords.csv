@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.438786138977
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
-'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.435135375238
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.435058244841
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.434452427761
@@ -104,6 +103,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.420677696765
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,2,0.420508230232
+'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.419429851702
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.419329117952
@@ -732,6 +732,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
 'Mohammed bin Salman',de,SaudiArabien,#2266bb,#2266bb,3,0.244594255322
+'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.244243196357
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
@@ -740,7 +741,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
-'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.243147591647
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
 'Lance Bass',de,unknown,#111111,#111111,1,0.242573035360
 'Marco Buschmann',de,Deutschland,#11dd44,#11dd44,3,0.242330180960
