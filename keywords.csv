@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Keir Starmer',de,unknown,#111111,#111111,2,0.509136943421
 'Kamaru Usman',de,unknown,#111111,#111111,2,0.508392573336
 'Bruna Caroline Ferreira',de,unknown,#111111,#111111,2,0.507495943771
 'Ilia Topuria',de,unknown,#111111,#111111,2,0.506529195545
@@ -14,12 +13,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.476603525842
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
+'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.473749483836
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.470870053472
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.465718096872
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.466892792658
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.466422447422
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.465484563978
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.465345960706
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.462941479334
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
@@ -40,8 +40,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.450304416691
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,2,0.449796338715
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.448020559478
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.447279711584
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.446476369772
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.446470169724
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.445670918324
@@ -726,8 +726,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olli Schulz',de,Deutschland,#11dd44,#11dd44,1,0.258162065918
 'Kemal Kilicdaroglu',de,Türkei,#4411ee,#4411ee,1,0.257438385831
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.257000985197
+'Wolodymyr Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.256842285165
 'Michael Kahle',de,Deutschland,#11dd44,#11dd44,1,0.256585755261
-'Wolodymyr Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.255764509661
 'Charlie Munger',de,unknown,#111111,#111111,1,0.255006696635
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.254589514446
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,1,0.252222829181
