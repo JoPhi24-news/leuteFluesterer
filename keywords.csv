@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Valentina Shevchenko',de,unknown,#111111,#111111,2,0.509941638440
 'Keir Starmer',de,unknown,#111111,#111111,2,0.509136943421
 'Kamaru Usman',de,unknown,#111111,#111111,2,0.508392573336
 'Bruna Caroline Ferreira',de,unknown,#111111,#111111,2,0.507495943771
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.434452427761
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.433451153603
+'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
 'Francis Ngannou',de,unknown,#111111,#111111,1,0.432808880955
 'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.431803471136
