@@ -543,7 +543,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gilbert Plass',de,Kanada,#ffaabb,#ffaabb,1,0.307062500000
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.307062500000
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
 'James Biden',de,unknown,#111111,#111111,1,0.306666048656
 'Hugh Grant',de,unknown,#111111,#111111,1,0.306582026544
 'Kevin Kühnert',de,Deutschland,#11dd44,#11dd44,3,0.306267580113
@@ -708,6 +707,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.261003125000
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.261003125000
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.261003125000
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.261003125000
 'Paul Ronzheimer',de,Deutschland,#11dd44,#11dd44,2,0.260084363739
