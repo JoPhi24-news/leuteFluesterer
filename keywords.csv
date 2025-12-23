@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Arman Tsarukyan',de,unknown,#111111,#111111,2,0.504442715095
 'Daniel Cormier',de,unknown,#111111,#111111,2,0.503872442112
 'Belal Muhammad',de,unknown,#111111,#111111,2,0.502851478023
 'Prince Philip',de,unknown,#111111,#111111,2,0.501471357553
@@ -79,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.428890218339
 'Callum Turner',de,UK,#e838e8,#e838e8,2,0.428799268548
+'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.428387283607
