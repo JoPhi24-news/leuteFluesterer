@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Prince Philip',de,unknown,#111111,#111111,2,0.501471357553
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.485603069979
 'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.479924949183
@@ -92,6 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.426602909016
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.426465001422
+'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.426225224370
 'Ciryl Gane',de,unknown,#111111,#111111,1,0.425959758896
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
