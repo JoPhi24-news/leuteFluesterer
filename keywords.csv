@@ -81,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.428387283607
 'Daniel Cormier',de,unknown,#111111,#111111,1,0.428291590795
 'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.428268717015
+'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.428138404281
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.428058622196
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
@@ -123,8 +124,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
+'Victoria Beckham',de,UK,#e838e8,#e838e8,2,0.413425382748
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.412648994865
-'Victoria Beckham',de,UK,#e838e8,#e838e8,2,0.412616962356
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.411320517426
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.410499833351
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410106622873
@@ -159,7 +160,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.392074267859
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,1,0.391940467051
-'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.390912868673
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.390278367301
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.388891548288
@@ -282,9 +282,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.348506567653
 'Jason Kelce',de,USA,#18e8e8,#18e8e8,1,0.348445920974
 'Bastian Schweinsteiger',de,Deutschland,#11dd44,#11dd44,2,0.348372654247
+'David Beckham',de,UK,#e838e8,#e838e8,2,0.348202496034
 'Sergio Mattarella',de,Italien,#7722cc,#7722cc,1,0.348064632851
 'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.347385510586
-'David Beckham',de,UK,#e838e8,#e838e8,2,0.347272833104
 'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.347207185475
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.347034579365
