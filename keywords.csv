@@ -331,7 +331,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demi Moore',de,USA,#18e8e8,#18e8e8,1,0.339225143723
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.339037797718
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
-'Jean Carroll',de,USA,#18e8e8,#18e8e8,2,0.338295351199
 'Charles Barkley',de,USA,#18e8e8,#18e8e8,1,0.338271583625
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.338187586876
 'Alexander Smirnov',de,Israel,#8822dd,#8822dd,1,0.338133265108
@@ -631,6 +630,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',de,Deutschland,#11dd44,#11dd44,2,0.288697139092
 'Kate Capshaw',de,unknown,#111111,#111111,1,0.288158777136
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.287576688510
+'Jean Carroll',de,USA,#18e8e8,#18e8e8,1,0.287551078519
 'Kyle Pope',de,unknown,#111111,#111111,1,0.287380965250
 'Chris Hemsworth',de,unknown,#111111,#111111,1,0.287124473049
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.287103437500
