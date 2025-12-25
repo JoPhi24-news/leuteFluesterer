@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nicolas Maduro',de,unknown,#111111,#111111,3,0.485603069979
 'Bill Maher',de,unknown,#111111,#111111,2,0.483007168827
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.479924949183
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
@@ -8,10 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
 'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.473749483836
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472007077542
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.470870053472
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
+'Nicolas Maduro',de,unknown,#111111,#111111,3,0.467713764482
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.466892792658
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.466422447422
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.465345960706
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.462941479334
@@ -352,9 +352,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Derek Chauvin',de,USA,#18e8e8,#18e8e8,1,0.336063797151
 'Königin Camilla',de,UK,#e838e8,#e838e8,2,0.335849257621
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.335685844193
+'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.335133045264
 'Jerry Seinfeld',de,USA,#18e8e8,#18e8e8,1,0.335118759698
 'Mira Murati',de,Albanien,#ee742d,#ee742d,1,0.334870621721
-'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.334180410894
 'William Shakespeare',de,UK,#e838e8,#e838e8,2,0.334076163669
 'Oliver Anthony',de,USA,#18e8e8,#18e8e8,1,0.333988588800
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.333939483234
@@ -779,9 +779,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgia Meloni',de,Italien,#7722cc,#7722cc,3,0.228731555703
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.228350263869
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.228009370159
+'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.227971732290
 'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.227375045985
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.226962077491
-'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.226854171504
 'Suleika Jaouad',de,unknown,#111111,#111111,1,0.225488402466
 'Willie Nelson',de,unknown,#111111,#111111,1,0.225421861623
 'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.224810135912
