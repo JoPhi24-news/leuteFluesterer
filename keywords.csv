@@ -213,7 +213,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mukesh Ambani',de,Indien,#dd3344,#dd3344,1,0.366804351496
 'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.366742003985
 'Yves Bournazel',de,Frankreich,#e8e808,#e8e808,1,0.366686301568
-'Marguerite Cazeneuve',de,Frankreich,#e8e808,#e8e808,1,0.366468865001
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
 'Olivia Nuzzi',de,USA,#18e8e8,#18e8e8,1,0.366448972126
 'Yorgos Lanthimos',de,Griechenland,#448722,#448722,1,0.365898397103
@@ -502,6 +501,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aubrey Plaza',de,unknown,#111111,#111111,1,0.312123935117
 'Peyton Manning',de,unknown,#111111,#111111,1,0.311726979207
 'Kristen Wiig',de,unknown,#111111,#111111,1,0.311676237917
+'Marguerite Cazeneuve',de,Frankreich,#e8e808,#e8e808,1,0.311498535251
 'Olivier Marleix',de,Frankreich,#e8e808,#e8e808,2,0.311384365994
 'Ana Navarro',de,unknown,#111111,#111111,1,0.311314593005
 'Georg Gänswein',de,Deutschland,#11dd44,#11dd44,1,0.311276120085
