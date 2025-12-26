@@ -191,8 +191,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
 'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.376929558646
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.376714537676
+'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.376623793421
 'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,3,0.376033132020
-'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.374866063044
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,1,0.374321916751
@@ -241,6 +241,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles III',de,UK,#e838e8,#e838e8,3,0.359328181690
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.359324345117
 'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.358913037857
+'Maja Göpel',de,Deutschland,#11dd44,#11dd44,1,0.358644819504
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.358182989731
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.357772922372
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
@@ -267,7 +268,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.351248383725
 'Bettina Stark-Watzinger',de,Deutschland,#11dd44,#11dd44,3,0.350958211966
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.350928527139
-'Maja Göpel',de,Deutschland,#11dd44,#11dd44,1,0.350464405299
 'James Comer',de,USA,#18e8e8,#18e8e8,1,0.350148716784
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.350123191912
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.349836643678
