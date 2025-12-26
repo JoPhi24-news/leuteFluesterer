@@ -46,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.439691445831
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.438786138977
+'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.435058244841
@@ -95,7 +96,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
 'Ciryl Gane',de,unknown,#111111,#111111,1,0.425959758896
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
-'RFK Jr',de,USA,#18e8e8,#18e8e8,1,0.425642197098
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
@@ -241,9 +241,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles III',de,UK,#e838e8,#e838e8,3,0.359328181690
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.359324345117
 'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.358913037857
+'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.358182989731
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.357772922372
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
-'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.357271204561
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.357264740051
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,2,0.356948116998
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
