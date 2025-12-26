@@ -138,7 +138,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.403157311832
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
 'Castel Gandolfo',de,Vatikan,#58b8e8,#58b8e8,1,0.402665476128
-'Pietro Lombardi',de,Deutschland,#11dd44,#11dd44,3,0.402155585454
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.401833591320
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
@@ -316,6 +315,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.342297086745
 'David Weiss',de,Schweiz,#88cc44,#88cc44,2,0.342117073411
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.341918987154
+'Pietro Lombardi',de,Deutschland,#11dd44,#11dd44,2,0.341833027636
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,1,0.341700962002
 'Joachim Gauck',de,Deutschland,#11dd44,#11dd44,1,0.341559116541
 'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.341262165785
