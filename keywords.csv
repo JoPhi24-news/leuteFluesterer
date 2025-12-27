@@ -171,7 +171,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Sacharowa',de,Russland,#e81818,#e81818,3,0.384375669614
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,2,0.383764278711
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
-'François Bayrou',de,Frankreich,#e8e808,#e8e808,2,0.383300522205
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,2,0.382567375347
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
 'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.381958329911
@@ -409,6 +408,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leni Klum',de,USA,#18e8e8,#18e8e8,1,0.326176688483
 'Camille Cottin',de,Frankreich,#e8e808,#e8e808,1,0.326142521580
 'Al Nassr',de,unknown,#111111,#111111,2,0.326109950470
+'François Bayrou',de,Frankreich,#e8e808,#e8e808,2,0.326105473874
 'Jesse Watters',de,USA,#18e8e8,#18e8e8,1,0.326058094678
 'Lewis Kaplan',de,USA,#18e8e8,#18e8e8,2,0.325971685129
 'Bruno Le Maire',de,Frankreich,#e8e808,#e8e808,2,0.325904709939
