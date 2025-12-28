@@ -799,7 +799,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierre-Yves Dermagne',de,Belgien,#bb33ff,#bb33ff,1,0.221852656250
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.221828588284
-'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.221817497258
 'Sahra Wagenknecht',de,Deutschland,#11dd44,#11dd44,3,0.221299566266
 'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.220608391196
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.220549124512
@@ -854,6 +853,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roland Busch',de,Deutschland,#11dd44,#11dd44,1,0.190063660652
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.188683143650
 'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.188574757812
+'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.188544872669
 'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.188376387245
 'Paul Kagame',de,Ruanda,#33ddaa,#33ddaa,1,0.187897815073
 'Michael Kretschmer',de,Deutschland,#11dd44,#11dd44,3,0.187538004884
