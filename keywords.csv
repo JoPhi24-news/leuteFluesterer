@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
 'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.473749483836
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472007077542
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472698921580
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.470870053472
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.468295430004
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.468127888275
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.467713764482
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.466892792658
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.465345960706
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.462941479334
@@ -104,9 +104,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.422423498471
+'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.422052014201
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.421913269897
 'Sam Asghari',de,Iran,#11bb99,#11bb99,2,0.421339101920
-'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.421260284182
 'David Cameron',de,UK,#e838e8,#e838e8,1,0.421152386056
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.420677696765
@@ -859,6 +859,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Kretschmer',de,Deutschland,#11dd44,#11dd44,3,0.187538004884
 'Bruno Kahl',de,Deutschland,#11dd44,#11dd44,1,0.187458681009
 'Fumio Kishida',de,Japan,#aa9933,#aa9933,3,0.187035135023
+'Benjamin Netanyahu',de,Israel,#8822dd,#8822dd,2,0.185442199232
 'Dalai Lama',de,Tibet,#ddaa33,#ddaa33,1,0.183742741883
 'Napoleon Bonaparte',de,Frankreich,#e8e808,#e8e808,2,0.183532816274
 'Steffi Lemke',de,Deutschland,#11dd44,#11dd44,3,0.182995565350
@@ -889,9 +890,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Pence',de,USA,#18e8e8,#18e8e8,1,0.157813015643
 'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.155713656138
 'Andrea Lindholz',de,Deutschland,#11dd44,#11dd44,2,0.155234411900
+'Anthony Albanese',de,Australien,#99aa33,#99aa33,2,0.154961120025
 'Horst Seehofer',de,Deutschland,#11dd44,#11dd44,1,0.154154229566
 'Erik Marquardt',de,EU,#bbff33,#bbff33,1,0.153794623858
-'Anthony Albanese',de,Australien,#99aa33,#99aa33,2,0.153761281306
 'Macky Sall',de,Senegal,#aa33dd,#aa33dd,1,0.151788206312
 'Martin Sonneborn',de,Deutschland,#11dd44,#11dd44,1,0.151785724284
 'Mojib Latif',de,Deutschland,#11dd44,#11dd44,2,0.151168271046
@@ -902,7 +903,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patriarch Kyrill',de,Ukraine,#e818e8,#e818e8,2,0.147265368122
 'Alfred Bernhard Nobel',de,Schweden,#77dd11,#77dd11,1,0.147144883521
 'Ebrahim Raisi',de,Iran,#11bb99,#11bb99,2,0.145990296084
-'Benjamin Netanyahu',de,Israel,#8822dd,#8822dd,1,0.145705295929
 'Yoon Suk-yeol',de,SüdKorea,#22bb66,#22bb66,3,0.145481018944
 'Kardinal Woelki',de,Deutschland,#11dd44,#11dd44,2,0.145274899609
 'Mary Lou McDonald',de,Irland,#33bbff,#33bbff,2,0.144444660028
