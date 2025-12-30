@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dan Hooker',de,unknown,#111111,#111111,2,0.507511626534
 'Thomas Müller',de,unknown,#111111,#111111,3,0.507311539550
 'Paddy Pimblett',de,unknown,#111111,#111111,2,0.506745377336
 'Andrew Windsor',de,unknown,#111111,#111111,2,0.501620946404
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'prince Andrew',de,unknown,#111111,#111111,1,0.431693151211
 'Affaire Epstein',de,unknown,#111111,#111111,1,0.431606989149
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.431537322053
+'Dan Hooker',de,unknown,#111111,#111111,1,0.431384882554
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.431154766609
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
