@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Thomas Müller',de,unknown,#111111,#111111,3,0.537532610701
 'Shavkat Rakhmonov',de,unknown,#111111,#111111,2,0.509195753389
 'Ian Machado Garry',de,unknown,#111111,#111111,2,0.508640408016
 'Dan Hooker',de,unknown,#111111,#111111,2,0.507511626534
+'Thomas Müller',de,unknown,#111111,#111111,3,0.507311539550
 'Paddy Pimblett',de,unknown,#111111,#111111,2,0.506745377336
 'Andrew Windsor',de,unknown,#111111,#111111,2,0.501620946404
 'Justin Gaethje',de,unknown,#111111,#111111,2,0.501128520514
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
 'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.473749483836
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472698921580
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.473389388389
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.470870053472
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.468295430004
@@ -54,10 +54,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
+'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.435089282009
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.435058244841
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.434452427761
-'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.433555193739
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.433451153603
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
 'Francis Ngannou',de,unknown,#111111,#111111,1,0.432808880955
