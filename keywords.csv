@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Paddy Pimblett',de,unknown,#111111,#111111,2,0.506745377336
 'Andrew Windsor',de,unknown,#111111,#111111,2,0.501620946404
 'Justin Gaethje',de,unknown,#111111,#111111,2,0.501128520514
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.479924949183
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.431154766609
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
+'Paddy Pimblett',de,unknown,#111111,#111111,1,0.430733600736
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.430654452729
 'JULIEN MUGUET',de,Frankreich,#e8e808,#e8e808,1,0.430594199863
 'Ilia Topuria',de,unknown,#111111,#111111,1,0.430549846213
