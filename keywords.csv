@@ -165,9 +165,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.392074267859
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,1,0.391940467051
+'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.391447384076
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.390278367301
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
-'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.388891548288
 'John Clarke',de,USA,#18e8e8,#18e8e8,1,0.388547585312
 'John Martinis',de,USA,#18e8e8,#18e8e8,2,0.387703351870
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.387634114114
@@ -833,9 +833,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alice Schwarzer',de,Deutschland,#11dd44,#11dd44,2,0.209605642588
 'Ola Källenius',de,Deutschland,#11dd44,#11dd44,2,0.207968429447
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.207697236966
+'Bernard Arnault',de,Frankreich,#e8e808,#e8e808,2,0.207385150605
 'Cillian Murphy',de,Irland,#33bbff,#33bbff,3,0.207266170663
 'Andrzej Duda',de,Polen,#8844cc,#8844cc,3,0.207231072552
-'Bernard Arnault',de,Frankreich,#e8e808,#e8e808,2,0.206923530123
 'Julian Assange',de,Australien,#99aa33,#99aa33,3,0.206780390813
 'Jan Lipavský',de,Tschechien,#cc8844,#cc8844,1,0.205191517846
 'Jerome Powell',de,USA,#18e8e8,#18e8e8,3,0.205118435031
