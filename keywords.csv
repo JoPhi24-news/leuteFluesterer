@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Justin Gaethje',de,unknown,#111111,#111111,2,0.501128520514
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.498172569868
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.479924949183
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.426465001422
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
 'Ciryl Gane',de,unknown,#111111,#111111,1,0.425959758896
+'Justin Gaethje',de,unknown,#111111,#111111,1,0.425959272437
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.425850281327
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
