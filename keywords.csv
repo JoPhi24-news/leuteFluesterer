@@ -268,7 +268,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Britney Spears',de,USA,#18e8e8,#18e8e8,2,0.352404207175
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,2,0.352202732393
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.351776702862
-'Mareike Fallwickl',de,Österreich,#6622bb,#6622bb,1,0.351669284797
 'David Koch',de,USA,#18e8e8,#18e8e8,2,0.351497980293
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.351248383725
 'Bettina Stark-Watzinger',de,Deutschland,#11dd44,#11dd44,3,0.350958211966
@@ -593,6 +592,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.299653784785
 'Andrea Arnold',de,unknown,#111111,#111111,1,0.299422015919
 'Patrick Graichen',de,Deutschland,#11dd44,#11dd44,3,0.299151866067
+'Mareike Fallwickl',de,Österreich,#6622bb,#6622bb,1,0.299068907077
 'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.299048179469
 'Pedro Pascal',de,unknown,#111111,#111111,2,0.298888356829
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.298866396965
