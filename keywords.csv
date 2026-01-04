@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.490454449039
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.526472726229
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.479924949183
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.477177674409
@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.466754739566
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.460641535985
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.461355962983
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.460004319290
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.458339181374
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.456570527818
@@ -25,8 +25,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.454056456263
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.452435057101
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.451702937439
 'Helene Fischer',de,unknown,#111111,#111111,3,0.450818693546
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.450304416691
@@ -109,8 +109,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.423212973330
+'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.422601721703
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.422052014201
-'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.421811059233
 'Sam Asghari',de,Iran,#11bb99,#11bb99,2,0.421339101920
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.420677696765
@@ -162,10 +162,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.394082686248
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
 'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.392355514230
+'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.392296124888
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.392242329549
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,1,0.391940467051
-'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.391447384076
 'Jean Castex',de,Frankreich,#e8e808,#e8e808,1,0.390296487248
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.390278367301
 'David Cameron',de,UK,#e838e8,#e838e8,2,0.390203230420
@@ -203,8 +203,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,1,0.374321916751
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
+'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.371907800520
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.371160838309
-'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.371021039501
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.370819767256
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
@@ -353,10 +353,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.336377568567
 'Cem Özdemir',de,Deutschland,#11dd44,#11dd44,3,0.336292977809
 'Alberto Núñez Feijóo',de,Spanien,#1144aa,#1144aa,2,0.336144572063
+'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.336084025703
 'Derek Chauvin',de,USA,#18e8e8,#18e8e8,1,0.336063797151
 'Königin Camilla',de,UK,#e838e8,#e838e8,2,0.335849257621
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.335685844193
-'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.335133045264
 'Jerry Seinfeld',de,USA,#18e8e8,#18e8e8,1,0.335118759698
 'Mira Murati',de,Albanien,#ee742d,#ee742d,1,0.334870621721
 'Oliver Anthony',de,USA,#18e8e8,#18e8e8,1,0.333988588800
