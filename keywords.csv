@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Steve Bannon',de,unknown,#111111,#111111,2,0.508803112391
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.479924949183
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.477177674409
@@ -111,7 +112,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.423212973330
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.422601721703
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.422052014201
-'Sam Asghari',de,Iran,#11bb99,#11bb99,2,0.421339101920
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.420677696765
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
@@ -249,6 +249,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.359324345117
 'Maja Göpel',de,Deutschland,#11dd44,#11dd44,1,0.358644819504
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.358182989731
+'Sam Asghari',de,Iran,#11bb99,#11bb99,1,0.358138251632
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.357772922372
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.357264740051
