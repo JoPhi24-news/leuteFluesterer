@@ -96,7 +96,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,2,0.426889133481
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.426602909016
-'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.426465001422
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
 'Ciryl Gane',de,unknown,#111111,#111111,1,0.425959758896
 'Justin Gaethje',de,unknown,#111111,#111111,1,0.425959272437
@@ -232,6 +231,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.362944774228
 'Omar M. Yaghi',de,USA,#18e8e8,#18e8e8,1,0.362600249750
 'Gervonta Davis',de,USA,#18e8e8,#18e8e8,1,0.362562268201
+'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.362495251209
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,1,0.362291560714
 'König Felipe VI',de,Spanien,#1144aa,#1144aa,1,0.362154228557
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.362090291989
