@@ -679,7 +679,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Jung',de,Deutschland,#11dd44,#11dd44,3,0.272394635672
 'Johan Rockström',de,unknown,#111111,#111111,1,0.271395259460
 'Frank Plasberg',de,Deutschland,#11dd44,#11dd44,2,0.271311355898
-'Christian Kroll',de,Deutschland,#11dd44,#11dd44,1,0.271216590942
 'Narendra Modi',de,Indien,#dd3344,#dd3344,3,0.270765863123
 'Silvio Berlusconi',de,Italien,#7722cc,#7722cc,2,0.270648602368
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.270468949533
@@ -721,6 +720,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dawn Staley',de,unknown,#111111,#111111,1,0.262641675079
 'Joy Behar',de,unknown,#111111,#111111,1,0.261383521049
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.261372791549
+'Christian Kroll',de,Deutschland,#11dd44,#11dd44,1,0.261284177301
 'Margaret Thatcher',de,UK,#e838e8,#e838e8,1,0.261165356406
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.261003125000
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.261003125000
