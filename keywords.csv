@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.470870053472
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.470515461383
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.469692495714
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.469682240721
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.468994658080
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.468260773111
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.467713764482
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.466754739566
@@ -105,8 +105,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
+'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.424000916448
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
-'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.423212973330
 'Steve Bannon',de,unknown,#111111,#111111,2,0.422998858147
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.422601721703
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.422052014201
@@ -812,7 +812,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.220549124512
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.220136488479
 'Eva Kaili',de,EU,#bbff33,#bbff33,3,0.219786134194
-'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.218955340822
 'Boris Pistorius',de,Deutschland,#11dd44,#11dd44,3,0.218935011448
 'Michael Cohen',de,USA,#18e8e8,#18e8e8,3,0.218792872905
 'Recep Tayyip Erdoğan',de,Türkei,#4411ee,#4411ee,2,0.218526958784
@@ -822,6 +821,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alice Weidel',de,Deutschland,#11dd44,#11dd44,2,0.215523742528
 'Winfried Kretschmann',de,Deutschland,#11dd44,#11dd44,3,0.215520805967
 'Lothar Wieler',de,Deutschland,#11dd44,#11dd44,1,0.214475643039
+'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.213792117426
 'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.213101432961
 'Katalin Novák',de,Ungarn,#33aa99,#33aa99,1,0.212432244683
 'Thomas Haldenwang',de,Deutschland,#11dd44,#11dd44,2,0.212210223330
