@@ -512,7 +512,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ana Navarro',de,unknown,#111111,#111111,1,0.311314593005
 'Georg Gänswein',de,Deutschland,#11dd44,#11dd44,1,0.311276120085
 'Mathias Döpfner',de,Deutschland,#11dd44,#11dd44,1,0.311181455532
-'Steve Doocy',de,unknown,#111111,#111111,1,0.311112812756
 'Sarah Stier',de,unknown,#111111,#111111,1,0.310866891675
 'Robert Downey Jr',de,unknown,#111111,#111111,2,0.310696285144
 'Steffen Kotre',de,unknown,#111111,#111111,1,0.310593718750
@@ -705,6 +704,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Alwyn',de,unknown,#111111,#111111,1,0.264591171558
 'Julian Edelman',de,unknown,#111111,#111111,1,0.264504714131
 'Ulf Poschardt',de,Deutschland,#11dd44,#11dd44,1,0.264452346876
+'Steve Doocy',de,unknown,#111111,#111111,1,0.264445890843
 'Matt Lauer',de,unknown,#111111,#111111,1,0.264323486282
 'Robert de Niro',de,USA,#18e8e8,#18e8e8,2,0.264175381582
 'Leonard Bernstein',de,unknown,#111111,#111111,1,0.264116365396
