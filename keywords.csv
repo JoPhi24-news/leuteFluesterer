@@ -288,7 +288,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.348202496034
 'Sergio Mattarella',de,Italien,#7722cc,#7722cc,1,0.348064632851
 'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.347385510586
-'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.347207185475
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.347034579365
 'Hendrik Wüst',de,Deutschland,#11dd44,#11dd44,3,0.346774976595
@@ -610,6 +609,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles',de,UK,#e838e8,#e838e8,3,0.295966202416
 'Matt Winkelmeyer',de,unknown,#111111,#111111,1,0.295580984723
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.295276485558
+'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.295276122654
 'Kim Reynolds',de,unknown,#111111,#111111,1,0.295098519440
 'Holger Friedrich',de,Deutschland,#11dd44,#11dd44,2,0.294764753538
 'George Santos',de,USA,#18e8e8,#18e8e8,1,0.294688031739
