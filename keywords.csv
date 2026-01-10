@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Karoline Leavitt',de,unknown,#111111,#111111,3,0.481070904987
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.480660891130
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.477948983053
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.477177674409
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.476603525842
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.476190326523
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
 'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
-'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.470870053472
+'Karoline Leavitt',de,unknown,#111111,#111111,3,0.472954088330
+'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.470515461383
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.469692495714
@@ -24,8 +24,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry David',de,unknown,#111111,#111111,2,0.454678412895
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.453894959318
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,2,0.453122468809
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.452435057101
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Helene Fischer',de,unknown,#111111,#111111,3,0.450818693546
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
@@ -45,9 +45,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.439691445831
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.438786138977
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.436966201721
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.436203589340
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.435854076009
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.435058244841
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
