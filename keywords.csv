@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Karoline Leavitt',de,unknown,#111111,#111111,2,0.479924949183
+'Karoline Leavitt',de,unknown,#111111,#111111,3,0.481070904987
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.477948983053
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.477177674409
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.476603525842
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.476190326523
@@ -11,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.470515461383
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.469692495714
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.469682240721
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.468260773111
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.467713764482
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.466754739566
@@ -792,8 +792,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Björn Höcke',de,Deutschland,#11dd44,#11dd44,2,0.226423442066
 'Suleika Jaouad',de,unknown,#111111,#111111,1,0.225488402466
 'Willie Nelson',de,unknown,#111111,#111111,1,0.225421861623
+'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.224982473689
 'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.224810135912
-'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.223861014557
 'Wolfgang Schäuble',de,Deutschland,#11dd44,#11dd44,2,0.223148145736
 'Jean-Denis Combrexelle',de,unknown,#111111,#111111,1,0.222772504283
 'Dieter Salomon',de,Deutschland,#11dd44,#11dd44,1,0.222764701048
