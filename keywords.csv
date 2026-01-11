@@ -369,7 +369,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.333150975781
 'Lily Gladstone',de,USA,#18e8e8,#18e8e8,1,0.333121756003
 'Bridget Moynahan',de,USA,#18e8e8,#18e8e8,1,0.332967033182
-'président de la République',de,Frankreich,#e8e808,#e8e808,1,0.332486476445
 'Cristiano Ronaldo',de,Portugal,#66bb22,#66bb22,3,0.332262484128
 'Eric Trump',de,USA,#18e8e8,#18e8e8,2,0.332165636979
 'Kate Hudson',de,USA,#18e8e8,#18e8e8,1,0.332116349309
@@ -650,6 +649,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',de,Deutschland,#11dd44,#11dd44,3,0.283435151358
 'Maria Bartiromo',de,unknown,#111111,#111111,1,0.283055669839
 'Michelle Williams',de,unknown,#111111,#111111,1,0.282733422476
+'président de la République',de,Frankreich,#e8e808,#e8e808,1,0.282613504978
 'Nicolas Sarkozy',de,unknown,#111111,#111111,2,0.282029362185
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.281926723588
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.281667364363
