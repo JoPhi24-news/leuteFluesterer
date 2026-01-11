@@ -944,6 +944,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.111888838708
 'Miguel Díaz-Canel',de,Kuba,#cc4488,#cc4488,1,0.107136147776
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.106146893879
+'Julia Koch',de,USA,#18e8e8,#18e8e8,2,0.105171666447
 'Nicola Beer',de,EU,#bbff33,#bbff33,1,0.104797676214
 'Ali Chamenei',de,Iran,#11bb99,#11bb99,2,0.101326752900
 'Paul Gosar',de,USA,#18e8e8,#18e8e8,1,0.100405946214
@@ -956,4 +957,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.092242756998
 'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.092038784029
 'Carl Friedrich Gauß',de,Deutschland,#11dd44,#11dd44,1,0.091310268622
-'Julia Koch',de,USA,#18e8e8,#18e8e8,2,0.091142819350
