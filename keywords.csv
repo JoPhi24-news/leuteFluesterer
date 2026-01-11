@@ -809,7 +809,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.221828588284
 'Sahra Wagenknecht',de,Deutschland,#11dd44,#11dd44,3,0.221299566266
 'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.220608391196
-'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.220549124512
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.220136488479
 'Eva Kaili',de,EU,#bbff33,#bbff33,3,0.219786134194
 'Boris Pistorius',de,Deutschland,#11dd44,#11dd44,3,0.218935011448
@@ -866,6 +865,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.188376387245
 'Paul Kagame',de,Ruanda,#33ddaa,#33ddaa,1,0.187897815073
 'Michael Kretschmer',de,Deutschland,#11dd44,#11dd44,3,0.187538004884
+'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,1,0.187466950835
 'Bruno Kahl',de,Deutschland,#11dd44,#11dd44,1,0.187458681009
 'Fumio Kishida',de,Japan,#aa9933,#aa9933,3,0.187035135023
 'Benjamin Netanyahu',de,Israel,#8822dd,#8822dd,2,0.185442199232
