@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Woody Allen',de,unknown,#111111,#111111,3,0.560335333187
 'Ro Khanna',de,unknown,#111111,#111111,2,0.509902659006
 'Ben Shapiro',de,unknown,#111111,#111111,2,0.509531637484
 'Rob Reiner',de,unknown,#111111,#111111,2,0.509307543761
+'Woody Allen',de,unknown,#111111,#111111,3,0.509032072055
 'Jen Psaki',de,unknown,#111111,#111111,2,0.508096640131
 'Brigitte Bardot',de,unknown,#111111,#111111,2,0.503934151772
 'Pam Bondi',de,unknown,#111111,#111111,2,0.500978325507
@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.476603525842
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.476190326523
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.476035388318
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.475350201606
 'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.472954088330
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
@@ -203,8 +203,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.377857079757
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.377500221528
+'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.377194167836
 'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.376929558646
-'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.376317172295
 'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,3,0.376033132020
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
@@ -280,12 +280,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.351248383725
 'Bettina Stark-Watzinger',de,Deutschland,#11dd44,#11dd44,3,0.350958211966
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.350928527139
+'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.350391019104
 'James Comer',de,USA,#18e8e8,#18e8e8,1,0.350148716784
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.350123191912
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.349836643678
 'Roger Federer',de,Schweiz,#88cc44,#88cc44,2,0.349568761947
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
-'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.349465252294
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.349300914052
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.348902373500
 'Jane Fonda',de,USA,#18e8e8,#18e8e8,2,0.348890543618
