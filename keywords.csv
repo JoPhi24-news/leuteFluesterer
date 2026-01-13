@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ben Shapiro',de,unknown,#111111,#111111,2,0.509531637484
 'Rob Reiner',de,unknown,#111111,#111111,2,0.509307543761
 'Woody Allen',de,unknown,#111111,#111111,3,0.509032072055
 'Jen Psaki',de,unknown,#111111,#111111,2,0.508096640131
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.433467697029
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.433451153603
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
+'Ben Shapiro',de,unknown,#111111,#111111,1,0.433102086861
 'Shavkat Rakhmonov',de,unknown,#111111,#111111,1,0.432816390381
 'Francis Ngannou',de,unknown,#111111,#111111,1,0.432808880955
 'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
