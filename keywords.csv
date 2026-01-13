@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Rob Reiner',de,unknown,#111111,#111111,3,0.560592929924
+'Rob Reiner',de,unknown,#111111,#111111,3,0.622367326344
 'Woody Allen',de,unknown,#111111,#111111,3,0.509032072055
 'Jen Psaki',de,unknown,#111111,#111111,2,0.508096640131
 'Brigitte Bardot',de,unknown,#111111,#111111,2,0.503934151772
 'Pam Bondi',de,unknown,#111111,#111111,2,0.500978325507
 'Nicolás Maduro',de,unknown,#111111,#111111,2,0.500704606439
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485354927235
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.486684069000
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.477177674409
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.476603525842
@@ -335,11 +335,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Roberts',de,USA,#18e8e8,#18e8e8,2,0.340994510489
 'Dana White',de,USA,#18e8e8,#18e8e8,1,0.340566310291
 'Steve Jobs',de,USA,#18e8e8,#18e8e8,3,0.340345782115
+'Demi Moore',de,USA,#18e8e8,#18e8e8,1,0.340168987843
 'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.340047785382
 'Abraham Lincoln',de,USA,#18e8e8,#18e8e8,2,0.340009124124
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.339975267476
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
-'Demi Moore',de,USA,#18e8e8,#18e8e8,1,0.339225143723
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.339037797718
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
 'Charles Barkley',de,USA,#18e8e8,#18e8e8,1,0.338271583625
@@ -773,10 +773,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mateusz Morawiecki',de,Polen,#8844cc,#8844cc,2,0.241238631256
 'Fabien Roussel',de,unknown,#111111,#111111,1,0.240729742413
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.240451797857
+'Billy Crystal',de,unknown,#111111,#111111,1,0.239730547324
 'Gregor Gysi',de,Deutschland,#11dd44,#11dd44,2,0.239215475841
 'Pap Ndiaye',de,unknown,#111111,#111111,1,0.238890465044
 'Zach Bryan',de,unknown,#111111,#111111,1,0.238857212211
-'Billy Crystal',de,unknown,#111111,#111111,1,0.238628730504
 'Nancy Faeser',de,Deutschland,#11dd44,#11dd44,3,0.238342388363
 'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,1,0.237904387588
 'Stephan Harbarth',de,Deutschland,#11dd44,#11dd44,1,0.234611867592
