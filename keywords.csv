@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jen Psaki',de,unknown,#111111,#111111,2,0.508096640131
 'Brigitte Bardot',de,unknown,#111111,#111111,2,0.503934151772
 'Pam Bondi',de,unknown,#111111,#111111,2,0.500978325507
 'Nicolás Maduro',de,unknown,#111111,#111111,2,0.500704606439
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.432309059587
 'Bruna Caroline Ferreira',de,unknown,#111111,#111111,2,0.432271642205
 'Kamaru Usman',de,unknown,#111111,#111111,1,0.432133687336
+'Jen Psaki',de,unknown,#111111,#111111,1,0.431882144111
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.431803471136
 'prince Andrew',de,unknown,#111111,#111111,1,0.431693151211
 'Affaire Epstein',de,unknown,#111111,#111111,1,0.431606989149
