@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Rob Reiner',de,unknown,#111111,#111111,3,0.622367326344
+'Rob Reiner',de,unknown,#111111,#111111,3,0.552148290574
 'Woody Allen',de,unknown,#111111,#111111,3,0.509032072055
 'Jen Psaki',de,unknown,#111111,#111111,2,0.508096640131
 'Brigitte Bardot',de,unknown,#111111,#111111,2,0.503934151772
@@ -165,8 +165,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.394082686248
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
+'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.393143265977
 'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.392355514230
-'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.392296124888
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.392242329549
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,1,0.391940467051
