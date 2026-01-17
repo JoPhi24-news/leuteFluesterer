@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pam Bondi',de,unknown,#111111,#111111,3,0.526622028868
 'Nicolás Maduro',de,unknown,#111111,#111111,2,0.515589641726
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.495195177956
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.496485054831
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.484819502084
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.477177674409
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.476190326523
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
+'Pam Bondi',de,unknown,#111111,#111111,3,0.475309432265
 'Rob Reiner',de,unknown,#111111,#111111,3,0.474280291988
 'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.472954088330
@@ -55,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.435218467908
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.435058244841
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
-'Ro Khanna',de,unknown,#111111,#111111,2,0.433567770155
+'Ro Khanna',de,unknown,#111111,#111111,2,0.434335540475
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.433467697029
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.433451153603
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
