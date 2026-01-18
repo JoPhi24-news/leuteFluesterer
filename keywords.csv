@@ -70,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jen Psaki',de,unknown,#111111,#111111,1,0.431882144111
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.431803471136
 'prince Andrew',de,unknown,#111111,#111111,1,0.431693151211
-'Affaire Epstein',de,unknown,#111111,#111111,1,0.431606989149
 'Dan Hooker',de,unknown,#111111,#111111,1,0.431384882554
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
@@ -223,6 +222,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.367325317750
 'Gigi Hadid',de,USA,#18e8e8,#18e8e8,1,0.366998126098
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.366872657888
+'Affaire Epstein',de,unknown,#111111,#111111,1,0.366865940777
 'Mukesh Ambani',de,Indien,#dd3344,#dd3344,1,0.366804351496
 'Yves Bournazel',de,Frankreich,#e8e808,#e8e808,1,0.366686301568
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
