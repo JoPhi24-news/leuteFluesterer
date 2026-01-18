@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.511078487444
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.489472284327
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.486150779134
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.477177674409
@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
 'Pam Bondi',de,unknown,#111111,#111111,3,0.475309432265
+'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474671924823
 'Rob Reiner',de,unknown,#111111,#111111,3,0.474280291988
 'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
-'Nicolás Maduro',de,unknown,#111111,#111111,3,0.473984016874
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.473850460863
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.472954088330
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.456234545857
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.454622746605
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.455349094509
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,2,0.453122468809
@@ -846,8 +846,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cillian Murphy',de,Irland,#33bbff,#33bbff,3,0.207266170663
 'Andrzej Duda',de,Polen,#8844cc,#8844cc,3,0.207231072552
 'Julian Assange',de,Australien,#99aa33,#99aa33,3,0.206780390813
+'Jerome Powell',de,USA,#18e8e8,#18e8e8,3,0.206263318625
 'Jan Lipavský',de,Tschechien,#cc8844,#cc8844,1,0.205191517846
-'Jerome Powell',de,USA,#18e8e8,#18e8e8,3,0.205118435031
 'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.205078210417
 'Roberta Metsola',de,EU,#bbff33,#bbff33,2,0.204886523584
 'Luisa Neubauer',de,Deutschland,#11dd44,#11dd44,2,0.203934823964
