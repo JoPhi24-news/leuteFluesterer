@@ -809,7 +809,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',de,Schweiz,#88cc44,#88cc44,1,0.222323499564
 'Xi Jinping',de,China,#e88818,#e88818,3,0.222304410492
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
-'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.222166872817
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
 'Pierre-Yves Dermagne',de,Belgien,#bb33ff,#bb33ff,1,0.221852656250
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
@@ -867,6 +866,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Franziska Giffey',de,Deutschland,#11dd44,#11dd44,3,0.191623270771
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.190977981613
 'Roland Busch',de,Deutschland,#11dd44,#11dd44,1,0.190063660652
+'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.188841841894
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.188683143650
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,1,0.188632288693
 'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.188574757812
