@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Epstein Files',de,unknown,#111111,#111111,2,0.508719435580
+'Epstein Files',de,unknown,#111111,#111111,3,0.514635762516
 'Margaret Brennan',de,unknown,#111111,#111111,2,0.508548741232
 'Candace Owens',de,unknown,#111111,#111111,2,0.508276136396
 'Harry Met Sally',de,unknown,#111111,#111111,2,0.507144755825
@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer Reiner',de,unknown,#111111,#111111,2,0.502646501836
 'Bari Weiss',de,unknown,#111111,#111111,2,0.501624504130
 'Alan Jackson',de,unknown,#111111,#111111,2,0.501264544910
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.489472284327
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.486150779134
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.494043920794
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.491422995628
 'Rob Reiner',de,unknown,#111111,#111111,3,0.481765905672
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.477177674409
@@ -179,8 +179,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.395812727176
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.395567482620
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.395454920026
+'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.394926455128
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
-'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.394082686248
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.393143265977
 'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.392355514230
@@ -212,11 +212,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.381262907616
 'Novak Djokovic',de,Serbien,#4488cc,#4488cc,3,0.381103800458
 'Greta Gerwig',de,USA,#18e8e8,#18e8e8,2,0.380979675716
+'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.380685926547
 'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.380639064741
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.380302120527
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.380051399167
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.379479610821
-'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.378943289445
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.378465434926
 'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.377857079757
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
@@ -416,13 +416,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christiane Schenderlein',de,Deutschland,#11dd44,#11dd44,2,0.329039506920
 'António Guterres',de,Portugal,#66bb22,#66bb22,3,0.328832449824
 'Maybrit Illner',de,Deutschland,#11dd44,#11dd44,3,0.328793380836
+'Ivanka Trump',de,USA,#18e8e8,#18e8e8,2,0.328727139260
 'Roberto Saviano',de,Italien,#7722cc,#7722cc,1,0.328523881987
 'Gérard Larcher',de,Frankreich,#e8e808,#e8e808,1,0.328336642503
 'America Ferrera',de,USA,#18e8e8,#18e8e8,1,0.328313279082
 'Andrew Tate',de,USA,#18e8e8,#18e8e8,1,0.328145935082
 'Laura Ingraham',de,USA,#18e8e8,#18e8e8,2,0.328084577896
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,2,0.327901257941
-'Ivanka Trump',de,USA,#18e8e8,#18e8e8,2,0.327763438251
 'Edouard Philippe',de,Frankreich,#e8e808,#e8e808,2,0.327724688502
 'Rachida Dati',de,Frankreich,#e8e808,#e8e808,1,0.327665175029
 'Irina Scherbakowa',de,Russland,#e81818,#e81818,1,0.327605875664
