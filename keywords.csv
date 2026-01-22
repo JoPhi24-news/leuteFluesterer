@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joe Rogan',de,unknown,#111111,#111111,2,0.507104707535
 'Thomas Massie',de,unknown,#111111,#111111,2,0.506557545207
 'Scott Jennings',de,unknown,#111111,#111111,2,0.505315803493
 'Mark Kelly',de,unknown,#111111,#111111,2,0.504488701746
@@ -90,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dan Hooker',de,unknown,#111111,#111111,1,0.431384882554
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
 'Harry Met Sally',de,unknown,#111111,#111111,1,0.431073117451
+'Joe Rogan',de,unknown,#111111,#111111,1,0.431039211405
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
 'Paddy Pimblett',de,unknown,#111111,#111111,1,0.430733600736
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.430654452729
