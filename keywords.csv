@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Thomas Massie',de,unknown,#111111,#111111,2,0.506557545207
 'Scott Jennings',de,unknown,#111111,#111111,2,0.505315803493
 'Mark Kelly',de,unknown,#111111,#111111,2,0.504488701746
 'Michele Reiner',de,unknown,#111111,#111111,2,0.504157798754
@@ -9,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer Reiner',de,unknown,#111111,#111111,2,0.502646501836
 'Bari Weiss',de,unknown,#111111,#111111,2,0.501624504130
 'Alan Jackson',de,unknown,#111111,#111111,2,0.501264544910
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.499190889098
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.497895783020
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.499828489279
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.499174879510
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.481765905672
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.479484622389
@@ -19,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.476603525842
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.476190326523
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
+'Pam Bondi',de,unknown,#111111,#111111,3,0.475994700196
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
-'Pam Bondi',de,unknown,#111111,#111111,3,0.475309432265
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474671924823
 'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.473850460863
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.468260773111
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.466754739566
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
+'Thomas Massie',de,unknown,#111111,#111111,2,0.462295656997
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
 'Brigitte Bardot',de,unknown,#111111,#111111,3,0.460835633477
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.456570527818
@@ -282,9 +282,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.356470107316
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
+'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.355325435243
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.354598354446
-'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.354408502933
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.353974901044
 'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.353789007514
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
