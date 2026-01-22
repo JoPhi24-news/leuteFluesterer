@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Candace Owens',de,unknown,#111111,#111111,2,0.508276136396
 'Harry Met Sally',de,unknown,#111111,#111111,2,0.507144755825
 'Joe Rogan',de,unknown,#111111,#111111,2,0.507104707535
 'Thomas Massie',de,unknown,#111111,#111111,2,0.506557545207
@@ -12,11 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer Reiner',de,unknown,#111111,#111111,2,0.502646501836
 'Bari Weiss',de,unknown,#111111,#111111,2,0.501624504130
 'Alan Jackson',de,unknown,#111111,#111111,2,0.501264544910
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.497911856774
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.499190889098
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.497895783020
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.481765905672
-'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
+'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.479484622389
+'Candace Owens',de,unknown,#111111,#111111,2,0.478042173794
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.477859219680
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.476603525842
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.476190326523
@@ -28,8 +28,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.473850460863
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.472954088330
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
+'Nicolas Maduro',de,unknown,#111111,#111111,3,0.471201786826
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
-'Nicolas Maduro',de,unknown,#111111,#111111,3,0.470506957456
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.468260773111
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.466754739566
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
@@ -69,9 +69,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.435854076009
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.435218467908
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.435058244841
+'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.435002127182
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
 'Ro Khanna',de,unknown,#111111,#111111,2,0.434335540475
-'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.434235663004
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.433451153603
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
 'Ben Shapiro',de,unknown,#111111,#111111,1,0.433102086861
@@ -323,13 +323,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.346450903996
 'Mohammed Bin Salman',de,SaudiArabien,#2266bb,#2266bb,2,0.346424112751
 'Kemal Kılıçdaroğlu',de,Türkei,#4411ee,#4411ee,2,0.346400852550
+'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.346266797463
 'Omar Sy',de,Frankreich,#e8e808,#e8e808,1,0.346119661797
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.345980942742
 'Angelina Jolie',de,USA,#18e8e8,#18e8e8,3,0.345852097145
 'Peregrine Pearson',de,UK,#e838e8,#e838e8,2,0.345535958885
 'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.345384530915
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.345355873396
-'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.345333700073
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.345030443520
 'Chris Luxon',de,Neuseeland,#1818e8,#1818e8,1,0.344952975317
 'Reed Richards',de,USA,#18e8e8,#18e8e8,2,0.344612986480
