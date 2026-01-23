@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Scott Jennings',de,unknown,#111111,#111111,2,0.505315803493
 'Mark Kelly',de,unknown,#111111,#111111,2,0.504488701746
 'Michele Reiner',de,unknown,#111111,#111111,2,0.504157798754
 'Sohn Nick',de,unknown,#111111,#111111,2,0.504022964746
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II ',de,Frankreich,#e8e808,#e8e808,1,0.429980404145
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.429749172444
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.429715519944
+'Scott Jennings',de,unknown,#111111,#111111,1,0.429518432969
 'reine Mathilde',de,unknown,#111111,#111111,1,0.429258671995
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.428890218339
