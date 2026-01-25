@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.527591717866
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.508081869732
 'Alan Jackson',de,unknown,#111111,#111111,2,0.501898001938
 'Bari Weiss',de,unknown,#111111,#111111,2,0.501624504130
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.499174879510
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Michele Reiner',de,unknown,#111111,#111111,2,0.481571690715
-'Nicolás Maduro',de,unknown,#111111,#111111,3,0.480126075047
+'Nicolás Maduro',de,unknown,#111111,#111111,3,0.481476061912
 'Mark Kelly',de,unknown,#111111,#111111,2,0.479715981484
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.479484622389
 'Candace Owens',de,unknown,#111111,#111111,2,0.478042173794
@@ -231,8 +231,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.370819767256
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.369420901590
+'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.369376545901
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
-'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.368485133238
 'Melanie Guttmann',de,Deutschland,#11dd44,#11dd44,1,0.368475000000
 'Paul Konerko',de,USA,#18e8e8,#18e8e8,1,0.368176078984
 'Mark Cuban',de,USA,#18e8e8,#18e8e8,1,0.368032560177
@@ -291,9 +291,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.353364530276
 'James Cleverly',de,UK,#e838e8,#e838e8,3,0.353336520045
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.353330422752
+'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.352698347211
 'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.352545104630
 'Britney Spears',de,USA,#18e8e8,#18e8e8,2,0.352404207175
-'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.351776702862
 'David Koch',de,USA,#18e8e8,#18e8e8,2,0.351497980293
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.351248383725
 'Bettina Stark-Watzinger',de,Deutschland,#11dd44,#11dd44,3,0.350958211966
@@ -687,10 +687,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
 'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.279060463985
 'Robert Kraft',de,unknown,#111111,#111111,2,0.278029904614
+'Putin',de,Russland,#e81818,#e81818,3,0.277306448780
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.276964709717
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.276781102769
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.276595110921
-'Putin',de,Russland,#e81818,#e81818,3,0.276259095660
 'James Cameron',de,USA,#18e8e8,#18e8e8,1,0.276122176969
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
 'Erich Honecker',de,Deutschland,#11dd44,#11dd44,1,0.275128434182
