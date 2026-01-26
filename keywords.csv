@@ -1,7 +1,17 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bari Weiss',de,unknown,#111111,#111111,2,0.528631053510
+'Delcy Rodríguez',de,unknown,#111111,#111111,2,0.605682868961
+'Jake Reiner',de,unknown,#111111,#111111,2,0.509312358165
+'Delcy Rodriguez',de,unknown,#111111,#111111,2,0.508634675733
+'Nanon Williams',de,unknown,#111111,#111111,2,0.508487909074
+'MARGARET BRENNAN',de,unknown,#111111,#111111,2,0.506337890648
+'Kristi Noem',de,unknown,#111111,#111111,2,0.505178057231
+'Renee Good',de,unknown,#111111,#111111,2,0.504854050332
+'Kaitlan Collins',de,unknown,#111111,#111111,2,0.502809602668
+'Abby Phillip',de,unknown,#111111,#111111,2,0.501185763811
+'Ilhan Omar',de,unknown,#111111,#111111,2,0.500235044946
+'Tony Dokoupil',de,unknown,#111111,#111111,2,0.500029082076
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.499174879510
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.488353651847
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.489012900076
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.482149036567
@@ -20,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.473850460863
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.472954088330
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
+'Bari Weiss',de,unknown,#111111,#111111,2,0.471586620483
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.471201786826
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.468260773111
@@ -133,12 +144,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.422601721703
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
+'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.420941001269
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.420677696765
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.420622480751
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,2,0.420508230232
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
-'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.420147115048
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.419329117952
 'Kevin McCarthy',de,USA,#18e8e8,#18e8e8,2,0.418482790348
