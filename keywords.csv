@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bari Weiss',de,unknown,#111111,#111111,2,0.501624504130
+'Bari Weiss',de,unknown,#111111,#111111,2,0.528631053510
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.499174879510
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.488353651847
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485037576046
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.482149036567
 'Michele Reiner',de,unknown,#111111,#111111,2,0.481571690715
 'Mark Kelly',de,unknown,#111111,#111111,2,0.479715981484
@@ -138,6 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.420622480751
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,2,0.420508230232
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
+'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.420147115048
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.419329117952
 'Kevin McCarthy',de,USA,#18e8e8,#18e8e8,2,0.418482790348
@@ -146,7 +147,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
-'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.415351397616
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
 'Victoria Beckham',de,UK,#e838e8,#e838e8,2,0.413425382748
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.412648994865
@@ -687,9 +687,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
 'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.279060463985
 'Robert Kraft',de,unknown,#111111,#111111,2,0.278029904614
+'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.277827658288
 'Putin',de,Russland,#e81818,#e81818,3,0.277306448780
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.276964709717
-'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.276781102769
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.276595110921
 'James Cameron',de,USA,#18e8e8,#18e8e8,1,0.276122176969
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
