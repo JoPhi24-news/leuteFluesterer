@@ -1,13 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.528489069067
 'Jake Reiner',de,unknown,#111111,#111111,2,0.509312358165
 'Delcy Rodriguez',de,unknown,#111111,#111111,2,0.508634675733
 'Nanon Williams',de,unknown,#111111,#111111,2,0.508487909074
 'MARGARET BRENNAN',de,unknown,#111111,#111111,2,0.506337890648
 'Kristi Noem',de,unknown,#111111,#111111,2,0.505178057231
 'Renee Good',de,unknown,#111111,#111111,2,0.504854050332
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.503817429089
 'Kaitlan Collins',de,unknown,#111111,#111111,2,0.502809602668
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.501924801883
 'Abby Phillip',de,unknown,#111111,#111111,2,0.501185763811
 'Ilhan Omar',de,unknown,#111111,#111111,2,0.500235044946
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.500029082076
@@ -33,6 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bari Weiss',de,unknown,#111111,#111111,2,0.471586620483
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.471201786826
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
+'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.468723538707
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.468260773111
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.466754739566
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
