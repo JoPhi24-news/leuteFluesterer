@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.546400458795
+'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.528489069067
 'Jake Reiner',de,unknown,#111111,#111111,2,0.509312358165
 'Delcy Rodriguez',de,unknown,#111111,#111111,2,0.508634675733
 'Nanon Williams',de,unknown,#111111,#111111,2,0.508487909074
@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kristi Noem',de,unknown,#111111,#111111,2,0.505178057231
 'Renee Good',de,unknown,#111111,#111111,2,0.504854050332
 'Kaitlan Collins',de,unknown,#111111,#111111,2,0.502809602668
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.501924801883
 'Abby Phillip',de,unknown,#111111,#111111,2,0.501185763811
 'Ilhan Omar',de,unknown,#111111,#111111,2,0.500235044946
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.500029082076
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.500020785021
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.499174879510
-'Nicolás Maduro',de,unknown,#111111,#111111,3,0.490776460179
+'Nicolás Maduro',de,unknown,#111111,#111111,3,0.492083972950
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Michele Reiner',de,unknown,#111111,#111111,2,0.481571690715
@@ -979,7 +979,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Ali Chamenei',de,Iran,#11bb99,#11bb99,1,0.114072032931
 'Andrés Manuel López Obrador',de,Mexiko,#aadd33,#aadd33,2,0.112993645620
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.111888838708
-'Miguel Díaz-Canel',de,Kuba,#cc4488,#cc4488,1,0.107136147776
+'Miguel Díaz-Canel',de,Kuba,#cc4488,#cc4488,1,0.108373256647
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.106146893879
 'Julia Koch',de,USA,#18e8e8,#18e8e8,2,0.105171666447
 'Nicola Beer',de,EU,#bbff33,#bbff33,1,0.104797676214
