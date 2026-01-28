@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'MARGARET BRENNAN',de,unknown,#111111,#111111,2,0.506337890648
 'Kristi Noem',de,unknown,#111111,#111111,2,0.505178057231
 'Renee Good',de,unknown,#111111,#111111,2,0.504854050332
 'Kaitlan Collins',de,unknown,#111111,#111111,2,0.502809602668
@@ -103,6 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.430654452729
 'JULIEN MUGUET',de,Frankreich,#e8e808,#e8e808,1,0.430594199863
 'Ilia Topuria',de,unknown,#111111,#111111,1,0.430549846213
+'MARGARET BRENNAN',de,unknown,#111111,#111111,1,0.430387282051
 'Anant Ambani',de,Indien,#dd3344,#dd3344,1,0.430371334933
 'Karol G',de,Kolumbien,#3355dd,#3355dd,1,0.430327011290
 'Lecornu II ',de,Frankreich,#e8e808,#e8e808,1,0.429980404145
