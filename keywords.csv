@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Abby Phillip',de,unknown,#111111,#111111,2,0.501185763811
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.500927593009
 'Ilhan Omar',de,unknown,#111111,#111111,2,0.500235044946
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.500029082076
@@ -129,6 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alan Jackson',de,unknown,#111111,#111111,1,0.426613481647
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.426602909016
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
+'Abby Phillip',de,unknown,#111111,#111111,1,0.426007899239
 'Ciryl Gane',de,unknown,#111111,#111111,1,0.425959758896
 'Justin Gaethje',de,unknown,#111111,#111111,1,0.425959272437
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
