@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kaitlan Collins',de,unknown,#111111,#111111,2,0.502809602668
 'Abby Phillip',de,unknown,#111111,#111111,2,0.501185763811
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.500927593009
 'Ilhan Omar',de,unknown,#111111,#111111,2,0.500235044946
@@ -123,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.427478252158
 'Belal Muhammad',de,unknown,#111111,#111111,1,0.427423756320
+'Kaitlan Collins',de,unknown,#111111,#111111,1,0.427388162268
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,2,0.426889133481
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
