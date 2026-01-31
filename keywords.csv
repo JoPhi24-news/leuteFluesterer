@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nicolás Maduro',de,unknown,#111111,#111111,3,0.494035464738
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Kristi Noem',de,unknown,#111111,#111111,3,0.485688735579
@@ -21,11 +20,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
 'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
+'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.473583095468
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
+'Nicolás Maduro',de,unknown,#111111,#111111,3,0.471632145027
 'Bari Weiss',de,unknown,#111111,#111111,2,0.471586620483
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
-'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.469421915508
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.468960070096
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.466754739566
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
@@ -39,9 +39,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.455349094509
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.454335513140
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,2,0.453122468809
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.452146113615
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Woody Allen',de,unknown,#111111,#111111,3,0.451264164883
 'Helene Fischer',de,unknown,#111111,#111111,3,0.450818693546
@@ -115,6 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.428387283607
+'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.428330776023
 'Daniel Cormier',de,unknown,#111111,#111111,1,0.428291590795
 'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.428268717015
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
@@ -133,7 +134,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Gaethje',de,unknown,#111111,#111111,1,0.425959272437
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
-'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.425203607345
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
