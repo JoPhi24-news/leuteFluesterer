@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
-'Kristi Noem',de,unknown,#111111,#111111,3,0.485688735579
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.485285693603
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.483795992129
 'Michele Reiner',de,unknown,#111111,#111111,2,0.481571690715
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.473583095468
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
+'Kristi Noem',de,unknown,#111111,#111111,3,0.472336579788
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.471632145027
 'Bari Weiss',de,unknown,#111111,#111111,2,0.471586620483
@@ -33,13 +33,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
 'Brigitte Bardot',de,unknown,#111111,#111111,3,0.460835633477
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.457234559167
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.456570527818
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.456234545857
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.455349094509
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.454335513140
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,2,0.453122468809
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
@@ -328,6 +328,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.347198243577
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.347034579365
+'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.346912894994
 'Hendrik Wüst',de,Deutschland,#11dd44,#11dd44,3,0.346774976595
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.346673972859
 'Alexander Dobrindt',de,Deutschland,#11dd44,#11dd44,3,0.346480414006
@@ -336,7 +337,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed Bin Salman',de,SaudiArabien,#2266bb,#2266bb,2,0.346424112751
 'Kemal Kılıçdaroğlu',de,Türkei,#4411ee,#4411ee,2,0.346400852550
 'Omar Sy',de,Frankreich,#e8e808,#e8e808,1,0.346119661797
-'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.345980942742
 'Angelina Jolie',de,USA,#18e8e8,#18e8e8,3,0.345852097145
 'Peregrine Pearson',de,UK,#e838e8,#e838e8,2,0.345535958885
 'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.345384530915
@@ -392,13 +392,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alberto Núñez Feijóo',de,Spanien,#1144aa,#1144aa,2,0.336144572063
 'Derek Chauvin',de,USA,#18e8e8,#18e8e8,1,0.336063797151
 'Königin Camilla',de,UK,#e838e8,#e838e8,2,0.335849257621
+'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.335843933717
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.335685844193
 'Jerry Seinfeld',de,USA,#18e8e8,#18e8e8,1,0.335118759698
 'Adolf Hitler',de,Deutschland,#11dd44,#11dd44,3,0.335068911946
 'Mira Murati',de,Albanien,#ee742d,#ee742d,1,0.334870621721
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.334105394247
 'Oliver Anthony',de,USA,#18e8e8,#18e8e8,1,0.333988588800
-'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.333939483234
 'Rupert Murdoch',de,Australien,#99aa33,#99aa33,1,0.333821629004
 'Robert Francis Prevost',de,USA,#18e8e8,#18e8e8,1,0.333712190313
 'Jeff Ross',de,USA,#18e8e8,#18e8e8,2,0.333705848340
