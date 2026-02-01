@@ -33,7 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
 'Brigitte Bardot',de,unknown,#111111,#111111,3,0.460835633477
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.457234559167
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.457955737754
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.456570527818
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.456234545857
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
@@ -804,7 +804,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.240451797857
 'Gregor Gysi',de,Deutschland,#11dd44,#11dd44,2,0.239215475841
 'Pap Ndiaye',de,unknown,#111111,#111111,1,0.238890465044
-'Zach Bryan',de,unknown,#111111,#111111,1,0.238857212211
 'Nancy Faeser',de,Deutschland,#11dd44,#11dd44,3,0.238342388363
 'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,1,0.237904387588
 'Stephan Harbarth',de,Deutschland,#11dd44,#11dd44,1,0.234611867592
@@ -820,6 +819,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.229714760019
 'Peter Urban',de,Deutschland,#11dd44,#11dd44,1,0.229686881609
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.229087826642
+'Zach Bryan',de,unknown,#111111,#111111,1,0.228928720379
 'Giorgia Meloni',de,Italien,#7722cc,#7722cc,3,0.228731555703
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.228350263869
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.228009370159
