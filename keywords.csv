@@ -755,7 +755,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Hawking',de,UK,#e838e8,#e838e8,1,0.263312458855
 'Elisabeth Borne',de,Frankreich,#e8e808,#e8e808,2,0.262709250824
 'Dawn Staley',de,unknown,#111111,#111111,1,0.262641675079
-'Joy Behar',de,unknown,#111111,#111111,1,0.261383521049
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.261372791549
 'Christian Kroll',de,Deutschland,#11dd44,#11dd44,1,0.261284177301
 'Margaret Thatcher',de,UK,#e838e8,#e838e8,1,0.261165356406
@@ -838,6 +837,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',de,Schweiz,#88cc44,#88cc44,1,0.222323499564
 'Xi Jinping',de,China,#e88818,#e88818,3,0.222304410492
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
+'Joy Behar',de,unknown,#111111,#111111,1,0.222175992892
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
 'Pierre-Yves Dermagne',de,Belgien,#bb33ff,#bb33ff,1,0.221852656250
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
