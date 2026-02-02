@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lisa Müller',de,unknown,#111111,#111111,2,0.608750874122
+'Lisa Müller',de,unknown,#111111,#111111,3,0.616193613458
 'Tim Walz',de,unknown,#111111,#111111,2,0.509254458006
 'Renee Nicole Good',de,unknown,#111111,#111111,2,0.507197759144
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.506405478564
@@ -73,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.439691445831
 'Sohn Nick',de,unknown,#111111,#111111,2,0.439513774952
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.438786138977
+'Thomas Müller',de,unknown,#111111,#111111,3,0.438101848165
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.437348319507
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
@@ -120,7 +121,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reine Mathilde',de,unknown,#111111,#111111,1,0.429258671995
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.428890218339
-'Thomas Müller',de,unknown,#111111,#111111,3,0.428878240756
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
@@ -248,10 +248,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,1,0.374321916751
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.371934021745
+'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.371198665420
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.371160838309
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.370819767256
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
-'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.369420901590
 'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.369376545901
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
 'Melanie Guttmann',de,Deutschland,#11dd44,#11dd44,1,0.368475000000
