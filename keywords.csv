@@ -1,13 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jonathan Ross',de,unknown,#111111,#111111,2,0.506405478564
 'Romy Reiner',de,unknown,#111111,#111111,2,0.505945213444
 'Jacob Frey',de,unknown,#111111,#111111,2,0.504397838635
 'María Corina Machado',de,unknown,#111111,#111111,2,0.503826816494
 'Tom Homan',de,unknown,#111111,#111111,2,0.501611321796
 'Alex Pretti',de,unknown,#111111,#111111,2,0.501395024486
+'Renee Nicole Good',de,unknown,#111111,#111111,2,0.489376955095
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
-'Renee Nicole Good',de,unknown,#111111,#111111,2,0.486071155272
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.485285693603
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.483795992129
 'Michele Reiner',de,unknown,#111111,#111111,2,0.481571690715
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.471632145027
 'Bari Weiss',de,unknown,#111111,#111111,2,0.471586620483
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
+'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.468960070096
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.467201957336
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.466754739566
