@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lisa Müller',de,unknown,#111111,#111111,2,0.523765396439
 'Tim Walz',de,unknown,#111111,#111111,2,0.509254458006
 'Renee Nicole Good',de,unknown,#111111,#111111,2,0.507197759144
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.506405478564
@@ -38,7 +37,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.468960070096
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.466754739566
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.462964128351
+'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.463673947539
 'Thomas Massie',de,unknown,#111111,#111111,2,0.462295656997
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
 'Brigitte Bardot',de,unknown,#111111,#111111,3,0.461549675559
@@ -689,7 +689,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Irina Shayk',de,unknown,#111111,#111111,1,0.286204198439
 'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.285550853097
 'Julia Louis-Dreyfus',de,unknown,#111111,#111111,1,0.285241155776
-'Ursula von der Leyen',de,EU,#bbff33,#bbff33,3,0.284198408431
+'Ursula von der Leyen',de,EU,#bbff33,#bbff33,3,0.285233512843
 'William Shakespeare',de,UK,#e838e8,#e838e8,1,0.283965114119
 'Gabor Steingart',de,Deutschland,#11dd44,#11dd44,2,0.283584024228
 'Victoria Monét',de,unknown,#111111,#111111,1,0.283494997568
