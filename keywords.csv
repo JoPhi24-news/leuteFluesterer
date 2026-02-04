@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alex Pretti',de,unknown,#111111,#111111,2,0.507048461676
+'Alex Pretti',de,unknown,#111111,#111111,3,0.508678515152
 'Jacob Frey',de,unknown,#111111,#111111,3,0.506419350567
 'María Corina Machado',de,unknown,#111111,#111111,2,0.503826816494
 'Tom Homan',de,unknown,#111111,#111111,2,0.501611321796
@@ -23,10 +23,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Pam Bondi',de,unknown,#111111,#111111,3,0.475994700196
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.474841100093
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
 'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.473583095468
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.473464587407
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
 'Kristi Noem',de,unknown,#111111,#111111,3,0.472336579788
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
@@ -202,9 +202,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.395567482620
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.395454920026
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
+'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.394047974331
+'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.393988808870
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
-'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.393202543325
-'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.393143265977
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.392242329549
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,1,0.391940467051
@@ -396,12 +396,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Hart',de,USA,#18e8e8,#18e8e8,3,0.337287285817
 'Sergej Surowikin',de,Russland,#e81818,#e81818,1,0.337261748741
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.337033352281
+'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.336793678105
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.336377568567
 'Cem Özdemir',de,Deutschland,#11dd44,#11dd44,3,0.336292977809
 'Alberto Núñez Feijóo',de,Spanien,#1144aa,#1144aa,2,0.336144572063
 'Derek Chauvin',de,USA,#18e8e8,#18e8e8,1,0.336063797151
 'Königin Camilla',de,UK,#e838e8,#e838e8,2,0.335849257621
-'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.335843933717
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.335685844193
 'Jerry Seinfeld',de,USA,#18e8e8,#18e8e8,1,0.335118759698
 'Adolf Hitler',de,Deutschland,#11dd44,#11dd44,3,0.335068911946
@@ -822,8 +822,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Nobel',de,Schweden,#77dd11,#77dd11,2,0.232338286288
 'Saskia Esken',de,Deutschland,#11dd44,#11dd44,3,0.231988335502
 'Karl Nehammer',de,Österreich,#6622bb,#6622bb,3,0.231631221730
+'Don Lemon',de,USA,#18e8e8,#18e8e8,1,0.231559139277
 'Chelsea Manning',de,USA,#18e8e8,#18e8e8,2,0.231330931094
-'Don Lemon',de,USA,#18e8e8,#18e8e8,1,0.230446312969
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.229714760019
 'Peter Urban',de,Deutschland,#11dd44,#11dd44,1,0.229686881609
