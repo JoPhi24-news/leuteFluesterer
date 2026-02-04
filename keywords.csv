@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alex Pretti',de,unknown,#111111,#111111,3,0.508678515152
 'Jacob Frey',de,unknown,#111111,#111111,3,0.506419350567
 'María Corina Machado',de,unknown,#111111,#111111,2,0.503826816494
 'Tom Homan',de,unknown,#111111,#111111,2,0.501611321796
@@ -19,11 +18,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.477859219680
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.477277649658
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.476603525842
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.476212134856
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.476190326523
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Pam Bondi',de,unknown,#111111,#111111,3,0.475994700196
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.474841100093
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
 'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.473583095468
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.468960070096
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.466754739566
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
+'Alex Pretti',de,unknown,#111111,#111111,3,0.464609515152
 'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
 'Thomas Massie',de,unknown,#111111,#111111,2,0.462295656997
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
@@ -247,8 +247,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,1,0.374321916751
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
+'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.372085100020
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.371934021745
-'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.371198665420
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.371160838309
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.370819767256
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
