@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tom Homan',de,unknown,#111111,#111111,2,0.501611321796
 'Renee Nicole Good',de,unknown,#111111,#111111,2,0.489376955095
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.485285693603
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.483795992129
 'María Corina Machado',de,unknown,#111111,#111111,2,0.483740406173
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.483655803623
 'Michele Reiner',de,unknown,#111111,#111111,2,0.481571690715
 'Renee Good',de,unknown,#111111,#111111,2,0.481563462359
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.481459711005
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.480292571743
+'Tom Homan',de,unknown,#111111,#111111,3,0.481321663527
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
 'Mark Kelly',de,unknown,#111111,#111111,2,0.479715981484
@@ -22,19 +22,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Pam Bondi',de,unknown,#111111,#111111,3,0.475994700196
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
+'Kristi Noem',de,unknown,#111111,#111111,3,0.474406018571
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.474271801816
 'Keir Starmer',de,unknown,#111111,#111111,3,0.474087823271
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
-'Kristi Noem',de,unknown,#111111,#111111,3,0.472336579788
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.471632145027
+'Alex Pretti',de,unknown,#111111,#111111,3,0.471612185622
 'Bari Weiss',de,unknown,#111111,#111111,2,0.471586620483
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.468960070096
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.466754739566
-'Alex Pretti',de,unknown,#111111,#111111,3,0.466021216873
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
 'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
 'Jacob Frey',de,unknown,#111111,#111111,3,0.462683090255
@@ -389,6 +389,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Haitham A-Ghais',de,Kuwait,#3fd97a,#3fd97a,1,0.337768750000
 'Claudia Kempfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
 'Claudia Kemfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
+'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.337741768703
 'Patrick Mahomes',de,USA,#18e8e8,#18e8e8,2,0.337701651743
 'Cara Delevingne',de,UK,#e838e8,#e838e8,1,0.337576117113
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
@@ -396,7 +397,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Hart',de,USA,#18e8e8,#18e8e8,3,0.337287285817
 'Sergej Surowikin',de,Russland,#e81818,#e81818,1,0.337261748741
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.337033352281
-'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.336793678105
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.336377568567
 'Cem Özdemir',de,Deutschland,#11dd44,#11dd44,3,0.336292977809
 'Alberto Núñez Feijóo',de,Spanien,#1144aa,#1144aa,2,0.336144572063
