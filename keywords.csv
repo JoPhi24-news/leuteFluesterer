@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.545183222143
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.538527433822
 'Renee Nicole Good',de,unknown,#111111,#111111,2,0.489376955095
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485657680698
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.485285693603
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.484991720951
+'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.484970471285
 'María Corina Machado',de,unknown,#111111,#111111,2,0.483740406173
-'Keir Starmer',de,unknown,#111111,#111111,3,0.482250387073
-'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.481620432215
+'Keir Starmer',de,unknown,#111111,#111111,3,0.483591907421
 'Michele Reiner',de,unknown,#111111,#111111,2,0.481571690715
 'Renee Good',de,unknown,#111111,#111111,2,0.481563462359
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.481459711005
@@ -34,7 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bari Weiss',de,unknown,#111111,#111111,2,0.471586620483
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
-'Steve Witkoff',de,unknown,#111111,#111111,3,0.466754739566
+'Steve Witkoff',de,unknown,#111111,#111111,3,0.467457030293
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
 'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
 'Jacob Frey',de,unknown,#111111,#111111,3,0.462683090255
@@ -191,14 +191,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alois Rainer',de,Deutschland,#11dd44,#11dd44,2,0.401320947138
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.400415903482
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
-'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.399121407576
+'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.399955630951
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.397183887760
 'Hans-Werner Sinn',de,Deutschland,#11dd44,#11dd44,1,0.396541427198
+'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.396515863891
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.395812727176
-'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.395675106258
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.395567482620
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.395454920026
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
@@ -383,6 +383,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,USA,#18e8e8,#18e8e8,1,0.338271583625
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.338187586876
 'Alexander Smirnov',de,Israel,#8822dd,#8822dd,1,0.338133265108
+'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.337999142886
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.337850116309
 'Steven Donziger',de,USA,#18e8e8,#18e8e8,1,0.337768750000
 'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
@@ -403,7 +404,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Derek Chauvin',de,USA,#18e8e8,#18e8e8,1,0.336063797151
 'Königin Camilla',de,UK,#e838e8,#e838e8,2,0.335849257621
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.335685844193
-'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.335151257991
 'Jerry Seinfeld',de,USA,#18e8e8,#18e8e8,1,0.335118759698
 'Adolf Hitler',de,Deutschland,#11dd44,#11dd44,3,0.335068911946
 'Mira Murati',de,Albanien,#ee742d,#ee742d,1,0.334870621721
@@ -667,11 +667,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joaquim Valente',de,unknown,#111111,#111111,1,0.293285297355
 'Lawrence Jones',de,unknown,#111111,#111111,1,0.292846050533
 'Jacoby Brissett',de,unknown,#111111,#111111,1,0.292819529599
+'Melinda Gates',de,USA,#18e8e8,#18e8e8,2,0.292520929862
 'Kim Jong Un',de,NordKorea,#4811f1,#4811f1,3,0.292348094364
 'Geert Wilders',de,Niederlande,#33ffbb,#33ffbb,2,0.292104477972
 'Norbert Röttgen',de,Deutschland,#11dd44,#11dd44,2,0.292075331741
 'Vo Van Thuong',de,unknown,#111111,#111111,1,0.292059843556
-'Melinda Gates',de,USA,#18e8e8,#18e8e8,2,0.291497304502
 'Alexander von Humboldt',de,Deutschland,#11dd44,#11dd44,1,0.291175625017
 'Tom Brady',de,unknown,#111111,#111111,1,0.290478830333
 'Peter Breuer',de,unknown,#111111,#111111,1,0.289662084203
