@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.489625613808
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.494842700526
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.486301146283
@@ -26,8 +26,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.474271801816
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.473126736761
+'Alex Pretti',de,unknown,#111111,#111111,3,0.472996067013
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
-'Alex Pretti',de,unknown,#111111,#111111,3,0.472304815640
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.471632145027
 'Bari Weiss',de,unknown,#111111,#111111,2,0.471586620483
@@ -154,9 +154,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.422601721703
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.421733349931
+'Nancy Pelosi',de,unknown,#111111,#111111,1,0.421470555490
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.421415446424
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
-'Nancy Pelosi',de,unknown,#111111,#111111,1,0.420677696765
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,2,0.420508230232
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
@@ -175,8 +175,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.411320517426
 'Bill Maher',de,unknown,#111111,#111111,2,0.411306168503
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410919867639
+'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.410623795526
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
-'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.409809981392
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,2,0.405261188409
@@ -634,12 +634,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Ford',de,USA,#18e8e8,#18e8e8,1,0.300264927831
 'Jimmy Carter',de,USA,#18e8e8,#18e8e8,1,0.300248431990
 'Amber Heard',de,USA,#18e8e8,#18e8e8,1,0.300096268300
+'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.300059715937
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.299801128495
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.299653784785
 'Andrea Arnold',de,unknown,#111111,#111111,1,0.299422015919
 'Patrick Graichen',de,Deutschland,#11dd44,#11dd44,3,0.299151866067
 'Mareike Fallwickl',de,Österreich,#6622bb,#6622bb,1,0.299068907077
-'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.299048179469
 'Pedro Pascal',de,unknown,#111111,#111111,2,0.298888356829
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.298866396965
 'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.298551997003
@@ -901,6 +901,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.194025794077
 'Stefan Rahmstorf',de,Deutschland,#11dd44,#11dd44,2,0.193634442976
 'Louis Klamroth',de,Deutschland,#11dd44,#11dd44,2,0.192338651398
+'Mike Pence',de,USA,#18e8e8,#18e8e8,2,0.191986847842
 'Franziska Giffey',de,Deutschland,#11dd44,#11dd44,3,0.191623270771
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.190977981613
 'Roland Busch',de,Deutschland,#11dd44,#11dd44,1,0.190063660652
@@ -942,7 +943,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cyril Ramaphosa',de,Südafrika,#1144ee,#1144ee,2,0.159854590076
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.159128394767
 'Andreas Baum',de,Deutschland,#11dd44,#11dd44,1,0.158450287556
-'Mike Pence',de,USA,#18e8e8,#18e8e8,1,0.157813015643
 'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.155713656138
 'Andrea Lindholz',de,Deutschland,#11dd44,#11dd44,2,0.155234411900
 'Anthony Albanese',de,Australien,#99aa33,#99aa33,2,0.154961120025
