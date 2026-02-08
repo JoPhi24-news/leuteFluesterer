@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.494842700526
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.493906243629
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.486301146283
@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Reiner',de,unknown,#111111,#111111,2,0.481571690715
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.481459711005
 'Tom Homan',de,unknown,#111111,#111111,3,0.481321663527
+'Mark Kelly',de,unknown,#111111,#111111,2,0.480392466476
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.479895714904
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
-'Mark Kelly',de,unknown,#111111,#111111,2,0.479715981484
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.479484622389
 'Candace Owens',de,unknown,#111111,#111111,2,0.478042173794
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.477277649658
@@ -25,8 +25,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kristi Noem',de,unknown,#111111,#111111,3,0.475093086053
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.474271801816
+'Alex Pretti',de,unknown,#111111,#111111,3,0.473685942227
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.473126736761
-'Alex Pretti',de,unknown,#111111,#111111,3,0.472996067013
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.471632145027
@@ -65,16 +65,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.440756898811
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
 'Nick Reiner',de,unknown,#111111,#111111,2,0.440126116635
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.440001733939
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.439691445831
 'Sohn Nick',de,unknown,#111111,#111111,2,0.439513774952
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.438786138977
 'Thomas Müller',de,unknown,#111111,#111111,3,0.438101848165
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.437786835070
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.437348319507
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.437025833488
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.435854076009
@@ -214,7 +214,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,1,0.389588364168
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
 'John Clarke',de,USA,#18e8e8,#18e8e8,1,0.389401780306
-'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.388447823695
+'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.389302206011
 'John Martinis',de,USA,#18e8e8,#18e8e8,2,0.387703351870
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.387634114114
 'Mark Meadows',de,USA,#18e8e8,#18e8e8,2,0.387525659903
@@ -327,6 +327,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.349300914052
 'Jane Fonda',de,USA,#18e8e8,#18e8e8,2,0.348890543618
+'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.348771846917
 'Chris Wright',de,USA,#18e8e8,#18e8e8,3,0.348769258732
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.348506567653
 'Jason Kelce',de,USA,#18e8e8,#18e8e8,1,0.348445920974
@@ -337,7 +338,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.347198243577
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.347034579365
-'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.346912894994
 'Hendrik Wüst',de,Deutschland,#11dd44,#11dd44,3,0.346774976595
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.346673972859
 'Alexander Dobrindt',de,Deutschland,#11dd44,#11dd44,3,0.346480414006
@@ -504,6 +504,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carter Reum',de,unknown,#111111,#111111,1,0.317665349784
 'George Simion',de,unknown,#111111,#111111,2,0.317313910931
 'Alvin Bragg',de,USA,#18e8e8,#18e8e8,1,0.317279410126
+'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.317172477330
 'Robin Roberts',de,unknown,#111111,#111111,1,0.317068266930
 'Leandro De Niro-Rodriguez',de,unknown,#111111,#111111,1,0.317020448280
 'Francesca Albanese',de,Italien,#7722cc,#7722cc,2,0.316965484627
@@ -522,7 +523,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,2,0.314291324230
 'Stefan Kolev',de,Deutschland,#11dd44,#11dd44,1,0.314267330783
 'Nancy Mace',de,unknown,#111111,#111111,1,0.314251744840
-'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.314217559537
 'Mario Czaja',de,Deutschland,#11dd44,#11dd44,1,0.314138807309
 'Missy Elliott',de,unknown,#111111,#111111,2,0.314098767175
 'Robert Menendez',de,unknown,#111111,#111111,1,0.313943736399
@@ -724,9 +724,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Bankman-Fried',de,unknown,#111111,#111111,1,0.272628103726
 'Recep Tayyip Erdoan',de,Türkei,#4411ee,#4411ee,2,0.272517605680
 'Andreas Jung',de,Deutschland,#11dd44,#11dd44,3,0.272394635672
+'Narendra Modi',de,Indien,#dd3344,#dd3344,3,0.271821542400
 'Johan Rockström',de,unknown,#111111,#111111,1,0.271395259460
 'Frank Plasberg',de,Deutschland,#11dd44,#11dd44,2,0.271311355898
-'Narendra Modi',de,Indien,#dd3344,#dd3344,3,0.270765863123
 'Silvio Berlusconi',de,Italien,#7722cc,#7722cc,2,0.270648602368
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.270468949533
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,1,0.269594136597
