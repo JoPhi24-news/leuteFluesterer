@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Liveblog USA',de,unknown,#111111,#111111,2,0.609293508563
+'Liveblog USA',de,unknown,#111111,#111111,3,0.654670844097
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.605976793116
 'Peter Mandelson',de,unknown,#111111,#111111,2,0.604955777737
 'Chris Cuomo',de,unknown,#111111,#111111,2,0.506592049878
@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'María Corina Machado',de,unknown,#111111,#111111,2,0.483740406173
 'Keir Starmer',de,unknown,#111111,#111111,3,0.483591907421
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
+'Tom Homan',de,unknown,#111111,#111111,3,0.481994946162
 'Michele Reiner',de,unknown,#111111,#111111,2,0.481571690715
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.481459711005
-'Tom Homan',de,unknown,#111111,#111111,3,0.481321663527
 'Mark Kelly',de,unknown,#111111,#111111,2,0.480392466476
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.479895714904
@@ -26,11 +26,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Pam Bondi',de,unknown,#111111,#111111,3,0.475994700196
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475564088034
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
 'Kristi Noem',de,unknown,#111111,#111111,3,0.475093086053
+'Alex Pretti',de,unknown,#111111,#111111,3,0.474374443773
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.474271801816
-'Alex Pretti',de,unknown,#111111,#111111,3,0.473685942227
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.473126736761
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
@@ -39,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.467457030293
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.465832787994
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
 'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
 'Jacob Frey',de,unknown,#111111,#111111,3,0.462683090255
@@ -207,8 +207,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.395812727176
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.395567482620
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.395454920026
+'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.394891808793
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
-'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.394047974331
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.392242329549
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
@@ -632,6 +632,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Richie',de,USA,#18e8e8,#18e8e8,1,0.301881526665
 'Jordan Neely',de,USA,#18e8e8,#18e8e8,1,0.301772532477
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,1,0.301436554751
+'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.301069616808
 'Nikki Haley',de,USA,#18e8e8,#18e8e8,2,0.300820494039
 'Christine Lambrecht',de,Deutschland,#11dd44,#11dd44,1,0.300702679890
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,1,0.300582690342
@@ -639,7 +640,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Ford',de,USA,#18e8e8,#18e8e8,1,0.300264927831
 'Jimmy Carter',de,USA,#18e8e8,#18e8e8,1,0.300248431990
 'Amber Heard',de,USA,#18e8e8,#18e8e8,1,0.300096268300
-'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.300059715937
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.299801128495
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.299653784785
 'Andrea Arnold',de,unknown,#111111,#111111,1,0.299422015919
@@ -824,11 +824,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephan Harbarth',de,Deutschland,#11dd44,#11dd44,1,0.234611867592
 'Karl Lauterbach',de,Deutschland,#11dd44,#11dd44,3,0.233363913320
 'Martin Schirdewan',de,Deutschland,#11dd44,#11dd44,3,0.232780733585
+'Don Lemon',de,USA,#18e8e8,#18e8e8,1,0.232670486562
 'Joschka Fischer',de,Deutschland,#11dd44,#11dd44,1,0.232448751378
 'Alfred Nobel',de,Schweden,#77dd11,#77dd11,2,0.232338286288
 'Saskia Esken',de,Deutschland,#11dd44,#11dd44,3,0.231988335502
 'Karl Nehammer',de,Österreich,#6622bb,#6622bb,3,0.231631221730
-'Don Lemon',de,USA,#18e8e8,#18e8e8,1,0.231559139277
 'Chelsea Manning',de,USA,#18e8e8,#18e8e8,2,0.231330931094
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.229714760019
@@ -850,6 +850,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dieter Salomon',de,Deutschland,#11dd44,#11dd44,1,0.222764701048
 'Joana Cotar',de,Deutschland,#11dd44,#11dd44,2,0.222687770054
 'Jean-Jacques Rousseau',de,Schweiz,#88cc44,#88cc44,1,0.222323499564
+'Boris Pistorius',de,Deutschland,#11dd44,#11dd44,3,0.222314040266
 'Xi Jinping',de,China,#e88818,#e88818,3,0.222304410492
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
 'Joy Behar',de,unknown,#111111,#111111,1,0.222175992892
@@ -859,7 +860,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.221852656250
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.221828588284
 'Sahra Wagenknecht',de,Deutschland,#11dd44,#11dd44,3,0.221299566266
-'Boris Pistorius',de,Deutschland,#11dd44,#11dd44,3,0.221189137362
 'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.220608391196
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.220136488479
 'Eva Kaili',de,EU,#bbff33,#bbff33,3,0.219786134194
@@ -885,11 +885,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alice Schwarzer',de,Deutschland,#11dd44,#11dd44,2,0.209605642588
 'Ola Källenius',de,Deutschland,#11dd44,#11dd44,2,0.207968429447
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.207697236966
+'Jerome Powell',de,USA,#18e8e8,#18e8e8,3,0.207406820977
 'Bernard Arnault',de,Frankreich,#e8e808,#e8e808,2,0.207385150605
 'Cillian Murphy',de,Irland,#33bbff,#33bbff,3,0.207266170663
 'Andrzej Duda',de,Polen,#8844cc,#8844cc,3,0.207231072552
 'Julian Assange',de,Australien,#99aa33,#99aa33,3,0.206780390813
-'Jerome Powell',de,USA,#18e8e8,#18e8e8,3,0.206263318625
 'Roberta Metsola',de,EU,#bbff33,#bbff33,2,0.206031686168
 'Jan Lipavský',de,Tschechien,#cc8844,#cc8844,1,0.205191517846
 'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.205078210417
