@@ -1,4 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Liveblog USA',de,unknown,#111111,#111111,2,0.609293508563
+'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.605976793116
+'Peter Mandelson',de,unknown,#111111,#111111,2,0.604955777737
+'Chris Cuomo',de,unknown,#111111,#111111,2,0.506592049878
+'Todd Blanche',de,unknown,#111111,#111111,2,0.505985483847
+'Peter Attia',de,unknown,#111111,#111111,2,0.502385796142
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.486301146283
@@ -322,7 +328,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.350754260725
 'James Comer',de,USA,#18e8e8,#18e8e8,1,0.350148716784
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.350123191912
-'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.349836643678
 'Roger Federer',de,Schweiz,#88cc44,#88cc44,2,0.349568761947
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.349300914052
@@ -650,6 +655,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Ellermann',de,Deutschland,#11dd44,#11dd44,1,0.297797174829
 'Alexander De Croo',de,Belgien,#bb33ff,#bb33ff,1,0.297716995994
 'Jon Batiste',de,unknown,#111111,#111111,1,0.297600966200
+'Johnny Depp',de,USA,#18e8e8,#18e8e8,1,0.297361387126
 'Paul-Henry Nargeolet',de,Frankreich,#e8e808,#e8e808,1,0.297186599281
 'Sam H',de,unknown,#111111,#111111,1,0.296477821593
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.296302020821
