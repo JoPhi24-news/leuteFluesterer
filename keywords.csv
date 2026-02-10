@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Mandelson',de,unknown,#111111,#111111,2,0.604955777737
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.579122923240
+'Peter Mandelson',de,unknown,#111111,#111111,2,0.573710280622
 'Liveblog USA',de,unknown,#111111,#111111,3,0.569208328155
 'Chris Cuomo',de,unknown,#111111,#111111,2,0.506592049878
 'Todd Blanche',de,unknown,#111111,#111111,2,0.505985483847
 'Peter Attia',de,unknown,#111111,#111111,2,0.502385796142
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
+'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.487626514129
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
-'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.486964492334
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.485951066604
+'Keir Starmer',de,unknown,#111111,#111111,3,0.485594166281
 'María Corina Machado',de,unknown,#111111,#111111,2,0.483740406173
-'Keir Starmer',de,unknown,#111111,#111111,3,0.483591907421
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.482132718275
 'Tom Homan',de,unknown,#111111,#111111,3,0.481994946162
@@ -69,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.442321599950
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.440756898811
@@ -78,7 +79,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sohn Nick',de,unknown,#111111,#111111,2,0.439513774952
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.438786138977
 'Thomas Müller',de,unknown,#111111,#111111,3,0.438101848165
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.437786835070
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.437348319507
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
