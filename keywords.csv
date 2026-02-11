@@ -1,16 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Mandelson',de,unknown,#111111,#111111,2,0.573710280622
 'Liveblog USA',de,unknown,#111111,#111111,3,0.569208328155
+'Peter Mandelson',de,unknown,#111111,#111111,3,0.562768908529
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.515388072936
 'Chris Cuomo',de,unknown,#111111,#111111,2,0.506592049878
 'Todd Blanche',de,unknown,#111111,#111111,2,0.505985483847
 'Peter Attia',de,unknown,#111111,#111111,2,0.502385796142
+'Keir Starmer',de,unknown,#111111,#111111,3,0.489562856434
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.487626514129
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'María Corina Machado',de,unknown,#111111,#111111,2,0.486406240381
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.485951066604
-'Keir Starmer',de,unknown,#111111,#111111,3,0.485594166281
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.482132718275
 'Tom Homan',de,unknown,#111111,#111111,3,0.481994946162
@@ -58,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Woody Allen',de,unknown,#111111,#111111,3,0.451264164883
 'Helene Fischer',de,unknown,#111111,#111111,3,0.450818693546
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.450497492844
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.450113086906
 'Mario Adorf',de,unknown,#111111,#111111,1,0.449724049006
@@ -69,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.442321599950
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.440756898811
