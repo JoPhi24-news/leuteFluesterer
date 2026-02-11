@@ -1,17 +1,17 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Mandelson',de,unknown,#111111,#111111,3,0.562768908529
+'Peter Mandelson',de,unknown,#111111,#111111,3,0.557856467250
 'Liveblog USA',de,unknown,#111111,#111111,3,0.543325608477
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.515388072936
 'Chris Cuomo',de,unknown,#111111,#111111,2,0.506592049878
 'Todd Blanche',de,unknown,#111111,#111111,2,0.505985483847
 'Peter Attia',de,unknown,#111111,#111111,2,0.502385796142
-'Keir Starmer',de,unknown,#111111,#111111,3,0.490219690039
+'Keir Starmer',de,unknown,#111111,#111111,3,0.492833932510
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.487626514129
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'María Corina Machado',de,unknown,#111111,#111111,2,0.486406240381
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.485951066604
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.484360274242
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485027494223
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.482132718275
 'Tom Homan',de,unknown,#111111,#111111,3,0.481994946162
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kristi Noem',de,unknown,#111111,#111111,3,0.475093086053
 'Alex Pretti',de,unknown,#111111,#111111,3,0.474374443773
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
-'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.473126736761
+'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.473816351807
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.471632145027
@@ -46,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Massie',de,unknown,#111111,#111111,2,0.462295656997
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
 'Brigitte Bardot',de,unknown,#111111,#111111,3,0.461549675559
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.459933545077
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.459677088569
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.456570527818
@@ -58,7 +59,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Woody Allen',de,unknown,#111111,#111111,3,0.451264164883
 'Helene Fischer',de,unknown,#111111,#111111,3,0.450818693546
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.450497492844
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.450113086906
 'Mario Adorf',de,unknown,#111111,#111111,1,0.449724049006
