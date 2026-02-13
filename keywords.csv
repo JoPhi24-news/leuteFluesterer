@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chris Cuomo',de,unknown,#111111,#111111,2,0.506592049878
 'Todd Blanche',de,unknown,#111111,#111111,2,0.505985483847
 'Peter Attia',de,unknown,#111111,#111111,2,0.502385796142
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.497576921541
@@ -114,6 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Met Sally',de,unknown,#111111,#111111,1,0.431073117451
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
 'Paddy Pimblett',de,unknown,#111111,#111111,1,0.430733600736
+'Chris Cuomo',de,unknown,#111111,#111111,1,0.430603242396
 'JULIEN MUGUET',de,Frankreich,#e8e808,#e8e808,1,0.430594199863
 'Ilia Topuria',de,unknown,#111111,#111111,1,0.430549846213
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.430524399241
