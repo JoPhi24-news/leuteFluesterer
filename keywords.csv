@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Todd Blanche',de,unknown,#111111,#111111,3,0.503221234452
+'Todd Blanche',de,unknown,#111111,#111111,3,0.514647883800
 'Peter Attia',de,unknown,#111111,#111111,2,0.502385796142
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.497576921541
 'Keir Starmer',de,unknown,#111111,#111111,3,0.493484232845
 'María Corina Machado',de,unknown,#111111,#111111,2,0.490365250803
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.490317527971
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.490261409453
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.488355922163
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.487683083123
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.486615111482
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
@@ -22,9 +22,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.479484622389
 'Candace Owens',de,unknown,#111111,#111111,2,0.478042173794
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.477277649658
+'Pam Bondi',de,unknown,#111111,#111111,3,0.476678602850
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.476603525842
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
-'Pam Bondi',de,unknown,#111111,#111111,3,0.475994700196
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
 'Kristi Noem',de,unknown,#111111,#111111,3,0.475093086053
@@ -34,13 +34,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.472324735321
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.471911298054
 'Bari Weiss',de,unknown,#111111,#111111,2,0.471586620483
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.467457030293
 'Liveblog USA',de,unknown,#111111,#111111,3,0.466779842205
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.465620586184
 'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
 'Jacob Frey',de,unknown,#111111,#111111,3,0.462683090255
 'Thomas Massie',de,unknown,#111111,#111111,2,0.462295656997
@@ -52,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.456234545857
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
+'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.455229499600
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,2,0.453122468809
@@ -59,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Woody Allen',de,unknown,#111111,#111111,3,0.451264164883
 'Helene Fischer',de,unknown,#111111,#111111,3,0.450818693546
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
-'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.450113086906
 'Mario Adorf',de,unknown,#111111,#111111,1,0.449724049006
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
@@ -130,6 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
+'Steve Bannon',de,unknown,#111111,#111111,2,0.428485305608
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.428387283607
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.428330776023
 'Daniel Cormier',de,unknown,#111111,#111111,1,0.428291590795
@@ -145,7 +146,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alan Jackson',de,unknown,#111111,#111111,1,0.426613481647
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.426602909016
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
-'Steve Bannon',de,unknown,#111111,#111111,2,0.426143119418
 'Abby Phillip',de,unknown,#111111,#111111,1,0.426007899239
 'Ciryl Gane',de,unknown,#111111,#111111,1,0.425959758896
 'Justin Gaethje',de,unknown,#111111,#111111,1,0.425959272437
