@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Todd Blanche',de,unknown,#111111,#111111,3,0.514647883800
 'Peter Attia',de,unknown,#111111,#111111,2,0.502385796142
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.497576921541
 'Keir Starmer',de,unknown,#111111,#111111,3,0.493484232845
@@ -30,11 +29,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kristi Noem',de,unknown,#111111,#111111,3,0.475093086053
 'Alex Pretti',de,unknown,#111111,#111111,3,0.475061574143
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.473983271871
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.473816351807
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.472324735321
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.471911298054
 'Bari Weiss',de,unknown,#111111,#111111,2,0.471586620483
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.456570527818
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.456234545857
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
+'Todd Blanche',de,unknown,#111111,#111111,3,0.456038834866
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.455229499600
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
