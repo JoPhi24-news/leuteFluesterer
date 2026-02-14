@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.490972854446
 'María Corina Machado',de,unknown,#111111,#111111,2,0.490365250803
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.490261409453
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.489015165859
@@ -24,9 +23,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
 'Kristi Noem',de,unknown,#111111,#111111,3,0.475093086053
+'Nicolás Maduro',de,unknown,#111111,#111111,3,0.475081335643
 'Alex Pretti',de,unknown,#111111,#111111,3,0.475061574143
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.474671181304
-'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474394244710
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.473816351807
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.436067249915
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.435854076009
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.435767091750
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.435218467908
@@ -124,6 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Jennings',de,unknown,#111111,#111111,1,0.429518432969
 'Michele Singer Reiner',de,unknown,#111111,#111111,2,0.429285768117
 'reine Mathilde',de,unknown,#111111,#111111,1,0.429258671995
+'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.429108767477
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.428890218339
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
@@ -131,7 +132,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
 'Steve Bannon',de,unknown,#111111,#111111,2,0.428485305608
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.428387283607
-'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.428330776023
 'Daniel Cormier',de,unknown,#111111,#111111,1,0.428291590795
 'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.428268717015
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
