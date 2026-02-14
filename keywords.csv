@@ -1,9 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Keir Starmer',de,unknown,#111111,#111111,3,0.493484232845
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.490972854446
 'María Corina Machado',de,unknown,#111111,#111111,2,0.490365250803
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.490317527971
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.490261409453
-'Peter Mandelson',de,unknown,#111111,#111111,3,0.488355922163
+'Peter Mandelson',de,unknown,#111111,#111111,3,0.489015165859
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.487939227001
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
@@ -26,9 +25,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
 'Kristi Noem',de,unknown,#111111,#111111,3,0.475093086053
 'Alex Pretti',de,unknown,#111111,#111111,3,0.475061574143
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.474671181304
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474394244710
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.473983271871
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.473816351807
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
@@ -64,6 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.447207344655
+'Keir Starmer',de,unknown,#111111,#111111,3,0.447147600646
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.446476369772
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
