@@ -580,7 +580,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Braun',de,unknown,#111111,#111111,1,0.309100527042
 'Chris Kirkpatrick',de,unknown,#111111,#111111,1,0.309065915138
 'Roman Pacino',de,unknown,#111111,#111111,1,0.308644020139
-'Jerod Mayo',de,unknown,#111111,#111111,1,0.308626106277
 'Premier ministre',de,unknown,#111111,#111111,1,0.308546290121
 'Greg Brockman',de,unknown,#111111,#111111,1,0.308518972218
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569701
@@ -771,6 +770,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Hawking',de,UK,#e838e8,#e838e8,1,0.263312458855
 'Elisabeth Borne',de,Frankreich,#e8e808,#e8e808,2,0.262709250824
 'Dawn Staley',de,unknown,#111111,#111111,1,0.262641675079
+'Jerod Mayo',de,unknown,#111111,#111111,1,0.262632220335
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.261372791549
 'Christian Kroll',de,Deutschland,#11dd44,#11dd44,1,0.261284177301
 'Margaret Thatcher',de,UK,#e838e8,#e838e8,1,0.261165356406
