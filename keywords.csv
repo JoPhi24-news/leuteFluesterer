@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.490261409453
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.489015165859
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.487939227001
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.479484622389
 'Candace Owens',de,unknown,#111111,#111111,2,0.478042173794
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.477409143032
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.477277649658
 'Pam Bondi',de,unknown,#111111,#111111,3,0.476678602850
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.476603525842
@@ -24,9 +24,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kristi Noem',de,unknown,#111111,#111111,3,0.475093086053
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.475081335643
 'Alex Pretti',de,unknown,#111111,#111111,3,0.475061574143
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.474671181304
+'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.474504593656
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
-'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.473816351807
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.472256885974
 'Bari Weiss',de,unknown,#111111,#111111,2,0.471586620483
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
 'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
 'Jacob Frey',de,unknown,#111111,#111111,3,0.462683090255
+'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.462585893944
 'Thomas Massie',de,unknown,#111111,#111111,2,0.462295656997
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
 'Brigitte Bardot',de,unknown,#111111,#111111,3,0.461549675559
@@ -92,6 +92,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.432970308328
 'Quand Harry',de,unknown,#111111,#111111,1,0.432965963035
 'Michele Singer',de,unknown,#111111,#111111,1,0.432898350789
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.432841015060
 'Shavkat Rakhmonov',de,unknown,#111111,#111111,1,0.432816390381
 'Francis Ngannou',de,unknown,#111111,#111111,1,0.432808880955
 'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
@@ -114,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Cuomo',de,unknown,#111111,#111111,1,0.430603242396
 'JULIEN MUGUET',de,Frankreich,#e8e808,#e8e808,1,0.430594199863
 'Ilia Topuria',de,unknown,#111111,#111111,1,0.430549846213
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.430524399241
 'MARGARET BRENNAN',de,unknown,#111111,#111111,1,0.430387282051
 'Anant Ambani',de,Indien,#dd3344,#dd3344,1,0.430371334933
 'Karol G',de,Kolumbien,#3355dd,#3355dd,1,0.430327011290
@@ -305,9 +305,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.357772922372
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,2,0.356948116998
+'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.356538197861
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.356470107316
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
-'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.355623447285
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.355325435243
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
