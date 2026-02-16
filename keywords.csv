@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.477409143032
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.477277649658
 'Pam Bondi',de,unknown,#111111,#111111,3,0.476678602850
-'Bruna Ferreira',de,unknown,#111111,#111111,1,0.476603525842
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
@@ -187,6 +186,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,1,0.407562184031
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,2,0.405261188409
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.405148093605
+'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.403801314837
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.403157311832
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
