@@ -1,4 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Juan Pablo Guanipa',de,unknown,#111111,#111111,2,0.606876521316
+'James Carville',de,unknown,#111111,#111111,2,0.509452028886
+'Howard Lutnick',de,unknown,#111111,#111111,2,0.508977042532
+'laffaire Epstein',de,unknown,#111111,#111111,2,0.505682942000
+'Casey Wasserman',de,unknown,#111111,#111111,2,0.504487874289
+'Jack Lang',de,unknown,#111111,#111111,2,0.500766082318
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.489015165859
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.487939227001
@@ -1007,4 +1013,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrés Manuel López Obrador',de,Mexiko,#aadd33,#aadd33,1,0.096044598777
 'Bartholomäus',de,Türkei,#4411ee,#4411ee,1,0.093890554752
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.092242756998
-'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.078232966425
