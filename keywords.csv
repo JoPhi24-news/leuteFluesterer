@@ -1,11 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Howard Lutnick',de,unknown,#111111,#111111,2,0.508977042532
+'Howard Lutnick',de,unknown,#111111,#111111,3,0.535870461152
 'laffaire Epstein',de,unknown,#111111,#111111,2,0.505682942000
 'Casey Wasserman',de,unknown,#111111,#111111,2,0.504487874289
 'Jack Lang',de,unknown,#111111,#111111,2,0.500766082318
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.489015165859
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.488599302709
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.487484000359
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
@@ -16,10 +17,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.479895714904
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
+'Pam Bondi',de,unknown,#111111,#111111,3,0.478722144179
 'Candace Owens',de,unknown,#111111,#111111,2,0.478042173794
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.477409143032
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.477277649658
-'Pam Bondi',de,unknown,#111111,#111111,3,0.476678602850
 'Larry Summers',de,unknown,#111111,#111111,3,0.476161468327
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.475790095992
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.475767057968
@@ -66,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keir Starmer',de,unknown,#111111,#111111,3,0.447147600646
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.446476369772
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.444377102345
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
@@ -81,7 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.436067249915
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.435854076009
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.435767091750
 'Juan Pablo Guanipa',de,unknown,#111111,#111111,3,0.435578893182
