@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'laffaire Epstein',de,unknown,#111111,#111111,2,0.505682942000
 'Casey Wasserman',de,unknown,#111111,#111111,2,0.504487874289
 'Jack Lang',de,unknown,#111111,#111111,2,0.500766082318
 'Howard Lutnick',de,unknown,#111111,#111111,3,0.492260548797
@@ -123,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anant Ambani',de,Indien,#dd3344,#dd3344,1,0.430371334933
 'Karol G',de,Kolumbien,#3355dd,#3355dd,1,0.430327011290
 'Lecornu II ',de,Frankreich,#e8e808,#e8e808,1,0.429980404145
+'laffaire Epstein',de,unknown,#111111,#111111,1,0.429830500700
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.429715519944
 'Scott Jennings',de,unknown,#111111,#111111,1,0.429518432969
 'Michele Singer Reiner',de,unknown,#111111,#111111,2,0.429285768117
