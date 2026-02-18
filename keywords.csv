@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jack Lang',de,unknown,#111111,#111111,2,0.500766082318
+'Jack Lang',de,unknown,#111111,#111111,3,0.505453404970
 'Howard Lutnick',de,unknown,#111111,#111111,3,0.492260548797
-'Peter Mandelson',de,unknown,#111111,#111111,3,0.489015165859
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.492083267051
+'Peter Mandelson',de,unknown,#111111,#111111,3,0.489673093169
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.488599302709
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.487484000359
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
@@ -338,13 +338,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roger Federer',de,Schweiz,#88cc44,#88cc44,2,0.349568761947
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.349300914052
+'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.349056183610
 'Jane Fonda',de,USA,#18e8e8,#18e8e8,2,0.348890543618
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.348771846917
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.348506567653
 'Jason Kelce',de,USA,#18e8e8,#18e8e8,1,0.348445920974
 'Bastian Schweinsteiger',de,Deutschland,#11dd44,#11dd44,2,0.348372654247
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.348202496034
-'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.348128038816
 'Sergio Mattarella',de,Italien,#7722cc,#7722cc,1,0.348064632851
 'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.347385510586
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
