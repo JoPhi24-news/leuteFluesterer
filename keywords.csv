@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.495329271806
 'Howard Lutnick',de,unknown,#111111,#111111,3,0.492260548797
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.490329706631
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.488599302709
@@ -57,7 +56,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helene Fischer',de,unknown,#111111,#111111,3,0.450818693546
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Mario Adorf',de,unknown,#111111,#111111,1,0.449724049006
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.448834493645
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.449572275730
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keir Starmer',de,unknown,#111111,#111111,3,0.447147600646
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.446476369772
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.444182489217
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
@@ -190,10 +190,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,1,0.407562184031
+'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.405610851455
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,2,0.405261188409
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.405148093605
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
-'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.403962414913
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.403801314837
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.403157311832
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
@@ -219,9 +219,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.392242329549
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,1,0.391940467051
+'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.391855729080
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,2,0.391853637195
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.391129309034
-'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.391006157228
 'Jean Castex',de,Frankreich,#e8e808,#e8e808,1,0.390296487248
 'David Cameron',de,UK,#e838e8,#e838e8,2,0.390203230420
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,1,0.389588364168
