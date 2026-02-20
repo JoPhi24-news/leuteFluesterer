@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Mandelson',de,unknown,#111111,#111111,3,0.490329706631
 'Delcy Rodriguez',de,unknown,#111111,#111111,3,0.488599302709
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
@@ -29,12 +28,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bari Weiss',de,unknown,#111111,#111111,2,0.471586620483
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.470862947103
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
+'Peter Mandelson',de,unknown,#111111,#111111,3,0.468458685636
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.467457030293
 'Liveblog USA',de,unknown,#111111,#111111,3,0.466779842205
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
+'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.464713375007
 'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
 'Jacob Frey',de,unknown,#111111,#111111,3,0.462683090255
-'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.462585893944
 'Thomas Massie',de,unknown,#111111,#111111,2,0.462295656997
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
 'Brigitte Bardot',de,unknown,#111111,#111111,3,0.461549675559
@@ -52,19 +52,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,2,0.453122468809
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.452508871024
+'Keir Starmer',de,unknown,#111111,#111111,3,0.452304760172
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Woody Allen',de,unknown,#111111,#111111,3,0.451264164883
 'Helene Fischer',de,unknown,#111111,#111111,3,0.450818693546
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Mario Adorf',de,unknown,#111111,#111111,1,0.449724049006
-'Keir Starmer',de,unknown,#111111,#111111,3,0.447888708930
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.447207344655
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.447161468405
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.446476369772
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.444929436930
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
@@ -663,10 +663,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,1,0.297361387126
 'Paul-Henry Nargeolet',de,Frankreich,#e8e808,#e8e808,1,0.297186599281
 'Sam H',de,unknown,#111111,#111111,1,0.296477821593
+'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.296363284039
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.296302020821
 'King Charles',de,UK,#e838e8,#e838e8,3,0.295966202416
 'Matt Winkelmeyer',de,unknown,#111111,#111111,1,0.295580984723
-'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.295345793358
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.295276485558
 'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.295276122654
 'Kim Reynolds',de,unknown,#111111,#111111,1,0.295098519440
