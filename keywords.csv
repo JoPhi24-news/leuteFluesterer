@@ -1,4 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'James Bond',de,unknown,#111111,#111111,2,0.605626784160
+'Mark Levin',de,unknown,#111111,#111111,2,0.509971870182
+'Noël Barrot',de,unknown,#111111,#111111,2,0.509382960300
+'Chappell Roan',de,unknown,#111111,#111111,2,0.506529524717
+'Caroline Lang',de,unknown,#111111,#111111,2,0.506360945693
+'Les Wexner',de,unknown,#111111,#111111,2,0.504928950747
+'François Mitterrand',de,unknown,#111111,#111111,2,0.501957234167
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
@@ -1010,5 +1017,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.098437202170
 'Gautam Adani',de,Indien,#dd3344,#dd3344,1,0.098015236202
 'Susanne Klatten',de,Deutschland,#11dd44,#11dd44,1,0.096496965025
-'Andrés Manuel López Obrador',de,Mexiko,#aadd33,#aadd33,1,0.096044598777
 'Bartholomäus',de,Türkei,#4411ee,#4411ee,1,0.093890554752
+'Andrés Manuel López Obrador',de,Mexiko,#aadd33,#aadd33,1,0.081637908960
