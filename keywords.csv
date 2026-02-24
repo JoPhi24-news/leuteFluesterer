@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Noël Barrot',de,unknown,#111111,#111111,2,0.509382960300
 'Chappell Roan',de,unknown,#111111,#111111,2,0.506529524717
 'Caroline Lang',de,unknown,#111111,#111111,2,0.506360945693
 'Les Wexner',de,unknown,#111111,#111111,2,0.504928950747
 'François Mitterrand',de,unknown,#111111,#111111,2,0.501957234167
+'Noël Barrot',de,unknown,#111111,#111111,3,0.500529822061
 'James Bond',de,unknown,#111111,#111111,3,0.491954829033
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
@@ -17,11 +17,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.479895714904
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
+'Jack Lang',de,unknown,#111111,#111111,3,0.479585699841
 'Pam Bondi',de,unknown,#111111,#111111,3,0.478722144179
 'Candace Owens',de,unknown,#111111,#111111,2,0.478042173794
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.475767057968
 'Alex Pretti',de,unknown,#111111,#111111,3,0.475747335834
-'Jack Lang',de,unknown,#111111,#111111,3,0.475496750134
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
 'Kristi Noem',de,unknown,#111111,#111111,3,0.475093086053
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.474504593656
@@ -46,8 +46,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.456570527818
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.456234545857
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.456147092397
 'Todd Blanche',de,unknown,#111111,#111111,3,0.456038834866
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.455422326403
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.455229499600
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455164805583
@@ -62,11 +62,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Mario Adorf',de,unknown,#111111,#111111,1,0.449724049006
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.447902549357
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.447207344655
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.447161468405
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.446476369772
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
 'Bari Weiss',de,unknown,#111111,#111111,2,0.444755875268
