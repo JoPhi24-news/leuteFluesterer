@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mark Levin',de,unknown,#111111,#111111,2,0.509971870182
 'Noël Barrot',de,unknown,#111111,#111111,2,0.509382960300
 'Chappell Roan',de,unknown,#111111,#111111,2,0.506529524717
 'Caroline Lang',de,unknown,#111111,#111111,2,0.506360945693
@@ -94,6 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ro Khanna',de,unknown,#111111,#111111,2,0.434335540475
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.434219151921
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
+'Mark Levin',de,unknown,#111111,#111111,1,0.433476089655
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
 'Ben Shapiro',de,unknown,#111111,#111111,1,0.433102086861
 'James Carville',de,unknown,#111111,#111111,1,0.433034239553
