@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Les Wexner',de,unknown,#111111,#111111,2,0.504928950747
+'Les Wexner',de,unknown,#111111,#111111,2,0.524139728135
 'François Mitterrand',de,unknown,#111111,#111111,2,0.501957234167
 'Noël Barrot',de,unknown,#111111,#111111,3,0.500529822061
 'James Bond',de,unknown,#111111,#111111,3,0.491954829033
@@ -43,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.456870424015
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.456682239108
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.456234545857
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Todd Blanche',de,unknown,#111111,#111111,3,0.456038834866
@@ -54,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,2,0.453122468809
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.452318437519
 'Keir Starmer',de,unknown,#111111,#111111,3,0.452304760172
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Woody Allen',de,unknown,#111111,#111111,3,0.451264164883
@@ -203,9 +203,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Larry Summers',de,unknown,#111111,#111111,2,0.404737533078
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.403801314837
+'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.403184752899
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
 'Castel Gandolfo',de,Vatikan,#58b8e8,#58b8e8,1,0.402665476128
-'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.402356684710
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.402077846832
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.401833591320
@@ -390,12 +390,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Roberts',de,USA,#18e8e8,#18e8e8,2,0.340994510489
 'Abraham Lincoln',de,USA,#18e8e8,#18e8e8,2,0.340951595224
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
+'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.340832145283
 'Dana White',de,USA,#18e8e8,#18e8e8,1,0.340566310291
 'Steve Jobs',de,USA,#18e8e8,#18e8e8,3,0.340345782115
 'Demi Moore',de,USA,#18e8e8,#18e8e8,1,0.340168987843
 'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.340047785382
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.339981969671
-'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.339889464498
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.338759987734
