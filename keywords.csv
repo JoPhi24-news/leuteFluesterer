@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Les Wexner',de,unknown,#111111,#111111,2,0.524139728135
 'François Mitterrand',de,unknown,#111111,#111111,2,0.501957234167
 'Noël Barrot',de,unknown,#111111,#111111,3,0.500529822061
 'James Bond',de,unknown,#111111,#111111,3,0.491954829033
@@ -32,6 +31,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.467457030293
 'Liveblog USA',de,unknown,#111111,#111111,3,0.466779842205
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
+'Les Wexner',de,unknown,#111111,#111111,2,0.465468888915
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.464713375007
 'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
 'Jacob Frey',de,unknown,#111111,#111111,3,0.462683090255
@@ -42,8 +42,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.459677088569
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.457404511336
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.456870424015
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.456682239108
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.456234545857
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Todd Blanche',de,unknown,#111111,#111111,3,0.456038834866
