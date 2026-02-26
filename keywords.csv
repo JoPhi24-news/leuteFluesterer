@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Noël Barrot',de,unknown,#111111,#111111,3,0.500529822061
 'James Bond',de,unknown,#111111,#111111,3,0.491954829033
 'Epstein Files',de,unknown,#111111,#111111,3,0.488257368441
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bari Weiss',de,unknown,#111111,#111111,2,0.444755875268
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
+'Noël Barrot',de,unknown,#111111,#111111,3,0.444038002388
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.441954318766
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
@@ -130,12 +130,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II ',de,Frankreich,#e8e808,#e8e808,1,0.429980404145
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.429941530419
 'laffaire Epstein',de,unknown,#111111,#111111,1,0.429830500700
+'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.429667119691
 'Scott Jennings',de,unknown,#111111,#111111,1,0.429518432969
 'Michele Singer Reiner',de,unknown,#111111,#111111,2,0.429285768117
 'reine Mathilde',de,unknown,#111111,#111111,1,0.429258671995
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.429108767477
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
-'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.428890218339
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
@@ -502,6 +502,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Miller',de,unknown,#111111,#111111,1,0.320924279871
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,1,0.320653174005
 'Margot Robbie',de,unknown,#111111,#111111,2,0.320492706206
+'Francesca Albanese',de,Italien,#7722cc,#7722cc,2,0.319906598401
 'Chez Krömer',de,Deutschland,#11dd44,#11dd44,1,0.319800306197
 'Margaret Qualley',de,unknown,#111111,#111111,1,0.319749668263
 'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,2,0.319629047217
@@ -525,7 +526,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.317172477330
 'Robin Roberts',de,unknown,#111111,#111111,1,0.317068266930
 'Leandro De Niro-Rodriguez',de,unknown,#111111,#111111,1,0.317020448280
-'Francesca Albanese',de,Italien,#7722cc,#7722cc,2,0.316965484627
 'Bronny James',de,unknown,#111111,#111111,1,0.316940756144
 'Katja Krasavice',de,Deutschland,#11dd44,#11dd44,1,0.316837847842
 'Jill Biden',de,USA,#18e8e8,#18e8e8,2,0.316781614009
