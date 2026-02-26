@@ -193,6 +193,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Maher',de,unknown,#111111,#111111,2,0.411306168503
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410919867639
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.410623795526
+'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.410566539863
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
@@ -203,7 +204,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Larry Summers',de,unknown,#111111,#111111,2,0.404737533078
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.403801314837
-'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.403184752899
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.402906446302
 'Castel Gandolfo',de,Vatikan,#58b8e8,#58b8e8,1,0.402665476128
@@ -223,6 +223,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.395454920026
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
+'Thierry Breton',de,Frankreich,#e8e808,#e8e808,2,0.392286922563
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.392242329549
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,1,0.391940467051
@@ -267,7 +268,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,1,0.374321916751
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.371934021745
-'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.371160838309
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.370819767256
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.369376545901
