@@ -602,7 +602,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Hasselhorn',de,unknown,#111111,#111111,1,0.308087707205
 'Sergio Massa',de,unknown,#111111,#111111,1,0.308056569607
 'Sean Hannity',de,unknown,#111111,#111111,1,0.308027555114
-'Petro Poroshenko',de,unknown,#111111,#111111,1,0.307932659194
 'Drake Maye',de,unknown,#111111,#111111,1,0.307899273929
 'Ayatollah Chamenei',de,Iran,#11bb99,#11bb99,1,0.307770240762
 'Leonardo da Vinci',de,Italien,#7722cc,#7722cc,2,0.307523361241
@@ -784,6 +783,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elisabeth Borne',de,Frankreich,#e8e808,#e8e808,2,0.262709250824
 'Dawn Staley',de,unknown,#111111,#111111,1,0.262641675079
 'Jerod Mayo',de,unknown,#111111,#111111,1,0.262632220335
+'Petro Poroshenko',de,unknown,#111111,#111111,1,0.261742760315
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.261372791549
 'Christian Kroll',de,Deutschland,#11dd44,#11dd44,1,0.261284177301
 'Margaret Thatcher',de,UK,#e838e8,#e838e8,1,0.261165356406
