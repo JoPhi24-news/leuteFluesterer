@@ -259,7 +259,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.377500221528
 'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.376929558646
-'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.375614548026
+'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.376492843004
 'Kylie Kelce',de,unknown,#111111,#111111,2,0.375362486525
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
@@ -506,7 +506,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francesca Albanese',de,Italien,#7722cc,#7722cc,2,0.319906598401
 'Chez Krömer',de,Deutschland,#11dd44,#11dd44,1,0.319800306197
 'Margaret Qualley',de,unknown,#111111,#111111,1,0.319749668263
-'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,2,0.319629047217
 'Malu Dreyer',de,Deutschland,#11dd44,#11dd44,2,0.319628393216
 'Gayle King',de,unknown,#111111,#111111,1,0.319274050661
 'Prinz Louis',de,UK,#e838e8,#e838e8,2,0.319018665989
@@ -547,6 +546,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Menendez',de,unknown,#111111,#111111,1,0.313943736399
 'Markus Wipperfürth',de,Deutschland,#11dd44,#11dd44,1,0.313704319299
 'Maybritt Illner',de,Deutschland,#11dd44,#11dd44,2,0.313541438702
+'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,3,0.313385605134
 'Vinod Khosla',de,unknown,#111111,#111111,1,0.313353765000
 'Mark Kerr',de,unknown,#111111,#111111,1,0.313270469350
 'Franca Lehfeldt',de,Deutschland,#11dd44,#11dd44,1,0.313269344654
