@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
 'Pam Bondi',de,unknown,#111111,#111111,3,0.478722144179
 'Candace Owens',de,unknown,#111111,#111111,2,0.478042173794
+'Alex Pretti',de,unknown,#111111,#111111,3,0.476431731344
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.475767057968
-'Alex Pretti',de,unknown,#111111,#111111,3,0.475747335834
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
 'Kristi Noem',de,unknown,#111111,#111111,3,0.475093086053
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.474504593656
@@ -31,13 +31,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
 'Les Wexner',de,unknown,#111111,#111111,2,0.465468888915
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.464713375007
+'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.464660905295
 'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.463316258023
 'Jacob Frey',de,unknown,#111111,#111111,3,0.462683090255
 'Thomas Massie',de,unknown,#111111,#111111,2,0.462295656997
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
 'Brigitte Bardot',de,unknown,#111111,#111111,3,0.461549675559
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.461266673940
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.460465650369
 'Howard Lutnick',de,unknown,#111111,#111111,3,0.459737532841
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.459677088569
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.458844767559
@@ -87,18 +88,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.435854076009
-'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.435767091750
 'Juan Pablo Guanipa',de,unknown,#111111,#111111,3,0.435578893182
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.435218467908
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
 'Ro Khanna',de,unknown,#111111,#111111,2,0.434335540475
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.434219151921
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
+'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.433739246565
 'Mark Levin',de,unknown,#111111,#111111,1,0.433476089655
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
 'Ben Shapiro',de,unknown,#111111,#111111,1,0.433102086861
 'James Carville',de,unknown,#111111,#111111,1,0.433034239553
-'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.432970308328
 'Quand Harry',de,unknown,#111111,#111111,1,0.432965963035
 'Michele Singer',de,unknown,#111111,#111111,1,0.432898350789
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.432841015060
@@ -193,9 +193,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.410623795526
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.410566539863
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
+'Erika Kirk',de,USA,#18e8e8,#18e8e8,1,0.409196863586
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
-'Erika Kirk',de,USA,#18e8e8,#18e8e8,1,0.407562184031
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.405610851455
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,2,0.405261188409
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.405148093605
@@ -398,6 +398,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.338759987734
+'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.338688205633
 'Charles Barkley',de,USA,#18e8e8,#18e8e8,1,0.338271583625
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.338187586876
 'Alexander Smirnov',de,Israel,#8822dd,#8822dd,1,0.338133265108
@@ -407,7 +408,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Haitham A-Ghais',de,Kuwait,#3fd97a,#3fd97a,1,0.337768750000
 'Claudia Kempfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
 'Claudia Kemfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
-'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.337741768703
 'Patrick Mahomes',de,USA,#18e8e8,#18e8e8,2,0.337701651743
 'Cara Delevingne',de,UK,#e838e8,#e838e8,1,0.337576117113
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
