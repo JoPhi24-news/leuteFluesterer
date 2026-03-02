@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Quentin Deranque',de,unknown,#111111,#111111,3,0.514267747472
+'Quentin Deranque',de,unknown,#111111,#111111,3,0.510971357494
 'Claire Legendre',de,unknown,#111111,#111111,2,0.507757043571
 'Fabrice Aidan',de,unknown,#111111,#111111,2,0.507338089798
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.505897713500
@@ -330,6 +330,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.355325435243
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.354598354446
+'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.354590420362
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.354077598795
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.353974901044
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
@@ -340,7 +341,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.353330422752
 'Britney Spears',de,USA,#18e8e8,#18e8e8,2,0.352404207175
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.352170971658
-'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.351830720007
 'David Koch',de,USA,#18e8e8,#18e8e8,2,0.351497980293
 'Roger Federer',de,Schweiz,#88cc44,#88cc44,2,0.351418277766
 'Bettina Stark-Watzinger',de,Deutschland,#11dd44,#11dd44,3,0.350958211966
@@ -710,10 +710,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kyle Pope',de,unknown,#111111,#111111,1,0.287380965250
 'Chris Hemsworth',de,unknown,#111111,#111111,1,0.287124473049
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.287103437500
+'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.286583846103
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.286389967249
 'Kemal Klçdarolu',de,Türkei,#4411ee,#4411ee,3,0.286278690666
 'Irina Shayk',de,unknown,#111111,#111111,1,0.286204198439
-'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.285550853097
 'Julia Louis-Dreyfus',de,unknown,#111111,#111111,1,0.285241155776
 'Ursula von der Leyen',de,EU,#bbff33,#bbff33,3,0.285233512843
 'Sandra Maischberger',de,Deutschland,#11dd44,#11dd44,3,0.284471444184
@@ -851,11 +851,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Nehammer',de,Österreich,#6622bb,#6622bb,3,0.231631221730
 'Chelsea Manning',de,USA,#18e8e8,#18e8e8,2,0.231330931094
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
+'Giorgia Meloni',de,Italien,#7722cc,#7722cc,3,0.229846649665
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.229714760019
 'Peter Urban',de,Deutschland,#11dd44,#11dd44,1,0.229686881609
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.229087826642
 'Zach Bryan',de,unknown,#111111,#111111,1,0.228928720379
-'Giorgia Meloni',de,Italien,#7722cc,#7722cc,3,0.228731555703
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.228350263869
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.228009370159
 'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.227375045985
