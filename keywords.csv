@@ -1,7 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Epstein Files',de,unknown,#111111,#111111,3,0.538548833245
+'Quentin Deranque',de,unknown,#111111,#111111,2,0.508287182587
+'Claire Legendre',de,unknown,#111111,#111111,2,0.507757043571
+'Fabrice Aidan',de,unknown,#111111,#111111,2,0.507338089798
+'Conan O’Brien',de,unknown,#111111,#111111,2,0.505897713500
+'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,2,0.502943852492
+'Leslie Wexner',de,unknown,#111111,#111111,2,0.502041928959
+'Nathan Hochman',de,unknown,#111111,#111111,2,0.500578747041
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.483813372178
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.484481683562
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.482690532494
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.482657296804
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
@@ -23,6 +29,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Bond',de,unknown,#111111,#111111,3,0.474491897287
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
+'Epstein Files',de,unknown,#111111,#111111,3,0.471947403258
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.471939329029
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.471557068145
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.471020190980
