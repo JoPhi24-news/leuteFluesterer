@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Fabrice Aidan',de,unknown,#111111,#111111,2,0.507338089798
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.505897713500
 'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,2,0.502943852492
 'Leslie Wexner',de,unknown,#111111,#111111,2,0.502041928959
@@ -124,6 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Romy Reiner',de,unknown,#111111,#111111,2,0.431403566427
 'Dan Hooker',de,unknown,#111111,#111111,1,0.431384882554
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.431264592505
+'Fabrice Aidan',de,unknown,#111111,#111111,1,0.431237406328
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
 'Harry Met Sally',de,unknown,#111111,#111111,1,0.431073117451
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
