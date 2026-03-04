@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Leslie Wexner',de,unknown,#111111,#111111,2,0.502041928959
 'Nathan Hochman',de,unknown,#111111,#111111,2,0.500578747041
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.484698176733
@@ -158,6 +157,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Attia',de,unknown,#111111,#111111,1,0.427027926721
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,2,0.426889133481
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
+'Leslie Wexner',de,unknown,#111111,#111111,1,0.426735834615
 'Alan Jackson',de,unknown,#111111,#111111,1,0.426613481647
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.426602909016
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
