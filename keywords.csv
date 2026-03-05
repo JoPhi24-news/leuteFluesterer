@@ -167,7 +167,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Nathan Hochman',de,unknown,#111111,#111111,1,0.425492084985
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
-'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.424907957330
@@ -308,6 +307,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.361634579761
 'Tom Aspinall',de,UK,#e838e8,#e838e8,1,0.361577459386
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.361250000000
+'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.361250000000
 'Richard David Precht',de,Deutschland,#11dd44,#11dd44,2,0.361055188103
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.360902065819
 'Sophie Turner',de,UK,#e838e8,#e838e8,1,0.360437274561
