@@ -203,7 +203,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
-'Michel Devoret',de,Frankreich,#e8e808,#e8e808,2,0.405261188409
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.405148093605
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.403801314837
@@ -377,6 +376,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.345030443520
 'Chris Luxon',de,Neuseeland,#1818e8,#1818e8,1,0.344952975317
 'Reed Richards',de,USA,#18e8e8,#18e8e8,2,0.344612986480
+'Michel Devoret',de,Frankreich,#e8e808,#e8e808,1,0.344472010148
 'Ulrich Reitz',de,Deutschland,#11dd44,#11dd44,1,0.344276472631
 'Eva Green',de,Frankreich,#e8e808,#e8e808,1,0.344241677240
 'Tom Hanks',de,USA,#18e8e8,#18e8e8,3,0.344173681914
