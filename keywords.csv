@@ -269,7 +269,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,1,0.374321916751
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.371934021745
-'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.370819767256
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.369376545901
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
@@ -540,6 +539,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Safdie',de,unknown,#111111,#111111,2,0.316047256284
 'Jake Tapper',de,unknown,#111111,#111111,1,0.315803967854
 'Ines de Ramon',de,unknown,#111111,#111111,1,0.315461152501
+'Kanye West',de,USA,#18e8e8,#18e8e8,1,0.315197117168
 'Pablo Picasso',de,Spanien,#1144aa,#1144aa,1,0.315119614981
 'Tim Müller',de,Deutschland,#11dd44,#11dd44,3,0.315049243587
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,2,0.314754967443
