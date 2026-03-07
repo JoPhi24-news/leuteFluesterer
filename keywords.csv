@@ -519,7 +519,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lea Bonasera',de,Deutschland,#11dd44,#11dd44,1,0.318423812500
 'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.318423812500
 'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.318347476924
-'Brittany Mahomes',de,unknown,#111111,#111111,1,0.318209565574
 'Michelle O\'Neill',de,Irland,#33bbff,#33bbff,1,0.317954973082
 'Gabriel Attal',de,Frankreich,#e8e808,#e8e808,1,0.317881238693
 'Laurent Berger',de,Frankreich,#e8e808,#e8e808,1,0.317825978813
@@ -751,6 +750,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',de,unknown,#111111,#111111,1,0.271395259460
 'Frank Plasberg',de,Deutschland,#11dd44,#11dd44,2,0.271311355898
 'Silvio Berlusconi',de,Italien,#7722cc,#7722cc,2,0.270648602368
+'Brittany Mahomes',de,unknown,#111111,#111111,1,0.270478130738
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.270468949533
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,1,0.269594136597
 'Arno Antlitz',de,Deutschland,#11dd44,#11dd44,1,0.269381724922
