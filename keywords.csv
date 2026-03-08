@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.487356387197
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.484481683562
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.485148661245
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.482657296804
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.479895714904
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
 'Pam Bondi',de,unknown,#111111,#111111,3,0.478722144179
-'Candace Owens',de,unknown,#111111,#111111,2,0.478042173794
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.477233987278
 'Alex Pretti',de,unknown,#111111,#111111,3,0.476431731344
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.475767057968
@@ -113,6 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.432309059587
 'Bruna Caroline Ferreira',de,unknown,#111111,#111111,2,0.432271642205
 'Margaret Brennan',de,unknown,#111111,#111111,1,0.432266505047
+'Candace Owens',de,unknown,#111111,#111111,2,0.432235937725
 'Nanon Williams',de,unknown,#111111,#111111,1,0.432214722713
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.431988744994
 'Jen Psaki',de,unknown,#111111,#111111,1,0.431882144111
