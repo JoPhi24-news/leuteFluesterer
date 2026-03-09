@@ -171,8 +171,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.424178448725
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.424000916448
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
+'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.422206875743
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.421470555490
-'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.421415446424
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,2,0.420508230232
@@ -417,7 +417,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cara Delevingne',de,UK,#e838e8,#e838e8,1,0.337576117113
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
 'Rudolf Steiner',de,Österreich,#6622bb,#6622bb,1,0.337337795599
-'Kevin Hart',de,USA,#18e8e8,#18e8e8,3,0.337287285817
 'Sergej Surowikin',de,Russland,#e81818,#e81818,1,0.337261748741
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.337033352281
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.336377568567
@@ -607,6 +606,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Hasselhorn',de,unknown,#111111,#111111,1,0.308087707205
 'Sergio Massa',de,unknown,#111111,#111111,1,0.308056569607
 'Sean Hannity',de,unknown,#111111,#111111,1,0.308027555114
+'Kevin Hart',de,USA,#18e8e8,#18e8e8,3,0.307902275252
 'Drake Maye',de,unknown,#111111,#111111,1,0.307899273929
 'Ayatollah Chamenei',de,Iran,#11bb99,#11bb99,1,0.307770240762
 'Leonardo da Vinci',de,Italien,#7722cc,#7722cc,2,0.307523361241
