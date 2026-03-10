@@ -1,7 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kash Patel',de,unknown,#111111,#111111,2,0.500428463857
+'Kash Patel',de,unknown,#111111,#111111,3,0.503042352006
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.487356387197
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485987393947
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.485148661245
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.482657296804
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
@@ -11,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Reiner',de,unknown,#111111,#111111,2,0.481571690715
 'Charles Kushner',de,unknown,#111111,#111111,2,0.481136674594
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.480627595259
 'Mark Kelly',de,unknown,#111111,#111111,2,0.480392466476
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.479895714904
@@ -98,12 +98,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.435854076009
 'Juan Pablo Guanipa',de,unknown,#111111,#111111,3,0.435578893182
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.435278300066
+'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.435272615605
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.435218467908
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
 'Ro Khanna',de,unknown,#111111,#111111,2,0.434335540475
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.434219151921
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
-'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.433739246565
 'Mark Levin',de,unknown,#111111,#111111,1,0.433476089655
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
 'Michelle Reiner',de,unknown,#111111,#111111,1,0.433364826682
@@ -197,10 +197,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.412648994865
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.412246738496
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.412189702619
+'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.412141802240
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.411320517426
 'Bill Maher',de,unknown,#111111,#111111,2,0.411306168503
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410919867639
-'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.410518454909
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,1,0.409196863586
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
