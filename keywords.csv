@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Maud Bregeon',de,unknown,#111111,#111111,2,0.500914914012
 'Kash Patel',de,unknown,#111111,#111111,2,0.500428463857
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.487356387197
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
@@ -54,6 +53,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chappell Roan',de,unknown,#111111,#111111,2,0.455176136108
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455164805583
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.454828767048
+'Maud Bregeon',de,unknown,#111111,#111111,2,0.454798520145
 'Quentin Deranque',de,unknown,#111111,#111111,3,0.454597997441
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.454457234852
@@ -328,9 +328,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,2,0.356948116998
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.356470107316
+'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.356421986067
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
-'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.355507026252
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.355325435243
 'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.355300974603
