@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.487356387197
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.486651366310
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.485148661245
@@ -111,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Carville',de,unknown,#111111,#111111,1,0.433034239553
 'Quand Harry',de,unknown,#111111,#111111,1,0.432965963035
 'Michele Singer',de,unknown,#111111,#111111,1,0.432898350789
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.432884667754
 'Shavkat Rakhmonov',de,unknown,#111111,#111111,1,0.432816390381
 'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
 'Ian Machado Garry',de,unknown,#111111,#111111,1,0.432344346814
@@ -444,6 +444,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lily Gladstone',de,USA,#18e8e8,#18e8e8,1,0.333121756003
 'Bridget Moynahan',de,USA,#18e8e8,#18e8e8,1,0.332967033182
 'Cristiano Ronaldo',de,Portugal,#66bb22,#66bb22,3,0.332262484128
+'Angela Merkel',de,Deutschland,#11dd44,#11dd44,3,0.332180434010
 'Eric Trump',de,USA,#18e8e8,#18e8e8,2,0.332165636979
 'Kate Hudson',de,USA,#18e8e8,#18e8e8,1,0.332116349309
 'Marie Trintignant',de,Frankreich,#e8e808,#e8e808,1,0.331861922850
@@ -453,7 +454,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emily Blunt',de,UK,#e838e8,#e838e8,1,0.331553686645
 'Pedro Sánchez',de,Spanien,#1144aa,#1144aa,2,0.331528466584
 'George Washington',de,USA,#18e8e8,#18e8e8,2,0.331284631744
-'Angela Merkel',de,Deutschland,#11dd44,#11dd44,3,0.331222682588
 'Robert Sesselmann',de,Deutschland,#11dd44,#11dd44,1,0.330955228836
 'Kai Wegner',de,Deutschland,#11dd44,#11dd44,3,0.330766996117
 'Rainer Maria Woelki',de,Deutschland,#11dd44,#11dd44,2,0.330713246305
