@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.489951397034
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.487141617377
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.486651366310
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.485148661245
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.482657296804
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
@@ -35,8 +35,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Les Wexner',de,unknown,#111111,#111111,2,0.465468888915
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.464660905295
 'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
+'Thomas Massie',de,unknown,#111111,#111111,2,0.463716537268
 'Jacob Frey',de,unknown,#111111,#111111,3,0.462683090255
-'Thomas Massie',de,unknown,#111111,#111111,2,0.462295656997
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
 'Brigitte Bardot',de,unknown,#111111,#111111,3,0.461549675559
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.461266673940
@@ -100,7 +100,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.435272615605
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.435218467908
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
-'Ro Khanna',de,unknown,#111111,#111111,2,0.434335540475
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.434219151921
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
 'Mark Levin',de,unknown,#111111,#111111,1,0.433476089655
@@ -134,6 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilia Topuria',de,unknown,#111111,#111111,1,0.430549846213
 'MARGARET BRENNAN',de,unknown,#111111,#111111,1,0.430387282051
 'Karol G',de,Kolumbien,#3355dd,#3355dd,1,0.430327011290
+'Ro Khanna',de,unknown,#111111,#111111,2,0.430235689404
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.430163071475
 'Lecornu II ',de,Frankreich,#e8e808,#e8e808,1,0.429980404145
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.429941530419
@@ -217,6 +217,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
 'Alois Rainer',de,Deutschland,#11dd44,#11dd44,2,0.401320947138
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
+'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.398594815195
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
@@ -228,7 +229,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.395567482620
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
-'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.392703700423
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,2,0.392286922563
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.392242329549
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
