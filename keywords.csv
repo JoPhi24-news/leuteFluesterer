@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.489951397034
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.487141617377
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.492567776503
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.487803285554
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.482657296804
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
@@ -78,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,2,0.444822478533
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.443516134332
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Francis Ngannou',de,unknown,#111111,#111111,2,0.443187578812
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.441954318766
@@ -110,7 +111,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Carville',de,unknown,#111111,#111111,1,0.433034239553
 'Quand Harry',de,unknown,#111111,#111111,1,0.432965963035
 'Michele Singer',de,unknown,#111111,#111111,1,0.432898350789
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.432884667754
 'Shavkat Rakhmonov',de,unknown,#111111,#111111,1,0.432816390381
 'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
 'Ian Machado Garry',de,unknown,#111111,#111111,1,0.432344346814
@@ -678,10 +678,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Ellermann',de,Deutschland,#11dd44,#11dd44,1,0.297797174829
 'Alexander De Croo',de,Belgien,#bb33ff,#bb33ff,1,0.297716995994
 'Jon Batiste',de,unknown,#111111,#111111,1,0.297600966200
+'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.297379143470
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,1,0.297361387126
 'Paul-Henry Nargeolet',de,Frankreich,#e8e808,#e8e808,1,0.297186599281
 'Sam H',de,unknown,#111111,#111111,1,0.296477821593
-'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.296363284039
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.296302020821
 'King Charles',de,UK,#e838e8,#e838e8,3,0.295966202416
 'Matt Winkelmeyer',de,unknown,#111111,#111111,1,0.295580984723
@@ -691,6 +691,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Friedrich',de,Deutschland,#11dd44,#11dd44,2,0.294764753538
 'George Santos',de,USA,#18e8e8,#18e8e8,1,0.294688031739
 'Curtis Yarvin',de,USA,#111111,#111111,1,0.294551701426
+'Kim Jong Un',de,NordKorea,#4811f1,#4811f1,3,0.294391014951
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.294214558840
 'Prinz Heinrich XIII',de,Deutschland,#11dd44,#11dd44,1,0.293638161736
 'Jim Jordan',de,unknown,#111111,#111111,1,0.293333939277
@@ -698,7 +699,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lawrence Jones',de,unknown,#111111,#111111,1,0.292846050533
 'Jacoby Brissett',de,unknown,#111111,#111111,1,0.292819529599
 'Melinda Gates',de,USA,#18e8e8,#18e8e8,2,0.292520929862
-'Kim Jong Un',de,NordKorea,#4811f1,#4811f1,3,0.292348094364
 'Geert Wilders',de,Niederlande,#33ffbb,#33ffbb,2,0.292104477972
 'Norbert Röttgen',de,Deutschland,#11dd44,#11dd44,2,0.292075331741
 'Vo Van Thuong',de,unknown,#111111,#111111,1,0.292059843556
@@ -742,6 +742,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Russland,#e81818,#e81818,3,0.277306448780
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.276595110921
 'James Cameron',de,USA,#18e8e8,#18e8e8,1,0.276122176969
+'Xi Jinping',de,China,#e88818,#e88818,3,0.275730545736
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
 'Erich Honecker',de,Deutschland,#11dd44,#11dd44,1,0.275128434182
 'Markus Krebber',de,Deutschland,#11dd44,#11dd44,2,0.273364356198
@@ -871,14 +872,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Jouzel',de,unknown,#111111,#111111,1,0.225379775988
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.224982473689
 'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.224810135912
-'Boris Pistorius',de,Deutschland,#11dd44,#11dd44,3,0.223437497459
+'Boris Pistorius',de,Deutschland,#11dd44,#11dd44,3,0.224559504741
 'Wolfgang Schäuble',de,Deutschland,#11dd44,#11dd44,2,0.223148145736
 'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.222858241450
 'Jean-Denis Combrexelle',de,unknown,#111111,#111111,1,0.222772504283
 'Dieter Salomon',de,Deutschland,#11dd44,#11dd44,1,0.222764701048
 'Joana Cotar',de,Deutschland,#11dd44,#11dd44,2,0.222687770054
 'Jean-Jacques Rousseau',de,Schweiz,#88cc44,#88cc44,1,0.222323499564
-'Xi Jinping',de,China,#e88818,#e88818,3,0.222304410492
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
 'Joy Behar',de,unknown,#111111,#111111,1,0.222175992892
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
