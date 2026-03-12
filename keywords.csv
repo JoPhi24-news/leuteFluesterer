@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Cruz Beckham',de,Spanien,#1144aa,#1144aa,2,0.509467339451
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.489951397034
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.487141617377
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
@@ -126,7 +127,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Romy Reiner',de,unknown,#111111,#111111,2,0.431403566427
 'Dan Hooker',de,unknown,#111111,#111111,1,0.431384882554
 'Fabrice Aidan',de,unknown,#111111,#111111,1,0.431237406328
-'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
 'Harry Met Sally',de,unknown,#111111,#111111,1,0.431073117451
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
 'Chris Cuomo',de,unknown,#111111,#111111,1,0.430603242396
@@ -190,10 +190,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Samuel',de,USA,#18e8e8,#18e8e8,2,0.418343196774
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
+'Victoria Beckham',de,UK,#e838e8,#e838e8,2,0.417444184364
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
 'Delcy Rodriguez',de,unknown,#111111,#111111,1,0.415309872303
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
-'Victoria Beckham',de,UK,#e838e8,#e838e8,2,0.413425382748
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.412648994865
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.412246738496
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.412189702619
@@ -275,6 +275,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.371934021745
 'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.371154472326
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
+'Brooklyn Beckham',de,UK,#e838e8,#e838e8,1,0.369467340202
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
 'Melanie Guttmann',de,Deutschland,#11dd44,#11dd44,1,0.368475000000
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.368218852520
@@ -304,7 +305,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar M. Yaghi',de,USA,#18e8e8,#18e8e8,1,0.362600249750
 'Gervonta Davis',de,USA,#18e8e8,#18e8e8,1,0.362562268201
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.362495251209
-'Brooklyn Beckham',de,UK,#e838e8,#e838e8,1,0.362291560714
 'König Felipe VI',de,Spanien,#1144aa,#1144aa,1,0.362154228557
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.361715994918
 'Ferdinand Dudenhöffer',de,Deutschland,#11dd44,#11dd44,3,0.361712987269
@@ -327,6 +327,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Asghari',de,Iran,#11bb99,#11bb99,1,0.358138251632
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.357772922372
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
+'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.357029866375
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,2,0.356948116998
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.356470107316
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.356421986067
@@ -341,7 +342,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.353974901044
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.353618343620
-'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.353364530276
 'James Cleverly',de,UK,#e838e8,#e838e8,3,0.353336520045
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.353330422752
 'Britney Spears',de,USA,#18e8e8,#18e8e8,2,0.352404207175
@@ -354,6 +354,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.350226973382
 'James Comer',de,USA,#18e8e8,#18e8e8,1,0.350148716784
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.350123191912
+'David Beckham',de,UK,#e838e8,#e838e8,2,0.350056871123
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
 'Jane Fonda',de,USA,#18e8e8,#18e8e8,2,0.348890543618
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.348771846917
@@ -362,7 +363,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bastian Schweinsteiger',de,Deutschland,#11dd44,#11dd44,2,0.348372654247
 'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.348314104921
 'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.348311493217
-'David Beckham',de,UK,#e838e8,#e838e8,2,0.348202496034
 'Sergio Mattarella',de,Italien,#7722cc,#7722cc,1,0.348064632851
 'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.347385510586
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
