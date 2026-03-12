@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Bond',de,unknown,#111111,#111111,3,0.474491897287
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
-'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.472249807861
+'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.472941168734
 'Epstein Files',de,unknown,#111111,#111111,3,0.471947403258
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.471939329029
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.471020190980
@@ -320,6 +320,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
 'Charles III',de,UK,#e838e8,#e838e8,3,0.359328181690
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.359324345117
+'Robert Francis Prevost',de,USA,#18e8e8,#18e8e8,2,0.359255421766
 'Maja Göpel',de,Deutschland,#11dd44,#11dd44,1,0.358644819504
 'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.358362763714
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.358182989731
@@ -437,7 +438,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.334105394247
 'Oliver Anthony',de,USA,#18e8e8,#18e8e8,1,0.333988588800
 'Rupert Murdoch',de,Australien,#99aa33,#99aa33,1,0.333821629004
-'Robert Francis Prevost',de,USA,#18e8e8,#18e8e8,1,0.333712190313
 'Jeff Ross',de,USA,#18e8e8,#18e8e8,2,0.333705848340
 'Yoon Suk Yeol',de,SüdKorea,#22bb66,#22bb66,2,0.333253232075
 'Prince Charles',de,UK,#e838e8,#e838e8,2,0.333174011643
