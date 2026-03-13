@@ -56,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Quentin Deranque',de,unknown,#111111,#111111,3,0.454597997441
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
-'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,2,0.453122468809
 'Keir Starmer',de,unknown,#111111,#111111,3,0.453035690815
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.452295360749
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
@@ -246,6 +245,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Meadows',de,USA,#18e8e8,#18e8e8,2,0.387525659903
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.387458644881
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
+'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.385154098488
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,1,0.384440615963
 'Maria Sacharowa',de,Russland,#e81818,#e81818,3,0.384375669614
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,2,0.383764278711
