@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.536402344586
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.506365048353
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.491271687540
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
@@ -26,9 +26,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.472941168734
 'Epstein Files',de,unknown,#111111,#111111,3,0.471947403258
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.471939329029
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.470951827191
 'François Mitterrand',de,unknown,#111111,#111111,2,0.470571391899
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.469559785878
 'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.469213983041
 'Liveblog USA',de,unknown,#111111,#111111,3,0.466779842205
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
@@ -192,8 +192,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.417021840722
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
+'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.415369805263
 'Delcy Rodriguez',de,unknown,#111111,#111111,1,0.415309872303
-'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.414565136232
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.412648994865
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.412246738496
@@ -211,11 +211,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.402906446302
 'Castel Gandolfo',de,Vatikan,#58b8e8,#58b8e8,1,0.402665476128
+'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.401926197623
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.401833591320
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
 'Alois Rainer',de,Deutschland,#11dd44,#11dd44,2,0.401320947138
-'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.400263675579
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
@@ -373,10 +373,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pippa Middleton',de,UK,#e838e8,#e838e8,2,0.346453328909
 'Mohammed Bin Salman',de,SaudiArabien,#2266bb,#2266bb,2,0.346424112751
 'Kemal Kılıçdaroğlu',de,Türkei,#4411ee,#4411ee,2,0.346400852550
+'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.346317538416
 'Omar Sy',de,Frankreich,#e8e808,#e8e808,1,0.346119661797
 'Angelina Jolie',de,USA,#18e8e8,#18e8e8,3,0.345852097145
 'Peregrine Pearson',de,UK,#e838e8,#e838e8,2,0.345535958885
-'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.345384530915
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.345355873396
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.345030443520
 'Chris Luxon',de,Neuseeland,#1818e8,#1818e8,1,0.344952975317
