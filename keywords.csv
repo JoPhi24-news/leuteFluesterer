@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.508825444901
 'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.507547786057
 'Elie Favrot',de,unknown,#111111,#111111,2,0.505132077493
 'Nancy Guthrie',de,unknown,#111111,#111111,2,0.503942584009
 'Catherine Pégard',de,unknown,#111111,#111111,2,0.502627306364
+'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.491998072711
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.489939964668
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.488415615887
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
@@ -19,12 +19,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
 'Pam Bondi',de,unknown,#111111,#111111,3,0.479400610769
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.479188558744
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.478797430898
-'Ali Khamenei',de,unknown,#111111,#111111,3,0.476980462945
+'Ali Khamenei',de,unknown,#111111,#111111,3,0.478342980402
 'Alex Pretti',de,unknown,#111111,#111111,3,0.476431731344
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.475767057968
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475094826878
 'Kristi Noem',de,unknown,#111111,#111111,3,0.475093086053
 'James Bond',de,unknown,#111111,#111111,3,0.474491897287
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
@@ -52,8 +52,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Todd Blanche',de,unknown,#111111,#111111,3,0.456038834866
 'Keir Starmer',de,unknown,#111111,#111111,3,0.455944991614
+'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.455909147879
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
-'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.455183910138
 'Chappell Roan',de,unknown,#111111,#111111,2,0.455176136108
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455164805583
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.454828767048
