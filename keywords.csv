@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nancy Guthrie',de,unknown,#111111,#111111,2,0.503942584009
 'Catherine Pégard',de,unknown,#111111,#111111,2,0.502627306364
 'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.494480803176
 'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.491998072711
@@ -152,6 +151,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
 'María Corina Machado',de,unknown,#111111,#111111,2,0.428649242967
+'Nancy Guthrie',de,unknown,#111111,#111111,1,0.428351631408
 'Daniel Cormier',de,unknown,#111111,#111111,1,0.428291590795
 'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.428268717015
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
