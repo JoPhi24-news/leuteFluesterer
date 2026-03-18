@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.491998072711
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.489939964668
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.488415615887
 'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
@@ -13,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
 'Mark Kelly',de,unknown,#111111,#111111,2,0.480392466476
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.479866095406
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
 'Pam Bondi',de,unknown,#111111,#111111,3,0.479400610769
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.479188558744
+'Ali Khamenei',de,unknown,#111111,#111111,3,0.479022202895
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.478797430898
-'Ali Khamenei',de,unknown,#111111,#111111,3,0.478342980402
 'Alex Pretti',de,unknown,#111111,#111111,3,0.476431731344
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.475767057968
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
@@ -154,6 +153,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.428268717015
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
+'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.427694836350
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.427478252158
 'Belal Muhammad',de,unknown,#111111,#111111,1,0.427423756320
 'Kaitlan Collins',de,unknown,#111111,#111111,1,0.427388162268
