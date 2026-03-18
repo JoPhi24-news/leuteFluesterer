@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.489939964668
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.488415615887
-'Rob Reiner',de,unknown,#111111,#111111,3,0.487107659525
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.482132718275
@@ -199,6 +198,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
 'Delcy Rodriguez',de,unknown,#111111,#111111,1,0.415309872303
+'Rob Reiner',de,unknown,#111111,#111111,2,0.414042410596
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.412648994865
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.412246738496
