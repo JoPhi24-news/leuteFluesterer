@@ -143,13 +143,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reine Mathilde',de,unknown,#111111,#111111,1,0.429258671995
 'Raphaël Arnault',de,unknown,#111111,#111111,1,0.429080479882
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
+'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.429046829367
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
 'María Corina Machado',de,unknown,#111111,#111111,2,0.428649242967
 'Nancy Guthrie',de,unknown,#111111,#111111,1,0.428351631408
 'Daniel Cormier',de,unknown,#111111,#111111,1,0.428291590795
-'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.428268717015
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.427694836350
@@ -401,16 +401,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.342202438537
 'David Weiss',de,Schweiz,#88cc44,#88cc44,2,0.342117073411
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.341918987154
+'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.341865353997
 'Pietro Lombardi',de,Deutschland,#11dd44,#11dd44,2,0.341833027636
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,1,0.341700962002
 'Joachim Gauck',de,Deutschland,#11dd44,#11dd44,1,0.341559116541
+'Steve Jobs',de,USA,#18e8e8,#18e8e8,3,0.341287663042
 'nan nan',de,unknown,#dddddd,#dddddd,1,0.341027803203
 'Julia Roberts',de,USA,#18e8e8,#18e8e8,2,0.340994510489
 'Abraham Lincoln',de,USA,#18e8e8,#18e8e8,2,0.340951595224
-'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.340924488358
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
 'Dana White',de,USA,#18e8e8,#18e8e8,1,0.340566310291
-'Steve Jobs',de,USA,#18e8e8,#18e8e8,3,0.340345782115
 'Demi Moore',de,USA,#18e8e8,#18e8e8,1,0.340168987843
 'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.340047785382
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
@@ -494,7 +494,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jesse Watters',de,USA,#18e8e8,#18e8e8,1,0.326058094678
 'Lewis Kaplan',de,USA,#18e8e8,#18e8e8,2,0.325971685129
 'Bruno Le Maire',de,Frankreich,#e8e808,#e8e808,2,0.325904709939
-'Alex Jones',de,USA,#18e8e8,#18e8e8,1,0.325229884736
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,1,0.325182269045
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.325155765774
 'Nadja Abd el Farrag',de,Deutschland,#11dd44,#11dd44,2,0.325134551821
@@ -547,6 +546,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Günther',de,unknown,#111111,#111111,2,0.316119172787
 'Benny Safdie',de,unknown,#111111,#111111,2,0.316047256284
 'Jake Tapper',de,unknown,#111111,#111111,1,0.315803967854
+'Alex Jones',de,USA,#18e8e8,#18e8e8,1,0.315745582026
 'Ines de Ramon',de,unknown,#111111,#111111,1,0.315461152501
 'Kanye West',de,USA,#18e8e8,#18e8e8,1,0.315197117168
 'Pablo Picasso',de,Spanien,#1144aa,#1144aa,1,0.315119614981
