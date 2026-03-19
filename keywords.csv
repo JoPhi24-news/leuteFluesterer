@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Castel Gandolfo',de,Vatikan,#58b8e8,#58b8e8,2,0.492715699709
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.489939964668
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.488415615887
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
@@ -189,6 +188,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.420124587407
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
+'Castel Gandolfo',de,Vatikan,#58b8e8,#58b8e8,2,0.419258389753
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.418572987847
 'Kevin McCarthy',de,USA,#18e8e8,#18e8e8,2,0.418482790348
 'Karin Prien',de,Deutschland,#11dd44,#11dd44,3,0.418364531530
