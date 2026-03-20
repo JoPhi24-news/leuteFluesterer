@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.497524513380
-'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.486473092786
+'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.492392681444
+'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.491488830009
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.482847093216
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
@@ -35,12 +35,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
 'Thomas Massie',de,unknown,#111111,#111111,2,0.463716537268
 'Jacob Frey',de,unknown,#111111,#111111,3,0.462683090255
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.462259866471
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
 'Brigitte Bardot',de,unknown,#111111,#111111,3,0.461549675559
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.461266673940
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.461108346726
 'Howard Lutnick',de,unknown,#111111,#111111,3,0.460453752196
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.460117723258
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.458840911120
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
@@ -266,15 +266,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.380302120527
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.380051399167
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.379479610821
-'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.378465434926
+'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.379338450240
 'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.377857079757
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.377500221528
 'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.377369513476
 'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.376929558646
+'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.376247871373
 'Kylie Kelce',de,unknown,#111111,#111111,2,0.375362486525
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
-'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.374488748193
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,1,0.374321916751
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
