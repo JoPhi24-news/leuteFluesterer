@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.492392681444
-'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.491488830009
+'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.492141817110
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.482847093216
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
@@ -64,12 +63,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Mario Adorf',de,unknown,#111111,#111111,1,0.449724049006
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.447941679374
 'Noël Barrot',de,unknown,#111111,#111111,3,0.447759479631
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.447207344655
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.447200675698
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.446476369772
 'Kash Patel',de,unknown,#111111,#111111,3,0.446173247841
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
@@ -80,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Francis Ngannou',de,unknown,#111111,#111111,2,0.443187578812
+'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.443040154227
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.441954318766
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
