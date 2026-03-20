@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.520957039968
+'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.502317068518
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.494947938622
+'Peter Mandelson',de,unknown,#111111,#111111,3,0.482847093216
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.482430012850
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.482132718275
@@ -9,10 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Reiner',de,unknown,#111111,#111111,2,0.481571690715
 'Charles Kushner',de,unknown,#111111,#111111,2,0.481136674594
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.480542281054
 'Mark Kelly',de,unknown,#111111,#111111,2,0.480392466476
-'Peter Mandelson',de,unknown,#111111,#111111,3,0.480152711416
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.479866095406
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
 'Pam Bondi',de,unknown,#111111,#111111,3,0.479400610769
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.479022202895
@@ -43,11 +43,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.458840911120
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.457962789967
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Todd Blanche',de,unknown,#111111,#111111,3,0.456038834866
 'Keir Starmer',de,unknown,#111111,#111111,3,0.455944991614
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.455909147879
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.455795001533
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
 'Chappell Roan',de,unknown,#111111,#111111,2,0.455176136108
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455164805583
@@ -69,8 +69,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.447207344655
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.447200675698
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.446476369772
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.446458208915
 'Kash Patel',de,unknown,#111111,#111111,3,0.446173247841
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
 'Bari Weiss',de,unknown,#111111,#111111,2,0.445501694495
@@ -92,9 +92,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Müller',de,unknown,#111111,#111111,3,0.438101848165
 'Casey Wasserman',de,unknown,#111111,#111111,1,0.438040141383
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.436907908952
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.436145182182
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.435854076009
 'Juan Pablo Guanipa',de,unknown,#111111,#111111,3,0.435578893182
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.435278300066
@@ -276,9 +276,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,1,0.374321916751
+'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.372723116489
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.371934021745
-'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.371837857155
 'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.371154472326
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,1,0.370356953088
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
@@ -379,11 +379,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed Bin Salman',de,SaudiArabien,#2266bb,#2266bb,2,0.346424112751
 'Kemal Kılıçdaroğlu',de,Türkei,#4411ee,#4411ee,2,0.346400852550
 'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.346317538416
+'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.346270971466
 'Omar Sy',de,Frankreich,#e8e808,#e8e808,1,0.346119661797
 'Angelina Jolie',de,USA,#18e8e8,#18e8e8,3,0.345852097145
 'Peregrine Pearson',de,UK,#e838e8,#e838e8,2,0.345535958885
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.345355873396
-'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.345337881470
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.345030443520
 'Chris Luxon',de,Neuseeland,#1818e8,#1818e8,1,0.344952975317
 'Reed Richards',de,USA,#18e8e8,#18e8e8,2,0.344612986480
