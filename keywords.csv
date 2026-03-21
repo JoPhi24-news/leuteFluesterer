@@ -252,7 +252,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.385154098488
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,1,0.384440615963
-'Maria Sacharowa',de,Russland,#e81818,#e81818,3,0.384375669614
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,2,0.383764278711
 'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.383689756395
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
@@ -485,6 +484,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',de,Frankreich,#e8e808,#e8e808,1,0.326918290029
 'Brad Pitt',de,USA,#18e8e8,#18e8e8,3,0.326856782513
 'Reinhard Marx',de,Deutschland,#11dd44,#11dd44,1,0.326725380392
+'Maria Sacharowa',de,Russland,#e81818,#e81818,2,0.326719844172
 'Wolfgang Kubicki',de,Deutschland,#11dd44,#11dd44,2,0.326688352425
 'Tyson Fury',de,UK,#e838e8,#e838e8,1,0.326389926338
 'Leni Klum',de,USA,#18e8e8,#18e8e8,1,0.326176688483
