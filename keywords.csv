@@ -24,9 +24,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Epstein Files',de,unknown,#111111,#111111,3,0.471947403258
 'François Mitterrand',de,unknown,#111111,#111111,2,0.470571391899
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.469308814129
 'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.469213983041
 'Liveblog USA',de,unknown,#111111,#111111,3,0.468182928112
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.467910218015
 'Islam Makhachev',de,unknown,#111111,#111111,2,0.465641649208
 'Les Wexner',de,unknown,#111111,#111111,2,0.465468888915
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.464660905295
@@ -61,18 +61,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Mario Adorf',de,unknown,#111111,#111111,1,0.449724049006
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.449419306683
+'prince Andrew',de,unknown,#111111,#111111,2,0.449189403529
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
+'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.448228453084
 'Noël Barrot',de,unknown,#111111,#111111,3,0.447759479631
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
+'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.447513264849
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.447207344655
-'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.446746116295
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.446476369772
 'Kash Patel',de,unknown,#111111,#111111,3,0.446173247841
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
 'Bari Weiss',de,unknown,#111111,#111111,2,0.445501694495
-'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.445283320262
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,2,0.444822478533
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.444264393055
@@ -83,10 +84,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.440756898811
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.440699175439
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
 'Nick Reiner',de,unknown,#111111,#111111,2,0.440126116635
 'Sohn Nick',de,unknown,#111111,#111111,2,0.439513774952
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.439187133413
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.438867568080
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.438786138977
 'Thomas Müller',de,unknown,#111111,#111111,3,0.438101848165
@@ -94,9 +95,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
+'Peter Mandelson',de,unknown,#111111,#111111,3,0.436098099057
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.435854076009
 'Juan Pablo Guanipa',de,unknown,#111111,#111111,3,0.435578893182
-'Peter Mandelson',de,unknown,#111111,#111111,3,0.435333783616
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.435278300066
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.435272615605
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.435218467908
@@ -120,7 +121,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.431988744994
 'Jen Psaki',de,unknown,#111111,#111111,1,0.431882144111
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.431803471136
-'prince Andrew',de,unknown,#111111,#111111,1,0.431693151211
 'Claire Legendre',de,unknown,#111111,#111111,1,0.431593502035
 'Romy Reiner',de,unknown,#111111,#111111,2,0.431403566427
 'Dan Hooker',de,unknown,#111111,#111111,1,0.431384882554
