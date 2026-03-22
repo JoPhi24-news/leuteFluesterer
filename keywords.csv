@@ -324,7 +324,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keith Kellogg',de,USA,#18e8e8,#18e8e8,3,0.360077520603
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
 'Charles III',de,UK,#e838e8,#e838e8,3,0.359328181690
-'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.359324345117
 'Robert Francis Prevost',de,USA,#18e8e8,#18e8e8,2,0.359255421766
 'Maja Göpel',de,Deutschland,#11dd44,#11dd44,1,0.358644819504
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.358182989731
@@ -383,6 +382,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angelina Jolie',de,USA,#18e8e8,#18e8e8,3,0.345852097145
 'Peregrine Pearson',de,UK,#e838e8,#e838e8,2,0.345535958885
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.345355873396
+'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.345325933349
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.345030443520
 'Chris Luxon',de,Neuseeland,#1818e8,#1818e8,1,0.344952975317
 'Reed Richards',de,USA,#18e8e8,#18e8e8,2,0.344612986480
@@ -528,6 +528,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lea Bonasera',de,Deutschland,#11dd44,#11dd44,1,0.318423812500
 'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.318423812500
 'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.318347476924
+'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.318283303753
 'Michelle O\'Neill',de,Irland,#33bbff,#33bbff,1,0.317954973082
 'Gabriel Attal',de,Frankreich,#e8e808,#e8e808,1,0.317881238693
 'Laurent Berger',de,Frankreich,#e8e808,#e8e808,1,0.317825978813
@@ -552,7 +553,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pablo Picasso',de,Spanien,#1144aa,#1144aa,1,0.315119614981
 'Tim Müller',de,Deutschland,#11dd44,#11dd44,3,0.315049243587
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,2,0.314754967443
-'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.314347580694
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,2,0.314291324230
 'Stefan Kolev',de,Deutschland,#11dd44,#11dd44,1,0.314267330783
 'Nancy Mace',de,unknown,#111111,#111111,1,0.314251744840
