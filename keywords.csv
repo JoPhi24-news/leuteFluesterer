@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Savannah Guthrie',de,unknown,#111111,#111111,2,0.509889366607
 'Markwayne Mullin',de,unknown,#111111,#111111,2,0.507151294774
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.505560579626
 'Ali Larijani',de,unknown,#111111,#111111,2,0.504864118201
@@ -112,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
 'Mark Levin',de,unknown,#111111,#111111,1,0.433476089655
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
+'Savannah Guthrie',de,unknown,#111111,#111111,1,0.433406141616
 'Michelle Reiner',de,unknown,#111111,#111111,1,0.433364826682
 'Ben Shapiro',de,unknown,#111111,#111111,1,0.433102086861
 'James Carville',de,unknown,#111111,#111111,1,0.433034239553
