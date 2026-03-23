@@ -841,7 +841,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
-'Lance Bass',de,unknown,#111111,#111111,1,0.242573035360
 'Marco Buschmann',de,Deutschland,#11dd44,#11dd44,3,0.242330180960
 'Mateusz Morawiecki',de,Polen,#8844cc,#8844cc,2,0.241238631256
 'Billy Crystal',de,unknown,#111111,#111111,1,0.240830858046
@@ -921,6 +920,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cillian Murphy',de,Irland,#33bbff,#33bbff,3,0.207266170663
 'Andrzej Duda',de,Polen,#8844cc,#8844cc,3,0.207231072552
 'Julian Assange',de,Australien,#99aa33,#99aa33,3,0.206780390813
+'Lance Bass',de,unknown,#111111,#111111,1,0.206187080056
 'Roberta Metsola',de,EU,#bbff33,#bbff33,2,0.206031686168
 'Jan Lipavský',de,Tschechien,#cc8844,#cc8844,1,0.205191517846
 'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.205078210417
