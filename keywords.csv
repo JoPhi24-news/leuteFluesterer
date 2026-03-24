@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Markwayne Mullin',de,unknown,#111111,#111111,3,0.518389715182
 'Ali Larijani',de,unknown,#111111,#111111,2,0.504864118201
 'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.504112342899
 'David Amiel',de,unknown,#111111,#111111,2,0.503946912612
@@ -90,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.440756898811
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.440699175439
+'Markwayne Mullin',de,unknown,#111111,#111111,2,0.440632157905
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
 'Nick Reiner',de,unknown,#111111,#111111,2,0.440126116635
 'Sohn Nick',de,unknown,#111111,#111111,2,0.439513774952
