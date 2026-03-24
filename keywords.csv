@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.522593527557
 'Markwayne Mullin',de,unknown,#111111,#111111,3,0.518389715182
 'Ali Larijani',de,unknown,#111111,#111111,2,0.504864118201
 'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.504112342899
 'David Amiel',de,unknown,#111111,#111111,2,0.503946912612
 'Chris Nanos',de,unknown,#111111,#111111,2,0.500593271912
 'Kristi Noem',de,unknown,#111111,#111111,3,0.496370366482
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485618139787
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.482804382992
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
 'Tom Homan',de,unknown,#111111,#111111,3,0.481994946162
@@ -751,9 +751,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.278010984432
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.277827658288
 'Putin',de,Russland,#e81818,#e81818,3,0.277306448780
+'Xi Jinping',de,China,#e88818,#e88818,3,0.276778705332
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.276595110921
 'James Cameron',de,USA,#18e8e8,#18e8e8,1,0.276122176969
-'Xi Jinping',de,China,#e88818,#e88818,3,0.275730545736
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
 'Erich Honecker',de,Deutschland,#11dd44,#11dd44,1,0.275128434182
 'Markus Krebber',de,Deutschland,#11dd44,#11dd44,2,0.273364356198
