@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ali Larijani',de,unknown,#111111,#111111,2,0.504864118201
 'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.504112342899
 'David Amiel',de,unknown,#111111,#111111,2,0.503946912612
 'Chris Nanos',de,unknown,#111111,#111111,2,0.500593271912
+'Ali Larijani',de,unknown,#111111,#111111,2,0.498967008653
 'Kristi Noem',de,unknown,#111111,#111111,3,0.496370366482
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485618139787
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.486282849222
 'Nicolas Maduro',de,unknown,#111111,#111111,3,0.482804382992
 'Renee Good',de,unknown,#111111,#111111,2,0.482236262671
 'Tom Homan',de,unknown,#111111,#111111,3,0.481994946162
@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kelly',de,unknown,#111111,#111111,2,0.480392466476
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
+'Ali Khamenei',de,unknown,#111111,#111111,3,0.479700071244
 'Pam Bondi',de,unknown,#111111,#111111,3,0.479400610769
-'Ali Khamenei',de,unknown,#111111,#111111,3,0.479022202895
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.477816038296
 'Alex Pretti',de,unknown,#111111,#111111,3,0.476431731344
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.475804375922
@@ -154,11 +154,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
+'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.428474066436
 'Nancy Guthrie',de,unknown,#111111,#111111,1,0.428351631408
 'Daniel Cormier',de,unknown,#111111,#111111,1,0.428291590795
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
-'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.427694836350
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.427478252158
 'Belal Muhammad',de,unknown,#111111,#111111,1,0.427423756320
 'Kaitlan Collins',de,unknown,#111111,#111111,1,0.427388162268
