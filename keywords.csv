@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.504112342899
 'David Amiel',de,unknown,#111111,#111111,2,0.503946912612
 'Chris Nanos',de,unknown,#111111,#111111,2,0.500593271912
 'Ali Larijani',de,unknown,#111111,#111111,2,0.498967008653
@@ -154,6 +153,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
+'Amélie de Montchalin',de,unknown,#111111,#111111,1,0.428495491464
 'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.428474066436
 'Nancy Guthrie',de,unknown,#111111,#111111,1,0.428351631408
 'Daniel Cormier',de,unknown,#111111,#111111,1,0.428291590795
