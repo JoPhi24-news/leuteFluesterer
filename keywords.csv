@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'David Amiel',de,unknown,#111111,#111111,2,0.503946912612
 'Chris Nanos',de,unknown,#111111,#111111,2,0.500593271912
 'Ali Larijani',de,unknown,#111111,#111111,2,0.498967008653
 'Kristi Noem',de,unknown,#111111,#111111,3,0.496370366482
@@ -155,6 +154,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
 'Amélie de Montchalin',de,unknown,#111111,#111111,1,0.428495491464
 'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.428474066436
+'David Amiel',de,unknown,#111111,#111111,1,0.428354875720
 'Nancy Guthrie',de,unknown,#111111,#111111,1,0.428351631408
 'Daniel Cormier',de,unknown,#111111,#111111,1,0.428291590795
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
