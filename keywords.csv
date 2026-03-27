@@ -20,8 +20,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.474319763900
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472554636182
 'Epstein Files',de,unknown,#111111,#111111,3,0.471947403258
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.471862504380
 'François Mitterrand',de,unknown,#111111,#111111,2,0.470571391899
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
 'Liveblog USA',de,unknown,#111111,#111111,3,0.469580440799
@@ -220,7 +220,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.405148093605
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
-'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.403801314837
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.402906446302
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
@@ -255,6 +254,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.387634114114
 'Mark Meadows',de,USA,#18e8e8,#18e8e8,2,0.387525659903
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.387458644881
+'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.385790373521
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.385154098488
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,1,0.384440615963
