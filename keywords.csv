@@ -351,6 +351,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.354077598795
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.353974901044
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
+'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.353510533558
 'James Cleverly',de,UK,#e838e8,#e838e8,3,0.353336520045
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.353330422752
 'Britney Spears',de,USA,#18e8e8,#18e8e8,2,0.352404207175
@@ -375,7 +376,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',de,Italien,#7722cc,#7722cc,1,0.348064632851
 'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.347385510586
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
-'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.347034579365
 'Hendrik Wüst',de,Deutschland,#11dd44,#11dd44,3,0.346774976595
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.346673972859
 'Alexander Dobrindt',de,Deutschland,#11dd44,#11dd44,3,0.346480414006
@@ -479,6 +479,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérard Larcher',de,Frankreich,#e8e808,#e8e808,1,0.328336642503
 'America Ferrera',de,USA,#18e8e8,#18e8e8,1,0.328313279082
 'Andrew Tate',de,USA,#18e8e8,#18e8e8,1,0.328145935082
+'Wolfgang Kubicki',de,Deutschland,#11dd44,#11dd44,2,0.328090725016
 'Laura Ingraham',de,USA,#18e8e8,#18e8e8,2,0.328084577896
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,2,0.327901257941
 'Edouard Philippe',de,Frankreich,#e8e808,#e8e808,2,0.327724688502
@@ -491,7 +492,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brad Pitt',de,USA,#18e8e8,#18e8e8,3,0.326856782513
 'Reinhard Marx',de,Deutschland,#11dd44,#11dd44,1,0.326725380392
 'Maria Sacharowa',de,Russland,#e81818,#e81818,2,0.326719844172
-'Wolfgang Kubicki',de,Deutschland,#11dd44,#11dd44,2,0.326688352425
 'Tyson Fury',de,UK,#e838e8,#e838e8,1,0.326389926338
 'Leni Klum',de,USA,#18e8e8,#18e8e8,1,0.326176688483
 'Camille Cottin',de,Frankreich,#e8e808,#e8e808,1,0.326142521580
