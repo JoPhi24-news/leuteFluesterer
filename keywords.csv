@@ -1,5 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tom Homan',de,unknown,#111111,#111111,3,0.481994946162
+'Hoda Kotb',de,unknown,#111111,#111111,2,0.506929244562
+'Corey Lewandowski',de,unknown,#111111,#111111,2,0.503739067649
+'Stephen Miller',de,unknown,#111111,#111111,2,0.501814974012
+'Viktor Orban',de,unknown,#111111,#111111,2,0.500660849547
+'Rashida Tlaib',de,unknown,#111111,#111111,2,0.500116897046
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.481920052004
 'Charles Kushner',de,unknown,#111111,#111111,2,0.481136674594
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.481051755565
@@ -212,6 +216,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicolas Maduro',de,unknown,#111111,#111111,2,0.410384535543
 'Renee Good',de,unknown,#111111,#111111,1,0.409901198270
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
+'Tom Homan',de,unknown,#111111,#111111,2,0.409696094238
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,1,0.409196863586
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.408513175840
