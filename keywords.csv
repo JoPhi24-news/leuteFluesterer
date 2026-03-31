@@ -1,17 +1,16 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Stephen Miller',de,unknown,#111111,#111111,2,0.501814974012
 'Viktor Orban',de,unknown,#111111,#111111,2,0.500660849547
 'Rashida Tlaib',de,unknown,#111111,#111111,2,0.500116897046
 'Hoda Kotb',de,unknown,#111111,#111111,2,0.494866490196
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.481920052004
+'Pam Bondi',de,unknown,#111111,#111111,3,0.481427904146
 'Charles Kushner',de,unknown,#111111,#111111,2,0.481136674594
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.481051755565
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
-'Pam Bondi',de,unknown,#111111,#111111,3,0.480753488237
 'Mark Kelly',de,unknown,#111111,#111111,2,0.480392466476
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.480077703456
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.478042301048
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.477816038296
 'Kristi Noem',de,unknown,#111111,#111111,3,0.476650944383
 'Alex Pretti',de,unknown,#111111,#111111,3,0.476431731344
@@ -47,6 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.457355320271
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Todd Blanche',de,unknown,#111111,#111111,3,0.456038834866
+'Stephen Miller',de,unknown,#111111,#111111,2,0.455563586145
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
 'Chappell Roan',de,unknown,#111111,#111111,2,0.455176136108
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455164805583
@@ -269,10 +269,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,1,0.382326887908
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
+'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.381508041901
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.381463622459
 'Novak Djokovic',de,Serbien,#4488cc,#4488cc,3,0.381103800458
 'Greta Gerwig',de,USA,#18e8e8,#18e8e8,2,0.380979675716
-'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.380639064741
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.380302120527
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.380051399167
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.379479610821
