@@ -202,6 +202,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Samuel',de,USA,#18e8e8,#18e8e8,2,0.418343196774
 'Victoria Beckham',de,UK,#e838e8,#e838e8,2,0.418243298111
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
+'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,2,0.417841752327
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Chris Nanos',de,unknown,#111111,#111111,1,0.417052294638
 'Delcy Rodriguez',de,unknown,#111111,#111111,1,0.416914789433
@@ -562,7 +563,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',de,USA,#18e8e8,#18e8e8,1,0.315197117168
 'Pablo Picasso',de,Spanien,#1144aa,#1144aa,1,0.315119614981
 'Tim Müller',de,Deutschland,#11dd44,#11dd44,3,0.315049243587
-'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,2,0.314754967443
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,2,0.314291324230
 'Stefan Kolev',de,Deutschland,#11dd44,#11dd44,1,0.314267330783
 'Nancy Mace',de,unknown,#111111,#111111,1,0.314251744840
