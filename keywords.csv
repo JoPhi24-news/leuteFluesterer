@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hoda Kotb',de,unknown,#111111,#111111,2,0.494866490196
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.481920052004
 'Pam Bondi',de,unknown,#111111,#111111,3,0.481427904146
 'Charles Kushner',de,unknown,#111111,#111111,2,0.481136674594
@@ -187,6 +186,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.422206875743
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.421470555490
+'Hoda Kotb',de,unknown,#111111,#111111,2,0.421236576667
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,2,0.420508230232
