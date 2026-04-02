@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.487437395796
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.481920052004
 'Pam Bondi',de,unknown,#111111,#111111,3,0.481427904146
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.481427883070
 'Charles Kushner',de,unknown,#111111,#111111,2,0.481136674594
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.481051755565
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.477816038296
 'Kristi Noem',de,unknown,#111111,#111111,3,0.476650944383
+'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.476488657786
 'Alex Pretti',de,unknown,#111111,#111111,3,0.476431731344
-'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.475804375922
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
 'Michele Reiner',de,unknown,#111111,#111111,2,0.474671756393
 'James Bond',de,unknown,#111111,#111111,3,0.474491897287
@@ -70,7 +70,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.447207344655
-'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.446476369772
 'Kash Patel',de,unknown,#111111,#111111,3,0.446173247841
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
 'Bari Weiss',de,unknown,#111111,#111111,2,0.445501694495
@@ -99,11 +98,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.436799989309
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.436098099057
+'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.436048562691
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.436042724111
 'Juan Pablo Guanipa',de,unknown,#111111,#111111,3,0.435578893182
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.435218467908
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
-'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.434518238699
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.434219151921
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
 'Michele Singer',de,unknown,#111111,#111111,1,0.433667429657
@@ -138,6 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.430163071475
 'Lecornu II ',de,Frankreich,#e8e808,#e8e808,1,0.429980404145
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.429941530419
+'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.429910134761
 'laffaire Epstein',de,unknown,#111111,#111111,1,0.429830500700
 'Scott Jennings',de,unknown,#111111,#111111,1,0.429518432969
 'Elie Favrot',de,unknown,#111111,#111111,1,0.429362325869
@@ -202,9 +202,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Victoria Beckham',de,UK,#e838e8,#e838e8,2,0.418243298111
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,2,0.417841752327
+'Delcy Rodriguez',de,unknown,#111111,#111111,1,0.417714925685
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Chris Nanos',de,unknown,#111111,#111111,1,0.417052294638
-'Delcy Rodriguez',de,unknown,#111111,#111111,1,0.416914789433
 'Rob Reiner',de,unknown,#111111,#111111,2,0.416454783507
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
