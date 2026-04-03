@@ -229,7 +229,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.401833591320
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
-'Alois Rainer',de,Deutschland,#11dd44,#11dd44,2,0.401320947138
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.398021787603
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
@@ -311,6 +310,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yorgos Lanthimos',de,Griechenland,#448722,#448722,1,0.365898397103
 'Anant Ambani',de,Indien,#dd3344,#dd3344,1,0.365815634693
 'Gwede Mantashe',de,Südafrika,#1144ee,#1144ee,1,0.365704405000
+'Alois Rainer',de,Deutschland,#11dd44,#11dd44,3,0.365702201496
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.365625574420
 'Duke Henri',de,Luxemburg,#dd3355,#dd3355,1,0.365421542014
 'Ayo Edebiri',de,USA,#18e8e8,#18e8e8,1,0.364804884722
