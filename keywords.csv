@@ -322,6 +322,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gervonta Davis',de,USA,#18e8e8,#18e8e8,1,0.362562268201
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.362495251209
 'König Felipe VI',de,Spanien,#1144aa,#1144aa,1,0.362154228557
+'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.361807290822
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.361715994918
 'Ferdinand Dudenhöffer',de,Deutschland,#11dd44,#11dd44,3,0.361712987269
 'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.361634579761
@@ -330,7 +331,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.361250000000
 'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.361250000000
 'Richard David Precht',de,Deutschland,#11dd44,#11dd44,2,0.361055188103
-'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.360902065819
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.360901108403
 'Sophie Turner',de,UK,#e838e8,#e838e8,1,0.360437274561
 'Keith Kellogg',de,USA,#18e8e8,#18e8e8,3,0.360077520603
@@ -440,7 +440,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
 'Rudolf Steiner',de,Österreich,#6622bb,#6622bb,1,0.337337795599
 'Sergej Surowikin',de,Russland,#e81818,#e81818,1,0.337261748741
-'Cem Özdemir',de,Deutschland,#11dd44,#11dd44,3,0.337241940622
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.337033352281
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.336377568567
 'Alberto Núñez Feijóo',de,Spanien,#1144aa,#1144aa,2,0.336144572063
@@ -614,6 +613,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',de,USA,#18e8e8,#18e8e8,1,0.310010072034
 'Mindy Kaling',de,unknown,#111111,#111111,1,0.309883617097
 'Buzz Aldrin',de,USA,#18e8e8,#18e8e8,1,0.309879240715
+'Cem Özdemir',de,Deutschland,#11dd44,#11dd44,3,0.309803082711
 'Ron Howard',de,unknown,#111111,#111111,2,0.309724600684
 'Sunny Hostin',de,unknown,#111111,#111111,1,0.309200073287
 'François Braun',de,unknown,#111111,#111111,1,0.309100527042
@@ -976,8 +976,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans Joosten',de,unknown,#111111,#111111,1,0.176444911305
 'Herschel Walker',de,USA,#18e8e8,#18e8e8,1,0.176317398555
 'Wolodymyr Selenski',de,Ukraine,#e818e8,#e818e8,1,0.176280755108
+'Boris Palmer',de,Deutschland,#11dd44,#11dd44,1,0.172087917548
 'Jair Lapid',de,Israel,#8822dd,#8822dd,2,0.171775392327
-'Boris Palmer',de,Deutschland,#11dd44,#11dd44,1,0.169720596200
 'Justin Trudeau',de,Kanada,#ffaabb,#ffaabb,2,0.167305306037
 'Kim Jong-un',de,NordKorea,#4811f1,#4811f1,3,0.166994682129
 'Klaus-Michael Kühne',de,Deutschland,#11dd44,#11dd44,2,0.166959320396
