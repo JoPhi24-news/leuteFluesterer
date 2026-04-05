@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.487437395796
+'Pam Bondi',de,unknown,#111111,#111111,3,0.482100974863
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.481920052004
-'Pam Bondi',de,unknown,#111111,#111111,3,0.481427904146
 'Charles Kushner',de,unknown,#111111,#111111,2,0.481136674594
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.481051755565
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
@@ -41,8 +40,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.458076259707
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
+'Todd Blanche',de,unknown,#111111,#111111,3,0.456762380764
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
-'Todd Blanche',de,unknown,#111111,#111111,3,0.456038834866
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.455742147790
 'Stephen Miller',de,unknown,#111111,#111111,2,0.455563586145
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
 'Chappell Roan',de,unknown,#111111,#111111,2,0.455176136108
@@ -935,8 +935,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roberta Metsola',de,EU,#bbff33,#bbff33,2,0.206031686168
 'Jan Lipavský',de,Tschechien,#cc8844,#cc8844,1,0.205191517846
 'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.205078210417
+'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.204879264526
 'Luisa Neubauer',de,Deutschland,#11dd44,#11dd44,2,0.203934823964
-'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.203732717918
 'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.201606851602
 'Igor Setschin',de,Russland,#e81818,#e81818,2,0.200535646194
 'Faisal Kawusi',de,Deutschland,#11dd44,#11dd44,1,0.199949052960
