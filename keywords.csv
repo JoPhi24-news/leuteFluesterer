@@ -1,4 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Joey Kelly',de,unknown,#111111,#111111,2,0.600978676016
+'Craig Melvin',de,unknown,#111111,#111111,2,0.509060658600
+'Tom Cotton',de,unknown,#111111,#111111,2,0.500471551558
 'Pam Bondi',de,unknown,#111111,#111111,3,0.482100974863
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.481920052004
 'Charles Kushner',de,unknown,#111111,#111111,2,0.481136674594
@@ -180,8 +183,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.424907957330
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.424000916448
+'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.423785133418
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
-'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.422206875743
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.421798277302
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.421470555490
 'Hoda Kotb',de,unknown,#111111,#111111,2,0.421236576667
@@ -192,6 +195,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.420124587407
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.420103020552
+'Herbert Diess',de,Deutschland,#11dd44,#11dd44,2,0.419774853569
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
 'Castel Gandolfo',de,Vatikan,#58b8e8,#58b8e8,2,0.419258389753
 'Kevin McCarthy',de,USA,#18e8e8,#18e8e8,2,0.418482790348
@@ -258,7 +262,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.385790373521
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.385154098488
-'Herbert Diess',de,Deutschland,#11dd44,#11dd44,1,0.384440615963
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,2,0.383764278711
 'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.383689756395
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
@@ -400,6 +403,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrich Reitz',de,Deutschland,#11dd44,#11dd44,1,0.344276472631
 'Eva Green',de,Frankreich,#e8e808,#e8e808,1,0.344241677240
 'Tom Hanks',de,USA,#18e8e8,#18e8e8,3,0.344173681914
+'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.344078026201
 'Matteo Salvini',de,Italien,#7722cc,#7722cc,2,0.343957319957
 'Helge Schneider',de,Deutschland,#11dd44,#11dd44,1,0.343925949611
 'Bill Belichick',de,USA,#18e8e8,#18e8e8,1,0.343048775408
@@ -407,7 +411,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meryl Streep',de,USA,#18e8e8,#18e8e8,1,0.342816442944
 'Rand Paul',de,USA,#18e8e8,#18e8e8,2,0.342339802847
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.342297086745
-'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.342202438537
 'David Weiss',de,Schweiz,#88cc44,#88cc44,2,0.342117073411
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.341918987154
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.341865353997
@@ -424,6 +427,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.340047785382
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
+'Claudia Kemfert',de,Deutschland,#11dd44,#11dd44,1,0.338715139829
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.338688205633
 'Patrick Mahomes',de,USA,#18e8e8,#18e8e8,2,0.338648158701
 'Charles Barkley',de,USA,#18e8e8,#18e8e8,1,0.338271583625
@@ -434,7 +438,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
 'Haitham A-Ghais',de,Kuwait,#3fd97a,#3fd97a,1,0.337768750000
 'Claudia Kempfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
-'Claudia Kemfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
 'Cara Delevingne',de,UK,#e838e8,#e838e8,1,0.337576117113
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
 'Rudolf Steiner',de,Österreich,#6622bb,#6622bb,1,0.337337795599
@@ -730,12 +733,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hemsworth',de,unknown,#111111,#111111,1,0.287124473049
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.287103437500
 'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.286583846103
+'Sandra Maischberger',de,Deutschland,#11dd44,#11dd44,3,0.286539185868
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.286389967249
 'Kemal Klçdarolu',de,Türkei,#4411ee,#4411ee,3,0.286278690666
 'Irina Shayk',de,unknown,#111111,#111111,1,0.286204198439
 'Julia Louis-Dreyfus',de,unknown,#111111,#111111,1,0.285241155776
 'Ursula von der Leyen',de,EU,#bbff33,#bbff33,3,0.285233512843
-'Sandra Maischberger',de,Deutschland,#11dd44,#11dd44,3,0.284471444184
 'William Shakespeare',de,UK,#e838e8,#e838e8,1,0.283965114119
 'Gabor Steingart',de,Deutschland,#11dd44,#11dd44,2,0.283584024228
 'Victoria Monét',de,unknown,#111111,#111111,1,0.283494997568
@@ -773,8 +776,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Silvio Berlusconi',de,Italien,#7722cc,#7722cc,2,0.270648602368
 'Brittany Mahomes',de,unknown,#111111,#111111,1,0.270478130738
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.270468949533
+'Arno Antlitz',de,Deutschland,#11dd44,#11dd44,1,0.270439482609
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,1,0.269594136597
-'Arno Antlitz',de,Deutschland,#11dd44,#11dd44,1,0.269381724922
 'Tino Chrupalla',de,Deutschland,#11dd44,#11dd44,3,0.268649662789
 'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.267062405785
 'Ulrike Hermann',de,unknown,#111111,#111111,1,0.266857846585
