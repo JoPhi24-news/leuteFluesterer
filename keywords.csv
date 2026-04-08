@@ -136,7 +136,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ro Khanna',de,unknown,#111111,#111111,2,0.430235689404
 'María Corina Machado',de,unknown,#111111,#111111,2,0.430202469677
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.430163071475
-'Lecornu II ',de,Frankreich,#e8e808,#e8e808,1,0.429980404145
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.429941530419
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.429910134761
 'laffaire Epstein',de,unknown,#111111,#111111,1,0.429830500700
@@ -313,6 +312,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gwede Mantashe',de,Südafrika,#1144ee,#1144ee,1,0.365704405000
 'Alois Rainer',de,Deutschland,#11dd44,#11dd44,3,0.365702201496
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.365625574420
+'Lecornu II ',de,Frankreich,#e8e808,#e8e808,1,0.365483343523
 'Duke Henri',de,Luxemburg,#dd3355,#dd3355,1,0.365421542014
 'Ayo Edebiri',de,USA,#18e8e8,#18e8e8,1,0.364804884722
 'Tig Notaro',de,USA,#18e8e8,#18e8e8,1,0.364395336276
