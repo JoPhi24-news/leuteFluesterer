@@ -745,7 +745,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Bartiromo',de,unknown,#111111,#111111,1,0.283055669839
 'Michelle Williams',de,unknown,#111111,#111111,1,0.282733422476
 'président de la République',de,Frankreich,#e8e808,#e8e808,1,0.282613504978
-'Nicolas Sarkozy',de,unknown,#111111,#111111,2,0.282029362185
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.281926723588
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.281667364363
 'Gisele Bundchen',de,unknown,#111111,#111111,1,0.281385182451
@@ -860,6 +859,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mateusz Morawiecki',de,Polen,#8844cc,#8844cc,2,0.241238631256
 'Fabien Roussel',de,unknown,#111111,#111111,1,0.240729742413
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.240451797857
+'Nicolas Sarkozy',de,unknown,#111111,#111111,1,0.239725332857
 'Gregor Gysi',de,Deutschland,#11dd44,#11dd44,2,0.239215475841
 'Nancy Faeser',de,Deutschland,#11dd44,#11dd44,3,0.238342388363
 'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,1,0.237904387588
