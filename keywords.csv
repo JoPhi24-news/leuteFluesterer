@@ -702,7 +702,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles',de,UK,#e838e8,#e838e8,3,0.295966202416
 'Matt Winkelmeyer',de,unknown,#111111,#111111,1,0.295580984723
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.295276485558
-'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.295276122654
 'Kim Reynolds',de,unknown,#111111,#111111,1,0.295098519440
 'Holger Friedrich',de,Deutschland,#11dd44,#11dd44,2,0.294764753538
 'George Santos',de,USA,#18e8e8,#18e8e8,1,0.294688031739
@@ -756,6 +755,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.278010984432
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.277827658288
 'Putin',de,Russland,#e81818,#e81818,3,0.277306448780
+'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.276884794256
 'Xi Jinping',de,China,#e88818,#e88818,3,0.276778705332
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.276595110921
 'James Cameron',de,USA,#18e8e8,#18e8e8,1,0.276122176969
