@@ -241,7 +241,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.395567482620
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
-'Thierry Breton',de,Frankreich,#e8e808,#e8e808,2,0.392286922563
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.392242329549
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,1,0.391940467051
@@ -456,6 +455,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Anthony',de,USA,#18e8e8,#18e8e8,1,0.333988588800
 'Rupert Murdoch',de,Australien,#99aa33,#99aa33,1,0.333821629004
 'Jeff Ross',de,USA,#18e8e8,#18e8e8,2,0.333705848340
+'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.333443959179
 'Yoon Suk Yeol',de,SüdKorea,#22bb66,#22bb66,2,0.333253232075
 'Prince Charles',de,UK,#e838e8,#e838e8,2,0.333174011643
 'Lily Gladstone',de,USA,#18e8e8,#18e8e8,1,0.333121756003
