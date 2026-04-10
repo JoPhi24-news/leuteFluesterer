@@ -110,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Shapiro',de,unknown,#111111,#111111,1,0.433102086861
 'James Carville',de,unknown,#111111,#111111,1,0.433034239553
 'Quand Harry',de,unknown,#111111,#111111,1,0.432965963035
+'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.432887018597
 'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
 'Craig Melvin',de,unknown,#111111,#111111,1,0.432701574810
 'Ian Machado Garry',de,unknown,#111111,#111111,1,0.432344346814
@@ -226,6 +227,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.402906446302
+'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.402195018328
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.401833591320
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
@@ -251,7 +253,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,1,0.389588364168
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
 'John Clarke',de,USA,#18e8e8,#18e8e8,1,0.389401780306
-'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.388724909917
 'Callum Turner',de,UK,#e838e8,#e838e8,2,0.388128481493
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.387634114114
 'Mark Meadows',de,USA,#18e8e8,#18e8e8,2,0.387525659903
@@ -374,7 +375,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.350123191912
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.350056871123
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
-'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.349239312075
 'Jane Fonda',de,USA,#18e8e8,#18e8e8,2,0.348890543618
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.348771846917
 'Hendrik Wüst',de,Deutschland,#11dd44,#11dd44,3,0.348634417430
