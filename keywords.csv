@@ -55,9 +55,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
 'Helene Fischer',de,unknown,#111111,#111111,3,0.450818693546
+'Mario Adorf',de,unknown,#111111,#111111,1,0.450460075928
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
-'Mario Adorf',de,unknown,#111111,#111111,1,0.449724049006
-'Viktor Orban',de,unknown,#111111,#111111,3,0.449570280825
+'Viktor Orban',de,unknown,#111111,#111111,3,0.450306611200
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.449419306683
 'prince Andrew',de,unknown,#111111,#111111,2,0.449189403529
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
@@ -83,7 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Nick Reiner',de,unknown,#111111,#111111,2,0.441634475594
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.440756898811
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.441510580895
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.440699175439
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
 'Thomas Müller',de,unknown,#111111,#111111,3,0.439618144536
@@ -990,9 +990,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Guterres',de,UN,#e888e8,#e888e8,2,0.162032699536
 'Bruno Retailleau',de,Frankreich,#e8e808,#e8e808,1,0.161214384255
 'Christoph Heusgen',de,Deutschland,#11dd44,#11dd44,2,0.161200775547
-'Daniel Freund',de,EU,#bbff33,#bbff33,2,0.161010698911
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.160288544141
 'Detlef Garbe',de,Deutschland,#11dd44,#11dd44,1,0.160288544141
+'Daniel Freund',de,EU,#bbff33,#bbff33,3,0.159992022256
 'Cyril Ramaphosa',de,Südafrika,#1144ee,#1144ee,2,0.159854590076
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.159128394767
 'Anthony Albanese',de,Australien,#99aa33,#99aa33,2,0.156159836650
