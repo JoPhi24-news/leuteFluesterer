@@ -725,7 +725,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hamish Harding',de,UK,#e838e8,#e838e8,1,0.289627929963
 'Nikki Glaser',de,USA,#18e8e8,#18e8e8,1,0.289368781346
 'Ehud Olmert',de,Israel,#8822dd,#8822dd,1,0.289265527954
-'Wolfgang Benz',de,Deutschland,#11dd44,#11dd44,2,0.288697139092
 'Kate Capshaw',de,unknown,#111111,#111111,1,0.288158777136
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.287576688510
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,1,0.287551078519
@@ -843,6 +842,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.246394292317
 'Mohammed bin Salman',de,SaudiArabien,#2266bb,#2266bb,3,0.245687851726
+'Wolfgang Benz',de,Deutschland,#11dd44,#11dd44,1,0.245392718228
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
 'Kyle Pope',de,unknown,#111111,#111111,1,0.244273820463
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
