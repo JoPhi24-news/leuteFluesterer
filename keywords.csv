@@ -254,7 +254,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Clarke',de,USA,#18e8e8,#18e8e8,1,0.389401780306
 'Callum Turner',de,UK,#e838e8,#e838e8,2,0.388128481493
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.387634114114
-'Mark Meadows',de,USA,#18e8e8,#18e8e8,2,0.387525659903
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.387458644881
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.385790373521
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
@@ -481,6 +480,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Will',de,Deutschland,#11dd44,#11dd44,3,0.330123315476
 'Aaron Rodgers',de,USA,#18e8e8,#18e8e8,1,0.329932646100
 'John Martinis',de,USA,#18e8e8,#18e8e8,1,0.329547879089
+'Mark Meadows',de,USA,#18e8e8,#18e8e8,1,0.329396810918
 'Christiane Schenderlein',de,Deutschland,#11dd44,#11dd44,2,0.329039506920
 'António Guterres',de,Portugal,#66bb22,#66bb22,3,0.328832449824
 'Roberto Saviano',de,Italien,#7722cc,#7722cc,1,0.328523881987
