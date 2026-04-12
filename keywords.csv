@@ -54,7 +54,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
 'Helene Fischer',de,unknown,#111111,#111111,3,0.450818693546
 'Mario Adorf',de,unknown,#111111,#111111,1,0.450460075928
-'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Viktor Orban',de,unknown,#111111,#111111,3,0.450306611200
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.450209833594
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.449419306683
@@ -261,6 +260,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,2,0.383764278711
 'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.383689756395
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
+'Richard Robson',de,Australien,#99aa33,#99aa33,1,0.382880615247
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,1,0.382326887908
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
