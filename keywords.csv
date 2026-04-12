@@ -272,7 +272,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.380051399167
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.379479610821
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.379338450240
-'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.377857079757
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.377500221528
 'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.377369513476
@@ -524,6 +523,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Adams',de,USA,#18e8e8,#18e8e8,2,0.323335007843
 'Bob Menendez',de,unknown,#111111,#111111,1,0.323059398268
 'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.321768502151
+'Merrick Garland',de,USA,#18e8e8,#18e8e8,1,0.321178517793
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.321155089779
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.321089270189
 'Peter Tschentscher',de,Deutschland,#11dd44,#11dd44,2,0.321059408678
