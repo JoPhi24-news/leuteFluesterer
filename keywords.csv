@@ -945,7 +945,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Faisal Kawusi',de,Deutschland,#11dd44,#11dd44,1,0.199949052960
 'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.199922479928
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.198812136611
-'Jack Ma',de,China,#e88818,#e88818,1,0.198163844432
 'Shahzada Dawood',de,Pakistan,#bb3355,#bb3355,1,0.198103507082
 'Christian Drosten',de,Deutschland,#11dd44,#11dd44,2,0.194786454223
 'Aleksandar Vucic',de,Serbien,#4488cc,#4488cc,3,0.194264146212
@@ -981,6 +980,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodymyr Selenski',de,Ukraine,#e818e8,#e818e8,1,0.176280755108
 'Boris Palmer',de,Deutschland,#11dd44,#11dd44,1,0.172087917548
 'Jair Lapid',de,Israel,#8822dd,#8822dd,2,0.171775392327
+'Jack Ma',de,China,#e88818,#e88818,1,0.168439267767
 'Justin Trudeau',de,Kanada,#ffaabb,#ffaabb,2,0.167305306037
 'Kim Jong-un',de,NordKorea,#4811f1,#4811f1,3,0.166994682129
 'Klaus-Michael Kühne',de,Deutschland,#11dd44,#11dd44,2,0.166959320396
