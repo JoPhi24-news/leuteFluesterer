@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Van Der Beek',de,unknown,#111111,#111111,2,0.513800752561
 'Joe Kent',de,unknown,#111111,#111111,2,0.500538641664
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.486072167920
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
@@ -94,6 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.437561433409
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
+'James Van Der Beek',de,unknown,#111111,#111111,1,0.436730744677
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.436098099057
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.436048562691
