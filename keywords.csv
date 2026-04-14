@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Yoav Gallant ',de,unknown,#111111,#111111,3,0.610000000000
 'William Schabas ',de,unknown,#111111,#111111,3,0.610000000000
 'Thilo Jung',de,unknown,#111111,#111111,3,0.610000000000
 'Sebastian Hille',de,unknown,#111111,#111111,3,0.610000000000
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avi Dichter',de,unknown,#111111,#111111,3,0.610000000000
 'Amos Goldberg',de,unknown,#111111,#111111,3,0.610000000000
 'Amihai Eliyahu',de,unknown,#111111,#111111,3,0.610000000000
+'Yoav Gallant ',de,unknown,#111111,#111111,3,0.518800030000
 'Norbert Rollinger',de,Deutschland,#11dd44,#11dd44,1,0.518500015000
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.488719439843
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
