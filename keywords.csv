@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Myron Ebell',de,USA,#18e8e8,#111111,3,0.610000000000
 'Michael Lynk',de,unknown,#111111,#111111,3,0.610000000000
 'Martin Shaw',de,unknown,#111111,#111111,3,0.610000000000
 'Makarim Wobisono',de,unknown,#111111,#111111,3,0.610000000000
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'René Gelber',de,unknown,#111111,#111111,1,0.518500000000
 'Raz Segal',de,unknown,#111111,#111111,1,0.518500000000
 'Penny Green',de,unknown,#111111,#111111,2,0.518500000000
+'Myron Ebell',de,USA,#18e8e8,#111111,1,0.518500000000
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.489377957674
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
