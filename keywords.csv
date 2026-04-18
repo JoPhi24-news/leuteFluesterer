@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Isaac Herzog',de,unknown,#111111,#111111,3,0.610000000000
 'Hannu Halinen',de,unknown,#111111,#111111,3,0.610000000000
 'Giorgio Goacomelli',de,unknown,#111111,#111111,3,0.610000000000
 'Daniel Hagari',de,unknown,#111111,#111111,3,0.610000000000
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Falk',de,unknown,#111111,#111111,3,0.556600060000
 'Yoav Gallant ',de,unknown,#111111,#111111,3,0.518800030000
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.518500450000
+'Isaac Herzog',de,unknown,#111111,#111111,2,0.518500330000
 'Thilo Jung',de,unknown,#111111,#111111,1,0.518500015000
 'Norbert Rollinger',de,Deutschland,#11dd44,#11dd44,1,0.518500015000
 'Michael Lynk',de,unknown,#111111,#111111,2,0.518500015000
