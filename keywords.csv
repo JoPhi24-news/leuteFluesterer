@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Richard Falk',de,unknown,#111111,#111111,3,0.556600060000
 'Yoav Gallant ',de,unknown,#111111,#111111,3,0.518800030000
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.518500450000
 'Isaac Herzog',de,unknown,#111111,#111111,2,0.518500330000
@@ -42,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Bond',de,unknown,#111111,#111111,3,0.474491897287
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.474332632097
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.474319763900
+'Richard Falk',de,unknown,#111111,#111111,2,0.473110111000
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.472089354196
 'Epstein Files',de,unknown,#111111,#111111,3,0.471947403258
