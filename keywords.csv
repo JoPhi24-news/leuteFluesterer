@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.577503083510
 'Richard Falk',de,unknown,#111111,#111111,3,0.556600060000
 'Yoav Gallant ',de,unknown,#111111,#111111,3,0.518800030000
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.518500450000
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Dane',de,unknown,#111111,#111111,2,0.505725478893
 'Diane Keaton',de,unknown,#111111,#111111,2,0.504455127042
 'Kelly Ripa',de,unknown,#111111,#111111,2,0.502278197488
+'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.500379195529
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.490691050913
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
@@ -947,13 +947,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lothar Wieler',de,Deutschland,#11dd44,#11dd44,1,0.214475643039
 'Schellnhuber',de,Deutschland,#11dd44,#11dd44,2,0.214368131729
 'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.213792117426
+'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.213644549566
 'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.213101432961
 'Katalin Novák',de,Ungarn,#33aa99,#33aa99,1,0.212432244683
 'Thomas Haldenwang',de,Deutschland,#11dd44,#11dd44,2,0.212210223330
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,2,0.211854690614
 'Fidel Castro',de,Kuba,#cc4488,#cc4488,2,0.211661539921
 'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.211621018046
-'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.211371436530
 'Annalena Baerbock',de,Deutschland,#11dd44,#11dd44,3,0.210491810356
 'Julian Reichelt',de,Deutschland,#11dd44,#11dd44,2,0.210070563924
 'Charles Michel',de,EU,#bbff33,#bbff33,1,0.209741890994
