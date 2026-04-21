@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sebastian Hille',de,unknown,#111111,#111111,2,0.518500450000
 'Isaac Herzog',de,unknown,#111111,#111111,2,0.518500330000
 'Thilo Jung',de,unknown,#111111,#111111,1,0.518500015000
 'Norbert Rollinger',de,Deutschland,#11dd44,#11dd44,1,0.518500015000
@@ -26,7 +25,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Diane Keaton',de,unknown,#111111,#111111,2,0.504455127042
 'Kelly Ripa',de,unknown,#111111,#111111,2,0.502278197488
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.500379195529
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.490691050913
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.494598974120
+'Sebastian Hille',de,unknown,#111111,#111111,2,0.491130467955
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Viktor Orban',de,unknown,#111111,#111111,3,0.479949748557
@@ -80,8 +80,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.452295360749
 'Woody Allen',de,unknown,#111111,#111111,3,0.451997151212
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.451666390536
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.450932749714
 'Helene Fischer',de,unknown,#111111,#111111,3,0.450818693546
 'Mario Adorf',de,unknown,#111111,#111111,1,0.450460075928
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.450209833594
@@ -227,11 +227,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karin Prien',de,Deutschland,#11dd44,#11dd44,3,0.418364531530
 'Henry Samuel',de,USA,#18e8e8,#18e8e8,2,0.418343196774
 'Victoria Beckham',de,UK,#e838e8,#e838e8,2,0.418243298111
+'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.417878041082
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,2,0.417841752327
 'Delcy Rodriguez',de,unknown,#111111,#111111,1,0.417714925685
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
-'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.417078220442
 'Chris Nanos',de,unknown,#111111,#111111,1,0.417052294638
 'Rob Reiner',de,unknown,#111111,#111111,2,0.416454783507
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
@@ -350,12 +350,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.362612472664
 'Omar M. Yaghi',de,USA,#18e8e8,#18e8e8,1,0.362600249750
 'Gervonta Davis',de,USA,#18e8e8,#18e8e8,1,0.362562268201
+'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.362538477020
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.362495251209
 'König Felipe VI',de,Spanien,#1144aa,#1144aa,1,0.362154228557
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.361807290822
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.361715994918
 'Ferdinand Dudenhöffer',de,Deutschland,#11dd44,#11dd44,3,0.361712987269
-'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.361634579761
 'Tom Aspinall',de,UK,#e838e8,#e838e8,1,0.361577459386
 'Rashida Tlaib',de,unknown,#111111,#111111,1,0.361334458116
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.361250000000
