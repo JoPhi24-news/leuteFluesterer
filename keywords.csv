@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'William Schabas ',de,unknown,#111111,#111111,2,0.518500000000
 'Revital Gottlieb',de,unknown,#111111,#111111,2,0.518500000000
 'René Gelber',de,unknown,#111111,#111111,1,0.518500000000
 'Raz Segal',de,unknown,#111111,#111111,1,0.518500000000
@@ -111,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Lynk',de,unknown,#111111,#111111,1,0.440725027750
 'Amos Goldberg',de,unknown,#111111,#111111,1,0.440725027750
 'Thilo Jung',de,unknown,#111111,#111111,1,0.440725012750
+'William Schabas ',de,unknown,#111111,#111111,1,0.440725000000
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.440699175439
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
 'Thomas Müller',de,unknown,#111111,#111111,3,0.439618144536
