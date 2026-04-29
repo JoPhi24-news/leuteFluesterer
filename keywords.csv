@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kelly Ripa',de,unknown,#111111,#111111,2,0.502278197488
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.500379195529
 'Péter Magyar',de,unknown,#111111,#111111,3,0.494694862393
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.494598974120
@@ -190,6 +189,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Catherine Pégard',de,unknown,#111111,#111111,1,0.427233210409
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Peter Attia',de,unknown,#111111,#111111,1,0.427027926721
+'Kelly Ripa',de,unknown,#111111,#111111,1,0.426936467865
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,2,0.426889133481
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Leslie Wexner',de,unknown,#111111,#111111,1,0.426735834615
