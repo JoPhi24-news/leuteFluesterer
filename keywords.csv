@@ -1,10 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Péter Magyar',de,unknown,#111111,#111111,3,0.494694862393
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.494598974120
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.493915444836
 'Norbert Rollinger',de,Deutschland,#11dd44,#11dd44,1,0.491175072750
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.491130467955
-'Viktor Orban',de,unknown,#111111,#111111,3,0.488633556247
+'Viktor Orban',de,unknown,#111111,#111111,3,0.489292245571
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
@@ -81,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.443762753022
+'Péter Magyar',de,unknown,#111111,#111111,3,0.443628841216
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.443455500982
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Francis Ngannou',de,unknown,#111111,#111111,2,0.443187578812
@@ -760,13 +760,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kate Capshaw',de,unknown,#111111,#111111,1,0.288158777136
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.287576688510
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,1,0.287551078519
+'Ursula von der Leyen',de,EU,#bbff33,#bbff33,3,0.287298873994
 'Chris Hemsworth',de,unknown,#111111,#111111,1,0.287124473049
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.287103437500
 'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.286583846103
 'Sandra Maischberger',de,Deutschland,#11dd44,#11dd44,3,0.286539185868
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.286389967249
 'Kemal Klçdarolu',de,Türkei,#4411ee,#4411ee,3,0.286278690666
-'Ursula von der Leyen',de,EU,#bbff33,#bbff33,3,0.286267001916
 'Irina Shayk',de,unknown,#111111,#111111,1,0.286204198439
 'Julia Louis-Dreyfus',de,unknown,#111111,#111111,1,0.285241155776
 'William Shakespeare',de,UK,#e838e8,#e838e8,1,0.283965114119
@@ -782,11 +782,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',de,EU,#bbff33,#bbff33,2,0.279368283180
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
 'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.279060463985
+'Putin',de,Russland,#e81818,#e81818,3,0.278352200486
 'Robert Kraft',de,unknown,#111111,#111111,2,0.278029904614
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.278010984432
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.277827658288
 'Xi Jinping',de,China,#e88818,#e88818,3,0.277825264517
-'Putin',de,Russland,#e81818,#e81818,3,0.277306448780
 'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.276884794256
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.276595110921
 'James Cameron',de,USA,#18e8e8,#18e8e8,1,0.276122176969
@@ -862,7 +862,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amber Heard',de,USA,#18e8e8,#18e8e8,1,0.255381858055
 'Charlie Munger',de,unknown,#111111,#111111,1,0.255006696635
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.254589514446
-'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.252480090017
+'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.253562574526
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,1,0.252222829181
 'Pat McAfee',de,USA,#18e8e8,#18e8e8,1,0.250956297151
 'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.249471227397
