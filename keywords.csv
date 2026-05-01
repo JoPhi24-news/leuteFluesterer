@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Norbert Rollinger',de,Deutschland,#11dd44,#11dd44,1,0.491175072750
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.491130467955
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
@@ -229,6 +228,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karin Prien',de,Deutschland,#11dd44,#11dd44,3,0.418364531530
 'Henry Samuel',de,USA,#18e8e8,#18e8e8,2,0.418343196774
 'Victoria Beckham',de,UK,#e838e8,#e838e8,2,0.418243298111
+'Norbert Rollinger',de,Deutschland,#11dd44,#11dd44,1,0.417948871837
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,2,0.417841752327
 'Delcy Rodriguez',de,unknown,#111111,#111111,1,0.417714925685
