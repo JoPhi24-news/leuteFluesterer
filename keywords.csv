@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.503583161490
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.493915444836
 'Norbert Rollinger',de,Deutschland,#11dd44,#11dd44,1,0.491175072750
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.491130467955
@@ -115,6 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.438867568080
 'Savannah Guthrie',de,unknown,#111111,#111111,1,0.438751281218
 'Casey Wasserman',de,unknown,#111111,#111111,1,0.438040141383
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.437643381812
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'James Van Der Beek',de,unknown,#111111,#111111,1,0.436730744677
