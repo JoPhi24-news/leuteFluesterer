@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Viktor Orban',de,unknown,#111111,#111111,3,0.492566013204
 'Norbert Rollinger',de,Deutschland,#11dd44,#11dd44,1,0.491175072750
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.491130467955
 'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
@@ -58,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Woody Allen',de,unknown,#111111,#111111,3,0.451997151212
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
+'Viktor Orban',de,unknown,#111111,#111111,3,0.450912148496
 'Helene Fischer',de,unknown,#111111,#111111,3,0.450818693546
 'Mario Adorf',de,unknown,#111111,#111111,1,0.450460075928
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.450209833594
@@ -74,12 +74,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kash Patel',de,unknown,#111111,#111111,3,0.446173247841
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
 'Bari Weiss',de,unknown,#111111,#111111,2,0.445501694495
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.445256828739
 'Markwayne Mullin',de,unknown,#111111,#111111,2,0.445133552072
+'Péter Magyar',de,unknown,#111111,#111111,3,0.445123443404
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,2,0.444822478533
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.444510526595
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
-'Péter Magyar',de,unknown,#111111,#111111,3,0.443628841216
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.443455500982
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Francis Ngannou',de,unknown,#111111,#111111,2,0.443187578812
@@ -214,12 +214,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.421798277302
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.421470555490
 'Hoda Kotb',de,unknown,#111111,#111111,2,0.421236576667
+'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.421061891369
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,2,0.420508230232
 'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.420458697700
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
-'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.420268239674
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.420124587407
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.420103020552
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,2,0.419774853569
@@ -858,11 +858,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.258076975746
 'Kemal Kilicdaroglu',de,Türkei,#4411ee,#4411ee,1,0.257438385831
 'Wolodymyr Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.256842285165
+'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.256800735714
 'Michael Kahle',de,Deutschland,#11dd44,#11dd44,1,0.256585755261
 'Amber Heard',de,USA,#18e8e8,#18e8e8,1,0.255381858055
 'Charlie Munger',de,unknown,#111111,#111111,1,0.255006696635
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.254589514446
-'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.253562574526
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,1,0.252222829181
 'Pat McAfee',de,USA,#18e8e8,#18e8e8,1,0.250956297151
 'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.249471227397
