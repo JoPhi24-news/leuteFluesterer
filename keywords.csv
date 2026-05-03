@@ -188,7 +188,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Peter Attia',de,unknown,#111111,#111111,1,0.427027926721
 'Kelly Ripa',de,unknown,#111111,#111111,1,0.426936467865
-'Michel Barnier',de,Frankreich,#e8e808,#e8e808,2,0.426889133481
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Leslie Wexner',de,unknown,#111111,#111111,1,0.426735834615
 'Alan Jackson',de,unknown,#111111,#111111,1,0.426613481647
@@ -349,6 +348,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Malone',de,USA,#18e8e8,#18e8e8,1,0.363700408881
 'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.363440733943
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.362944774228
+'Michel Barnier',de,Frankreich,#e8e808,#e8e808,1,0.362855793459
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.362710874822
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.362612472664
 'Omar M. Yaghi',de,USA,#18e8e8,#18e8e8,1,0.362600249750
