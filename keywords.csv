@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jacob Elordi',de,unknown,#111111,#111111,3,0.520111801038
+'Jacob Elordi',de,unknown,#111111,#111111,3,0.537955156791
 'Angus Cloud',de,unknown,#111111,#111111,2,0.506345341752
-'Sydney Sweeney',de,unknown,#111111,#111111,2,0.501073520811
+'Sydney Sweeney',de,unknown,#111111,#111111,2,0.504857607992
+'James Bond',de,unknown,#111111,#111111,3,0.483984848496
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
-'James Bond',de,unknown,#111111,#111111,3,0.478592802115
 'Kristi Noem',de,unknown,#111111,#111111,3,0.478014774002
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.477816038296
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.476488657786
@@ -295,10 +295,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
 'Richard Robson',de,Australien,#99aa33,#99aa33,1,0.382880615247
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
+'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.382331064924
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,1,0.382326887908
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
 'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.381508041901
-'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.381463622459
 'Novak Djokovic',de,Serbien,#4488cc,#4488cc,3,0.381103800458
 'Greta Gerwig',de,USA,#18e8e8,#18e8e8,2,0.380979675716
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.380302120527
@@ -482,9 +482,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.335685844193
 'Jerry Seinfeld',de,USA,#18e8e8,#18e8e8,1,0.335118759698
 'Adolf Hitler',de,Deutschland,#11dd44,#11dd44,3,0.335068911946
+'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.335058158739
 'Mira Murati',de,Albanien,#ee742d,#ee742d,1,0.334870621721
 'Cristiano Ronaldo',de,Portugal,#66bb22,#66bb22,3,0.334172741405
-'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.334105394247
 'Oliver Anthony',de,USA,#18e8e8,#18e8e8,1,0.333988588800
 'Rupert Murdoch',de,Australien,#99aa33,#99aa33,1,0.333821629004
 'Jeff Ross',de,USA,#18e8e8,#18e8e8,2,0.333705848340
@@ -541,6 +541,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jesse Watters',de,USA,#18e8e8,#18e8e8,1,0.326058094678
 'Lewis Kaplan',de,USA,#18e8e8,#18e8e8,2,0.325971685129
 'Bruno Le Maire',de,Frankreich,#e8e808,#e8e808,2,0.325904709939
+'Margot Robbie',de,unknown,#111111,#111111,2,0.325356583906
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,1,0.325182269045
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.325155765774
 'Nadja Abd el Farrag',de,Deutschland,#11dd44,#11dd44,2,0.325134551821
@@ -565,7 +566,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Miller',de,unknown,#111111,#111111,1,0.320924279871
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,1,0.320653174005
 'Malu Dreyer',de,Deutschland,#11dd44,#11dd44,2,0.320605932683
-'Margot Robbie',de,unknown,#111111,#111111,2,0.320492706206
 'Francesca Albanese',de,Italien,#7722cc,#7722cc,2,0.319906598401
 'Chez Krömer',de,Deutschland,#11dd44,#11dd44,1,0.319800306197
 'Margaret Qualley',de,unknown,#111111,#111111,1,0.319749668263
@@ -924,9 +924,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Suleika Jaouad',de,unknown,#111111,#111111,1,0.225488402466
 'Willie Nelson',de,unknown,#111111,#111111,1,0.225421861623
 'Jean Jouzel',de,unknown,#111111,#111111,1,0.225379775988
+'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.225102300749
 'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.224810135912
 'Boris Pistorius',de,Deutschland,#11dd44,#11dd44,3,0.224559504741
-'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.223980997063
 'Wolfgang Schäuble',de,Deutschland,#11dd44,#11dd44,2,0.223148145736
 'Jean-Denis Combrexelle',de,unknown,#111111,#111111,1,0.222772504283
 'Dieter Salomon',de,Deutschland,#11dd44,#11dd44,1,0.222764701048
