@@ -1,9 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jacob Elordi',de,unknown,#111111,#111111,2,0.509814804965
+'Jacob Elordi',de,unknown,#111111,#111111,3,0.520111801038
 'Angus Cloud',de,unknown,#111111,#111111,2,0.506345341752
-'Sydney Sweeney',de,unknown,#111111,#111111,2,0.500438413183
+'Sydney Sweeney',de,unknown,#111111,#111111,2,0.501073520811
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
+'James Bond',de,unknown,#111111,#111111,3,0.478592802115
 'Kristi Noem',de,unknown,#111111,#111111,3,0.478014774002
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.477816038296
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.476488657786
@@ -11,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
 'Michele Reiner',de,unknown,#111111,#111111,2,0.474671756393
-'James Bond',de,unknown,#111111,#111111,3,0.474491897287
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.474319763900
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.474160266684
 'Richard Falk',de,unknown,#111111,#111111,2,0.473110111000
