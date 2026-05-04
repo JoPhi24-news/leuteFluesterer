@@ -1,5 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jack Lang',de,unknown,#111111,#111111,3,0.480937839863
+'Jacob Elordi',de,unknown,#111111,#111111,2,0.509814804965
+'Angus Cloud',de,unknown,#111111,#111111,2,0.506345341752
+'Sydney Sweeney',de,unknown,#111111,#111111,2,0.500438413183
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
 'Kristi Noem',de,unknown,#111111,#111111,3,0.478014774002
@@ -116,6 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'James Van Der Beek',de,unknown,#111111,#111111,1,0.436730744677
+'Jack Lang',de,unknown,#111111,#111111,3,0.436475006611
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.436098099057
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.436048562691
@@ -303,9 +306,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.379479610821
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.379338450240
 'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.379117985668
+'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.377805420683
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.377500221528
-'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.376929558646
 'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.376247871373
 'Kylie Kelce',de,unknown,#111111,#111111,2,0.375362486525
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
@@ -865,10 +868,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.254589514446
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,1,0.252222829181
 'Pat McAfee',de,USA,#18e8e8,#18e8e8,1,0.250956297151
+'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.249698353518
 'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.249471227397
 'Selenski',de,Ukraine,#e818e8,#e818e8,1,0.248822842717
 'Harrison Ford',de,unknown,#111111,#111111,1,0.248675424859
-'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.248610381673
 'Kurt Krömer',de,Deutschland,#11dd44,#11dd44,2,0.248464234503
 'Aleksandar Vučić',de,Serbien,#4488cc,#4488cc,1,0.247564191884
 'Péter Szijjártó',de,Ungarn,#33aa99,#33aa99,2,0.247233629196
