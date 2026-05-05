@@ -83,7 +83,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.443455500982
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Francis Ngannou',de,unknown,#111111,#111111,2,0.443187578812
-'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Nick Reiner',de,unknown,#111111,#111111,2,0.441634475594
 'Yoav Gallant ',de,unknown,#111111,#111111,3,0.441430070500
@@ -310,6 +309,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.377500221528
 'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.376247871373
+'Joel Mokyr',de,USA,#18e8e8,#18e8e8,1,0.375531434263
 'Kylie Kelce',de,unknown,#111111,#111111,2,0.375362486525
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
