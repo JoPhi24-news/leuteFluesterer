@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Angus Cloud',de,unknown,#111111,#111111,2,0.506345341752
 'Sydney Sweeney',de,unknown,#111111,#111111,2,0.504857607992
 'James Bond',de,unknown,#111111,#111111,3,0.483984848496
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
@@ -158,6 +157,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Dane',de,unknown,#111111,#111111,1,0.430667006500
 'Chris Cuomo',de,unknown,#111111,#111111,1,0.430603242396
 'Ilia Topuria',de,unknown,#111111,#111111,1,0.430549846213
+'Angus Cloud',de,unknown,#111111,#111111,1,0.430393750489
 'MARGARET BRENNAN',de,unknown,#111111,#111111,1,0.430387282051
 'Karol G',de,Kolumbien,#3355dd,#3355dd,1,0.430327011290
 'Ro Khanna',de,unknown,#111111,#111111,2,0.430235689404
