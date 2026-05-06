@@ -143,7 +143,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Candace Owens',de,unknown,#111111,#111111,2,0.432235937725
 'Nanon Williams',de,unknown,#111111,#111111,1,0.432214722713
 'Jen Psaki',de,unknown,#111111,#111111,1,0.431882144111
-'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.431803471136
 'Claire Legendre',de,unknown,#111111,#111111,1,0.431593502035
 'Romy Reiner',de,unknown,#111111,#111111,2,0.431403566427
 'Dan Hooker',de,unknown,#111111,#111111,1,0.431384882554
@@ -304,6 +303,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.380051399167
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.379479610821
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.379338450240
+'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.379283175466
 'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.379117985668
 'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.377805420683
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
