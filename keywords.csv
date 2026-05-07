@@ -43,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Stephen Miller',de,unknown,#111111,#111111,2,0.455563586145
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.455312907399
 'Chappell Roan',de,unknown,#111111,#111111,2,0.455176136108
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455164805583
 'Maud Bregeon',de,unknown,#111111,#111111,2,0.454798520145
@@ -50,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.454026972377
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.453858628646
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.453817316502
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.452295360749
 'Woody Allen',de,unknown,#111111,#111111,3,0.451997151212
@@ -397,11 +397,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.353330422752
 'Britney Spears',de,USA,#18e8e8,#18e8e8,2,0.352404207175
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.352170971658
+'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.351851685958
 'David Koch',de,USA,#18e8e8,#18e8e8,2,0.351497980293
 'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.351092598372
 'James Comer',de,USA,#18e8e8,#18e8e8,1,0.351073266212
 'Bettina Stark-Watzinger',de,Deutschland,#11dd44,#11dd44,3,0.350958211966
-'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.350928527139
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.350754260725
 'Chris Wright',de,USA,#18e8e8,#18e8e8,3,0.350621619356
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.350226973382
@@ -426,6 +426,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.346270971466
 'Omar Sy',de,Frankreich,#e8e808,#e8e808,1,0.346119661797
 'Angelina Jolie',de,USA,#18e8e8,#18e8e8,3,0.345852097145
+'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.345582969081
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.345355873396
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.345325933349
 'Ulrich Reitz',de,Deutschland,#11dd44,#11dd44,1,0.345211437895
@@ -444,7 +445,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rand Paul',de,USA,#18e8e8,#18e8e8,2,0.342339802847
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.342297086745
 'David Weiss',de,Schweiz,#88cc44,#88cc44,2,0.342117073411
-'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.341918987154
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.341865353997
 'Pietro Lombardi',de,Deutschland,#11dd44,#11dd44,2,0.341833027636
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,1,0.341700962002
@@ -717,6 +717,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.299653784785
 'Andrea Arnold',de,unknown,#111111,#111111,1,0.299422015919
 'Patrick Graichen',de,Deutschland,#11dd44,#11dd44,3,0.299151866067
+'Gerhard Schröder',de,Deutschland,#11dd44,#11dd44,3,0.299070248058
 'Mareike Fallwickl',de,Österreich,#6622bb,#6622bb,1,0.299068907077
 'Pedro Pascal',de,unknown,#111111,#111111,2,0.298888356829
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.298866396965
@@ -725,7 +726,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Hamm',de,USA,#18e8e8,#18e8e8,2,0.298409204029
 'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.298393370410
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,1,0.298375642633
-'Gerhard Schröder',de,Deutschland,#11dd44,#11dd44,3,0.298057112754
 'Isaac Newton',de,UK,#e838e8,#e838e8,1,0.297963499739
 'Andreas Ellermann',de,Deutschland,#11dd44,#11dd44,1,0.297797174829
 'Alexander De Croo',de,Belgien,#bb33ff,#bb33ff,1,0.297716995994
