@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Bond',de,unknown,#111111,#111111,3,0.489066793949
 'Tim Walz',de,unknown,#111111,#111111,2,0.480085295372
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
 'Kristi Noem',de,unknown,#111111,#111111,3,0.478014774002
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
 'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.469213983041
 'Ali Larijani',de,unknown,#111111,#111111,2,0.467482339774
+'James Bond',de,unknown,#111111,#111111,3,0.466113585311
 'Les Wexner',de,unknown,#111111,#111111,2,0.465468888915
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.465368172516
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.465367355762
