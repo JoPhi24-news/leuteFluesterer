@@ -888,7 +888,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
-'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
 'Marco Buschmann',de,Deutschland,#11dd44,#11dd44,3,0.242330180960
 'Billy Crystal',de,unknown,#111111,#111111,1,0.241929659196
@@ -964,6 +963,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Michel',de,EU,#bbff33,#bbff33,1,0.209741890994
 'Ola Källenius',de,Deutschland,#11dd44,#11dd44,2,0.207968429447
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.207697236966
+'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.207410322152
 'Jerome Powell',de,USA,#18e8e8,#18e8e8,3,0.207406820977
 'Bernard Arnault',de,Frankreich,#e8e808,#e8e808,2,0.207385150605
 'Cillian Murphy',de,Irland,#33bbff,#33bbff,3,0.207266170663
