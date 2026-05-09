@@ -320,7 +320,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.371154472326
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,1,0.370356953088
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
-'Joey Kelly',de,unknown,#111111,#111111,1,0.370163714021
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,1,0.369538163397
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
 'Melanie Guttmann',de,Deutschland,#11dd44,#11dd44,1,0.368475000000
@@ -335,6 +334,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mukesh Ambani',de,Indien,#dd3344,#dd3344,1,0.366804351496
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
 'Olivia Nuzzi',de,USA,#18e8e8,#18e8e8,1,0.366448972126
+'Joey Kelly',de,unknown,#111111,#111111,1,0.366439336918
 'Paddy Pimblett',de,unknown,#111111,#111111,1,0.366123560626
 'JULIEN MUGUET',de,Frankreich,#e8e808,#e8e808,1,0.366005069884
 'Yorgos Lanthimos',de,Griechenland,#448722,#448722,1,0.365898397103
