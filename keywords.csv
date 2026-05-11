@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Daniel Craig',de,unknown,#111111,#111111,2,0.602459839121
+'Daniel Craig',de,unknown,#111111,#111111,3,0.587991448253
 'Kendall Jenner',de,unknown,#111111,#111111,1,0.517268738862
 'Hunter Schafer',de,unknown,#111111,#111111,2,0.505516186191
 'Sam Levinson',de,unknown,#111111,#111111,2,0.504714405566
@@ -23,8 +23,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.470239558565
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
 'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.469213983041
+'James Bond',de,unknown,#111111,#111111,3,0.467519316797
 'Ali Larijani',de,unknown,#111111,#111111,2,0.467482339774
-'James Bond',de,unknown,#111111,#111111,3,0.466113585311
 'Les Wexner',de,unknown,#111111,#111111,2,0.465468888915
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.465368172516
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.465367355762
@@ -413,13 +413,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.350123191912
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.350056871123
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
+'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.349242786288
 'Jane Fonda',de,USA,#18e8e8,#18e8e8,2,0.348890543618
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.348771846917
 'Hendrik Wüst',de,Deutschland,#11dd44,#11dd44,3,0.348634417430
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.348506567653
 'Jason Kelce',de,USA,#18e8e8,#18e8e8,1,0.348445920974
 'Bastian Schweinsteiger',de,Deutschland,#11dd44,#11dd44,2,0.348372654247
-'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.348314973615
 'Sergio Mattarella',de,Italien,#7722cc,#7722cc,1,0.348064632851
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.346673972859
