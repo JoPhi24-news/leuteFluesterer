@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sam Levinson',de,unknown,#111111,#111111,2,0.504714405566
 'Scooter Braun',de,unknown,#111111,#111111,2,0.501743426002
 'Daniel Craig',de,unknown,#111111,#111111,2,0.499793316015
 'Kendall Jenner',de,unknown,#111111,#111111,2,0.488173277477
@@ -174,6 +173,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphaël Arnault',de,unknown,#111111,#111111,1,0.429080479882
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
 'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.429046829367
+'Sam Levinson',de,unknown,#111111,#111111,1,0.429007604731
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Diane Keaton',de,unknown,#111111,#111111,1,0.428728940288
