@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kendall Jenner',de,unknown,#111111,#111111,1,0.517268738862
 'Hunter Schafer',de,unknown,#111111,#111111,2,0.505516186191
 'Sam Levinson',de,unknown,#111111,#111111,2,0.504714405566
 'Scooter Braun',de,unknown,#111111,#111111,2,0.501743426002
 'Daniel Craig',de,unknown,#111111,#111111,2,0.499793316015
+'Kendall Jenner',de,unknown,#111111,#111111,2,0.488173277477
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
 'Kristi Noem',de,unknown,#111111,#111111,3,0.478014774002
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.477816038296
@@ -80,9 +80,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bari Weiss',de,unknown,#111111,#111111,2,0.445501694495
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.445256828739
 'Markwayne Mullin',de,unknown,#111111,#111111,2,0.445133552072
+'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.444950784595
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,2,0.444822478533
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
-'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.444203878973
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Francis Ngannou',de,unknown,#111111,#111111,2,0.443187578812
@@ -251,18 +251,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.408513175840
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
 'Tim Walz',de,unknown,#111111,#111111,1,0.408072711066
+'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.407196657996
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.406792004105
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.403850191852
+'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.403733466580
 'John Fetterman',de,unknown,#111111,#111111,2,0.403409988678
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
-'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.402906446302
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.401833591320
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
-'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.399756384046
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
@@ -294,9 +294,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,2,0.383764278711
 'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.383689756395
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
+'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.383196891209
 'Richard Robson',de,Australien,#99aa33,#99aa33,1,0.382880615247
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
-'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.382331064924
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,1,0.382326887908
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
 'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.381508041901
@@ -924,11 +924,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.228009370159
 'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.227375045985
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.226962077491
+'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.226222148379
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.226102477205
 'Suleika Jaouad',de,unknown,#111111,#111111,1,0.225488402466
 'Willie Nelson',de,unknown,#111111,#111111,1,0.225421861623
 'Jean Jouzel',de,unknown,#111111,#111111,1,0.225379775988
-'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.225102300749
 'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.224810135912
 'Boris Pistorius',de,Deutschland,#11dd44,#11dd44,3,0.224559504741
 'Wolfgang Schäuble',de,Deutschland,#11dd44,#11dd44,2,0.223148145736
