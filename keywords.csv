@@ -73,13 +73,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.447207344655
+'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.446440187903
 'Kash Patel',de,unknown,#111111,#111111,3,0.446173247841
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
 'Péter Magyar',de,unknown,#111111,#111111,3,0.445868539032
 'Bari Weiss',de,unknown,#111111,#111111,2,0.445501694495
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.445256828739
 'Markwayne Mullin',de,unknown,#111111,#111111,2,0.445133552072
-'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.444950784595
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,2,0.444822478533
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
@@ -116,6 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.438867568080
 'Savannah Guthrie',de,unknown,#111111,#111111,1,0.438751281218
 'Casey Wasserman',de,unknown,#111111,#111111,1,0.438040141383
+'Alan Jackson',de,unknown,#111111,#111111,2,0.437921489400
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'James Van Der Beek',de,unknown,#111111,#111111,1,0.436730744677
@@ -192,7 +193,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Leslie Wexner',de,unknown,#111111,#111111,1,0.426735834615
-'Alan Jackson',de,unknown,#111111,#111111,1,0.426613481647
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
 'Abby Phillip',de,unknown,#111111,#111111,1,0.426007899239
 'Ciryl Gane',de,unknown,#111111,#111111,1,0.425959758896
