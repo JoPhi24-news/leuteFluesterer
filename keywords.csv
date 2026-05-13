@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Daniel Craig',de,unknown,#111111,#111111,2,0.499793316015
 'Kendall Jenner',de,unknown,#111111,#111111,2,0.488173277477
 'Cilia Flores',de,unknown,#111111,#111111,3,0.479827037894
 'Kristi Noem',de,unknown,#111111,#111111,3,0.478014774002
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
 'Viktor Orban',de,unknown,#111111,#111111,3,0.450912148496
 'Helene Fischer',de,unknown,#111111,#111111,3,0.450818693546
+'Daniel Craig',de,unknown,#111111,#111111,2,0.450724903613
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.450209833594
 'Pam Bondi',de,unknown,#111111,#111111,3,0.450059191305
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.449622534937
@@ -410,10 +410,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.350754260725
 'Chris Wright',de,USA,#18e8e8,#18e8e8,3,0.350621619356
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.350226973382
+'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.350168949066
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.350123191912
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.350056871123
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
-'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.349242786288
 'Jane Fonda',de,USA,#18e8e8,#18e8e8,2,0.348890543618
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.348771846917
 'Hendrik Wüst',de,Deutschland,#11dd44,#11dd44,3,0.348634417430
