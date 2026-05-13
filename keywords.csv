@@ -280,7 +280,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,2,0.391853637195
 'Callum Turner',de,UK,#e838e8,#e838e8,2,0.391538781532
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.391129309034
-'Jean Castex',de,Frankreich,#e8e808,#e8e808,1,0.390296487248
 'David Cameron',de,UK,#e838e8,#e838e8,2,0.390203230420
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,1,0.389588364168
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
@@ -505,6 +504,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kate Hudson',de,USA,#18e8e8,#18e8e8,1,0.332116349309
 'Marie Trintignant',de,Frankreich,#e8e808,#e8e808,1,0.331861922850
 'Joe Jonas',de,USA,#18e8e8,#18e8e8,1,0.331805695327
+'Jean Castex',de,Frankreich,#e8e808,#e8e808,1,0.331752014161
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.331629582494
 'Emily Blunt',de,UK,#e838e8,#e838e8,1,0.331553686645
 'George Washington',de,USA,#18e8e8,#18e8e8,2,0.331284631744
