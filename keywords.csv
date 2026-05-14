@@ -108,7 +108,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Soto',de,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.440699175439
-'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.439836821295
 'Thomas Müller',de,unknown,#111111,#111111,3,0.439618144536
 'Sohn Nick',de,unknown,#111111,#111111,2,0.439513774952
@@ -197,6 +196,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abby Phillip',de,unknown,#111111,#111111,1,0.426007899239
 'Ciryl Gane',de,unknown,#111111,#111111,1,0.425959758896
 'Justin Gaethje',de,unknown,#111111,#111111,1,0.425959272437
+'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.425749058834
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Nathan Hochman',de,unknown,#111111,#111111,1,0.425492084985
@@ -204,7 +204,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.424964517365
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.424907957330
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.424000916448
@@ -251,6 +250,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.408513175840
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
 'Tim Walz',de,unknown,#111111,#111111,1,0.408072711066
+'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.407838681122
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.407196657996
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.406792004105
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
@@ -1005,7 +1005,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Kretschmer',de,Deutschland,#11dd44,#11dd44,3,0.187538004884
 'Bruno Kahl',de,Deutschland,#11dd44,#11dd44,1,0.187458681009
 'Fumio Kishida',de,Japan,#aa9933,#aa9933,3,0.187035135023
-'Benjamin Netanyahu',de,Israel,#8822dd,#8822dd,2,0.185442199232
+'Benjamin Netanyahu',de,Israel,#8822dd,#8822dd,2,0.186609780734
 'Dalai Lama',de,Tibet,#ddaa33,#ddaa33,1,0.183742741883
 'Napoleon Bonaparte',de,Frankreich,#e8e808,#e8e808,2,0.183532816274
 'Steffi Lemke',de,Deutschland,#11dd44,#11dd44,3,0.182995565350
