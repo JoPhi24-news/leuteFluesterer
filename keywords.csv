@@ -379,10 +379,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maja Göpel',de,Deutschland,#11dd44,#11dd44,1,0.358644819504
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.358182989731
 'Sam Asghari',de,Iran,#11bb99,#11bb99,1,0.358138251632
+'Christian Lindner',de,Deutschland,#11dd44,#11dd44,2,0.357860484198
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.357772922372
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.357029866375
-'Christian Lindner',de,Deutschland,#11dd44,#11dd44,2,0.356948116998
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.356470107316
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.356421986067
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.356368451168
@@ -916,7 +916,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Manning',de,USA,#18e8e8,#18e8e8,2,0.231330931094
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.229714760019
-'Peter Urban',de,Deutschland,#11dd44,#11dd44,1,0.229686881609
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.229087826642
 'Zach Bryan',de,unknown,#111111,#111111,1,0.228928720379
 'Björn Höcke',de,Deutschland,#11dd44,#11dd44,2,0.228658225968
@@ -959,6 +958,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.213101432961
 'Katalin Novák',de,Ungarn,#33aa99,#33aa99,1,0.212432244683
 'Thomas Haldenwang',de,Deutschland,#11dd44,#11dd44,2,0.212210223330
+'Peter Urban',de,Deutschland,#11dd44,#11dd44,2,0.212170543004
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,2,0.211854690614
 'Fidel Castro',de,Kuba,#cc4488,#cc4488,2,0.211661539921
 'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.211621018046
