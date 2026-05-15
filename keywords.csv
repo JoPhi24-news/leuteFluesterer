@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Péter Magyar',de,unknown,#111111,#111111,3,0.482229073177
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.478533332569
 'Kristi Noem',de,unknown,#111111,#111111,3,0.478014774002
 'Scooter Braun',de,unknown,#111111,#111111,2,0.476931957102
@@ -74,7 +75,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.446440187903
 'Kash Patel',de,unknown,#111111,#111111,3,0.446173247841
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
-'Péter Magyar',de,unknown,#111111,#111111,3,0.445868539032
 'Bari Weiss',de,unknown,#111111,#111111,2,0.445501694495
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.445256828739
 'Markwayne Mullin',de,unknown,#111111,#111111,2,0.445133552072
@@ -828,6 +828,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aurélien Rousseau',de,unknown,#111111,#111111,1,0.265600826975
 'Drew Bledsoe',de,unknown,#111111,#111111,1,0.265482272619
 'Sara Haines',de,unknown,#111111,#111111,1,0.265434004987
+'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.265367198076
 'Tony Bobulinski',de,unknown,#111111,#111111,1,0.265259610270
 'Robert de Niro',de,USA,#18e8e8,#18e8e8,2,0.265240885600
 'Harry Belafonte',de,USA,#18e8e8,#18e8e8,1,0.265230324335
@@ -866,7 +867,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.258076975746
 'Kemal Kilicdaroglu',de,Türkei,#4411ee,#4411ee,1,0.257438385831
 'Wolodymyr Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.256842285165
-'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.256800735714
 'Michael Kahle',de,Deutschland,#11dd44,#11dd44,1,0.256585755261
 'Amber Heard',de,USA,#18e8e8,#18e8e8,1,0.255381858055
 'Charlie Munger',de,unknown,#111111,#111111,1,0.255006696635
