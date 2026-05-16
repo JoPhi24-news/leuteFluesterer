@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Péter Magyar',de,unknown,#111111,#111111,3,0.482229073177
+'Péter Magyar',de,unknown,#111111,#111111,3,0.505756638110
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.478533332569
 'Kristi Noem',de,unknown,#111111,#111111,3,0.478014774002
 'Scooter Braun',de,unknown,#111111,#111111,2,0.476931957102
@@ -14,15 +14,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Epstein Files',de,unknown,#111111,#111111,3,0.471947403258
 'Sydney Sweeney',de,unknown,#111111,#111111,3,0.471832136156
 'Liveblog USA',de,unknown,#111111,#111111,3,0.471666303261
+'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.470934919941
 'François Mitterrand',de,unknown,#111111,#111111,2,0.470571391899
-'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.470239558565
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
 'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.469213983041
 'James Bond',de,unknown,#111111,#111111,3,0.467519316797
 'Ali Larijani',de,unknown,#111111,#111111,2,0.467482339774
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.467195687552
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.466073218210
 'Les Wexner',de,unknown,#111111,#111111,2,0.465468888915
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.465368172516
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.465367355762
 'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
 'Thomas Massie',de,unknown,#111111,#111111,2,0.463716537268
@@ -33,8 +33,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howard Lutnick',de,unknown,#111111,#111111,3,0.461881933364
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.461659585465
 'Mario Adorf',de,unknown,#111111,#111111,3,0.461260198919
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.460514438816
 'Mark Kelly',de,unknown,#111111,#111111,2,0.460009211505
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.459798340003
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
 'Keir Starmer',de,unknown,#111111,#111111,3,0.458831331847
@@ -808,6 +808,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdoan',de,Türkei,#4411ee,#4411ee,2,0.272517605680
 'Andreas Jung',de,Deutschland,#11dd44,#11dd44,3,0.272394635672
 'Narendra Modi',de,Indien,#dd3344,#dd3344,3,0.271821542400
+'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.271725913714
 'Johan Rockström',de,unknown,#111111,#111111,1,0.271395259460
 'Frank Plasberg',de,Deutschland,#11dd44,#11dd44,2,0.271311355898
 'Silvio Berlusconi',de,Italien,#7722cc,#7722cc,2,0.270648602368
@@ -828,7 +829,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aurélien Rousseau',de,unknown,#111111,#111111,1,0.265600826975
 'Drew Bledsoe',de,unknown,#111111,#111111,1,0.265482272619
 'Sara Haines',de,unknown,#111111,#111111,1,0.265434004987
-'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.265367198076
 'Tony Bobulinski',de,unknown,#111111,#111111,1,0.265259610270
 'Robert de Niro',de,USA,#18e8e8,#18e8e8,2,0.265240885600
 'Harry Belafonte',de,USA,#18e8e8,#18e8e8,1,0.265230324335
