@@ -34,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.461659585465
 'Mario Adorf',de,unknown,#111111,#111111,3,0.461260198919
 'Mark Kelly',de,unknown,#111111,#111111,2,0.460009211505
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.459798340003
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
 'Keir Starmer',de,unknown,#111111,#111111,3,0.458831331847
@@ -54,7 +55,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.454026972377
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.453817316502
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.453289163233
 'Steve Witkoff',de,unknown,#111111,#111111,3,0.452295360749
 'Woody Allen',de,unknown,#111111,#111111,3,0.451997151212
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
@@ -172,6 +172,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
 'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.429046829367
 'Sam Levinson',de,unknown,#111111,#111111,1,0.429007604731
+'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.428885289456
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Diane Keaton',de,unknown,#111111,#111111,1,0.428728940288
@@ -180,7 +181,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noël Barrot',de,unknown,#111111,#111111,3,0.428486557388
 'David Amiel',de,unknown,#111111,#111111,1,0.428354875720
 'Daniel Cormier',de,unknown,#111111,#111111,1,0.428291590795
-'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.428106861816
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.427478252158
@@ -382,17 +382,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,2,0.357860484198
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.357772922372
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
+'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.357281861905
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.357029866375
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.356470107316
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.356421986067
-'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.356368451168
+'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.356359126279
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.356240721349
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
 'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.355300974603
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
-'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.354598354446
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.354077598795
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.353974901044
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
@@ -493,12 +493,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rupert Murdoch',de,Australien,#99aa33,#99aa33,1,0.333821629004
 'Jeff Ross',de,USA,#18e8e8,#18e8e8,2,0.333705848340
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.333443959179
+'Pedro Sánchez',de,Spanien,#1144aa,#1144aa,2,0.333441259953
 'Yoon Suk Yeol',de,SüdKorea,#22bb66,#22bb66,2,0.333253232075
 'Prince Charles',de,UK,#e838e8,#e838e8,2,0.333174011643
 'Lily Gladstone',de,USA,#18e8e8,#18e8e8,1,0.333121756003
 'Bridget Moynahan',de,USA,#18e8e8,#18e8e8,1,0.332967033182
 'Maybrit Illner',de,Deutschland,#11dd44,#11dd44,3,0.332631192220
-'Pedro Sánchez',de,Spanien,#1144aa,#1144aa,2,0.332485690255
 'Angela Merkel',de,Deutschland,#11dd44,#11dd44,3,0.332180434010
 'Eric Trump',de,USA,#18e8e8,#18e8e8,2,0.332165636979
 'Kate Hudson',de,USA,#18e8e8,#18e8e8,1,0.332116349309
