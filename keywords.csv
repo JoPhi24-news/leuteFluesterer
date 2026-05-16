@@ -213,7 +213,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.421061891369
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
-'Zack Snyder',de,USA,#18e8e8,#18e8e8,2,0.420508230232
 'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.420458697700
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.420103020552
@@ -382,6 +381,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,2,0.357860484198
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.357772922372
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
+'Zack Snyder',de,USA,#18e8e8,#18e8e8,1,0.357431995697
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.357281861905
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.357029866375
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.356470107316
