@@ -917,7 +917,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.229714760019
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.229087826642
-'Zach Bryan',de,unknown,#111111,#111111,1,0.228928720379
 'Björn Höcke',de,Deutschland,#11dd44,#11dd44,2,0.228658225968
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.228350263869
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.228009370159
@@ -986,6 +985,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Faisal Kawusi',de,Deutschland,#11dd44,#11dd44,1,0.199949052960
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.198812136611
 'Shahzada Dawood',de,Pakistan,#bb3355,#bb3355,1,0.198103507082
+'Zach Bryan',de,unknown,#111111,#111111,1,0.195639517322
 'Aleksandar Vucic',de,Serbien,#4488cc,#4488cc,3,0.195421796378
 'Christian Drosten',de,Deutschland,#11dd44,#11dd44,2,0.194786454223
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.194025794077
