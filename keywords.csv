@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Craig',de,unknown,#111111,#111111,2,0.450724903613
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.450209833594
 'Pam Bondi',de,unknown,#111111,#111111,3,0.450059191305
-'prince Andrew',de,unknown,#111111,#111111,2,0.449189403529
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.448228453084
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
@@ -295,6 +294,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Robson',de,Australien,#99aa33,#99aa33,1,0.382880615247
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,1,0.382326887908
+'prince Andrew',de,unknown,#111111,#111111,1,0.381811038000
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
 'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.381508041901
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.381220256789
