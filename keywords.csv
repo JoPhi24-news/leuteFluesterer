@@ -883,7 +883,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.246394292317
 'Mohammed bin Salman',de,SaudiArabien,#2266bb,#2266bb,3,0.245687851726
-'Wolfgang Benz',de,Deutschland,#11dd44,#11dd44,1,0.245392718228
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
 'Kyle Pope',de,unknown,#111111,#111111,1,0.244273820463
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
@@ -965,6 +964,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Annalena Baerbock',de,Deutschland,#11dd44,#11dd44,3,0.210491810356
 'Julian Reichelt',de,Deutschland,#11dd44,#11dd44,2,0.210070563924
 'Charles Michel',de,EU,#bbff33,#bbff33,1,0.209741890994
+'Wolfgang Benz',de,Deutschland,#11dd44,#11dd44,1,0.209633915494
 'Ola Källenius',de,Deutschland,#11dd44,#11dd44,2,0.207968429447
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.207697236966
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.207410322152
