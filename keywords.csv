@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michaela Coel',de,unknown,#111111,#111111,2,0.504082048082
 'Adam Mockler',de,unknown,#111111,#111111,2,0.501553125975
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.478533332569
 'Kristi Noem',de,unknown,#111111,#111111,3,0.478014774002
@@ -174,6 +173,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Levinson',de,unknown,#111111,#111111,1,0.429007604731
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.428885289456
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
+'Michaela Coel',de,unknown,#111111,#111111,2,0.428769770870
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Diane Keaton',de,unknown,#111111,#111111,1,0.428728940288
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
