@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Adam Mockler',de,unknown,#111111,#111111,2,0.501553125975
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.478533332569
 'Kristi Noem',de,unknown,#111111,#111111,3,0.478014774002
 'Scooter Braun',de,unknown,#111111,#111111,2,0.476931957102
@@ -190,6 +189,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Leslie Wexner',de,unknown,#111111,#111111,1,0.426735834615
+'Adam Mockler',de,unknown,#111111,#111111,1,0.426320157079
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
 'Abby Phillip',de,unknown,#111111,#111111,1,0.426007899239
 'Ciryl Gane',de,unknown,#111111,#111111,1,0.425959758896
