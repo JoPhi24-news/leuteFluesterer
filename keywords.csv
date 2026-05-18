@@ -595,7 +595,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katja Krasavice',de,Deutschland,#11dd44,#11dd44,1,0.316837847842
 'Jill Biden',de,USA,#18e8e8,#18e8e8,2,0.316781614009
 'Ralf Dieter',de,Deutschland,#11dd44,#11dd44,1,0.316459167619
-"'Dwayne ""The Rock"" Johnson'",de,unknown,#111111,#111111,2,0.316236652196
 'Christian Günther',de,unknown,#111111,#111111,2,0.316119172787
 'Jake Tapper',de,unknown,#111111,#111111,1,0.315803967854
 'Alex Jones',de,USA,#18e8e8,#18e8e8,1,0.315745582026
@@ -606,6 +605,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',de,USA,#18e8e8,#18e8e8,1,0.314961676963
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,2,0.314291324230
 'Stefan Kolev',de,Deutschland,#11dd44,#11dd44,1,0.314267330783
+'Mark Kerr',de,unknown,#111111,#111111,1,0.314258670059
 'Nancy Mace',de,unknown,#111111,#111111,1,0.314251744840
 'Mario Czaja',de,Deutschland,#11dd44,#11dd44,1,0.314138807309
 'Missy Elliott',de,unknown,#111111,#111111,2,0.314098767175
@@ -614,7 +614,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybritt Illner',de,Deutschland,#11dd44,#11dd44,2,0.313541438702
 'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,3,0.313385605134
 'Vinod Khosla',de,unknown,#111111,#111111,1,0.313353765000
-'Mark Kerr',de,unknown,#111111,#111111,1,0.313270469350
 'Franca Lehfeldt',de,Deutschland,#11dd44,#11dd44,1,0.313269344654
 'Yaël Braun-Pivet',de,unknown,#111111,#111111,1,0.313250862887
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.313203750000
@@ -640,6 +639,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kristen Wiig',de,unknown,#111111,#111111,1,0.311676237917
 'Marguerite Cazeneuve',de,Frankreich,#e8e808,#e8e808,1,0.311498535251
 'Olivier Marleix',de,Frankreich,#e8e808,#e8e808,2,0.311384365994
+"'Dwayne ""The Rock"" Johnson'",de,unknown,#111111,#111111,2,0.311360410276
 'Ana Navarro',de,unknown,#111111,#111111,1,0.311314593005
 'Georg Gänswein',de,Deutschland,#11dd44,#11dd44,1,0.311276120085
 'Mathias Döpfner',de,Deutschland,#11dd44,#11dd44,1,0.311181455532
@@ -660,6 +660,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sunny Hostin',de,unknown,#111111,#111111,1,0.309200073287
 'François Braun',de,unknown,#111111,#111111,1,0.309100527042
 'Chris Kirkpatrick',de,unknown,#111111,#111111,1,0.309065915138
+'Kevin Hart',de,USA,#18e8e8,#18e8e8,3,0.308899368814
 'Roman Pacino',de,unknown,#111111,#111111,1,0.308644020139
 'Premier ministre',de,unknown,#111111,#111111,1,0.308546290121
 'Greg Brockman',de,unknown,#111111,#111111,1,0.308518972218
@@ -669,7 +670,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Hasselhorn',de,unknown,#111111,#111111,1,0.308087707205
 'Sergio Massa',de,unknown,#111111,#111111,1,0.308056569607
 'Sean Hannity',de,unknown,#111111,#111111,1,0.308027555114
-'Kevin Hart',de,USA,#18e8e8,#18e8e8,3,0.307902275252
 'Drake Maye',de,unknown,#111111,#111111,1,0.307899273929
 'Ayatollah Chamenei',de,Iran,#11bb99,#11bb99,1,0.307770240762
 'Leonardo da Vinci',de,Italien,#7722cc,#7722cc,2,0.307523361241
@@ -785,10 +785,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.281926723588
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.281667364363
 'Gisele Bundchen',de,unknown,#111111,#111111,1,0.281385182451
+'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.281144977227
 'Tony Bennett',de,USA,#18e8e8,#18e8e8,1,0.280677826293
 'Katarina Barley',de,EU,#bbff33,#bbff33,2,0.279368283180
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
-'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.279060463985
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.279055656408
 'Putin',de,Russland,#e81818,#e81818,3,0.278352200486
 'Robert Kraft',de,unknown,#111111,#111111,2,0.278029904614
@@ -799,8 +799,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cameron',de,USA,#18e8e8,#18e8e8,1,0.276122176969
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
 'Erich Honecker',de,Deutschland,#11dd44,#11dd44,1,0.275128434182
+'Dwayne Johnson',de,unknown,#111111,#111111,1,0.274205341389
 'Markus Krebber',de,Deutschland,#11dd44,#11dd44,2,0.273364356198
-'Dwayne Johnson',de,unknown,#111111,#111111,1,0.273153265572
 'Wolfgang Grupp',de,unknown,#111111,#111111,1,0.272989047683
 'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.272780146741
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,1,0.272755906180
