@@ -1008,7 +1008,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruno Kahl',de,Deutschland,#11dd44,#11dd44,1,0.187458681009
 'Fumio Kishida',de,Japan,#aa9933,#aa9933,3,0.187035135023
 'Benjamin Netanyahu',de,Israel,#8822dd,#8822dd,2,0.186609780734
-'Dalai Lama',de,Tibet,#ddaa33,#ddaa33,1,0.183742741883
 'Napoleon Bonaparte',de,Frankreich,#e8e808,#e8e808,2,0.183532816274
 'Steffi Lemke',de,Deutschland,#11dd44,#11dd44,3,0.182995565350
 'Carola Rackete',de,Deutschland,#11dd44,#11dd44,2,0.181811642726
@@ -1037,6 +1036,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Freund',de,EU,#bbff33,#bbff33,3,0.159992022256
 'Cyril Ramaphosa',de,Südafrika,#1144ee,#1144ee,2,0.159854590076
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.159128394767
+'Dalai Lama',de,Tibet,#ddaa33,#ddaa33,1,0.156631375601
 'Anthony Albanese',de,Australien,#99aa33,#99aa33,2,0.156159836650
 'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.155713656138
 'Andrea Lindholz',de,Deutschland,#11dd44,#11dd44,2,0.155234411900
