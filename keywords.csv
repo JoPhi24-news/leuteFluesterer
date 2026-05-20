@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard Falk',de,unknown,#111111,#111111,2,0.473110111000
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472472881779
 'Epstein Files',de,unknown,#111111,#111111,3,0.471947403258
 'Sydney Sweeney',de,unknown,#111111,#111111,3,0.471832136156
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.471086911557
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.470934919941
 'François Mitterrand',de,unknown,#111111,#111111,2,0.470571391899
 'Jonathan Ross',de,unknown,#111111,#111111,2,0.470195031779
@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Les Wexner',de,unknown,#111111,#111111,2,0.465468888915
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.465367355762
 'Péter Magyar',de,unknown,#111111,#111111,3,0.464395977394
-'Lisa Müller',de,unknown,#111111,#111111,2,0.463787775610
 'Thomas Massie',de,unknown,#111111,#111111,2,0.463716537268
 'Jacob Frey',de,unknown,#111111,#111111,3,0.462683090255
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.462405105157
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
 'Joe Kent',de,unknown,#111111,#111111,3,0.457681562687
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.457483553095
+'Lisa Müller',de,unknown,#111111,#111111,2,0.457219909268
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.456279211443
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455890081124
@@ -81,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Francis Ngannou',de,unknown,#111111,#111111,2,0.443187578812
+'Thomas Müller',de,unknown,#111111,#111111,3,0.441881448419
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Nick Reiner',de,unknown,#111111,#111111,2,0.441634475594
 'Yoav Gallant ',de,unknown,#111111,#111111,3,0.441430070500
@@ -104,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.440699175439
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.439836821295
-'Thomas Müller',de,unknown,#111111,#111111,3,0.439618144536
 'Sohn Nick',de,unknown,#111111,#111111,2,0.439513774952
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.439068414002
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.438867568080
