@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kristi Noem',de,unknown,#111111,#111111,3,0.478014774002
 'Scooter Braun',de,unknown,#111111,#111111,2,0.476931957102
 'Alex Pretti',de,unknown,#111111,#111111,3,0.476431731344
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
@@ -252,6 +251,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.407838681122
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.407196657996
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.406792004105
+'Kristi Noem',de,unknown,#111111,#111111,2,0.406313097902
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.403850191852
