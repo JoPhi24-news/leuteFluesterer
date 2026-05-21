@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Alex Pretti',de,unknown,#111111,#111111,3,0.511467121642
 'Scooter Braun',de,unknown,#111111,#111111,2,0.476931957102
-'Alex Pretti',de,unknown,#111111,#111111,3,0.476431731344
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.476597799169
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
+'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.475007003176
 'Michele Reiner',de,unknown,#111111,#111111,2,0.474671756393
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.474541508028
-'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.474319763900
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.474160266684
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474147383581
 'Richard Falk',de,unknown,#111111,#111111,2,0.473110111000
@@ -442,6 +442,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,1,0.344472010148
 'Eva Green',de,Frankreich,#e8e808,#e8e808,1,0.344241677240
 'Tom Hanks',de,USA,#18e8e8,#18e8e8,3,0.344173681914
+'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.344172341424
 'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.344078026201
 'Matteo Salvini',de,Italien,#7722cc,#7722cc,2,0.343957319957
 'Helge Schneider',de,Deutschland,#11dd44,#11dd44,1,0.343925949611
@@ -450,7 +451,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meryl Streep',de,USA,#18e8e8,#18e8e8,1,0.342816442944
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.342804566834
 'Rand Paul',de,USA,#18e8e8,#18e8e8,2,0.342339802847
-'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.342297086745
 'David Weiss',de,Schweiz,#88cc44,#88cc44,2,0.342117073411
 'Pietro Lombardi',de,Deutschland,#11dd44,#11dd44,2,0.341833027636
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,1,0.341700962002
@@ -460,11 +460,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Roberts',de,USA,#18e8e8,#18e8e8,2,0.340994510489
 'Abraham Lincoln',de,USA,#18e8e8,#18e8e8,2,0.340951595224
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
+'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.340576119120
 'Dana White',de,USA,#18e8e8,#18e8e8,1,0.340566310291
 'Demi Moore',de,USA,#18e8e8,#18e8e8,1,0.340168987843
 'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.340047785382
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
-'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.339632989046
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
 'Claudia Kemfert',de,Deutschland,#11dd44,#11dd44,1,0.338715139829
 'Patrick Mahomes',de,USA,#18e8e8,#18e8e8,2,0.338648158701
