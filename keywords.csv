@@ -432,7 +432,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.346317538416
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.346270971466
 'Omar Sy',de,Frankreich,#e8e808,#e8e808,1,0.346119661797
-'Angelina Jolie',de,USA,#18e8e8,#18e8e8,3,0.345852097145
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.345582969081
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.345355873396
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.345325933349
@@ -749,6 +748,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Safdie',de,unknown,#111111,#111111,2,0.294540257841
 'Kim Jong Un',de,NordKorea,#4811f1,#4811f1,3,0.294391014951
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.294214558840
+'Angelina Jolie',de,USA,#18e8e8,#18e8e8,2,0.293974687573
 'Peregrine Pearson',de,UK,#e838e8,#e838e8,1,0.293705565052
 'Prinz Heinrich XIII',de,Deutschland,#11dd44,#11dd44,1,0.293638161736
 'Jim Jordan',de,unknown,#111111,#111111,1,0.293333939277
