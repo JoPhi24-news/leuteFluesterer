@@ -75,13 +75,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bari Weiss',de,unknown,#111111,#111111,2,0.445501694495
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.445256828739
 'Markwayne Mullin',de,unknown,#111111,#111111,2,0.445133552072
+'Thomas Müller',de,unknown,#111111,#111111,3,0.444878485770
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,2,0.444822478533
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Francis Ngannou',de,unknown,#111111,#111111,2,0.443187578812
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.443076579682
-'Thomas Müller',de,unknown,#111111,#111111,3,0.441881448419
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Nick Reiner',de,unknown,#111111,#111111,2,0.441634475594
 'Yoav Gallant ',de,unknown,#111111,#111111,3,0.441430070500
@@ -421,7 +421,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hendrik Wüst',de,Deutschland,#11dd44,#11dd44,3,0.348634417430
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.348506567653
 'Jason Kelce',de,USA,#18e8e8,#18e8e8,1,0.348445920974
-'Bastian Schweinsteiger',de,Deutschland,#11dd44,#11dd44,2,0.348372654247
 'Sergio Mattarella',de,Italien,#7722cc,#7722cc,1,0.348064632851
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.346673972859
@@ -479,6 +478,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Claudia Kempfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
 'Cara Delevingne',de,UK,#e838e8,#e838e8,1,0.337576117113
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
+'Bastian Schweinsteiger',de,Deutschland,#11dd44,#11dd44,2,0.337431157474
 'Rudolf Steiner',de,Österreich,#6622bb,#6622bb,1,0.337337795599
 'Sergej Surowikin',de,Russland,#e81818,#e81818,1,0.337261748741
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.336377568567
