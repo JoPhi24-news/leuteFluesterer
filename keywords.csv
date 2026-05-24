@@ -194,7 +194,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Nathan Hochman',de,unknown,#111111,#111111,1,0.425492084985
-'Tom Cotton',de,unknown,#111111,#111111,1,0.425400908824
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.425357270079
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
@@ -366,6 +365,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.362495251209
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.361715994918
 'Ferdinand Dudenhöffer',de,Deutschland,#11dd44,#11dd44,3,0.361712987269
+'Tom Cotton',de,unknown,#111111,#111111,1,0.361590772500
 'Tom Aspinall',de,UK,#e838e8,#e838e8,1,0.361577459386
 'Rashida Tlaib',de,unknown,#111111,#111111,1,0.361334458116
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.361250000000
