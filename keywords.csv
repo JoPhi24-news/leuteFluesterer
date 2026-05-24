@@ -115,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'James Van Der Beek',de,unknown,#111111,#111111,1,0.436730744677
-'Jack Lang',de,unknown,#111111,#111111,3,0.436475006611
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.436048562691
 'Juan Pablo Guanipa',de,unknown,#111111,#111111,3,0.435578893182
@@ -321,6 +320,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.371934021745
 'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.371154472326
+'Jack Lang',de,unknown,#111111,#111111,2,0.371004070619
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,1,0.370356953088
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,1,0.369538163397
