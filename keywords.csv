@@ -1,5 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.480673646250
+'Geraldo Rivera',de,unknown,#111111,#111111,2,0.508472996801
+'David Lowery',de,unknown,#111111,#111111,2,0.502012321926
+'Ed Gallrein',de,unknown,#111111,#111111,2,0.500936058691
+'Mark Ruffalo',de,unknown,#111111,#111111,2,0.500740411000
 'Scooter Braun',de,unknown,#111111,#111111,2,0.476931957102
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
@@ -33,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mario Adorf',de,unknown,#111111,#111111,3,0.461260198919
 'Mark Kelly',de,unknown,#111111,#111111,2,0.460009211505
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.459069019767
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.458163414537
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
@@ -435,13 +439,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.345355873396
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.345325933349
 'Ulrich Reitz',de,Deutschland,#11dd44,#11dd44,1,0.345211437895
+'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.345107490487
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.345030443520
 'Chris Luxon',de,Neuseeland,#1818e8,#1818e8,1,0.344952975317
 'Reed Richards',de,USA,#18e8e8,#18e8e8,2,0.344612986480
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,1,0.344472010148
 'Eva Green',de,Frankreich,#e8e808,#e8e808,1,0.344241677240
 'Tom Hanks',de,USA,#18e8e8,#18e8e8,3,0.344173681914
-'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.344172341424
 'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.344078026201
 'Matteo Salvini',de,Italien,#7722cc,#7722cc,2,0.343957319957
 'Helge Schneider',de,Deutschland,#11dd44,#11dd44,1,0.343925949611
@@ -791,10 +795,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',de,EU,#bbff33,#bbff33,2,0.279368283180
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.279055656408
+'Xi Jinping',de,China,#e88818,#e88818,3,0.278870221310
 'Putin',de,Russland,#e81818,#e81818,3,0.278352200486
 'Robert Kraft',de,unknown,#111111,#111111,2,0.278029904614
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.277827658288
-'Xi Jinping',de,China,#e88818,#e88818,3,0.277825264517
 'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.276884794256
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.276595110921
 'James Cameron',de,USA,#18e8e8,#18e8e8,1,0.276122176969
