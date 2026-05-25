@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'David Lowery',de,unknown,#111111,#111111,2,0.502012321926
+'David Lowery',de,unknown,#111111,#111111,2,0.534903435780
 'Ed Gallrein',de,unknown,#111111,#111111,2,0.500936058691
 'Mark Ruffalo',de,unknown,#111111,#111111,2,0.500740411000
 'Scooter Braun',de,unknown,#111111,#111111,2,0.476931957102
@@ -284,6 +284,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
 'John Clarke',de,USA,#18e8e8,#18e8e8,1,0.389401780306
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.388490023532
+'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.388118233048
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.387458644881
 'Quentin Deranque',de,unknown,#111111,#111111,2,0.386408402825
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.385790373521
@@ -299,7 +300,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'prince Andrew',de,unknown,#111111,#111111,1,0.381811038000
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
 'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.381508041901
-'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.381220256789
 'Novak Djokovic',de,Serbien,#4488cc,#4488cc,3,0.381103800458
 'Greta Gerwig',de,USA,#18e8e8,#18e8e8,2,0.380979675716
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.380302120527
