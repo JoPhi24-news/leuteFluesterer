@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.479997723090
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.480673646250
 'Scooter Braun',de,unknown,#111111,#111111,2,0.476931957102
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
 'Renee Nicole Good',de,unknown,#111111,#111111,3,0.475468956376
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.475007003176
+'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474834966176
 'Michele Reiner',de,unknown,#111111,#111111,2,0.474671756393
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.474160266684
-'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474147383581
 'Richard Falk',de,unknown,#111111,#111111,2,0.473110111000
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
 'Ilhan Omar',de,unknown,#111111,#111111,3,0.472946040973
@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.468879418608
 'James Bond',de,unknown,#111111,#111111,3,0.467519316797
 'Ali Larijani',de,unknown,#111111,#111111,2,0.467482339774
+'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.466072403079
 'Les Wexner',de,unknown,#111111,#111111,2,0.465468888915
-'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.465367355762
 'Péter Magyar',de,unknown,#111111,#111111,3,0.464395977394
 'Thomas Massie',de,unknown,#111111,#111111,2,0.463716537268
 'Jacob Frey',de,unknown,#111111,#111111,3,0.462683090255
@@ -214,6 +214,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,2,0.419774853569
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
 'Castel Gandolfo',de,Vatikan,#58b8e8,#58b8e8,2,0.419258389753
+'Delcy Rodriguez',de,unknown,#111111,#111111,1,0.418513516333
 'Kevin McCarthy',de,USA,#18e8e8,#18e8e8,2,0.418482790348
 'Karin Prien',de,Deutschland,#11dd44,#11dd44,3,0.418364531530
 'Henry Samuel',de,USA,#18e8e8,#18e8e8,2,0.418343196774
@@ -221,7 +222,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Norbert Rollinger',de,Deutschland,#11dd44,#11dd44,1,0.417948871837
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,2,0.417841752327
-'Delcy Rodriguez',de,unknown,#111111,#111111,1,0.417714925685
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Chris Nanos',de,unknown,#111111,#111111,1,0.417052294638
 'Rob Reiner',de,unknown,#111111,#111111,2,0.416454783507
@@ -232,7 +232,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.411320517426
 'Bill Maher',de,unknown,#111111,#111111,2,0.411306168503
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.411260914085
-'Nicolas Maduro',de,unknown,#111111,#111111,2,0.411197246750
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,2,0.411153140000
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410919867639
 'Renee Good',de,unknown,#111111,#111111,1,0.409901198270
@@ -310,6 +309,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.376247871373
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,1,0.375531434263
 'Kylie Kelce',de,unknown,#111111,#111111,2,0.375362486525
+'Nicolas Maduro',de,unknown,#111111,#111111,2,0.375017959737
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
 'Makarim Wobisono',de,unknown,#111111,#111111,1,0.374616250000
 'Avi Dichter',de,unknown,#111111,#111111,1,0.374616250000
@@ -956,11 +956,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schellnhuber',de,Deutschland,#11dd44,#11dd44,2,0.214368131729
 'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.213792117426
 'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.213101432961
+'Fidel Castro',de,Kuba,#cc4488,#cc4488,2,0.212798441710
 'Katalin Novák',de,Ungarn,#33aa99,#33aa99,1,0.212432244683
 'Thomas Haldenwang',de,Deutschland,#11dd44,#11dd44,2,0.212210223330
 'Peter Urban',de,Deutschland,#11dd44,#11dd44,2,0.212170543004
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,2,0.211854690614
-'Fidel Castro',de,Kuba,#cc4488,#cc4488,2,0.211661539921
 'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.211621018046
 'Alice Schwarzer',de,Deutschland,#11dd44,#11dd44,2,0.210745075219
 'Annalena Baerbock',de,Deutschland,#11dd44,#11dd44,3,0.210491810356
