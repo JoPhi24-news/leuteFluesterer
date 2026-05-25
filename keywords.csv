@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Geraldo Rivera',de,unknown,#111111,#111111,2,0.508472996801
 'David Lowery',de,unknown,#111111,#111111,2,0.502012321926
 'Ed Gallrein',de,unknown,#111111,#111111,2,0.500936058691
 'Mark Ruffalo',de,unknown,#111111,#111111,2,0.500740411000
@@ -141,6 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chappell Roan',de,unknown,#111111,#111111,2,0.432252397088
 'Candace Owens',de,unknown,#111111,#111111,2,0.432235937725
 'Nanon Williams',de,unknown,#111111,#111111,1,0.432214722713
+'Geraldo Rivera',de,unknown,#111111,#111111,1,0.432202047281
 'Jen Psaki',de,unknown,#111111,#111111,1,0.431882144111
 'Claire Legendre',de,unknown,#111111,#111111,1,0.431593502035
 'Romy Reiner',de,unknown,#111111,#111111,2,0.431403566427
