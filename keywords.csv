@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mark Ruffalo',de,unknown,#111111,#111111,2,0.500740411000
 'Ed Gallrein',de,unknown,#111111,#111111,2,0.486589218654
 'Scooter Braun',de,unknown,#111111,#111111,2,0.476931957102
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
@@ -196,6 +195,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Gaethje',de,unknown,#111111,#111111,1,0.425959272437
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.425749058834
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
+'Mark Ruffalo',de,unknown,#111111,#111111,1,0.425629559350
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Nathan Hochman',de,unknown,#111111,#111111,1,0.425492084985
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.425357270079
