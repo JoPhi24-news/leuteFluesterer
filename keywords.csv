@@ -791,7 +791,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.281667364363
 'Gisele Bundchen',de,unknown,#111111,#111111,1,0.281385182451
 'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.281144977227
-'Tony Bennett',de,USA,#18e8e8,#18e8e8,1,0.280677826293
 'Katarina Barley',de,EU,#bbff33,#bbff33,2,0.279368283180
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.279055656408
@@ -906,6 +905,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.240451797857
 'Nicolas Sarkozy',de,unknown,#111111,#111111,1,0.239725332857
 'Gregor Gysi',de,Deutschland,#11dd44,#11dd44,2,0.239215475841
+'Tony Bennett',de,USA,#18e8e8,#18e8e8,1,0.238876182349
 'Nancy Faeser',de,Deutschland,#11dd44,#11dd44,3,0.238342388363
 'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,1,0.237904387588
 'Hun Sen',de,Kambodscha,#ff33bb,#ff33bb,1,0.237398915225
