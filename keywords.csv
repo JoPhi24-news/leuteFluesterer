@@ -568,7 +568,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barry Keoghan',de,unknown,#111111,#111111,1,0.323420364292
 'Adam Driver',de,unknown,#111111,#111111,2,0.323392151393
 'Eric Adams',de,USA,#18e8e8,#18e8e8,2,0.323335007843
-'Bob Menendez',de,unknown,#111111,#111111,1,0.323059398268
 'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.321768502151
 'Merrick Garland',de,USA,#18e8e8,#18e8e8,1,0.321178517793
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.321155089779
@@ -804,6 +803,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
 'Erich Honecker',de,Deutschland,#11dd44,#11dd44,1,0.275128434182
 'Stanislaw Petrow',de,unknown,#111111,#111111,1,0.275020355610
+'Bob Menendez',de,unknown,#111111,#111111,1,0.274600488528
 'Dwayne Johnson',de,unknown,#111111,#111111,1,0.274205341389
 'Markus Krebber',de,Deutschland,#11dd44,#11dd44,2,0.273364356198
 'Wolfgang Grupp',de,unknown,#111111,#111111,1,0.272989047683
