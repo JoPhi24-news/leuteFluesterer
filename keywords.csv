@@ -329,7 +329,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,1,0.369538163397
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
-'Melanie Guttmann',de,Deutschland,#11dd44,#11dd44,1,0.368475000000
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.368218852520
 'Paul Konerko',de,USA,#18e8e8,#18e8e8,1,0.368176078984
 'Mark Cuban',de,USA,#18e8e8,#18e8e8,1,0.368032560177
@@ -624,6 +623,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yaël Braun-Pivet',de,unknown,#111111,#111111,1,0.313250862887
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.313203750000
 'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.313203750000
+'Melanie Guttmann',de,Deutschland,#11dd44,#11dd44,1,0.313203750000
 'Kara Hurst',de,unknown,#111111,#111111,1,0.313203750000
 'Henning Jeschke',de,unknown,#111111,#111111,1,0.313203750000
 'Brian Kozlowski',de,USA,#18e8e8,#18e8e8,1,0.313203750000
