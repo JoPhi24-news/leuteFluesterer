@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.526853996030
 'Scooter Braun',de,unknown,#111111,#111111,2,0.476931957102
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.476902287686
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
 'Joe Kent',de,unknown,#111111,#111111,3,0.457681562687
+'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.457322086171
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457219909268
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.456279211443
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
@@ -295,9 +295,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.383196891209
 'Richard Robson',de,Australien,#99aa33,#99aa33,1,0.382880615247
+'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.382814318400
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,1,0.382326887908
-'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.381947777781
 'prince Andrew',de,unknown,#111111,#111111,1,0.381811038000
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
 'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.381508041901
