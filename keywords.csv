@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.476902287686
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.476586572481
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475217034092
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.475007003176
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474834966176
 'Richard Falk',de,unknown,#111111,#111111,2,0.473110111000
@@ -1077,17 +1077,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Zhang',de,China,#e88818,#e88818,1,0.120954962142
 'Karl Jenkins',de,UK,#e838e8,#e838e8,1,0.119771472957
 'Heinrich XIII. Prinz Reuß',de,Deutschland,#11dd44,#11dd44,1,0.119000689893
+'Ayatollah Ali Chamenei',de,Iran,#11bb99,#11bb99,1,0.117766490261
 'Steffen Große',de,Deutschland,#11dd44,#11dd44,3,0.117724968157
 'John Roberts',de,USA,#18e8e8,#18e8e8,1,0.117536359399
 'Nick Fuentes',de,USA,#18e8e8,#18e8e8,1,0.117502504003
-'Ayatollah Ali Chamenei',de,Iran,#11bb99,#11bb99,1,0.116535883114
 'Holger Münch',de,Deutschland,#11dd44,#11dd44,2,0.116486442923
 'Michelle Neill',de,Irland,#33bbff,#33bbff,1,0.115808473142
 'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.115808473142
 'Robin Li',de,China,#e88818,#e88818,2,0.114759712483
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.111888838708
+'Ali Chamenei',de,Iran,#11bb99,#11bb99,2,0.110315719233
 'Miguel Díaz-Canel',de,Kuba,#cc4488,#cc4488,1,0.109609539592
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.108621600369
 'Julia Koch',de,USA,#18e8e8,#18e8e8,2,0.105171666447
 'Nicola Beer',de,EU,#bbff33,#bbff33,1,0.104797676214
-'Ali Chamenei',de,Iran,#11bb99,#11bb99,2,0.102567618884
