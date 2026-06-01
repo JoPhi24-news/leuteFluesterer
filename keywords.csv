@@ -1,4 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Sarah Kellen',de,unknown,#111111,#111111,2,0.508899791479
+'Javier Bardem',de,unknown,#111111,#111111,2,0.505542068495
+'Mother Mary',de,unknown,#111111,#111111,2,0.500832721799
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.476902287686
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.476586572481
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
@@ -689,7 +692,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Kemal Kiliçdaroglu',de,Türkei,#4411ee,#4411ee,1,0.307062500000
 'Gilbert Plass',de,Kanada,#ffaabb,#ffaabb,1,0.307062500000
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.307062500000
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
 'James Biden',de,unknown,#111111,#111111,1,0.306666048656
 'Hugh Grant',de,unknown,#111111,#111111,1,0.306582026544
@@ -863,6 +865,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Ronzheimer',de,Deutschland,#11dd44,#11dd44,2,0.261155874417
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.261003125000
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.261003125000
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.261003125000
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.261003125000
