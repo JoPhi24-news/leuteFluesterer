@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Javier Bardem',de,unknown,#111111,#111111,2,0.505542068495
 'Mother Mary',de,unknown,#111111,#111111,2,0.500832721799
+'Javier Bardem',de,unknown,#111111,#111111,2,0.495047072506
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.477269295755
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.476902287686
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.476586572481
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.475007003176
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474834966176
@@ -69,8 +69,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.447207344655
 'Kash Patel',de,unknown,#111111,#111111,3,0.446173247841
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.446001661746
 'Bari Weiss',de,unknown,#111111,#111111,2,0.445501694495
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.445256828739
 'Markwayne Mullin',de,unknown,#111111,#111111,2,0.445133552072
 'Thomas Müller',de,unknown,#111111,#111111,3,0.444878485770
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,2,0.444822478533
@@ -186,11 +186,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Leslie Wexner',de,unknown,#111111,#111111,1,0.426735834615
+'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.426532075201
 'Adam Mockler',de,unknown,#111111,#111111,1,0.426320157079
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
 'Abby Phillip',de,unknown,#111111,#111111,1,0.426007899239
 'Justin Gaethje',de,unknown,#111111,#111111,1,0.425959272437
-'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.425749058834
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'Mark Ruffalo',de,unknown,#111111,#111111,1,0.425629559350
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
