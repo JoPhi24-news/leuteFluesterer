@@ -1045,6 +1045,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.159128394767
 'Dalai Lama',de,Tibet,#ddaa33,#ddaa33,1,0.156631375601
 'Anthony Albanese',de,Australien,#99aa33,#99aa33,2,0.156159836650
+'Nicola Sturgeon',de,UK,#e838e8,#e838e8,1,0.156062670288
 'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.155713656138
 'Andrea Lindholz',de,Deutschland,#11dd44,#11dd44,2,0.155234411900
 'Horst Seehofer',de,Deutschland,#11dd44,#11dd44,1,0.154154229566
@@ -1064,7 +1065,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Lou McDonald',de,Irland,#33bbff,#33bbff,2,0.144444660028
 'Sergey Brin',de,USA,#18e8e8,#18e8e8,1,0.142851814070
 'Edmund Stoiber',de,Deutschland,#11dd44,#11dd44,1,0.140284921369
-'Nicola Sturgeon',de,UK,#e838e8,#e838e8,1,0.138779541515
 'Alexei Nawalny',de,Russland,#e81818,#e81818,1,0.137418783808
 'Sucharit Bhakdi',de,Deutschland,#11dd44,#11dd44,1,0.136883302257
 'Sundar Pichai',de,USA,#18e8e8,#18e8e8,2,0.135153729412
