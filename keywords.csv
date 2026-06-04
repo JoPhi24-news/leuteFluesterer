@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.507110535546
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.477584381793
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.572442266578
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.478944494166
 'Javier Bardem',de,unknown,#111111,#111111,2,0.475740611630
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.475007003176
@@ -746,6 +746,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.296302020821
 'King Charles',de,UK,#e838e8,#e838e8,3,0.295966202416
 'Matt Winkelmeyer',de,unknown,#111111,#111111,1,0.295580984723
+'Xi Jinping',de,China,#e88818,#e88818,3,0.295370143485
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.295276485558
 'Kim Reynolds',de,unknown,#111111,#111111,1,0.295098519440
 'Holger Friedrich',de,Deutschland,#11dd44,#11dd44,2,0.294764753538
@@ -775,7 +776,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.287615221614
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.287576688510
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,1,0.287551078519
-'Xi Jinping',de,China,#e88818,#e88818,3,0.287171965137
 'Chris Hemsworth',de,unknown,#111111,#111111,1,0.287124473049
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.287103437500
 'Sandra Maischberger',de,Deutschland,#11dd44,#11dd44,3,0.286539185868
