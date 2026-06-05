@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.496312228716
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.478944494166
 'Javier Bardem',de,unknown,#111111,#111111,2,0.475740611630
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
@@ -141,6 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.431975749804
 'Jen Psaki',de,unknown,#111111,#111111,1,0.431882144111
 'Claire Legendre',de,unknown,#111111,#111111,1,0.431593502035
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.431443288954
 'Romy Reiner',de,unknown,#111111,#111111,2,0.431403566427
 'Dan Hooker',de,unknown,#111111,#111111,1,0.431384882554
 'Fabrice Aidan',de,unknown,#111111,#111111,1,0.431237406328
