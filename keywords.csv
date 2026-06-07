@@ -829,7 +829,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrike Hermann',de,unknown,#111111,#111111,1,0.266857846585
 'Missy Motown',de,Deutschland,#11dd44,#11dd44,1,0.266521147817
 'Sultan al-Jaber',de,VAE,#ffbb33,#ffbb33,1,0.266507939508
-'Nathalie Emmanuel',de,unknown,#111111,#111111,1,0.266066832915
 'Bret Baier',de,unknown,#111111,#111111,1,0.265856572148
 'Sophia Chikirou',de,unknown,#111111,#111111,1,0.265752943147
 'Brian Kilmeade',de,unknown,#111111,#111111,1,0.265698120148
@@ -931,6 +930,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.228009370159
 'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.227375045985
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.226962077491
+'Nathalie Emmanuel',de,unknown,#111111,#111111,1,0.226456837978
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.226102477205
 'Suleika Jaouad',de,unknown,#111111,#111111,1,0.225488402466
 'Willie Nelson',de,unknown,#111111,#111111,1,0.225421861623
