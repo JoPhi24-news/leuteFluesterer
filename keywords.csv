@@ -712,7 +712,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,1,0.302883779743
 'Kim Yo Jong',de,NordKorea,#4811f1,#4811f1,1,0.302602775640
 'Ahmed Al Jaber',de,unknown,#111111,#111111,1,0.302587902721
-'Matthias Müller',de,Deutschland,#11dd44,#11dd44,2,0.302546665864
 'Gerald Darmanin',de,unknown,#111111,#111111,1,0.302155950776
 'Lionel Richie',de,USA,#18e8e8,#18e8e8,1,0.301881526665
 'Jordan Neely',de,USA,#18e8e8,#18e8e8,1,0.301772532477
@@ -868,6 +867,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.261003125000
+'Matthias Müller',de,Deutschland,#11dd44,#11dd44,2,0.259865430984
 'Georg Bätzing',de,Deutschland,#11dd44,#11dd44,2,0.258823823119
 'King Charles III',de,UK,#e838e8,#e838e8,1,0.258723153734
 'Olli Schulz',de,Deutschland,#11dd44,#11dd44,1,0.258162065918
