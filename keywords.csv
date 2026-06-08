@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Paul McCartney',de,unknown,#111111,#111111,3,0.538445502035
+'Paul McCartney',de,unknown,#111111,#111111,3,0.562629921730
 'Emmanuel Moulin',de,unknown,#111111,#111111,2,0.508267670266
 'Robert Gates',de,unknown,#111111,#111111,2,0.507236919714
 'HBO Max',de,unknown,#111111,#111111,2,0.506630372173
@@ -21,10 +21,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.468879418608
 'James Bond',de,unknown,#111111,#111111,3,0.467519316797
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.466072403079
+'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.465524623622
 'Les Wexner',de,unknown,#111111,#111111,2,0.465468888915
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.465436754867
 'Péter Magyar',de,unknown,#111111,#111111,3,0.465102953972
-'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.463401993489
 'Howard Lutnick',de,unknown,#111111,#111111,3,0.462593900026
 'Kamaru Usman',de,unknown,#111111,#111111,2,0.462366604101
 'Jacob Elordi',de,unknown,#111111,#111111,3,0.462212918272
@@ -69,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.450209833594
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
 'Keir Starmer',de,unknown,#111111,#111111,3,0.447908661809
+'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.447858709688
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
@@ -87,7 +88,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Nick Reiner',de,unknown,#111111,#111111,2,0.441634475594
 'Yoav Gallant ',de,unknown,#111111,#111111,3,0.441430070500
-'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.441135327480
 'Mark Levin',de,unknown,#111111,#111111,1,0.440814002526
 'Isaac Herzog',de,unknown,#111111,#111111,1,0.440725610500
 'Penny Green',de,unknown,#111111,#111111,1,0.440725030000
@@ -279,11 +279,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.396296094333
 'Islam Makhachev',de,unknown,#111111,#111111,1,0.395795416827
 'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.395734048273
+'Callum Turner',de,UK,#e838e8,#e838e8,2,0.394923464772
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
 'Brigitte Bardot',de,unknown,#111111,#111111,1,0.394733219666
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
 'Jacob Frey',de,unknown,#111111,#111111,2,0.393280626717
-'Callum Turner',de,UK,#e838e8,#e838e8,2,0.393234319205
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.392242329549
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,1,0.391940467051
@@ -295,10 +295,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.388490023532
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.387458644881
 'Quentin Deranque',de,unknown,#111111,#111111,2,0.386408402825
+'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.386274793777
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.385790373521
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.385154098488
-'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.384553047820
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,2,0.383764278711
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.383196891209
