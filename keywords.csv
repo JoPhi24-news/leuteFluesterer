@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Paul McCartney',de,unknown,#111111,#111111,3,0.562629921730
+'Paul McCartney',de,unknown,#111111,#111111,3,0.510459405743
 'Emmanuel Moulin',de,unknown,#111111,#111111,2,0.508267670266
 'Robert Gates',de,unknown,#111111,#111111,2,0.507236919714
 'HBO Max',de,unknown,#111111,#111111,2,0.506630372173
@@ -468,12 +468,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pietro Lombardi',de,Deutschland,#11dd44,#11dd44,2,0.341833027636
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,1,0.341700962002
 'Joachim Gauck',de,Deutschland,#11dd44,#11dd44,1,0.341559116541
+'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.341517596062
 'Steve Jobs',de,USA,#18e8e8,#18e8e8,3,0.341287663042
 'nan nan',de,unknown,#dddddd,#dddddd,1,0.341027803203
 'Julia Roberts',de,USA,#18e8e8,#18e8e8,2,0.340994510489
 'Abraham Lincoln',de,USA,#18e8e8,#18e8e8,2,0.340951595224
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
-'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.340576119120
 'Dana White',de,USA,#18e8e8,#18e8e8,1,0.340566310291
 'Demi Moore',de,USA,#18e8e8,#18e8e8,1,0.340168987843
 'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.340047785382
