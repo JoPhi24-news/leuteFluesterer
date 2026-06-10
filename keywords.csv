@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nicolas Cage',de,unknown,#111111,#111111,2,0.506035367936
+'Nicolas Cage',de,unknown,#111111,#111111,3,0.516899234564
 'Jamieson Greer',de,unknown,#111111,#111111,2,0.504772851786
 'Bill Cassidy',de,unknown,#111111,#111111,2,0.504550740349
 'Alexander Yui',de,unknown,#111111,#111111,2,0.504097650073
@@ -680,6 +680,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',de,unknown,#111111,#111111,1,0.309024442296
 'Kevin Hart',de,USA,#18e8e8,#18e8e8,3,0.308899368814
 'Roman Pacino',de,unknown,#111111,#111111,1,0.308644020139
+'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.308601666664
 'Premier ministre',de,unknown,#111111,#111111,1,0.308546290121
 'Greg Brockman',de,unknown,#111111,#111111,1,0.308518972218
 'Kim Mulkey',de,unknown,#111111,#111111,1,0.308370055776
@@ -731,7 +732,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Haley',de,USA,#18e8e8,#18e8e8,2,0.300820494039
 'Christine Lambrecht',de,Deutschland,#11dd44,#11dd44,1,0.300702679890
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,1,0.300582690342
-'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.300575036736
 'Billionaire Bunker',de,unknown,#111111,#111111,1,0.300411010055
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.299801128495
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.299653784785
