@@ -813,7 +813,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
 'Erich Honecker',de,Deutschland,#11dd44,#11dd44,1,0.275128434182
 'Stanislaw Petrow',de,unknown,#111111,#111111,1,0.275020355610
-'Bob Menendez',de,unknown,#111111,#111111,1,0.274600488528
 'Dwayne Johnson',de,unknown,#111111,#111111,1,0.274205341389
 'Markus Krebber',de,Deutschland,#11dd44,#11dd44,2,0.273364356198
 'Wolfgang Grupp',de,unknown,#111111,#111111,1,0.272989047683
@@ -922,6 +921,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hun Sen',de,Kambodscha,#ff33bb,#ff33bb,1,0.237398915225
 'Joschka Fischer',de,Deutschland,#11dd44,#11dd44,1,0.234667587047
 'Stephan Harbarth',de,Deutschland,#11dd44,#11dd44,1,0.234611867592
+'Bob Menendez',de,unknown,#111111,#111111,1,0.233410415249
 'Karl Lauterbach',de,Deutschland,#11dd44,#11dd44,3,0.233363913320
 'Martin Schirdewan',de,Deutschland,#11dd44,#11dd44,3,0.232780733585
 'Don Lemon',de,USA,#18e8e8,#18e8e8,1,0.232670486562
