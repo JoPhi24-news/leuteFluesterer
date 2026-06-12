@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nicolas Cage',de,unknown,#111111,#111111,3,0.498528119382
 'Paul McCartney',de,unknown,#111111,#111111,3,0.498206445764
 'Emmanuel Moulin',de,unknown,#111111,#111111,2,0.483377669726
 'Javier Bardem',de,unknown,#111111,#111111,2,0.475740611630
@@ -206,6 +205,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.424907957330
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.424000916448
+'Nicolas Cage',de,unknown,#111111,#111111,2,0.423749891475
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.422588964552
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.421470555490
