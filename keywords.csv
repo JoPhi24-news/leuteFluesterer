@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emmanuel Moulin',de,unknown,#111111,#111111,2,0.483377669726
 'Javier Bardem',de,unknown,#111111,#111111,2,0.475740611630
 'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.475007003176
@@ -240,6 +239,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.411260914085
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,2,0.411153140000
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410919867639
+'Emmanuel Moulin',de,unknown,#111111,#111111,1,0.410871169267
 'Renee Good',de,unknown,#111111,#111111,1,0.409901198270
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
 'Tom Homan',de,unknown,#111111,#111111,2,0.409696094238
