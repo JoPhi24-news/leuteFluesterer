@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Bardem',de,unknown,#111111,#111111,2,0.475740611630
-'Karoline Leavitt',de,unknown,#111111,#111111,3,0.475705690559
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.475007003176
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474834966176
 'Richard Falk',de,unknown,#111111,#111111,2,0.473110111000
@@ -257,6 +256,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.405499056512
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
+'Karoline Leavitt',de,unknown,#111111,#111111,2,0.404350076975
 'Renee Nicole Good',de,unknown,#111111,#111111,2,0.404148612920
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.403733466580
 'Michele Reiner',de,unknown,#111111,#111111,1,0.403471082934
