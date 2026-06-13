@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.469213983041
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.468879418608
 'James Bond',de,unknown,#111111,#111111,3,0.467519316797
-'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.466229358528
+'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.466932693282
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.466072403079
 'Les Wexner',de,unknown,#111111,#111111,2,0.465468888915
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.465436754867
@@ -184,6 +184,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.427478252158
+'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,3,0.427476068861
 'Belal Muhammad',de,unknown,#111111,#111111,1,0.427423756320
 'Kaitlan Collins',de,unknown,#111111,#111111,1,0.427388162268
 'Catherine Pégard',de,unknown,#111111,#111111,1,0.427233210409
@@ -298,7 +299,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.385790373521
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.385154098488
-'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,2,0.383764278711
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.383196891209
 'Richard Robson',de,Australien,#99aa33,#99aa33,1,0.382880615247
@@ -579,9 +579,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barry Keoghan',de,unknown,#111111,#111111,1,0.323420364292
 'Adam Driver',de,unknown,#111111,#111111,2,0.323392151393
 'Eric Adams',de,USA,#18e8e8,#18e8e8,2,0.323335007843
+'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.322742422260
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.322130048854
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.322064340672
-'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.321768502151
 'Merrick Garland',de,USA,#18e8e8,#18e8e8,1,0.321178517793
 'Peter Tschentscher',de,Deutschland,#11dd44,#11dd44,2,0.321059408678
 'George Miller',de,unknown,#111111,#111111,1,0.320924279871
