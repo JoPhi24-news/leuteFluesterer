@@ -1074,6 +1074,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Lou McDonald',de,Irland,#33bbff,#33bbff,2,0.144444660028
 'Sergey Brin',de,USA,#18e8e8,#18e8e8,1,0.142851814070
 'Edmund Stoiber',de,Deutschland,#11dd44,#11dd44,1,0.140284921369
+'Nicola Beer',de,EU,#bbff33,#bbff33,1,0.139528069782
 'Alexei Nawalny',de,Russland,#e81818,#e81818,1,0.137418783808
 'Sucharit Bhakdi',de,Deutschland,#11dd44,#11dd44,1,0.136883302257
 'Sundar Pichai',de,USA,#18e8e8,#18e8e8,2,0.135153729412
@@ -1102,4 +1103,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Ali Chamenei',de,Iran,#11bb99,#11bb99,2,0.109597736267
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.108621600369
 'Julia Koch',de,USA,#18e8e8,#18e8e8,2,0.105171666447
-'Nicola Beer',de,EU,#bbff33,#bbff33,1,0.104797676214
