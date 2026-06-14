@@ -169,7 +169,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
 'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.429046829367
 'Sam Levinson',de,unknown,#111111,#111111,1,0.429007604731
-'François Mitterrand',de,unknown,#111111,#111111,2,0.428908575387
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.428871994550
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
 'Michaela Coel',de,unknown,#111111,#111111,2,0.428769770870
@@ -363,6 +362,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'reine Mathilde',de,unknown,#111111,#111111,1,0.364869871196
 'Ayo Edebiri',de,USA,#18e8e8,#18e8e8,1,0.364804884722
 'Diane Keaton',de,unknown,#111111,#111111,1,0.364719629245
+'François Mitterrand',de,unknown,#111111,#111111,1,0.364572394079
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.364513123144
 'Tig Notaro',de,USA,#18e8e8,#18e8e8,1,0.364395336276
 'Léon XIV',de,Vatikan,#58b8e8,#58b8e8,1,0.364348510187
