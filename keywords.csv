@@ -855,7 +855,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Lauer',de,unknown,#111111,#111111,1,0.264323486282
 'Leonard Bernstein',de,unknown,#111111,#111111,1,0.264116365396
 'Bill Geddie',de,unknown,#111111,#111111,1,0.263772524303
-'Oisin Fanning',de,Irland,#33bbff,#33bbff,1,0.263590790846
 'nan Si',de,unknown,#111111,#111111,1,0.263529894355
 'Luc Terlinden',de,unknown,#111111,#111111,1,0.263398422573
 'Sherri Shepherd',de,unknown,#111111,#111111,1,0.263383745961
@@ -946,6 +945,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Jouzel',de,unknown,#111111,#111111,1,0.225379775988
 'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.224810135912
 'Boris Pistorius',de,Deutschland,#11dd44,#11dd44,3,0.224559504741
+'Oisin Fanning',de,Irland,#33bbff,#33bbff,1,0.224052172219
 'Wolfgang Schäuble',de,Deutschland,#11dd44,#11dd44,2,0.223148145736
 'Jean-Denis Combrexelle',de,unknown,#111111,#111111,1,0.222772504283
 'Dieter Salomon',de,Deutschland,#11dd44,#11dd44,1,0.222764701048
