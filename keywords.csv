@@ -205,6 +205,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.424000916448
 'Nicolas Cage',de,unknown,#111111,#111111,2,0.423749891475
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
+'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.423151755124
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.422588964552
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.421470555490
 'Hoda Kotb',de,unknown,#111111,#111111,2,0.421236576667
@@ -474,11 +475,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Roberts',de,USA,#18e8e8,#18e8e8,2,0.340994510489
 'Abraham Lincoln',de,USA,#18e8e8,#18e8e8,2,0.340951595224
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
+'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.340814122408
 'Dana White',de,USA,#18e8e8,#18e8e8,1,0.340566310291
 'Demi Moore',de,USA,#18e8e8,#18e8e8,1,0.340168987843
 'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.340047785382
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
-'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.339871409989
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
 'Claudia Kemfert',de,Deutschland,#11dd44,#11dd44,1,0.338715139829
 'Patrick Mahomes',de,USA,#18e8e8,#18e8e8,2,0.338648158701
@@ -582,7 +583,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.322742422260
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.322130048854
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.322064340672
-'Merrick Garland',de,USA,#18e8e8,#18e8e8,1,0.321178517793
 'Peter Tschentscher',de,Deutschland,#11dd44,#11dd44,2,0.321059408678
 'George Miller',de,unknown,#111111,#111111,1,0.320924279871
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,1,0.320653174005
