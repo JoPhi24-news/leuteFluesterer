@@ -1,4 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Will Ferrell',de,unknown,#111111,#111111,2,0.509481137562
+'Jack White',de,unknown,#111111,#111111,2,0.507296782878
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.493183062760
 'Javier Bardem',de,unknown,#111111,#111111,2,0.475740611630
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.475007003176
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474834966176
@@ -24,18 +27,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.461659585465
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.461262776531
 'Mario Adorf',de,unknown,#111111,#111111,3,0.461260198919
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.461032227744
 'Mark Kelly',de,unknown,#111111,#111111,2,0.460009211505
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.458163414537
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
 'Joe Kent',de,unknown,#111111,#111111,3,0.457681562687
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.457322086171
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457219909268
+'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.457025107720
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.456607020041
 'David Lowery',de,unknown,#111111,#111111,2,0.456442206247
-'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.456302082900
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.456279211443
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455890081124
@@ -100,7 +103,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgio Goacomelli',de,unknown,#111111,#111111,1,0.440725000000
 'Chris Soto',de,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.440699175439
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.439842439243
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.439068414002
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.438867568080
@@ -251,9 +253,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.407838681122
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.407196657996
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.406792004105
+'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.406321127385
 'Kristi Noem',de,unknown,#111111,#111111,2,0.406313097902
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
-'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.405499056512
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.404350076975
 'Renee Nicole Good',de,unknown,#111111,#111111,2,0.404148612920
@@ -429,6 +431,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.350168949066
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.350123191912
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.350056871123
+'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.349986822860
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
 'Jane Fonda',de,USA,#18e8e8,#18e8e8,2,0.348890543618
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.348771846917
@@ -443,7 +446,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed Bin Salman',de,SaudiArabien,#2266bb,#2266bb,2,0.346424112751
 'Kemal Kılıçdaroğlu',de,Türkei,#4411ee,#4411ee,2,0.346400852550
 'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.346317538416
-'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.346270971466
 'Omar Sy',de,Frankreich,#e8e808,#e8e808,1,0.346119661797
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.345582969081
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.345355873396
@@ -565,12 +567,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lewis Kaplan',de,USA,#18e8e8,#18e8e8,2,0.325971685129
 'Bruno Le Maire',de,Frankreich,#e8e808,#e8e808,2,0.325904709939
 'George Santos',de,USA,#18e8e8,#18e8e8,2,0.325784856978
+'Lady Di',de,UK,#e838e8,#e838e8,2,0.325702893855
 'Margot Robbie',de,unknown,#111111,#111111,2,0.325356583906
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,1,0.325182269045
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.325155765774
 'Nadja Abd el Farrag',de,Deutschland,#11dd44,#11dd44,2,0.325134551821
 'Tim Scott',de,USA,#18e8e8,#18e8e8,2,0.325087414098
-'Lady Di',de,UK,#e838e8,#e838e8,2,0.324734014132
 'Nawaz Sharif',de,Pakistan,#bb3355,#bb3355,1,0.324616478638
 'Jan Böhmermann',de,Deutschland,#11dd44,#11dd44,3,0.324578116942
 'Ryan Gosling',de,Kanada,#ffaabb,#ffaabb,1,0.324490434527
