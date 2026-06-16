@@ -225,7 +225,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Victoria Beckham',de,UK,#e838e8,#e838e8,2,0.418243298111
 'Norbert Rollinger',de,Deutschland,#11dd44,#11dd44,1,0.417948871837
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
-'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,2,0.417841752327
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Chris Nanos',de,unknown,#111111,#111111,1,0.417052294638
 'Rob Reiner',de,unknown,#111111,#111111,2,0.416454783507
@@ -411,6 +410,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
 'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.355300974603
+'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.355165489478
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.354077598795
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.353974901044
