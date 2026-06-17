@@ -52,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helene Fischer',de,unknown,#111111,#111111,3,0.453015946033
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
 'David Letterman',de,unknown,#111111,#111111,2,0.452467696294
-'Steve Witkoff',de,unknown,#111111,#111111,3,0.452295360749
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
@@ -298,6 +297,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.385790373521
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.385154098488
+'Steve Witkoff',de,unknown,#111111,#111111,2,0.384451671637
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.383679243572
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.383196891209
