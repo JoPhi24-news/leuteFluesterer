@@ -101,7 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgio Goacomelli',de,unknown,#111111,#111111,1,0.440725000000
 'Chris Soto',de,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
-'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.439842439243
+'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.440597916810
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.439068414002
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.438867568080
 'Savannah Guthrie',de,unknown,#111111,#111111,1,0.438751281218
@@ -284,7 +284,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brigitte Bardot',de,unknown,#111111,#111111,1,0.394733219666
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
 'Jacob Frey',de,unknown,#111111,#111111,2,0.393280626717
-'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.392242329549
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,1,0.391940467051
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,2,0.391853637195
@@ -420,6 +419,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.353510533558
 'James Cleverly',de,UK,#e838e8,#e838e8,3,0.353336520045
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.353330422752
+'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.352573834149
 'Britney Spears',de,USA,#18e8e8,#18e8e8,2,0.352404207175
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.352170971658
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.351851685958
