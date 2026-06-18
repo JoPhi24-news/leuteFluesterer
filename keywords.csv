@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.470934919941
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
-'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.469213983041
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.468879418608
 'James Bond',de,unknown,#111111,#111111,3,0.467519316797
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.467404340376
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457219909268
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.456607020041
 'David Lowery',de,unknown,#111111,#111111,2,0.456442206247
+'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.456282005585
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.456279211443
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455890081124
@@ -77,8 +77,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Peter Mandelson',de,unknown,#111111,#111111,3,0.443825702934
 'Mother Mary',de,unknown,#111111,#111111,3,0.443824807500
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.443614354398
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.442864814717
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Nick Reiner',de,unknown,#111111,#111111,2,0.441634475594
 'Daniel Hagari',de,unknown,#111111,#111111,1,0.441478744731
@@ -272,9 +272,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
 'Ali Larijani',de,unknown,#111111,#111111,1,0.397359988808
+'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.397135676300
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.396653224329
 'Hans-Werner Sinn',de,Deutschland,#11dd44,#11dd44,1,0.396541427198
-'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.396296094333
 'Islam Makhachev',de,unknown,#111111,#111111,1,0.395795416827
 'Callum Turner',de,UK,#e838e8,#e838e8,2,0.395765644389
 'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.395734048273
@@ -302,20 +302,20 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.383196891209
 'Richard Robson',de,Australien,#99aa33,#99aa33,1,0.382880615247
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
+'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.382375401647
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,1,0.382326887908
 'prince Andrew',de,unknown,#111111,#111111,1,0.381811038000
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
-'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.381508041901
 'Novak Djokovic',de,Serbien,#4488cc,#4488cc,3,0.381103800458
 'Greta Gerwig',de,USA,#18e8e8,#18e8e8,2,0.380979675716
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.380302120527
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.380051399167
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.379283175466
 'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.379117985668
+'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.378375026495
 'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.378000495237
 'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.377805420683
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
-'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.377500221528
 'Francis Ngannou',de,unknown,#111111,#111111,1,0.376709486990
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,1,0.375531434263
 'Kylie Kelce',de,unknown,#111111,#111111,2,0.375362486525
@@ -401,10 +401,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,2,0.357860484198
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,1,0.357431995697
+'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.357272553795
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.357029866375
 'Cara Delevingne',de,UK,#e838e8,#e838e8,1,0.356771682728
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.356470107316
-'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.356359126279
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.356240721349
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
