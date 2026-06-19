@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.587286188905
+'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.558695315115
 'Javier Bardem',de,unknown,#111111,#111111,2,0.475740611630
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474834966176
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
@@ -267,8 +267,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Epstein Files',de,unknown,#111111,#111111,2,0.401155682769
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
 'Jonathan Ross',de,unknown,#111111,#111111,1,0.399665777012
+'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.398810069647
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.398272610753
-'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.397973667531
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
@@ -289,7 +289,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,1,0.389588364168
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
 'John Clarke',de,USA,#18e8e8,#18e8e8,1,0.389401780306
-'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.388490023532
+'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.389344326612
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.387458644881
 'Quentin Deranque',de,unknown,#111111,#111111,2,0.386408402825
 'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.386274793777
@@ -367,12 +367,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Léon XIV',de,Vatikan,#58b8e8,#58b8e8,1,0.364348510187
 'Daniel Cormier',de,unknown,#111111,#111111,1,0.364347882176
 'Tim Malone',de,USA,#18e8e8,#18e8e8,1,0.363700408881
+'König Felipe VI',de,Spanien,#1144aa,#1144aa,2,0.363691731071
 'Peter Attia',de,unknown,#111111,#111111,1,0.362973737713
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.362944774228
 'Kelly Ripa',de,unknown,#111111,#111111,1,0.362895997685
 'Leslie Wexner',de,unknown,#111111,#111111,1,0.362875474423
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,1,0.362855793459
-'König Felipe VI',de,Spanien,#1144aa,#1144aa,2,0.362789930851
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.362727811775
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.362709920874
 'Omar M. Yaghi',de,USA,#18e8e8,#18e8e8,1,0.362600249750
@@ -386,9 +386,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.361250000000
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.361250000000
 'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.361250000000
+'Robert Francis Prevost',de,USA,#18e8e8,#18e8e8,2,0.361070188314
 'Richard David Precht',de,Deutschland,#11dd44,#11dd44,2,0.361055188103
 'Sophie Turner',de,UK,#e838e8,#e838e8,1,0.360437274561
-'Robert Francis Prevost',de,USA,#18e8e8,#18e8e8,2,0.360163626262
 'Keith Kellogg',de,USA,#18e8e8,#18e8e8,3,0.360077520603
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.359593040267
