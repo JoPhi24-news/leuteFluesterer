@@ -906,7 +906,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.244037921875
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
 'Marco Buschmann',de,Deutschland,#11dd44,#11dd44,3,0.242330180960
@@ -989,6 +988,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',de,Deutschland,#11dd44,#11dd44,1,0.209633915494
 'Ola Källenius',de,Deutschland,#11dd44,#11dd44,2,0.207968429447
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.207697236966
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.207432233594
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.207410322152
 'Cillian Murphy',de,Irland,#33bbff,#33bbff,3,0.207266170663
 'Andrzej Duda',de,Polen,#8844cc,#8844cc,3,0.207231072552
