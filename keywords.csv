@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.479847617848
 'Javier Bardem',de,unknown,#111111,#111111,2,0.475740611630
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474834966176
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
@@ -223,6 +222,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Norbert Rollinger',de,Deutschland,#11dd44,#11dd44,1,0.417948871837
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
+'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.417372619716
 'Chris Nanos',de,unknown,#111111,#111111,1,0.417052294638
 'Rob Reiner',de,unknown,#111111,#111111,2,0.416454783507
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
