@@ -9,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.467404340376
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.466932693282
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.466072403079
+'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.465853515125
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.465436754867
 'Péter Magyar',de,unknown,#111111,#111111,3,0.465102953972
 'HBO Max',de,unknown,#111111,#111111,2,0.462861333620
@@ -333,7 +334,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.371934021745
 'Jack Lang',de,unknown,#111111,#111111,2,0.371004070619
-'Brooklyn Beckham',de,UK,#e838e8,#e838e8,1,0.370356953088
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,1,0.369538163397
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.369110752695
@@ -407,6 +407,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.356240721349
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
+'David Beckham',de,UK,#e838e8,#e838e8,2,0.355580426451
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
 'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.355300974603
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.355165489478
@@ -430,7 +431,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.350226973382
 'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.350168949066
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.350123191912
-'David Beckham',de,UK,#e838e8,#e838e8,2,0.350056871123
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
 'Jane Fonda',de,USA,#18e8e8,#18e8e8,2,0.348890543618
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.348771846917
