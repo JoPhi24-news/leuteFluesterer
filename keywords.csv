@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.467404340376
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.466932693282
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.466072403079
-'Les Wexner',de,unknown,#111111,#111111,2,0.465468888915
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.465436754867
 'Péter Magyar',de,unknown,#111111,#111111,3,0.465102953972
 'HBO Max',de,unknown,#111111,#111111,2,0.462861333620
@@ -278,6 +277,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Islam Makhachev',de,unknown,#111111,#111111,1,0.395795416827
 'Callum Turner',de,UK,#e838e8,#e838e8,2,0.395765644389
 'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.395734048273
+'Les Wexner',de,unknown,#111111,#111111,1,0.395648555578
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
 'Brigitte Bardot',de,unknown,#111111,#111111,1,0.394733219666
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
