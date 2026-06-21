@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Javier Bardem',de,unknown,#111111,#111111,2,0.475740611630
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.474834966176
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
 'Sydney Sweeney',de,unknown,#111111,#111111,3,0.472524328402
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.454026972377
 'Helene Fischer',de,unknown,#111111,#111111,3,0.453015946033
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
+'Javier Bardem',de,unknown,#111111,#111111,2,0.452578371982
 'David Letterman',de,unknown,#111111,#111111,2,0.452467696294
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
@@ -576,11 +576,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ryan Gosling',de,Kanada,#ffaabb,#ffaabb,1,0.324490434527
 'Mike Johnson',de,USA,#18e8e8,#18e8e8,2,0.324309562131
 'Bettina Jarasch',de,Deutschland,#11dd44,#11dd44,2,0.324138388908
+'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.324075010896
 'Barry Keoghan',de,unknown,#111111,#111111,1,0.323420364292
 'Adam Driver',de,unknown,#111111,#111111,2,0.323392151393
 'Eric Adams',de,USA,#18e8e8,#18e8e8,2,0.323335007843
 'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.322742422260
-'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.322130048854
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.322064340672
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.321292739798
 'Peter Tschentscher',de,Deutschland,#11dd44,#11dd44,2,0.321059408678
@@ -705,6 +705,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kiliçdaroglu',de,Türkei,#4411ee,#4411ee,1,0.307062500000
 'Gilbert Plass',de,Kanada,#ffaabb,#ffaabb,1,0.307062500000
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
+'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.306946133893
 'James Biden',de,unknown,#111111,#111111,1,0.306666048656
 'Hugh Grant',de,unknown,#111111,#111111,1,0.306582026544
 'Kevin Kühnert',de,Deutschland,#11dd44,#11dd44,3,0.306267580113
@@ -720,7 +721,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Schöneberger',de,Deutschland,#11dd44,#11dd44,3,0.303944928379
 'Barbara Sturm',de,Deutschland,#11dd44,#11dd44,1,0.303767129274
 'Mary Robinson',de,unknown,#111111,#111111,1,0.303268547741
-'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.302935051151
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,1,0.302883779743
 'Kim Yo Jong',de,NordKorea,#4811f1,#4811f1,1,0.302602775640
 'Ahmed Al Jaber',de,unknown,#111111,#111111,1,0.302587902721
@@ -780,6 +780,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Brady',de,unknown,#111111,#111111,1,0.290478830333
 'Peter Breuer',de,unknown,#111111,#111111,1,0.289662084203
 'Hamish Harding',de,UK,#e838e8,#e838e8,1,0.289627929963
+'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.289480147497
 'Nikki Glaser',de,USA,#18e8e8,#18e8e8,1,0.289368781346
 'Ehud Olmert',de,Israel,#8822dd,#8822dd,1,0.289265527954
 'Kate Capshaw',de,unknown,#111111,#111111,1,0.288158777136
@@ -789,7 +790,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hemsworth',de,unknown,#111111,#111111,1,0.287124473049
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.287103437500
 'Sandra Maischberger',de,Deutschland,#11dd44,#11dd44,3,0.286539185868
-'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.286389967249
 'Kemal Klçdarolu',de,Türkei,#4411ee,#4411ee,3,0.286278690666
 'Irina Shayk',de,unknown,#111111,#111111,1,0.286204198439
 'Julia Louis-Dreyfus',de,unknown,#111111,#111111,1,0.285241155776
