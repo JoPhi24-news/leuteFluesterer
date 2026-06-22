@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Harriet Sperling',de,unknown,#111111,#111111,2,0.608401497671
-'Peter Phillips',de,unknown,#111111,#111111,2,0.601052579334
+'Peter Phillips',de,unknown,#111111,#111111,2,0.602797513584
+'Harriet Sperling',de,unknown,#111111,#111111,2,0.567195509174
 'Jim Himes',de,unknown,#111111,#111111,2,0.507381829031
 'Trevor Phillips',de,unknown,#111111,#111111,2,0.506585251301
 'Scott Pelley',de,unknown,#111111,#111111,2,0.506491300933
@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.470934919941
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.468879418608
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
 'James Bond',de,unknown,#111111,#111111,3,0.467519316797
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.467404340376
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.466932693282
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.466072403079
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.465853515125
@@ -379,12 +379,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Cormier',de,unknown,#111111,#111111,1,0.364347882176
 'Tim Malone',de,USA,#18e8e8,#18e8e8,1,0.363700408881
 'König Felipe VI',de,Spanien,#1144aa,#1144aa,2,0.363691731071
+'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.363629724834
 'Peter Attia',de,unknown,#111111,#111111,1,0.362973737713
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.362944774228
 'Kelly Ripa',de,unknown,#111111,#111111,1,0.362895997685
 'Leslie Wexner',de,unknown,#111111,#111111,1,0.362875474423
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,1,0.362855793459
-'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.362727811775
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.362709920874
 'Omar M. Yaghi',de,USA,#18e8e8,#18e8e8,1,0.362600249750
 'Gervonta Davis',de,USA,#18e8e8,#18e8e8,1,0.362562268201
@@ -423,10 +423,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.355300974603
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.355165489478
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
+'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.354594527910
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.354077598795
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.353974901044
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
-'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.353676282683
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.353510533558
 'James Cleverly',de,UK,#e838e8,#e838e8,3,0.353336520045
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.353330422752
