@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Peter Phillips',de,unknown,#111111,#111111,2,0.602797513584
 'Harriet Sperling',de,unknown,#111111,#111111,2,0.567195509174
+'Peter Phillips',de,unknown,#111111,#111111,2,0.540615866546
 'Jim Himes',de,unknown,#111111,#111111,2,0.507381829031
 'Trevor Phillips',de,unknown,#111111,#111111,2,0.506585251301
 'Scott Pelley',de,unknown,#111111,#111111,2,0.506491300933
@@ -320,9 +320,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
 'Novak Djokovic',de,Serbien,#4488cc,#4488cc,3,0.381103800458
 'Greta Gerwig',de,USA,#18e8e8,#18e8e8,2,0.380979675716
+'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.380859974342
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.380302120527
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.380051399167
-'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.379989789824
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.379283175466
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.378375026495
 'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.378000495237
@@ -462,13 +462,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.345355873396
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.345325933349
 'Ulrich Reitz',de,Deutschland,#11dd44,#11dd44,1,0.345211437895
+'Tom Hanks',de,USA,#18e8e8,#18e8e8,3,0.345108828611
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.345107490487
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.345030443520
 'Chris Luxon',de,Neuseeland,#1818e8,#1818e8,1,0.344952975317
 'Reed Richards',de,USA,#18e8e8,#18e8e8,2,0.344612986480
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,1,0.344472010148
 'Eva Green',de,Frankreich,#e8e808,#e8e808,1,0.344241677240
-'Tom Hanks',de,USA,#18e8e8,#18e8e8,3,0.344173681914
 'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.344078026201
 'Matteo Salvini',de,Italien,#7722cc,#7722cc,2,0.343957319957
 'Helge Schneider',de,Deutschland,#11dd44,#11dd44,1,0.343925949611
@@ -748,12 +748,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lambrecht',de,Deutschland,#11dd44,#11dd44,1,0.300702679890
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,1,0.300582690342
 'Billionaire Bunker',de,unknown,#111111,#111111,1,0.300411010055
+'Pedro Pascal',de,unknown,#111111,#111111,2,0.299900151376
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.299801128495
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.299653784785
 'Andrea Arnold',de,unknown,#111111,#111111,1,0.299422015919
 'Patrick Graichen',de,Deutschland,#11dd44,#11dd44,3,0.299151866067
 'Mareike Fallwickl',de,Österreich,#6622bb,#6622bb,1,0.299068907077
-'Pedro Pascal',de,unknown,#111111,#111111,2,0.298888356829
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.298866396965
 'Roger Federer',de,Schweiz,#88cc44,#88cc44,1,0.298705941101
 'Jon Hamm',de,USA,#18e8e8,#18e8e8,2,0.298409204029
