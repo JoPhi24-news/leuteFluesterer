@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jim Himes',de,unknown,#111111,#111111,2,0.507381829031
 'Trevor Phillips',de,unknown,#111111,#111111,2,0.506585251301
 'Scott Pelley',de,unknown,#111111,#111111,2,0.506491300933
 'Chris Murphy',de,unknown,#111111,#111111,2,0.504127813886
@@ -150,6 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Gates',de,unknown,#111111,#111111,2,0.431451411757
 'Romy Reiner',de,unknown,#111111,#111111,2,0.431403566427
 'Dan Hooker',de,unknown,#111111,#111111,1,0.431384882554
+'Jim Himes',de,unknown,#111111,#111111,1,0.431274569676
 'Fabrice Aidan',de,unknown,#111111,#111111,1,0.431237406328
 'Jack White',de,unknown,#111111,#111111,1,0.431202535446
 'Mark Consuelos',de,unknown,#111111,#111111,1,0.431158693667
