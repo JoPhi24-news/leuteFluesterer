@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Trevor Phillips',de,unknown,#111111,#111111,2,0.506585251301
 'Scott Pelley',de,unknown,#111111,#111111,2,0.506491300933
 'Chris Murphy',de,unknown,#111111,#111111,2,0.504127813886
 'Don Bacon',de,unknown,#111111,#111111,2,0.504040777561
@@ -157,6 +156,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Met Sally',de,unknown,#111111,#111111,1,0.431073117451
 'María Corina Machado',de,unknown,#111111,#111111,2,0.430976812351
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
+'Trevor Phillips',de,unknown,#111111,#111111,2,0.430747478606
 'Nancy Guthrie',de,unknown,#111111,#111111,1,0.430680937954
 'Eric Dane',de,unknown,#111111,#111111,1,0.430667006500
 'Chris Cuomo',de,unknown,#111111,#111111,1,0.430603242396
