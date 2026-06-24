@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Don Bacon',de,unknown,#111111,#111111,2,0.504040777561
 'Chris Van Hollen',de,unknown,#111111,#111111,2,0.501818867296
 'Graham Platner',de,unknown,#111111,#111111,2,0.501490162789
 'John Lennon',de,unknown,#111111,#111111,2,0.500969212213
@@ -184,6 +183,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Murphy',de,unknown,#111111,#111111,1,0.428508761803
 'Amélie de Montchalin',de,unknown,#111111,#111111,1,0.428495491464
 'Noël Barrot',de,unknown,#111111,#111111,3,0.428486557388
+'Don Bacon',de,unknown,#111111,#111111,1,0.428434675927
 'David Amiel',de,unknown,#111111,#111111,1,0.428354875720
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
