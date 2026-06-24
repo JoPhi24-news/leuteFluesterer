@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chris Murphy',de,unknown,#111111,#111111,2,0.504127813886
 'Don Bacon',de,unknown,#111111,#111111,2,0.504040777561
 'Chris Van Hollen',de,unknown,#111111,#111111,2,0.501818867296
 'Graham Platner',de,unknown,#111111,#111111,2,0.501490162789
@@ -182,6 +181,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
 'Alexander Yui',de,unknown,#111111,#111111,2,0.428633017562
+'Chris Murphy',de,unknown,#111111,#111111,1,0.428508761803
 'Amélie de Montchalin',de,unknown,#111111,#111111,1,0.428495491464
 'Noël Barrot',de,unknown,#111111,#111111,3,0.428486557388
 'David Amiel',de,unknown,#111111,#111111,1,0.428354875720
