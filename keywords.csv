@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Chris Van Hollen',de,unknown,#111111,#111111,2,0.501818867296
 'Graham Platner',de,unknown,#111111,#111111,2,0.501490162789
 'John Lennon',de,unknown,#111111,#111111,2,0.500969212213
 'Deborah Birx',de,unknown,#111111,#111111,2,0.500486989981
@@ -194,6 +193,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Catherine Pégard',de,unknown,#111111,#111111,1,0.427233210409
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
+'Chris Van Hollen',de,unknown,#111111,#111111,1,0.426546067202
 'Adam Mockler',de,unknown,#111111,#111111,1,0.426320157079
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.426141048171
