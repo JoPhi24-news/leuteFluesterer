@@ -539,7 +539,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ivanka Trump',de,USA,#18e8e8,#18e8e8,2,0.331608319977
 'Emily Blunt',de,UK,#e838e8,#e838e8,1,0.331553686645
 'George Washington',de,USA,#18e8e8,#18e8e8,2,0.331284631744
-'Robert Sesselmann',de,Deutschland,#11dd44,#11dd44,1,0.330955228836
 'Kai Wegner',de,Deutschland,#11dd44,#11dd44,3,0.330766996117
 'Rainer Maria Woelki',de,Deutschland,#11dd44,#11dd44,2,0.330713246305
 'Elizabeth Warren',de,USA,#18e8e8,#18e8e8,1,0.330449612945
@@ -748,6 +747,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lambrecht',de,Deutschland,#11dd44,#11dd44,1,0.300702679890
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,1,0.300582690342
 'Billionaire Bunker',de,unknown,#111111,#111111,1,0.300411010055
+'Robert Sesselmann',de,Deutschland,#11dd44,#11dd44,1,0.299951703195
 'Pedro Pascal',de,unknown,#111111,#111111,2,0.299900151376
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.299801128495
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.299653784785
