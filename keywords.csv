@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.461333279866
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.461262776531
 'Mario Adorf',de,unknown,#111111,#111111,3,0.461260198919
-'Mark Kelly',de,unknown,#111111,#111111,2,0.460009211505
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
@@ -298,6 +297,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,1,0.391940467051
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,2,0.391853637195
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.391129309034
+'Mark Kelly',de,unknown,#111111,#111111,1,0.391008204779
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,1,0.389588364168
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
 'John Clarke',de,USA,#18e8e8,#18e8e8,1,0.389401780306
