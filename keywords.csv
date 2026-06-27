@@ -51,7 +51,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
 'Javier Bardem',de,unknown,#111111,#111111,2,0.452578371982
 'David Letterman',de,unknown,#111111,#111111,2,0.452467696294
-'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
 'Viktor Orban',de,unknown,#111111,#111111,3,0.450912148496
@@ -115,6 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.435189813501
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.434985648396
 'Alex Pretti',de,unknown,#111111,#111111,2,0.434747203396
+'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.434630821115
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
 'Michele Singer',de,unknown,#111111,#111111,1,0.433667429657
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
@@ -450,8 +450,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.348506567653
 'Jason Kelce',de,USA,#18e8e8,#18e8e8,1,0.348445920974
 'Sergio Mattarella',de,Italien,#7722cc,#7722cc,1,0.348064632851
+'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.347604697613
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
-'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.346673972859
 'Alexander Dobrindt',de,Deutschland,#11dd44,#11dd44,3,0.346480414006
 'Pippa Middleton',de,UK,#e838e8,#e838e8,2,0.346453328909
 'Mohammed Bin Salman',de,SaudiArabien,#2266bb,#2266bb,2,0.346424112751
