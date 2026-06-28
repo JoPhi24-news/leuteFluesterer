@@ -439,7 +439,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.351092598372
 'James Comer',de,USA,#18e8e8,#18e8e8,1,0.351073266212
 'Bettina Stark-Watzinger',de,Deutschland,#11dd44,#11dd44,3,0.350958211966
-'Chris Wright',de,USA,#18e8e8,#18e8e8,3,0.350621619356
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.350226973382
 'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.350168949066
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.350123191912
@@ -759,6 +758,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Hamm',de,USA,#18e8e8,#18e8e8,2,0.298409204029
 'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.298393370410
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,1,0.298375642633
+'Chris Wright',de,USA,#18e8e8,#18e8e8,2,0.298028631453
 'Isaac Newton',de,UK,#e838e8,#e838e8,1,0.297963499739
 'Andreas Ellermann',de,Deutschland,#11dd44,#11dd44,1,0.297797174829
 'Alexander De Croo',de,Belgien,#bb33ff,#bb33ff,1,0.297716995994
