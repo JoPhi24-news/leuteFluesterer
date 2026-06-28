@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Peter Mandelson',de,unknown,#111111,#111111,3,0.499239842494
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
 'Sydney Sweeney',de,unknown,#111111,#111111,3,0.472524328402
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
@@ -6,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.468879418608
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
+'Keir Starmer',de,unknown,#111111,#111111,3,0.468074105164
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.467634630342
 'James Bond',de,unknown,#111111,#111111,3,0.467519316797
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.466072403079
@@ -28,10 +30,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
 'Joe Kent',de,unknown,#111111,#111111,3,0.457681562687
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.457329441189
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.457322086171
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457219909268
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.457002281537
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.456607020041
 'David Lowery',de,unknown,#111111,#111111,2,0.456442206247
 'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.456282005585
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
@@ -60,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.450209833594
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.448819983900
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
-'Keir Starmer',de,unknown,#111111,#111111,3,0.448648269797
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
@@ -73,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,2,0.444822478533
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
-'Peter Mandelson',de,unknown,#111111,#111111,3,0.443825702934
 'Mother Mary',de,unknown,#111111,#111111,3,0.443824807500
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
