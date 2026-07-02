@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Spencer Pratt',de,unknown,#111111,#111111,2,0.504676047187
 'Ken Paxton',de,unknown,#111111,#111111,2,0.503936812030
 'Susan Collins',de,unknown,#111111,#111111,2,0.501685091457
 'Nick Bilton',de,unknown,#111111,#111111,2,0.501540084083
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todd Blanche',de,unknown,#111111,#111111,3,0.455506743463
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.455254159811
+'Spencer Pratt',de,unknown,#111111,#111111,2,0.454874730109
 'Maud Bregeon',de,unknown,#111111,#111111,2,0.454798520145
 'Hunter Schafer',de,unknown,#111111,#111111,2,0.454728848435
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
@@ -423,11 +423,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cara Delevingne',de,UK,#e838e8,#e838e8,1,0.356771682728
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.356470107316
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.356240721349
+'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.356216304654
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.355580426451
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
-'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.355300974603
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.355165489478
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.354594527910
