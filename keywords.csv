@@ -1,12 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Keir Starmer',de,unknown,#111111,#111111,3,0.493777434323
 'Bill Pulte',de,unknown,#111111,#111111,3,0.484712076845
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
 'Sydney Sweeney',de,unknown,#111111,#111111,3,0.472524328402
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.471025912487
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.470934919941
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.470330732502
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.470274163855
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
@@ -56,15 +55,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
 'Javier Bardem',de,unknown,#111111,#111111,2,0.452578371982
 'David Letterman',de,unknown,#111111,#111111,2,0.452467696294
+'Keir Starmer',de,unknown,#111111,#111111,3,0.451944571447
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.451907714420
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
+'Andy Burnham',de,unknown,#111111,#111111,3,0.451470440316
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
 'Viktor Orban',de,unknown,#111111,#111111,3,0.450912148496
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.450808792582
 'Pam Bondi',de,unknown,#111111,#111111,3,0.450794556763
 'Daniel Craig',de,unknown,#111111,#111111,2,0.450724903613
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.450209833594
-'Andy Burnham',de,unknown,#111111,#111111,3,0.450000931354
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
@@ -121,6 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.434283878056
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
 'Michele Singer',de,unknown,#111111,#111111,1,0.433667429657
+'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.433528950995
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
 'Michelle Reiner',de,unknown,#111111,#111111,1,0.433364826682
 'Ben Shapiro',de,unknown,#111111,#111111,1,0.433102086861
@@ -129,7 +130,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chappell Roan',de,unknown,#111111,#111111,2,0.433022738081
 'Quand Harry',de,unknown,#111111,#111111,1,0.432965963035
 'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
-'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.432759600978
 'Howie Mandel',de,unknown,#111111,#111111,2,0.432718855719
 'Craig Melvin',de,unknown,#111111,#111111,1,0.432701574810
 'Sarah Kellen',de,unknown,#111111,#111111,1,0.432564822757
