@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nick Bilton',de,unknown,#111111,#111111,2,0.501909131471
 'Keir Starmer',de,unknown,#111111,#111111,3,0.493777434323
 'Bill Pulte',de,unknown,#111111,#111111,3,0.484712076845
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
@@ -192,6 +191,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Belal Muhammad',de,unknown,#111111,#111111,1,0.427423756320
 'Kaitlan Collins',de,unknown,#111111,#111111,1,0.427388162268
 'Catherine Pégard',de,unknown,#111111,#111111,1,0.427233210409
+'Nick Bilton',de,unknown,#111111,#111111,2,0.427222821750
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Chris Van Hollen',de,unknown,#111111,#111111,1,0.426546067202
