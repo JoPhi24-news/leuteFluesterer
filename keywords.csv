@@ -1022,7 +1022,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igor Setschin',de,Russland,#e81818,#e81818,2,0.200535646194
 'Faisal Kawusi',de,Deutschland,#11dd44,#11dd44,1,0.199949052960
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.198812136611
-'Shahzada Dawood',de,Pakistan,#bb3355,#bb3355,1,0.198103507082
 'Zach Bryan',de,unknown,#111111,#111111,1,0.195639517322
 'Aleksandar Vucic',de,Serbien,#4488cc,#4488cc,3,0.195421796378
 'Christian Drosten',de,Deutschland,#11dd44,#11dd44,2,0.194786454223
@@ -1058,6 +1057,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',de,Frankreich,#e8e808,#e8e808,1,0.176277633014
 'Jair Lapid',de,Israel,#8822dd,#8822dd,2,0.171775392327
 'Justin Trudeau',de,Kanada,#ffaabb,#ffaabb,2,0.169677532419
+'Shahzada Dawood',de,Pakistan,#bb3355,#bb3355,1,0.169138056020
 'Jack Ma',de,China,#e88818,#e88818,1,0.168439267767
 'Kim Jong-un',de,NordKorea,#4811f1,#4811f1,3,0.166994682129
 'Klaus-Michael Kühne',de,Deutschland,#11dd44,#11dd44,2,0.166959320396
