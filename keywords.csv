@@ -774,7 +774,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam H',de,unknown,#111111,#111111,1,0.296477821593
 'Xi Jinping',de,China,#e88818,#e88818,3,0.296387595173
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.296302020821
-'King Charles',de,UK,#e838e8,#e838e8,3,0.295966202416
 'Holger Friedrich',de,Deutschland,#11dd44,#11dd44,2,0.295783174007
 'Matt Winkelmeyer',de,unknown,#111111,#111111,1,0.295580984723
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.295276485558
@@ -905,6 +904,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Munger',de,unknown,#111111,#111111,1,0.255006696635
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.254589514446
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,1,0.252222829181
+'King Charles',de,UK,#e838e8,#e838e8,2,0.251571587054
 'Pat McAfee',de,USA,#18e8e8,#18e8e8,1,0.250956297151
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.249698353518
 'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.249471227397
