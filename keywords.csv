@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
 'Sydney Sweeney',de,unknown,#111111,#111111,3,0.472524328402
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.471719709246
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472412125261
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.470934919941
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.470274163855
@@ -52,10 +52,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.454026972377
 'Helene Fischer',de,unknown,#111111,#111111,3,0.453745471156
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.452639429543
 'Javier Bardem',de,unknown,#111111,#111111,2,0.452578371982
 'David Letterman',de,unknown,#111111,#111111,2,0.452467696294
 'Keir Starmer',de,unknown,#111111,#111111,3,0.451944571447
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.451907714420
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
 'Andy Burnham',de,unknown,#111111,#111111,3,0.451470440316
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
@@ -427,7 +427,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.355580426451
-'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.355165489478
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.354594527910
@@ -474,6 +473,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Luxon',de,Neuseeland,#1818e8,#1818e8,1,0.344952975317
 'Reed Richards',de,USA,#18e8e8,#18e8e8,2,0.344612986480
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,1,0.344472010148
+'Gorbatschow',de,Russland,#e81818,#e81818,3,0.344394819894
 'Eva Green',de,Frankreich,#e8e808,#e8e808,1,0.344241677240
 'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.344078026201
 'Matteo Salvini',de,Italien,#7722cc,#7722cc,2,0.343957319957
@@ -987,10 +987,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afida Turner',de,Frankreich,#e8e808,#e8e808,1,0.217315014423
 'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,2,0.217292238389
 'Winfried Kretschmann',de,Deutschland,#11dd44,#11dd44,3,0.215520805967
+'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.214926374463
 'Tamim bin Hamad Al Thani',de,Katar,#33aadd,#33aadd,1,0.214613327752
 'Lothar Wieler',de,Deutschland,#11dd44,#11dd44,1,0.214475643039
 'Schellnhuber',de,Deutschland,#11dd44,#11dd44,2,0.214368131729
-'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.213792117426
 'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.213101432961
 'Fidel Castro',de,Kuba,#cc4488,#cc4488,2,0.212798441710
 'Katalin Novák',de,Ungarn,#33aa99,#33aa99,1,0.212432244683
