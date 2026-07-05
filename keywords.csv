@@ -96,7 +96,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Dugard',de,unknown,#111111,#111111,1,0.440725000000
 'Hannu Halinen',de,unknown,#111111,#111111,1,0.440725000000
 'Giorgio Goacomelli',de,unknown,#111111,#111111,1,0.440725000000
-'Chris Soto',de,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.440597916810
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.439068414002
@@ -341,6 +340,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amos Goldberg',de,unknown,#111111,#111111,1,0.374616273587
 'Revital Gottlieb',de,unknown,#111111,#111111,1,0.374616250000
 'Makarim Wobisono',de,unknown,#111111,#111111,1,0.374616250000
+'Chris Soto',de,unknown,#111111,#111111,1,0.374616250000
 'Avi Dichter',de,unknown,#111111,#111111,1,0.374616250000
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,1,0.374321916751
