@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bill Pulte',de,unknown,#111111,#111111,3,0.484712076845
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
 'Sydney Sweeney',de,unknown,#111111,#111111,3,0.472524328402
@@ -242,6 +241,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kendall Jenner',de,unknown,#111111,#111111,1,0.414947600855
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.412648994865
+'Bill Pulte',de,unknown,#111111,#111111,2,0.412005760318
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.411320517426
 'Bill Maher',de,unknown,#111111,#111111,2,0.411306168503
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.411260914085
