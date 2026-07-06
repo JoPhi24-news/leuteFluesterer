@@ -1,284 +1,201 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Andy Burnham,Andy Burnham,PER,0.3090909090909091,0.0,de,11
-Ken Paxton,Ken Paxton,PER,-0.1625,0.0,de,8
-Alex Saab,Alex Saab,PER,-0.2,0.0,de,8
+Tulsi Gabbard,Tulsi Gabbard,PER,0.34500000000000003,0.0,de,10
+Premier Starmer,Premier Starmer,PER,-0.15555555555555556,0.0,de,9
 Ringo Starr,Ringo Starr,PER,-0.125,0.0,de,8
-Iris Berben,Iris Berben,PER,-0.2125,0.0,de,8
+Alex Saab,Alex Saab,PER,-0.2,0.0,de,8
 Antoni Gaudí,Antoni Gaudí,PER,0.42857142857142855,0.0,de,7
+Dan Jarvis,Dan Jarvis,PER,0.0,0.0,de,7
 Tom Cruise,Tom Cruise,PER,0.0,0.0,de,7
-Jack Brooksbank,Jack Brooksbank,PER,-0.19999999999999998,0.0,de,7
+Jay Clayton,Jay Clayton,PER,0.05000000000000001,0.0,de,6
+John Healey,John Healey,PER,0.11666666666666665,0.0,de,6
 Unai Emery,Unai Emery,PER,0.47500000000000003,0.0,de,6
-Laura Wontorra,Laura Wontorra,PER,0.0,0.0,de,6
 Kevin Warsh,Kevin Warsh,PER,0.27999999999999997,0.0,de,5
+Zane Lowe,Zane Lowe,PER,0.13999999999999999,0.2,de,5
 Sohn Brooklyn,Sohn Brooklyn,PER,-0.4,0.0,de,5
-Tulsi Gabbard,Tulsi Gabbard,PER,0.13999999999999999,0.0,de,5
-Nic Cage,Nic Cage,PER,0.0,0.0,de,4
 Bob Dylan,Bob Dylan,PER,-0.175,0.0,de,4
 Nick Cage,Nick Cage,PER,0.0,0.0,de,4
-Pedro Almodóvar,Pedro Almodóvar,PER,0.3333333333333333,0.0,de,3
-Zane Lowe,Zane Lowe,PER,0.2333333333333333,0.3333333333333333,de,3
-Colby Covington,Colby Covington,PER,0.2333333333333333,0.0,de,3
-Manfred Weber,Manfred Weber,PER,0.0,0.0,de,3
-Henry Cavill,Henry Cavill,PER,-0.9,0.0,de,3
-Ben Reilly,Ben Reilly,PER,0.0,0.0,de,3
+Nic Cage,Nic Cage,PER,0.0,0.0,de,4
 Harriet gef,Harriet gef,PER,0.0,0.0,de,3
-Cynthia Erivo,Cynthia Erivo,PER,0.7166666666666667,0.0,de,3
-Kylie Jenner,Kylie Jenner,PER,0.2333333333333333,0.0,de,3
-Amy Adams,Amy Adams,PER,-0.2333333333333333,0.0,de,3
+Colby Covington,Colby Covington,PER,0.2333333333333333,0.0,de,3
+Ben Reilly,Ben Reilly,PER,0.0,0.0,de,3
 Nikodemus Schnabel,Nikodemus Schnabel,PER,0.0,0.0,de,3
-Magnifica Humanitas,Magnifica Humanitas,PER,0.4666666666666666,0.0,de,3
-Maric Verch,Maric Verch,PER,0.0,0.0,de,3
-Rick Woldenberg,Rick Woldenberg,PER,0.2333333333333333,0.0,de,3
 Robert Mitchum,Robert Mitchum,PER,-0.2833333333333333,0.0,de,3
+Magnifica Humanitas,Magnifica Humanitas,PER,0.4666666666666666,0.0,de,3
+Steve Clayton,Steve Clayton,PER,0.38888888888888884,0.0,de,3
+Henry Cavill,Henry Cavill,PER,-0.9,0.0,de,3
 Luke Littler,Luke Littler,PER,1.0,0.0,de,3
-Oliver Kalkofe,Oliver Kalkofe,PER,0.0,0.0,de,2
-Anthropic-Mitgründer Chris Olah,Anthropic-Mitgründer Chris Olah,PER,0.7,0.0,de,2
-Udo Lindenberg,Udo Lindenberg,PER,0.5,0.0,de,2
-Randy Feenstra,Randy Feenstra,PER,0.0,0.0,de,2
-Darts-Star Luke Littler,Darts-Star Luke Littler,PER,0.575,0.0,de,2
-Tom Holland,Tom Holland,PER,0.0,0.0,de,2
-Margo Martin,Margo Martin,PER,0.0,0.0,de,2
-Frogmore Cottage,Frogmore Cottage,PER,0.0,0.0,de,2
+Rick Woldenberg,Rick Woldenberg,PER,0.2333333333333333,0.0,de,3
+Manfred Weber,Manfred Weber,PER,0.0,0.0,de,3
+Pedro Almodóvar,Pedro Almodóvar,PER,0.3333333333333333,0.0,de,3
+Amy Adams,Amy Adams,PER,-0.2333333333333333,0.0,de,3
+Nigel Farage,Nigel Farage,PER,0.0,0.26666666666666666,de,3
+Cynthia Erivo,Cynthia Erivo,PER,0.7166666666666667,0.0,de,3
+Regierungschef Sánchez,Regierungschef Sánchez,PER,0.0,0.0,de,2
+Bettina Anderson,Bettina Anderson,PER,0.0,0.0,de,2
+Dave Grohl,Dave Grohl,PER,-0.35,0.0,de,2
+Elton John,Elton John,PER,-0.35,0.0,de,2
+Eckart von Hirschhausen,Eckart von Hirschhausen,PER,0.0,0.0,de,2
+Vorsitzender de,Vorsitzender de,PER,0.0,0.0,de,2
+ARD-Talk Maischberger,ARD-Talk Maischberger,PER,0.0,0.0,de,2
+Colbert Questionnaire,Colbert Questionnaire,PER,-0.5166666666666666,0.0,de,2
+Roderich Kiesewetter,Roderich Kiesewetter,PER,0.0,0.0,de,2
+Erich Vad,Erich Vad,PER,0.0,0.0,de,2
+Donald Jr,Donald Jr,PER,0.0,0.0,de,2
+Robert Smith,Robert Smith,PER,0.575,0.0,de,2
+Sagrada Família,Sagrada Família,PER,0.0,0.0,de,2
+By Andrew Chung,By Andrew Chung,PER,0.0,0.0,de,2
+Liveblog Ukrainekrieg,Liveblog Ukrainekrieg,PER,0.0,0.0,de,2
+Violet Grohl,Violet Grohl,PER,0.0,0.0,de,2
+Vince Staples,Vince Staples,PER,0.0,0.0,de,2
+Pierre-Auguste Renoir,Pierre-Auguste Renoir,PER,1.0,0.0,de,2
+Japans Premierministerin,Japans Premierministerin,PER,-0.175,0.25,de,2
+Ferdinand Marcos Jr,Ferdinand Marcos Jr,PER,-0.175,0.25,de,2
+Thomas Bruch,Thomas Bruch,PER,0.0,0.0,de,2
+Humphrey Bogart,Humphrey Bogart,PER,1.0,0.0,de,2
+Steve Hilton,Steve Hilton,PER,0.15000000000000002,0.0,de,2
 Scorseses Filmklassiker,Scorseses Filmklassiker,PER,-0.35,0.0,de,2
+Oliver Kalkofe,Oliver Kalkofe,PER,0.0,0.0,de,2
+Randy Feenstra,Randy Feenstra,PER,0.0,0.0,de,2
+Ariana Grande,Ariana Grande,PER,-0.35,0.0,de,2
+John Travolta,John Travolta,PER,0.0,0.0,de,2
 John Woo,John Woo,PER,0.0,0.0,de,2
+Nicolas Coppola,Nicolas Coppola,PER,0.5,0.0,de,2
+Anthropic-Mitgründer Chris Olah,Anthropic-Mitgründer Chris Olah,PER,0.7,0.0,de,2
+Frogmore Cottage,Frogmore Cottage,PER,0.0,0.0,de,2
+Nicolas Kim Coppola,Nicolas Kim Coppola,PER,0.0,0.0,de,2
 Dionne Warwick,Dionne Warwick,PER,0.5,0.0,de,2
-Earthshot Prize,Earthshot Prize,PER,-0.35,0.0,de,2
+Steven Soderbergh,Steven Soderbergh,PER,0.5,0.0,de,2
+Yoko Ono,Yoko Ono,PER,0.35,0.0,de,2
+Liveblog Fußball-WM,Liveblog Fußball-WM,PER,-0.5,0.0,de,2
+Raúl Castro,Raúl Castro,PER,-0.35,0.0,de,2
+Sohn von Prinzessin Anne,Sohn von Prinzessin Anne,PER,-0.35,0.0,de,2
+Martin Heidegger,Martin Heidegger,PER,0.0,0.0,de,2
+Tom Holland,Tom Holland,PER,0.0,0.0,de,2
+Torontos Bürgermeist,Torontos Bürgermeist,PER,0.0,0.0,de,2
+Wallis Bird,Wallis Bird,PER,0.0,0.0,de,2
+Raul Castro,Raul Castro,PER,-0.575,0.0,de,2
+Tony Blairs,Tony Blairs,PER,0.0,0.5,de,2
+Wen Müller,Wen Müller,PER,0.0,0.0,de,2
+Antonio Costa,Antonio Costa,PER,0.0,0.0,de,2
 Michael Banks,Michael Banks,PER,0.35,0.0,de,2
 Wes Streeting,Wes Streeting,PER,0.35,0.0,de,2
 Venezuelas Ex-Staatschef,Venezuelas Ex-Staatschef,PER,-0.5,0.0,de,2
-Nicolas Kim Coppola,Nicolas Kim Coppola,PER,0.0,0.0,de,2
-Raul Castro,Raul Castro,PER,-0.575,0.0,de,2
-Humphrey Bogart,Humphrey Bogart,PER,1.0,0.0,de,2
-Ferdinand Marcos Jr,Ferdinand Marcos Jr,PER,-0.175,0.25,de,2
-Violet Grohl,Violet Grohl,PER,0.0,0.0,de,2
-Eckart von Hirschhausen,Eckart von Hirschhausen,PER,0.0,0.0,de,2
-Bettina Anderson,Bettina Anderson,PER,0.0,0.0,de,2
-Elton John,Elton John,PER,-0.35,0.0,de,2
-Thomas Bruch,Thomas Bruch,PER,0.0,0.0,de,2
-Ariana Grande,Ariana Grande,PER,-0.35,0.0,de,2
-Colbert Questionnaire,Colbert Questionnaire,PER,-0.5166666666666666,0.0,de,2
-Donald Jr,Donald Jr,PER,0.0,0.0,de,2
-Robert Smith,Robert Smith,PER,0.575,0.0,de,2
-Japans Premierministerin,Japans Premierministerin,PER,-0.175,0.25,de,2
-Martin Heidegger,Martin Heidegger,PER,0.0,0.0,de,2
-Erich Vad,Erich Vad,PER,0.0,0.0,de,2
-Roderich Kiesewetter,Roderich Kiesewetter,PER,0.0,0.0,de,2
-Steven Soderbergh,Steven Soderbergh,PER,0.5,0.0,de,2
-Vince Staples,Vince Staples,PER,0.0,0.0,de,2
-Wallis Bird,Wallis Bird,PER,0.0,0.0,de,2
-Bill Pulte,Bill Pulte,PER,-0.5,0.0,de,2
-John Travolta,John Travolta,PER,0.0,0.0,de,2
-Nicolas Coppola,Nicolas Coppola,PER,0.5,0.0,de,2
-Raúl Castro,Raúl Castro,PER,-0.35,0.0,de,2
-Pierre-Auguste Renoir,Pierre-Auguste Renoir,PER,1.0,0.0,de,2
-Dave Grohl,Dave Grohl,PER,-0.35,0.0,de,2
+Starmers parteiinterner,Starmers parteiinterner,PER,0.0,0.0,de,2
+Action-Legende Tom Cruise,Action-Legende Tom Cruise,PER,0.0,0.0,de,2
+Starmers Rücktritt,Starmers Rücktritt,PER,0.0,0.0,de,2
+Bikini Kill,Bikini Kill,PER,0.0,0.0,de,2
+Rachel Chinouriri,Rachel Chinouriri,PER,0.0,0.0,de,2
+Matthias Neth,Matthias Neth,PER,0.175,0.0,de,2
+Stevie Nicks,Stevie Nicks,PER,0.0,0.0,de,2
+Sarah McLachlan,Sarah McLachlan,PER,0.0,0.0,de,2
+Karen O,Karen O,PER,0.0,0.0,de,2
+Adrian Vestea,Adrian Vestea,PER,0.0,0.0,de,2
+Darren Jones,Darren Jones,PER,0.0,0.0,de,2
+Tamas Sulyok,Tamas Sulyok,PER,-0.35,0.0,de,2
+Nina Chruschtschowa,Nina Chruschtschowa,PER,0.0,0.0,de,2
 Louise Flanagan,Louise Flanagan,PER,0.0,0.0,de,2
-Axel Milberg,Axel Milberg,PER,0.0,0.0,de,2
-Kristina Schröder,Kristina Schröder,PER,-0.5,0.0,de,2
-Premier Starmer,Premier Starmer,PER,0.0,0.0,de,2
-Otmar Lahodynsky,Otmar Lahodynsky,PER,0.0,0.0,de,2
-Prinzessin Eugenie,Prinzessin Eugenie,PER,0.0,0.0,de,2
-Gabriel Felbermayr,Gabriel Felbermayr,PER,0.0,0.0,de,2
+Maja T,Maja T,PER,0.35,0.0,de,2
 Mark Hamill,Mark Hamill,PER,-0.07500000000000001,0.0,de,2
 Poppy Delevingne,Poppy Delevingne,PER,-0.35,0.0,de,2
-ARD-Talk Maischberger,ARD-Talk Maischberger,PER,0.0,0.0,de,2
-Action-Legende Tom Cruise,Action-Legende Tom Cruise,PER,0.0,0.0,de,2
 Ex-Beatles Paul,Ex-Beatles Paul,PER,0.0,0.0,de,2
-Sagrada Família,Sagrada Família,PER,0.0,0.0,de,2
-Ungarns Wahlsieger,Ungarns Wahlsieger,PER,0.0,0.0,de,2
-Klub-Patron Uli Hoeneß,Klub-Patron Uli Hoeneß,PER,0.7,0.0,de,2
-Konrad Laimer,Konrad Laimer,PER,0.0,0.0,de,2
-Julian Nagelsmann,Julian Nagelsmann,PER,0.0,0.0,de,2
-Regierungschef Sánchez,Regierungschef Sánchez,PER,0.0,0.0,de,2
-Manuel Neuer,Manuel Neuer,PER,0.0,0.0,de,2
-Torontos Bürgermeist,Torontos Bürgermeist,PER,0.0,0.0,de,2
-Matthias Neth,Matthias Neth,PER,0.175,0.0,de,2
-Yoko Ono,Yoko Ono,PER,0.35,0.0,de,2
-Peter Steinlechner,Peter Steinlechner,PER,0.7,0.0,de,2
-Liveblog Fußball-WM,Liveblog Fußball-WM,PER,-0.5,0.0,de,2
-Tom Marcham,Tom Marcham,PER,-0.5,0.5,de,2
-Wen Müller,Wen Müller,PER,0.0,0.0,de,2
-Sohn von Prinzessin Anne,Sohn von Prinzessin Anne,PER,-0.35,0.0,de,2
-Robert Pausch,Robert Pausch,PER,0.0,0.0,de,1
-Daniel Kalt,Daniel Kalt,PER,-0.7,0.0,de,1
-Bruno Kant,Bruno Kant,PER,-1.0,0.0,de,1
-Lisa Caspari,Lisa Caspari,PER,0.0,0.0,de,1
-Paul Middelhoff,Paul Middelhoff,PER,0.0,0.0,de,1
-Luke Cage,Luke Cage,PER,0.0,0.0,de,1
-Jacobia Dahm,Jacobia Dahm,PER,0.0,0.0,de,1
-Regierungsgebäude pins,Regierungsgebäude pins,PER,0.0,0.0,de,1
-Lemmy Kilmister von Motörhead,Lemmy Kilmister von Motörhead,PER,0.0,0.0,de,1
-Chris Olah,Chris Olah,PER,0.0,0.0,de,1
-Meister der Konfrontation,Meister der Konfrontation,PER,0.0,0.0,de,1
-Valerie Zehethofer,Valerie Zehethofer,PER,-0.7,0.0,de,1
-Eva Dinnewitzer,Eva Dinnewitzer,PER,-0.7,0.0,de,1
-Marilyn Monroe,Marilyn Monroe,PER,0.0,0.0,de,1
-Royal Ascot,Royal Ascot,PER,1.0,0.0,de,1
-Riccardo De Luca,Riccardo De Luca,PER,-0.7,0.0,de,1
-Nicolae Ceauescu,Nicolae Ceauescu,PER,0.0,1.0,de,1
-Long Play,Long Play,PER,0.0,0.0,de,1
-McCartney al,McCartney al,PER,0.0,0.0,de,1
-Thomas Jarzombek,Thomas Jarzombek,PER,1.0,0.0,de,1
-Vanessa Loibl,Vanessa Loibl,PER,-0.15000000000000002,0.0,de,1
-Königin Elisabeth II,Königin Elisabeth II,PER,0.0,0.0,de,1
-Märchenkönig Ludwig II,Märchenkönig Ludwig II,PER,-1.0,0.0,de,1
-Andy B,Andy B,PER,0.0,0.0,de,1
-Arnold Schwarzeneggers,Arnold Schwarzeneggers,PER,0.0,1.0,de,1
-Trumps Wahrheitsmaschine,Trumps Wahrheitsmaschine,PER,0.0,0.0,de,1
-Mama Diana,Mama Diana,PER,-1.0,0.0,de,1
-Trumps Importzölle,Trumps Importzölle,PER,0.0,0.0,de,1
-Ex-US-Justizministerin Bondi,Ex-US-Justizministerin Bondi,PER,0.0,0.0,de,1
-Luzia Geier,Luzia Geier,PER,0.0,0.0,de,1
-Idi Amin,Idi Amin,PER,0.0,1.0,de,1
-© Axel,© Axel,PER,0.0,0.0,de,1
-John Ca,John Ca,PER,0.0,0.0,de,1
-Max Cady,Max Cady,PER,0.5,0.5,de,1
+Earthshot Prize,Earthshot Prize,PER,-0.35,0.0,de,2
+Alan Johnson,Alan Johnson,PER,0.0,0.0,de,2
+Darts-Star Luke Littler,Darts-Star Luke Littler,PER,0.575,0.0,de,2
+Udo Lindenberg,Udo Lindenberg,PER,0.5,0.0,de,2
+Margo Martin,Margo Martin,PER,0.0,0.0,de,2
+Kristina Schröder,Kristina Schröder,PER,-0.5,0.0,de,2
 Olivia Rodgrios,Olivia Rodgrios,PER,0.0,0.0,de,1
-William Schicksalsjahre,William Schicksalsjahre,PER,-0.7,0.0,de,1
-Kate da,Kate da,PER,0.0,0.0,de,1
-Katharina Dröge,Katharina Dröge,PER,-0.15000000000000002,0.0,de,1
-Hans-Günter Kellner,Hans-Günter Kellner,PER,0.0,0.0,de,1
-Spaniens Royals,Spaniens Royals,PER,0.0,0.0,de,1
-Lisa Weiß,Lisa Weiß,PER,0.0,0.0,de,1
 David Senra,David Senra,PER,1.0,0.0,de,1
-Bill Pultes,Bill Pultes,PER,0.0,0.0,de,1
-Steve Hilton,Steve Hilton,PER,-0.7,0.0,de,1
 Ex-Studentenanführer Wuer,Ex-Studentenanführer Wuer,PER,0.0,0.0,de,1
-Gwyneth Paltrow,Gwyneth Paltrow,PER,-0.7,0.0,de,1
-Annes Sohn,Annes Sohn,PER,0.0,0.0,de,1
+Al Carns,Al Carns,PER,-0.7,0.0,de,1
+Bruno Mars,Bruno Mars,PER,0.0,0.0,de,1
+Trumps Iran-Deal,Trumps Iran-Deal,PER,-1.0,0.0,de,1
+Estimats germans i germanes,Estimats germans i germanes,PER,0.0,0.0,de,1
+Beatrix von Storch,Beatrix von Storch,PER,0.0,0.0,de,1
+Märchenkönig Ludwig II,Märchenkönig Ludwig II,PER,-1.0,0.0,de,1
+Elisabeth II,Elisabeth II,PER,0.0,0.0,de,1
+Gaudís Todestag,Gaudís Todestag,PER,0.0,0.0,de,1
 Paul Mescal,Paul Mescal,PER,0.0,0.0,de,1
-Irans Botschafter,Irans Botschafter,PER,0.0,0.0,de,1
+Jon Spencer,Jon Spencer,PER,0.0,0.0,de,1
 Jürgen Prochnow,Jürgen Prochnow,PER,0.0,0.0,de,1
 Van Aken,Van Aken,PER,0.0,0.0,de,1
+Gefolgsmann Pulte,Gefolgsmann Pulte,PER,0.0,0.0,de,1
+Liveblog Irankrieg,Liveblog Irankrieg,PER,0.0,0.0,de,1
+Christoph Prö,Christoph Prö,PER,0.7,0.0,de,1
 Jan van Aken,Jan van Aken,PER,0.0,0.0,de,1
-Kate stahl,Kate stahl,PER,0.0,0.0,de,1
+Trump endorses Colombian ,Trump endorses Colombian ,PER,0.0,0.0,de,1
+Jeremy Corbyns,Jeremy Corbyns,PER,0.0,0.0,de,1
+Luzia Geier,Luzia Geier,PER,0.0,0.0,de,1
+Tulsi Gabba,Tulsi Gabba,PER,0.0,0.0,de,1
+Andrew Lownie,Andrew Lownie,PER,-1.0,0.0,de,1
+Trumps Schwiegersohn,Trumps Schwiegersohn,PER,0.0,0.0,de,1
+Gordon Browns,Gordon Browns,PER,0.0,0.0,de,1
+Arnold Schwarzeneggers,Arnold Schwarzeneggers,PER,0.0,1.0,de,1
+Ivan Ceped,Ivan Ceped,PER,0.0,0.0,de,1
+Marilyn Monroe,Marilyn Monroe,PER,0.0,0.0,de,1
+Jonathan Fischer03,Jonathan Fischer03,PER,0.0,0.0,de,1
+Daniel Kalt,Daniel Kalt,PER,-0.7,0.0,de,1
+Valerie Zehethofer,Valerie Zehethofer,PER,-0.7,0.0,de,1
+Nikita Chruschtschow,Nikita Chruschtschow,PER,0.0,0.0,de,1
+Xavier Becerra,Xavier Becerra,PER,0.85,0.0,de,1
+Xavier Bec,Xavier Bec,PER,0.85,0.0,de,1
+Eva Dinnewitzer,Eva Dinnewitzer,PER,-0.7,0.0,de,1
+Anne McEl,Anne McEl,PER,0.0,0.0,de,1
+Gordon Repinski,Gordon Repinski,PER,0.0,0.0,de,1
 Joseph Sohm,Joseph Sohm,PER,0.0,0.0,de,1
+James Murray,James Murray,PER,0.0,0.0,de,1
+Gwyneth Paltrow,Gwyneth Paltrow,PER,-0.7,0.0,de,1
+Königin Elisabeth II,Königin Elisabeth II,PER,0.0,0.0,de,1
+John Bercow,John Bercow,PER,0.0,0.0,de,1
+© Axel,© Axel,PER,0.0,0.0,de,1
+Keith Starmer,Keith Starmer,PER,0.0,0.0,de,1
+Politico-Korrespondentin Anne McElvoy,Politico-Korrespondentin Anne McElvoy,PER,0.0,0.0,de,1
+Lisa Weiß,Lisa Weiß,PER,0.0,0.0,de,1
+Thomas Jarzombek,Thomas Jarzombek,PER,1.0,0.0,de,1
+Nachwahlen Großbritannien,Nachwahlen Großbritannien,PER,0.0,0.0,de,1
+Spaniens Royals,Spaniens Royals,PER,0.0,0.0,de,1
+Hans-Günter Kellner,Hans-Günter Kellner,PER,0.0,0.0,de,1
+Katharina Dröge,Katharina Dröge,PER,-0.15000000000000002,0.0,de,1
+Sebastian Kisters,Sebastian Kisters,PER,0.0,0.0,de,1
+Burnhams Dolch,Burnhams Dolch,PER,0.0,0.0,de,1
+Felipe von Spanien,Felipe von Spanien,PER,0.0,0.0,de,1
+Ex-Außenminister Josef „Joschka“ Fischer,Ex-Außenminister Josef „Joschka“ Fischer,PER,0.0,0.0,de,1
+Christoph Prössl,Christoph Prössl,PER,0.0,0.0,de,1
+Antonio Gaudís,Antonio Gaudís,PER,0.0,0.0,de,1
+Annes Sohn,Annes Sohn,PER,0.0,0.0,de,1
+Anne McElvoy,Anne McElvoy,PER,0.0,0.0,de,1
+Was Starmers,Was Starmers,PER,0.0,0.0,de,1
 Andrew untervermietete Cottages,Andrew untervermietete Cottages,PER,0.0,0.0,de,1
 Sam Bowden,Sam Bowden,PER,0.7,0.0,de,1
-Sebastian Kisters,Sebastian Kisters,PER,0.0,0.0,de,1
-Felipe von Spanien,Felipe von Spanien,PER,0.0,0.0,de,1
-Liveblog Irankrieg,Liveblog Irankrieg,PER,0.0,0.0,de,1
-Andrew Lownie,Andrew Lownie,PER,-1.0,0.0,de,1
-Streaming-Serie Euphoria,Streaming-Serie Euphoria,PER,0.0,0.0,de,1
-EU-Kommissar Mandelson,EU-Kommissar Mandelson,PER,0.0,0.0,de,1
-picture alli,picture alli,PER,0.0,0.0,de,1
+Gabi Biesinger,Gabi Biesinger,PER,0.0,0.0,de,1
+Tag« seines Lebens,Tag« seines Lebens,PER,0.0,0.0,de,1
+Max Cady,Max Cady,PER,0.5,0.5,de,1
+Henry Donov,Henry Donov,PER,-0.7,0.0,de,1
 Soderberghs Lennon-Doku,Soderberghs Lennon-Doku,PER,0.0,0.0,de,1
-Gaudís Todestag,Gaudís Todestag,PER,0.0,0.0,de,1
-Jon Spencer,Jon Spencer,PER,0.0,0.0,de,1
-Kelsey Lu,Kelsey Lu,PER,0.0,0.0,de,1
+Royal Ascot,Royal Ascot,PER,1.0,0.0,de,1
+Italiens Ministerpräsidentin,Italiens Ministerpräsidentin,PER,-0.2333333333333333,0.0,de,1
 Leo di,Leo di,PER,-0.7,0.0,de,1
-Trumps Schwiegersohn,Trumps Schwiegersohn,PER,0.0,0.0,de,1
-Nick Bilton,Nick Bilton,PER,-0.7,0.0,de,1
-Trump endorses Colombian ,Trump endorses Colombian ,PER,0.0,0.0,de,1
-Ivan Ceped,Ivan Ceped,PER,0.0,0.0,de,1
+Kate stahl,Kate stahl,PER,0.0,0.0,de,1
 Charles Terminprobleme,Charles Terminprobleme,PER,0.0,0.0,de,1
-Jonathan Fischer03,Jonathan Fischer03,PER,0.0,0.0,de,1
-Ex-Außenminister Josef „Joschka“ Fischer,Ex-Außenminister Josef „Joschka“ Fischer,PER,0.0,0.0,de,1
-Estimats germans i germanes,Estimats germans i germanes,PER,0.0,0.0,de,1
-Antonio Gaudís,Antonio Gaudís,PER,0.0,0.0,de,1
-Beatrix von Storch,Beatrix von Storch,PER,0.0,0.0,de,1
-Elisabeth II,Elisabeth II,PER,0.0,0.0,de,1
-Denis Villeneuve,Denis Villeneuve,PER,1.0,0.0,de,1
-Trumps Qualifikation,Trumps Qualifikation,PER,1.0,0.0,de,1
-Anders Rasmussen,Anders Rasmussen,PER,-1.0,0.0,de,1
-Orbáns Kampagnenmacher,Orbáns Kampagnenmacher,PER,0.0,0.0,de,1
-Gyula Balásys,Gyula Balásys,PER,0.0,0.0,de,1
-Orbáns Abwahl,Orbáns Abwahl,PER,0.0,0.0,de,1
-Gyula Balásy,Gyula Balásy,PER,0.0,0.0,de,1
-Ex-Premier Brown,Ex-Premier Brown,PER,0.0,0.0,de,1
-Ex-Regierungschef Brown,Ex-Regierungschef Brown,PER,0.0,0.0,de,1
-Sparkassenpräsident Neth,Sparkassenpräsident Neth,PER,0.0,0.0,de,1
-Ágnes Forsthoffer,Ágnes Forsthoffer,PER,0.0,0.0,de,1
-Orbáns Geister,Orbáns Geister,PER,0.0,0.0,de,1
-Christian Schmidt,Christian Schmidt,PER,0.0,0.0,de,1
-Cole A,Cole A,PER,0.15000000000000002,0.0,de,1
-Schütze von Gala-Dinner,Schütze von Gala-Dinner,PER,0.5,0.0,de,1
-Anders Fogh Rasmussen,Anders Fogh Rasmussen,PER,-1.0,0.0,de,1
-Orbáns Propaganda,Orbáns Propaganda,PER,0.0,0.0,de,1
-Israels Regierung,Israels Regierung,PER,0.0,0.0,de,1
-Bardella Frankreich,Bardella Frankreich,PER,0.0,0.0,de,1
-Trumps China-Reise,Trumps China-Reise,PER,0.0,0.0,de,1
-Brigitte Macron,Brigitte Macron,PER,0.0,0.0,de,1
-Trump-Kandidaten Kevin Warsh,Trump-Kandidaten Kevin Warsh,PER,0.7,0.0,de,1
-Maduros Sohn,Maduros Sohn,PER,0.0,0.0,de,1
-Sohn Nicolá,Sohn Nicolá,PER,0.0,0.0,de,1
-Venezuelas Ex-Staatschef Maduro,Venezuelas Ex-Staatschef Maduro,PER,0.0,0.0,de,1
-Ehefrau Flavia,Ehefrau Flavia,PER,0.0,0.0,de,1
-Esther Sedlaczek,Esther Sedlaczek,PER,0.0,0.0,de,1
+Irans Botschafter,Irans Botschafter,PER,0.0,0.0,de,1
+Kelsey Lu,Kelsey Lu,PER,0.0,0.0,de,1
+Michael Cimino,Michael Cimino,PER,1.0,0.0,de,1
+picture alli,picture alli,PER,0.0,0.0,de,1
+Parteiinterner Trump-Gegner Massie,Parteiinterner Trump-Gegner Massie,PER,0.0,0.0,de,1
 Beti Hohler,Beti Hohler,PER,0.0,1.0,de,1
 Staatschefs Maduro,Staatschefs Maduro,PER,1.0,0.0,de,1
-Lrinc Mészáros,Lrinc Mészáros,PER,0.0,0.0,de,1
-Zsolt Hegeds,Zsolt Hegeds,PER,0.0,0.0,de,1
-kollabiertem Mann,kollabiertem Mann,PER,0.7,0.0,de,1
-Jan Schoch,Jan Schoch,PER,0.0,0.0,de,1
-Wuthering Heights,Wuthering Heights,PER,0.0,0.0,de,1
-Mordechai Vanunu,Mordechai Vanunu,PER,0.0,0.0,de,1
-Sigmund Freud,Sigmund Freud,PER,1.0,0.0,de,1
-Iris Berbens Trauerrede für Adorf,Iris Berbens Trauerrede für Adorf,PER,0.0,0.0,de,1
-Adorfs Frau Monique,Adorfs Frau Monique,PER,0.0,0.0,de,1
-Vittoria Ceretti,Vittoria Ceretti,PER,0.0,0.0,de,1
-Leos Liebste,Leos Liebste,PER,0.0,0.0,de,1
-Boris Becker,Boris Becker,PER,0.0,1.0,de,1
-Trump sel,Trump sel,PER,0.0,0.0,de,1
-Ungarns Spitze,Ungarns Spitze,PER,1.0,0.0,de,1
-Matthias Miersch,Matthias Miersch,PER,0.0,0.0,de,1
-Historikerin Barbara Stollberg-Rilinger,Historikerin Barbara Stollberg-Rilinger,PER,0.0,0.0,de,1
-A$AP Rocky,A$AP Rocky,PER,0.0,0.0,de,1
-Luke Skywalker,Luke Skywalker,PER,-0.15000000000000002,0.0,de,1
-Tübingens Oberbürgermeist,Tübingens Oberbürgermeist,PER,0.0,0.0,de,1
-Trumps Lieblingsfeind,Trumps Lieblingsfeind,PER,0.0,0.0,de,1
-James Jeffrey,James Jeffrey,PER,0.0,0.0,de,1
-Robert Fi,Robert Fi,PER,0.0,0.0,de,1
-US-Außenminister Rubio,US-Außenminister Rubio,PER,0.0,0.0,de,1
-Kurzfilmtage Oberhausen,Kurzfilmtage Oberhausen,PER,0.0,0.0,de,1
-Lewis Fry Richardson,Lewis Fry Richardson,PER,0.0,0.0,de,1
-Michael Cimino,Michael Cimino,PER,1.0,0.0,de,1
-David Ehrlich,David Ehrlich,PER,1.0,0.0,de,1
-Sexualstraftäters fr,Sexualstraftäters fr,PER,-1.0,0.0,de,1
-Nigel Farage,Nigel Farage,PER,0.0,0.0,de,1
-Trump Washington,Trump Washington,PER,0.0,0.0,de,1
 Ex-Präsident Maduro,Ex-Präsident Maduro,PER,0.0,0.0,de,1
 Alex Saab Geldwäsche,Alex Saab Geldwäsche,PER,0.0,0.0,de,1
 Con Kristen Stewart,Con Kristen Stewart,PER,0.0,0.0,de,1
-Paul Thomas Anderson,Paul Thomas Anderson,PER,0.0,0.0,de,1
-Elvis Costello,Elvis Costello,PER,0.7,0.0,de,1
-La Sécurité,La Sécurité,PER,0.0,0.0,de,1
-Forrest Nolan,Forrest Nolan,PER,0.0,0.0,de,1
-Oliver Malcolm,Oliver Malcolm,PER,0.0,0.0,de,1
-Trumps Woche,Trumps Woche,PER,0.0,0.0,de,1
-Trumps Coup,Trumps Coup,PER,0.7,0.0,de,1
-Mariana Prosperi,Mariana Prosperi,PER,0.0,0.0,de,1
-geblümtes Babydoll-Kleid,geblümtes Babydoll-Kleid,PER,0.0,0.0,de,1
-Filmgrößen verpflic,Filmgrößen verpflic,PER,0.0,0.0,de,1
-Trumps ältester Sohn,Trumps ältester Sohn,PER,0.0,0.0,de,1
-Trumps Siegesrhetorik,Trumps Siegesrhetorik,PER,0.0,0.0,de,1
-Peter Murrell,Peter Murrell,PER,-1.0,0.0,de,1
-Farid Bang,Farid Bang,PER,-0.7,0.0,de,1
 Emma Mackey,Emma Mackey,PER,0.0,0.0,de,1
-John Cornyn d,John Cornyn d,PER,0.0,0.0,de,1
-John Cornyn,John Cornyn,PER,-1.0,0.0,de,1
-Aki Kaurismäki,Aki Kaurismäki,PER,0.0,0.0,de,1
-Ken Loach,Ken Loach,PER,0.0,0.0,de,1
-Vincent Bolloré,Vincent Bolloré,PER,0.0,0.0,de,1
-Phil Collins,Phil Collins,PER,0.0,1.0,de,1
-Eric Clapton,Eric Clapton,PER,0.0,1.0,de,1
-Jeff Lynne,Jeff Lynne,PER,0.0,1.0,de,1
-Muddy Waters,Muddy Waters,PER,-1.0,0.0,de,1
-Don Draper,Don Draper,PER,0.0,0.0,de,1
-Robbie Robertson,Robbie Robertson,PER,0.0,0.0,de,1
-Peter Osteried,Peter Osteried,PER,0.7,0.0,de,1
-Tom Schilling,Tom Schilling,PER,0.0,0.0,de,1
-Kate geschwärmt,Kate geschwärmt,PER,1.0,0.0,de,1
-Louis Armstrong,Louis Armstrong,PER,0.85,0.0,de,1
-Epstein-Freund Andrew,Epstein-Freund Andrew,PER,0.0,0.0,de,1
 Woody Harrelson,Woody Harrelson,PER,0.0,0.0,de,1
 Rodrigo Sorogoyen e Paper,Rodrigo Sorogoyen e Paper,PER,0.0,0.0,de,1
 "Trumps ""Lieblingskämpfer","Trumps ""Lieblingskämpfer",PER,0.0,0.0,de,1
 John Ternus,John Ternus,PER,0.0,0.0,de,1
 Keith Richards,Keith Richards,PER,0.0,0.0,de,1
 Trump-Widersacher Massie,Trump-Widersacher Massie,PER,0.0,0.0,de,1
-Parteiinterner Trump-Gegner Massie,Parteiinterner Trump-Gegner Massie,PER,0.0,0.0,de,1
 castel gandolfo,castel gandolfo,PER,0.0,0.0,de,1
+Ehefrau Flavia,Ehefrau Flavia,PER,0.0,0.0,de,1
 François Villeroy de Galhau,François Villeroy de Galhau,PER,0.0,0.0,de,1
 Trumps Befugnisse,Trumps Befugnisse,PER,0.0,0.0,de,1
 Pedro Almodóva,Pedro Almodóva,PER,0.0,0.0,de,1
@@ -287,13 +204,98 @@ Ex-Präsident Raúl Castro,Ex-Präsident Raúl Castro,PER,-0.15000000000000002,0
 MAGAs Männlichkeitsideologie,MAGAs Männlichkeitsideologie,PER,0.0,0.0,de,1
 Freiburg-Schreck Emery,Freiburg-Schreck Emery,PER,1.0,0.0,de,1
 EL-DominatorFreiburg-Schreck Emery,EL-DominatorFreiburg-Schreck Emery,PER,0.85,0.0,de,1
+Andrei Swjaginzews,Andrei Swjaginzews,PER,1.0,0.0,de,1
 Whitney Houston,Whitney Houston,PER,0.0,0.0,de,1
 Naomi Scott,Naomi Scott,PER,0.0,0.0,de,1
-Andrei Swjaginzews,Andrei Swjaginzews,PER,1.0,0.0,de,1
 Darts-Superstar Luke Littler,Darts-Superstar Luke Littler,PER,1.0,0.0,de,1
-© Felix Burchardt,© Felix Burchardt,PER,0.0,0.0,de,1
+Esther Sedlaczek,Esther Sedlaczek,PER,0.0,0.0,de,1
+Venezuelas Ex-Staatschef Maduro,Venezuelas Ex-Staatschef Maduro,PER,0.0,0.0,de,1
 Beatles-Legende Pau,Beatles-Legende Pau,PER,0.0,0.0,de,1
+Sparkassenpräsident Neth,Sparkassenpräsident Neth,PER,0.0,0.0,de,1
+Sexualstraftäters fr,Sexualstraftäters fr,PER,-1.0,0.0,de,1
+Trump Washington,Trump Washington,PER,0.0,0.0,de,1
+Luke Skywalker,Luke Skywalker,PER,-0.15000000000000002,0.0,de,1
+Zsolt Hegeds,Zsolt Hegeds,PER,0.0,0.0,de,1
+Orbáns Propaganda,Orbáns Propaganda,PER,0.0,0.0,de,1
+Lrinc Mészáros,Lrinc Mészáros,PER,0.0,0.0,de,1
+Orbáns Kampagnenmacher,Orbáns Kampagnenmacher,PER,0.0,0.0,de,1
+Gyula Balásys,Gyula Balásys,PER,0.0,0.0,de,1
+Orbáns Abwahl,Orbáns Abwahl,PER,0.0,0.0,de,1
+Gyula Balásy,Gyula Balásy,PER,0.0,0.0,de,1
+Ex-Premier Brown,Ex-Premier Brown,PER,0.0,0.0,de,1
+Ex-Regierungschef Brown,Ex-Regierungschef Brown,PER,0.0,0.0,de,1
+Ágnes Forsthoffer,Ágnes Forsthoffer,PER,0.0,0.0,de,1
+Sohn Nicolá,Sohn Nicolá,PER,0.0,0.0,de,1
+Orbáns Geister,Orbáns Geister,PER,0.0,0.0,de,1
+Christian Schmidt,Christian Schmidt,PER,0.0,0.0,de,1
+Cole A,Cole A,PER,0.15000000000000002,0.0,de,1
+Schütze von Gala-Dinner,Schütze von Gala-Dinner,PER,0.5,0.0,de,1
+Anders Rasmussen,Anders Rasmussen,PER,-1.0,0.0,de,1
+Anders Fogh Rasmussen,Anders Fogh Rasmussen,PER,-1.0,0.0,de,1
+Israels Regierung,Israels Regierung,PER,0.0,0.0,de,1
+Bardella Frankreich,Bardella Frankreich,PER,0.0,0.0,de,1
+Trumps China-Reise,Trumps China-Reise,PER,0.0,0.0,de,1
+Brigitte Macron,Brigitte Macron,PER,0.0,0.0,de,1
+Trump-Kandidaten Kevin Warsh,Trump-Kandidaten Kevin Warsh,PER,0.7,0.0,de,1
+Maduros Sohn,Maduros Sohn,PER,0.0,0.0,de,1
+© Felix Burchardt,© Felix Burchardt,PER,0.0,0.0,de,1
 Habeck-Vertrauter Michael Kellner,Habeck-Vertrauter Michael Kellner,PER,0.0,0.0,de,1
+EU-Kommissar Mandelson,EU-Kommissar Mandelson,PER,0.0,0.0,de,1
+Nicolae Ceauescu,Nicolae Ceauescu,PER,0.0,1.0,de,1
+kollabiertem Mann,kollabiertem Mann,PER,0.7,0.0,de,1
+Trumps Qualifikation,Trumps Qualifikation,PER,1.0,0.0,de,1
+Luke Cage,Luke Cage,PER,0.0,0.0,de,1
+John Ca,John Ca,PER,0.0,0.0,de,1
+Trumps Wahrheitsmaschine,Trumps Wahrheitsmaschine,PER,0.0,0.0,de,1
+Vanessa Loibl,Vanessa Loibl,PER,-0.15000000000000002,0.0,de,1
+McCartney al,McCartney al,PER,0.0,0.0,de,1
+Long Play,Long Play,PER,0.0,0.0,de,1
+David Ehrlich,David Ehrlich,PER,1.0,0.0,de,1
+Trumps Importzölle,Trumps Importzölle,PER,0.0,0.0,de,1
+Ex-US-Justizministerin Bondi,Ex-US-Justizministerin Bondi,PER,0.0,0.0,de,1
+Idi Amin,Idi Amin,PER,0.0,1.0,de,1
+Lemmy Kilmister von Motörhead,Lemmy Kilmister von Motörhead,PER,0.0,0.0,de,1
+Robbie Robertson,Robbie Robertson,PER,0.0,0.0,de,1
+Bruno Kant,Bruno Kant,PER,-1.0,0.0,de,1
+Lisa Caspari,Lisa Caspari,PER,0.0,0.0,de,1
+Paul Middelhoff,Paul Middelhoff,PER,0.0,0.0,de,1
+Robert Pausch,Robert Pausch,PER,0.0,0.0,de,1
+Jacobia Dahm,Jacobia Dahm,PER,0.0,0.0,de,1
+Regierungsgebäude pins,Regierungsgebäude pins,PER,0.0,0.0,de,1
+Chris Olah,Chris Olah,PER,0.0,0.0,de,1
+Meister der Konfrontation,Meister der Konfrontation,PER,0.0,0.0,de,1
+Mama Diana,Mama Diana,PER,-1.0,0.0,de,1
+William Schicksalsjahre,William Schicksalsjahre,PER,-0.7,0.0,de,1
+Kate da,Kate da,PER,0.0,0.0,de,1
+Streaming-Serie Euphoria,Streaming-Serie Euphoria,PER,0.0,0.0,de,1
+Peter Osteried,Peter Osteried,PER,0.7,0.0,de,1
+Don Draper,Don Draper,PER,0.0,0.0,de,1
 US-Comedian Colbert,US-Comedian Colbert,PER,0.0,0.0,de,1
+geblümtes Babydoll-Kleid,geblümtes Babydoll-Kleid,PER,0.0,0.0,de,1
 Martin Ganslmeier,Martin Ganslmeier,PER,0.0,0.0,de,1
-Andy Bu,Andy Bu,PER,0.0,0.0,de,1
+Epstein-Freund Andrew,Epstein-Freund Andrew,PER,0.0,0.0,de,1
+Louis Armstrong,Louis Armstrong,PER,0.85,0.0,de,1
+Kate geschwärmt,Kate geschwärmt,PER,1.0,0.0,de,1
+Tom Schilling,Tom Schilling,PER,0.0,0.0,de,1
+Elvis Costello,Elvis Costello,PER,0.7,0.0,de,1
+La Sécurité,La Sécurité,PER,0.0,0.0,de,1
+Forrest Nolan,Forrest Nolan,PER,0.0,0.0,de,1
+Oliver Malcolm,Oliver Malcolm,PER,0.0,0.0,de,1
+Trumps Woche,Trumps Woche,PER,0.0,0.0,de,1
+Trumps Coup,Trumps Coup,PER,0.7,0.0,de,1
+Mariana Prosperi,Mariana Prosperi,PER,0.0,0.0,de,1
+Trumps ältester Sohn,Trumps ältester Sohn,PER,0.0,0.0,de,1
+Muddy Waters,Muddy Waters,PER,-1.0,0.0,de,1
+Trumps Siegesrhetorik,Trumps Siegesrhetorik,PER,0.0,0.0,de,1
+Peter Murrell,Peter Murrell,PER,-1.0,0.0,de,1
+Paul Thomas Anderson,Paul Thomas Anderson,PER,0.0,0.0,de,1
+Farid Bang,Farid Bang,PER,-0.7,0.0,de,1
+John Cornyn d,John Cornyn d,PER,0.0,0.0,de,1
+John Cornyn,John Cornyn,PER,-1.0,0.0,de,1
+Aki Kaurismäki,Aki Kaurismäki,PER,0.0,0.0,de,1
+Ken Loach,Ken Loach,PER,0.0,0.0,de,1
+Vincent Bolloré,Vincent Bolloré,PER,0.0,0.0,de,1
+Phil Collins,Phil Collins,PER,0.0,1.0,de,1
+Eric Clapton,Eric Clapton,PER,0.0,1.0,de,1
+Jeff Lynne,Jeff Lynne,PER,0.0,1.0,de,1
+Riccardo De Luca,Riccardo De Luca,PER,-0.7,0.0,de,1
