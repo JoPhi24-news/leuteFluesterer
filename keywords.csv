@@ -1,4 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Tulsi Gabbard',de,unknown,#111111,#111111,2,0.605573783514
+'James Talarico',de,unknown,#111111,#111111,2,0.507149494006
+'John Cornyn',de,unknown,#111111,#111111,2,0.507029326114
+'Jay Clayton',de,unknown,#111111,#111111,2,0.504489667050
+'Brendan Carr',de,unknown,#111111,#111111,2,0.501967015443
+'Katie Couric',de,unknown,#111111,#111111,2,0.501192216809
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
 'Sydney Sweeney',de,unknown,#111111,#111111,3,0.472524328402
@@ -23,18 +29,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Lennon',de,unknown,#111111,#111111,2,0.461857448714
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.461659585465
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.461333279866
-'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.461262776531
 'Mario Adorf',de,unknown,#111111,#111111,3,0.461260198919
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
+'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.457723920085
 'Joe Kent',de,unknown,#111111,#111111,3,0.457681562687
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.457329441189
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.457322086171
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457219909268
-'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.457002281537
 'David Lowery',de,unknown,#111111,#111111,2,0.456442206247
 'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.456282005585
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
@@ -262,6 +267,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.407196657996
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.406792004105
 'Kristi Noem',de,unknown,#111111,#111111,2,0.406313097902
+'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.406117689142
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.404350076975
