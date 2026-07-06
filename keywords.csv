@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tulsi Gabbard',de,unknown,#111111,#111111,2,0.514888225987
 'James Talarico',de,unknown,#111111,#111111,2,0.507149494006
 'John Cornyn',de,unknown,#111111,#111111,2,0.507029326114
 'Jay Clayton',de,unknown,#111111,#111111,2,0.504489667050
@@ -109,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cilia Flores',de,unknown,#111111,#111111,3,0.438603057210
 'Casey Wasserman',de,unknown,#111111,#111111,1,0.438040141383
 'Alan Jackson',de,unknown,#111111,#111111,2,0.437921489400
+'Tulsi Gabbard',de,unknown,#111111,#111111,2,0.437805502089
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'James Van Der Beek',de,unknown,#111111,#111111,1,0.436730744677
