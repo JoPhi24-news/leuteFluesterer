@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sydney Sweeney',de,unknown,#111111,#111111,3,0.472524328402
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472412125261
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
-'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.470934919941
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.470274163855
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
@@ -13,9 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ken Paxton',de,unknown,#111111,#111111,2,0.466446350225
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.466072403079
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.465853515125
+'Péter Magyar',de,unknown,#111111,#111111,3,0.465808526483
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.465436754867
-'Péter Magyar',de,unknown,#111111,#111111,3,0.465102953972
 'Bill Cassidy',de,unknown,#111111,#111111,2,0.464038283647
+'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.463010353079
 'HBO Max',de,unknown,#111111,#111111,2,0.462861333620
 'Jamieson Greer',de,unknown,#111111,#111111,2,0.462807299018
 'Jacob Elordi',de,unknown,#111111,#111111,3,0.462212918272
@@ -51,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.454026972377
 'Helene Fischer',de,unknown,#111111,#111111,3,0.453745471156
+'Viktor Orban',de,unknown,#111111,#111111,3,0.453108848268
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.452639429543
 'Javier Bardem',de,unknown,#111111,#111111,2,0.452578371982
@@ -59,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
 'Andy Burnham',de,unknown,#111111,#111111,3,0.451470440316
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
-'Viktor Orban',de,unknown,#111111,#111111,3,0.450912148496
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.450808792582
 'Pam Bondi',de,unknown,#111111,#111111,3,0.450794556763
 'Daniel Craig',de,unknown,#111111,#111111,2,0.450724903613
@@ -116,10 +116,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.434985648396
 'Alex Pretti',de,unknown,#111111,#111111,2,0.434747203396
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.434630821115
+'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.434296797212
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.434283878056
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
 'Michele Singer',de,unknown,#111111,#111111,1,0.433667429657
-'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.433528950995
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
 'Michelle Reiner',de,unknown,#111111,#111111,1,0.433364826682
 'Ben Shapiro',de,unknown,#111111,#111111,1,0.433102086861
@@ -831,10 +831,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
 'Erich Honecker',de,Deutschland,#11dd44,#11dd44,1,0.275128434182
 'Stanislaw Petrow',de,unknown,#111111,#111111,1,0.275020355610
+'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.274883833172
 'Dwayne Johnson',de,unknown,#111111,#111111,1,0.274205341389
 'Wolfgang Grupp',de,unknown,#111111,#111111,1,0.274041372114
 'Markus Krebber',de,Deutschland,#11dd44,#11dd44,2,0.273364356198
-'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.272780146741
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,1,0.272755906180
 'Friederike Otto',de,Deutschland,#11dd44,#11dd44,1,0.272631911210
 'Sam Bankman-Fried',de,unknown,#111111,#111111,1,0.272628103726
