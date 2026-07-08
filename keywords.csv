@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Katie Couric',de,unknown,#111111,#111111,2,0.501192216809
 'James Talarico',de,unknown,#111111,#111111,2,0.481527114905
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.473103163016
@@ -200,6 +199,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adam Mockler',de,unknown,#111111,#111111,1,0.426320157079
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.426141048171
+'Katie Couric',de,unknown,#111111,#111111,1,0.426013384288
 'Abby Phillip',de,unknown,#111111,#111111,1,0.426007899239
 'Justin Gaethje',de,unknown,#111111,#111111,1,0.425959272437
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
