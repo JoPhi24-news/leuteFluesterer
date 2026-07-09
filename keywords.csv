@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.530533713411
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.474481113700
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475168031612
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
 'Sydney Sweeney',de,unknown,#111111,#111111,3,0.472524328402
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
@@ -67,7 +68,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
-'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.447207344655
 'Bari Weiss',de,unknown,#111111,#111111,2,0.446988930110
 'Kash Patel',de,unknown,#111111,#111111,3,0.446916276017
 'Thomas Müller',de,unknown,#111111,#111111,3,0.446368173508
@@ -256,10 +256,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',de,unknown,#111111,#111111,2,0.409696094238
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,1,0.409632224203
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.409593709351
+'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.409329477230
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,1,0.409196863586
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Charles Kushner',de,unknown,#111111,#111111,1,0.408966233405
-'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.408513175840
 'Tim Walz',de,unknown,#111111,#111111,1,0.408072711066
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.407838681122
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.407196657996
@@ -316,6 +316,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.385154098488
 'Steve Witkoff',de,unknown,#111111,#111111,2,0.384451671637
+'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.384177336679
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.383679243572
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
 'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.383241145280
@@ -352,7 +353,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sohn Nick',de,unknown,#111111,#111111,1,0.373587008709
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,1,0.372968218130
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
-'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.371934021745
 'Jack Lang',de,unknown,#111111,#111111,2,0.371004070619
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,1,0.369538163397
@@ -434,9 +434,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.355580426451
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.355165489478
+'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.354995124621
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.354594527910
-'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.354077598795
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.353974901044
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.353510533558
