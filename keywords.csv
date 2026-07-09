@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Talarico',de,unknown,#111111,#111111,2,0.509748092669
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.474481113700
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
@@ -120,6 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.434296797212
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.434283878056
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
+'James Talarico',de,unknown,#111111,#111111,2,0.433735923769
 'Michele Singer',de,unknown,#111111,#111111,1,0.433667429657
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
 'Michelle Reiner',de,unknown,#111111,#111111,1,0.433364826682
