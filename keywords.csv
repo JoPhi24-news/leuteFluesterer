@@ -190,7 +190,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Belal Muhammad',de,unknown,#111111,#111111,1,0.427423756320
 'Kaitlan Collins',de,unknown,#111111,#111111,1,0.427388162268
 'Catherine Pégard',de,unknown,#111111,#111111,1,0.427233210409
-'Nick Bilton',de,unknown,#111111,#111111,2,0.427222821750
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Brendan Carr',de,unknown,#111111,#111111,1,0.426672023127
@@ -392,6 +391,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Malone',de,USA,#18e8e8,#18e8e8,1,0.363700408881
 'König Felipe VI',de,Spanien,#1144aa,#1144aa,2,0.363691731071
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.363629724834
+'Nick Bilton',de,unknown,#111111,#111111,2,0.363589443487
 'Peter Attia',de,unknown,#111111,#111111,1,0.362973737713
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.362944774228
 'Kelly Ripa',de,unknown,#111111,#111111,1,0.362895997685
