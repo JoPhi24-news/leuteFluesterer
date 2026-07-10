@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.522548020710
+'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.544797359032
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475168031612
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
@@ -286,6 +286,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.398272610753
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
+'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.397782794466
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
 'Ali Larijani',de,unknown,#111111,#111111,1,0.397359988808
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.396653224329
@@ -312,7 +313,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.387458644881
 'Quentin Deranque',de,unknown,#111111,#111111,2,0.386408402825
 'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.386274793777
-'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.385900486212
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.385790373521
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.385154098488
@@ -426,11 +426,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,1,0.357431995697
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.357272553795
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.357029866375
+'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.356825237617
 'Cara Delevingne',de,UK,#e838e8,#e838e8,1,0.356771682728
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.356470107316
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.356240721349
 'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.356216304654
-'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.355911004013
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.355580426451
@@ -806,8 +806,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hamish Harding',de,UK,#e838e8,#e838e8,1,0.289627929963
 'Nikki Glaser',de,USA,#18e8e8,#18e8e8,1,0.289368781346
 'Ehud Olmert',de,Israel,#8822dd,#8822dd,1,0.289265527954
+'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.288644978024
 'Kate Capshaw',de,unknown,#111111,#111111,1,0.288158777136
-'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.287615221614
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.287576688510
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,1,0.287551078519
 'Chris Hemsworth',de,unknown,#111111,#111111,1,0.287124473049
@@ -898,11 +898,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.261003125000
+'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.260493096745
 'Matthias Müller',de,Deutschland,#11dd44,#11dd44,2,0.259865430984
 'Wolodymyr Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.258993166937
 'Georg Bätzing',de,Deutschland,#11dd44,#11dd44,2,0.258823823119
 'King Charles III',de,UK,#e838e8,#e838e8,1,0.258723153734
-'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.258346577692
 'Olli Schulz',de,Deutschland,#11dd44,#11dd44,1,0.258162065918
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.258076975746
 'Kemal Kilicdaroglu',de,Türkei,#4411ee,#4411ee,1,0.257438385831
