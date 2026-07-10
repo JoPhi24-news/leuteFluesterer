@@ -83,7 +83,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nick Reiner',de,unknown,#111111,#111111,2,0.441634475594
 'Daniel Hagari',de,unknown,#111111,#111111,1,0.441478744731
 'Mark Levin',de,unknown,#111111,#111111,1,0.440814002526
-'Isaac Herzog',de,unknown,#111111,#111111,1,0.440725610500
 'Penny Green',de,unknown,#111111,#111111,1,0.440725030000
 'Michael Lynk',de,unknown,#111111,#111111,1,0.440725027750
 'Thilo Jung',de,unknown,#111111,#111111,1,0.440725012750
@@ -340,6 +339,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,1,0.375531434263
 'Kylie Kelce',de,unknown,#111111,#111111,2,0.375362486525
 'Yoav Gallant ',de,unknown,#111111,#111111,2,0.375215589925
+'Isaac Herzog',de,unknown,#111111,#111111,1,0.375066813925
 'Nicolas Maduro',de,unknown,#111111,#111111,2,0.375017959737
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
 'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.374690758835
