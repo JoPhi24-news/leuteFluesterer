@@ -148,7 +148,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack White',de,unknown,#111111,#111111,1,0.431202535446
 'Mark Consuelos',de,unknown,#111111,#111111,1,0.431158693667
 'Karol G',de,Kolumbien,#3355dd,#3355dd,1,0.431101111006
-'Harry Met Sally',de,unknown,#111111,#111111,1,0.431073117451
 'María Corina Machado',de,unknown,#111111,#111111,2,0.430976812351
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
 'Trevor Phillips',de,unknown,#111111,#111111,2,0.430747478606
@@ -369,6 +368,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
 'Olivia Nuzzi',de,USA,#18e8e8,#18e8e8,1,0.366448972126
 'Joey Kelly',de,unknown,#111111,#111111,1,0.366439336918
+'Harry Met Sally',de,unknown,#111111,#111111,1,0.366412149833
 'Paddy Pimblett',de,unknown,#111111,#111111,1,0.366123560626
 'JULIEN MUGUET',de,Frankreich,#e8e808,#e8e808,1,0.366005069884
 'Yorgos Lanthimos',de,Griechenland,#448722,#448722,1,0.365898397103
