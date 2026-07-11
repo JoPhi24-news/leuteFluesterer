@@ -978,7 +978,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sahra Wagenknecht',de,Deutschland,#11dd44,#11dd44,3,0.222424327517
 'Jean-Jacques Rousseau',de,Schweiz,#88cc44,#88cc44,1,0.222323499564
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
-'Joy Behar',de,unknown,#111111,#111111,1,0.222175992892
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
 'Pierre-Yves Dermagne',de,Belgien,#bb33ff,#bb33ff,1,0.221852656250
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
@@ -1038,6 +1037,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Louis Klamroth',de,Deutschland,#11dd44,#11dd44,2,0.192338651398
 'Mike Pence',de,USA,#18e8e8,#18e8e8,2,0.191986847842
 'Roland Busch',de,Deutschland,#11dd44,#11dd44,1,0.190063660652
+'Joy Behar',de,unknown,#111111,#111111,1,0.188999608958
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.188841841894
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.188683143650
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,1,0.188632288693
