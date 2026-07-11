@@ -221,7 +221,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
 'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.420458697700
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
-'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.420103020552
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,2,0.419774853569
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
 'Rob Reiner',de,unknown,#111111,#111111,2,0.419649608469
@@ -424,6 +423,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,1,0.357431995697
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.357272553795
+'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.357088107469
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.357029866375
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.356825237617
 'Cara Delevingne',de,UK,#e838e8,#e838e8,1,0.356771682728
