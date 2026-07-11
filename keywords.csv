@@ -35,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.457322086171
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457219909268
 'John Cornyn',de,unknown,#111111,#111111,2,0.456875017197
+'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.456702922373
 'David Lowery',de,unknown,#111111,#111111,2,0.456442206247
 'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.456282005585
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
@@ -43,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Miller',de,unknown,#111111,#111111,2,0.455563586145
 'Todd Blanche',de,unknown,#111111,#111111,3,0.455506743463
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
-'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.455254159811
 'Spencer Pratt',de,unknown,#111111,#111111,2,0.454874730109
 'Maud Bregeon',de,unknown,#111111,#111111,2,0.454798520145
 'Hunter Schafer',de,unknown,#111111,#111111,2,0.454728848435
@@ -431,10 +431,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.356240721349
 'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.356216304654
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
+'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.355722670032
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.355580426451
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.355165489478
-'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.354594527910
 'Sohn Nick',de,unknown,#111111,#111111,2,0.354317754221
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.353974901044
@@ -501,7 +501,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.340814122408
 'Dana White',de,USA,#18e8e8,#18e8e8,1,0.340566310291
-'Demi Moore',de,USA,#18e8e8,#18e8e8,1,0.340168987843
 'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.340047785382
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
@@ -649,6 +648,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Kolev',de,Deutschland,#11dd44,#11dd44,1,0.314267330783
 'Mark Kerr',de,unknown,#111111,#111111,1,0.314258670059
 'Nancy Mace',de,unknown,#111111,#111111,1,0.314251744840
+'Demi Moore',de,USA,#18e8e8,#18e8e8,1,0.314170757743
 'Mario Czaja',de,Deutschland,#11dd44,#11dd44,1,0.314138807309
 'Missy Elliott',de,unknown,#111111,#111111,2,0.314098767175
 'Robert Menendez',de,unknown,#111111,#111111,1,0.313943736399
