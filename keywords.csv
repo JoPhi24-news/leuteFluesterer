@@ -72,6 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kash Patel',de,unknown,#111111,#111111,3,0.446916276017
 'Thomas Müller',de,unknown,#111111,#111111,3,0.446368173508
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
+'Nick Reiner',de,unknown,#111111,#111111,2,0.445379509982
 'Markwayne Mullin',de,unknown,#111111,#111111,2,0.445133552072
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,2,0.444822478533
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
@@ -80,7 +81,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Mario Adorf',de,unknown,#111111,#111111,3,0.442521214081
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
-'Nick Reiner',de,unknown,#111111,#111111,2,0.441634475594
 'Daniel Hagari',de,unknown,#111111,#111111,1,0.441478744731
 'Mark Levin',de,unknown,#111111,#111111,1,0.440814002526
 'Penny Green',de,unknown,#111111,#111111,1,0.440725030000
@@ -117,11 +117,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.434630821115
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.434296797212
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.434283878056
+'Michelle Reiner',de,unknown,#111111,#111111,1,0.434132993767
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
 'James Talarico',de,unknown,#111111,#111111,2,0.433735923769
 'Michele Singer',de,unknown,#111111,#111111,1,0.433667429657
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
-'Michelle Reiner',de,unknown,#111111,#111111,1,0.433364826682
 'Ben Shapiro',de,unknown,#111111,#111111,1,0.433102086861
 'Will Ferrell',de,unknown,#111111,#111111,1,0.433059101928
 'James Carville',de,unknown,#111111,#111111,1,0.433034239553
@@ -198,6 +198,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katie Couric',de,unknown,#111111,#111111,1,0.426013384288
 'Abby Phillip',de,unknown,#111111,#111111,1,0.426007899239
 'Justin Gaethje',de,unknown,#111111,#111111,1,0.425959272437
+'Paul McCartney',de,unknown,#111111,#111111,3,0.425761136850
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'Mark Ruffalo',de,unknown,#111111,#111111,1,0.425629559350
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
@@ -205,7 +206,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Deborah Birx',de,unknown,#111111,#111111,1,0.425413941484
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Paul McCartney',de,unknown,#111111,#111111,3,0.424976618899
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.424907957330
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.424787329872
 'Harriet Sperling',de,unknown,#111111,#111111,2,0.424713792593
@@ -224,6 +224,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.420103020552
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,2,0.419774853569
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
+'Rob Reiner',de,unknown,#111111,#111111,2,0.419649608469
 'Castel Gandolfo',de,Vatikan,#58b8e8,#58b8e8,2,0.419258389753
 'Delcy Rodriguez',de,unknown,#111111,#111111,1,0.418513516333
 'Kevin McCarthy',de,USA,#18e8e8,#18e8e8,2,0.418482790348
@@ -235,7 +236,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Chris Nanos',de,unknown,#111111,#111111,1,0.417052294638
-'Rob Reiner',de,unknown,#111111,#111111,2,0.416454783507
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
 'Ed Gallrein',de,unknown,#111111,#111111,2,0.416001075856
 'Kendall Jenner',de,unknown,#111111,#111111,1,0.414947600855
@@ -349,7 +349,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Avi Dichter',de,unknown,#111111,#111111,1,0.374616250000
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,1,0.374321916751
-'Sohn Nick',de,unknown,#111111,#111111,1,0.373587008709
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,1,0.372968218130
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
 'Jack Lang',de,unknown,#111111,#111111,2,0.371004070619
@@ -437,6 +436,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.355165489478
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.354594527910
+'Sohn Nick',de,unknown,#111111,#111111,2,0.354317754221
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.353974901044
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.353510533558
@@ -641,10 +641,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Tapper',de,unknown,#111111,#111111,1,0.315803967854
 'Alex Jones',de,USA,#18e8e8,#18e8e8,1,0.315745582026
 'Ines de Ramon',de,unknown,#111111,#111111,1,0.315461152501
+'Colin Farrell',de,unknown,#111111,#111111,3,0.315441792256
 'Pablo Picasso',de,Spanien,#1144aa,#1144aa,1,0.315119614981
 'Tim Müller',de,Deutschland,#11dd44,#11dd44,3,0.315049243587
 'Katy Perry',de,USA,#18e8e8,#18e8e8,1,0.314961676963
-'Colin Farrell',de,unknown,#111111,#111111,3,0.314455568289
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,2,0.314291324230
 'Stefan Kolev',de,Deutschland,#11dd44,#11dd44,1,0.314267330783
 'Mark Kerr',de,unknown,#111111,#111111,1,0.314258670059
