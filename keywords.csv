@@ -61,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Burnham',de,unknown,#111111,#111111,3,0.451470440316
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.450808792582
-'Pam Bondi',de,unknown,#111111,#111111,3,0.450794556763
 'Daniel Craig',de,unknown,#111111,#111111,2,0.450724903613
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.450209833594
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
@@ -317,6 +316,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
 'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.383241145280
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.383196891209
+'Pam Bondi',de,unknown,#111111,#111111,2,0.383175613249
 'Richard Robson',de,Australien,#99aa33,#99aa33,1,0.382880615247
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,1,0.382326887908
