@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.481289020093
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.477121679268
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475853581232
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
 'Sydney Sweeney',de,unknown,#111111,#111111,3,0.472524328402
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
@@ -64,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Craig',de,unknown,#111111,#111111,2,0.450724903613
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.450209833594
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
+'Ilia Topuria',de,unknown,#111111,#111111,2,0.448217594281
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
@@ -153,7 +154,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Guthrie',de,unknown,#111111,#111111,1,0.430680937954
 'Eric Dane',de,unknown,#111111,#111111,1,0.430667006500
 'Chris Cuomo',de,unknown,#111111,#111111,1,0.430603242396
-'Ilia Topuria',de,unknown,#111111,#111111,1,0.430549846213
 'Angus Cloud',de,unknown,#111111,#111111,1,0.430393750489
 'MARGARET BRENNAN',de,unknown,#111111,#111111,1,0.430387282051
 'Ro Khanna',de,unknown,#111111,#111111,2,0.430235689404
@@ -454,9 +454,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.350226973382
 'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.350168949066
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.350123191912
+'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.349698847457
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
 'Jane Fonda',de,USA,#18e8e8,#18e8e8,2,0.348890543618
-'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.348771846917
 'Hendrik Wüst',de,Deutschland,#11dd44,#11dd44,3,0.348634417430
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.348506567653
 'Jason Kelce',de,USA,#18e8e8,#18e8e8,1,0.348445920974
@@ -495,12 +495,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,1,0.341700962002
 'Joachim Gauck',de,Deutschland,#11dd44,#11dd44,1,0.341559116541
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.341517596062
+'Dana White',de,USA,#18e8e8,#18e8e8,1,0.341507804440
 'nan nan',de,unknown,#dddddd,#dddddd,1,0.341027803203
 'Julia Roberts',de,USA,#18e8e8,#18e8e8,2,0.340994510489
 'Abraham Lincoln',de,USA,#18e8e8,#18e8e8,2,0.340951595224
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.340814122408
-'Dana White',de,USA,#18e8e8,#18e8e8,1,0.340566310291
 'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.340047785382
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
