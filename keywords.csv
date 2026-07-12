@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.477121679268
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475168031612
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475853581232
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
 'Sydney Sweeney',de,unknown,#111111,#111111,3,0.472524328402
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
@@ -829,6 +829,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Russland,#e81818,#e81818,3,0.279396348817
 'Katarina Barley',de,EU,#bbff33,#bbff33,2,0.279368283180
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
+'Mojib Latif',de,Deutschland,#11dd44,#11dd44,2,0.278643045389
 'Robert Kraft',de,unknown,#111111,#111111,2,0.278029904614
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.277827658288
 'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.276884794256
@@ -1086,7 +1087,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Horst Seehofer',de,Deutschland,#11dd44,#11dd44,1,0.154154229566
 'Erik Marquardt',de,EU,#bbff33,#bbff33,1,0.153794623858
 'Martin Sonneborn',de,Deutschland,#11dd44,#11dd44,1,0.151785724284
-'Mojib Latif',de,Deutschland,#11dd44,#11dd44,2,0.151168271046
 'Volker Wissing',de,Deutschland,#11dd44,#11dd44,3,0.150531145402
 'David Malpass',de,USA,#18e8e8,#18e8e8,1,0.149645727636
 'Hans Joachim Schellnhuber',de,Deutschland,#11dd44,#11dd44,2,0.149505623769
