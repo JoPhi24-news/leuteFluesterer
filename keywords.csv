@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.477121679268
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
-'Sydney Sweeney',de,unknown,#111111,#111111,3,0.472524328402
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.470274163855
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
@@ -274,6 +273,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.401833591320
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
+'Sydney Sweeney',de,unknown,#111111,#111111,2,0.401645799142
 'Epstein Files',de,unknown,#111111,#111111,2,0.401155682769
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
 'Jonathan Ross',de,unknown,#111111,#111111,1,0.399665777012
