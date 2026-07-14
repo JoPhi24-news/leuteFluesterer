@@ -141,7 +141,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Romy Reiner',de,unknown,#111111,#111111,2,0.431403566427
 'Dan Hooker',de,unknown,#111111,#111111,1,0.431384882554
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,3,0.431380393532
-'Jim Himes',de,unknown,#111111,#111111,1,0.431274569676
 'Fabrice Aidan',de,unknown,#111111,#111111,1,0.431237406328
 'Jack White',de,unknown,#111111,#111111,1,0.431202535446
 'Mark Consuelos',de,unknown,#111111,#111111,1,0.431158693667
@@ -362,6 +361,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gigi Hadid',de,USA,#18e8e8,#18e8e8,1,0.366998126098
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.366872657888
 'Mukesh Ambani',de,Indien,#dd3344,#dd3344,1,0.366804351496
+'Jim Himes',de,unknown,#111111,#111111,1,0.366583384225
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
 'Olivia Nuzzi',de,USA,#18e8e8,#18e8e8,1,0.366448972126
 'Joey Kelly',de,unknown,#111111,#111111,1,0.366439336918
