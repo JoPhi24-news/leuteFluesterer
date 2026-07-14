@@ -216,7 +216,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
 'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.420458697700
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
-'Herbert Diess',de,Deutschland,#11dd44,#11dd44,2,0.419774853569
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
 'Rob Reiner',de,unknown,#111111,#111111,2,0.419649608469
 'Castel Gandolfo',de,Vatikan,#58b8e8,#58b8e8,2,0.419258389753
@@ -235,6 +234,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kendall Jenner',de,unknown,#111111,#111111,1,0.414947600855
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.412648994865
+'Herbert Diess',de,Deutschland,#11dd44,#11dd44,2,0.412480264105
 'Bill Pulte',de,unknown,#111111,#111111,2,0.412005760318
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.411320517426
 'Bill Maher',de,unknown,#111111,#111111,2,0.411306168503
@@ -470,6 +470,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kılıçdaroğlu',de,Türkei,#4411ee,#4411ee,2,0.346400852550
 'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.346317538416
 'Omar Sy',de,Frankreich,#e8e808,#e8e808,1,0.346119661797
+'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.345947005443
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.345582969081
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.345355873396
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.345325933349
@@ -481,7 +482,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,1,0.344472010148
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.344394819894
 'Eva Green',de,Frankreich,#e8e808,#e8e808,1,0.344241677240
-'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.344078026201
 'Matteo Salvini',de,Italien,#7722cc,#7722cc,2,0.343957319957
 'Helge Schneider',de,Deutschland,#11dd44,#11dd44,1,0.343925949611
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.343742127142
