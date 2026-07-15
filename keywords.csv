@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.489763073995
+'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.523187447868
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.490419507763
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.477121679268
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
@@ -96,7 +97,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgio Goacomelli',de,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.439068414002
-'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.438867568080
 'Savannah Guthrie',de,unknown,#111111,#111111,1,0.438751281218
 'Cilia Flores',de,unknown,#111111,#111111,3,0.438603057210
 'Casey Wasserman',de,unknown,#111111,#111111,1,0.438040141383
@@ -599,10 +599,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Johnson',de,USA,#18e8e8,#18e8e8,2,0.324309562131
 'Bettina Jarasch',de,Deutschland,#11dd44,#11dd44,2,0.324138388908
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.324075010896
+'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.324009525599
 'Barry Keoghan',de,unknown,#111111,#111111,1,0.323420364292
 'Adam Driver',de,unknown,#111111,#111111,2,0.323392151393
 'Eric Adams',de,USA,#18e8e8,#18e8e8,2,0.323335007843
-'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.323037759257
 'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.322742422260
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.321292739798
 'Peter Tschentscher',de,Deutschland,#11dd44,#11dd44,2,0.321059408678
