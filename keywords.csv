@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.477121679268
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.471663365487
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.465853515125
 'Péter Magyar',de,unknown,#111111,#111111,3,0.465808526483
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.465436754867
+'Susan Collins',de,unknown,#111111,#111111,2,0.464531361365
 'Bill Cassidy',de,unknown,#111111,#111111,2,0.464038283647
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.463010353079
 'HBO Max',de,unknown,#111111,#111111,2,0.462861333620
@@ -105,6 +105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'James Van Der Beek',de,unknown,#111111,#111111,1,0.436730744677
+'Graham Platner',de,unknown,#111111,#111111,1,0.436314874010
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.436048562691
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.435834398522
@@ -156,7 +157,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MARGARET BRENNAN',de,unknown,#111111,#111111,1,0.430387282051
 'Ro Khanna',de,unknown,#111111,#111111,2,0.430235689404
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.430163071475
-'Graham Platner',de,unknown,#111111,#111111,1,0.430161684789
 'Steve Bannon',de,unknown,#111111,#111111,2,0.430039170732
 'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.430027975325
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.429941530419
