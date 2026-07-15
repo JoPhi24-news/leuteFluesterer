@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.490419507763
 'Susan Collins',de,unknown,#111111,#111111,2,0.481212978077
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.477121679268
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.458248712962
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.457723920085
@@ -56,10 +56,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Bardem',de,unknown,#111111,#111111,2,0.452578371982
 'David Letterman',de,unknown,#111111,#111111,2,0.452467696294
 'Keir Starmer',de,unknown,#111111,#111111,3,0.451944571447
+'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.451542678173
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
 'Andy Burnham',de,unknown,#111111,#111111,3,0.451470440316
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
-'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.450808792582
 'Daniel Craig',de,unknown,#111111,#111111,2,0.450724903613
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.450209833594
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
@@ -80,9 +80,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mother Mary',de,unknown,#111111,#111111,3,0.443824807500
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Mario Adorf',de,unknown,#111111,#111111,3,0.442521214081
+'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.442104424411
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Daniel Hagari',de,unknown,#111111,#111111,1,0.441478744731
-'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.441351911114
 'Mark Levin',de,unknown,#111111,#111111,1,0.440814002526
 'Penny Green',de,unknown,#111111,#111111,1,0.440725030000
 'Michael Lynk',de,unknown,#111111,#111111,1,0.440725027750
@@ -151,6 +151,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Guthrie',de,unknown,#111111,#111111,1,0.430680937954
 'Eric Dane',de,unknown,#111111,#111111,1,0.430667006500
 'Chris Cuomo',de,unknown,#111111,#111111,1,0.430603242396
+'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.430424353690
 'Angus Cloud',de,unknown,#111111,#111111,1,0.430393750489
 'MARGARET BRENNAN',de,unknown,#111111,#111111,1,0.430387282051
 'Ro Khanna',de,unknown,#111111,#111111,2,0.430235689404
@@ -165,7 +166,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer Reiner',de,unknown,#111111,#111111,2,0.429285768117
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
 'Sam Levinson',de,unknown,#111111,#111111,1,0.429007604731
-'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.428871994550
 'Jay Clayton',de,unknown,#111111,#111111,1,0.428816666992
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
 'Michaela Coel',de,unknown,#111111,#111111,2,0.428769770870
@@ -177,12 +177,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noël Barrot',de,unknown,#111111,#111111,3,0.428486557388
 'Don Bacon',de,unknown,#111111,#111111,1,0.428434675927
 'David Amiel',de,unknown,#111111,#111111,1,0.428354875720
+'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.428080956345
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.427478252158
 'Belal Muhammad',de,unknown,#111111,#111111,1,0.427423756320
 'Kaitlan Collins',de,unknown,#111111,#111111,1,0.427388162268
-'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.427300959382
 'Catherine Pégard',de,unknown,#111111,#111111,1,0.427233210409
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
@@ -256,9 +256,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.407838681122
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.407196657996
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.406792004105
+'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.406745722019
 'Kristi Noem',de,unknown,#111111,#111111,2,0.406313097902
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.406117689142
-'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.405924464448
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.404350076975
@@ -744,6 +744,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Sturm',de,Deutschland,#11dd44,#11dd44,1,0.303767129274
 'Mary Robinson',de,unknown,#111111,#111111,1,0.303268547741
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,1,0.302883779743
+'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.302680547981
 'Kim Yo Jong',de,NordKorea,#4811f1,#4811f1,1,0.302602775640
 'Ahmed Al Jaber',de,unknown,#111111,#111111,1,0.302587902721
 'Gerald Darmanin',de,unknown,#111111,#111111,1,0.302155950776
@@ -756,7 +757,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.301069616808
 'Nikki Haley',de,USA,#18e8e8,#18e8e8,2,0.300820494039
 'Christine Lambrecht',de,Deutschland,#11dd44,#11dd44,1,0.300702679890
-'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.300664342476
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,1,0.300582690342
 'Billionaire Bunker',de,unknown,#111111,#111111,1,0.300411010055
 'Robert Sesselmann',de,Deutschland,#11dd44,#11dd44,1,0.299951703195
@@ -841,11 +841,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.274883833172
 'Dwayne Johnson',de,unknown,#111111,#111111,1,0.274205341389
 'Wolfgang Grupp',de,unknown,#111111,#111111,1,0.274041372114
+'Recep Tayyip Erdoan',de,Türkei,#4411ee,#4411ee,2,0.273570643225
 'Markus Krebber',de,Deutschland,#11dd44,#11dd44,2,0.273364356198
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,1,0.272755906180
 'Friederike Otto',de,Deutschland,#11dd44,#11dd44,1,0.272631911210
 'Sam Bankman-Fried',de,unknown,#111111,#111111,1,0.272628103726
-'Recep Tayyip Erdoan',de,Türkei,#4411ee,#4411ee,2,0.272517605680
 'Andreas Jung',de,Deutschland,#11dd44,#11dd44,3,0.272394635672
 'Narendra Modi',de,Indien,#dd3344,#dd3344,3,0.271821542400
 'Johan Rockström',de,unknown,#111111,#111111,1,0.271395259460
