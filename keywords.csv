@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.477121679268
 'Liveblog USA',de,unknown,#111111,#111111,3,0.473049969428
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.471663365487
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Pelley',de,unknown,#111111,#111111,1,0.462075075924
 'John Lennon',de,unknown,#111111,#111111,2,0.461857448714
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.461659585465
+'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.461630985309
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.461333279866
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
@@ -236,12 +236,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.412648994865
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,2,0.412480264105
 'Bill Pulte',de,unknown,#111111,#111111,2,0.412005760318
+'Emmanuel Moulin',de,unknown,#111111,#111111,1,0.411682945873
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.411320517426
 'Bill Maher',de,unknown,#111111,#111111,2,0.411306168503
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.411260914085
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,2,0.411153140000
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410919867639
-'Emmanuel Moulin',de,unknown,#111111,#111111,1,0.410871169267
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.409933106068
 'Renee Good',de,unknown,#111111,#111111,1,0.409901198270
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
@@ -260,6 +260,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kristi Noem',de,unknown,#111111,#111111,2,0.406313097902
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.406117689142
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
+'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.405256649987
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.404350076975
 'Renee Nicole Good',de,unknown,#111111,#111111,2,0.404148612920
@@ -280,7 +281,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.398272610753
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
-'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.397782794466
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
 'Ali Larijani',de,unknown,#111111,#111111,1,0.397359988808
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.396653224329
@@ -890,6 +890,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dawn Staley',de,unknown,#111111,#111111,1,0.262641675079
 'Jerod Mayo',de,unknown,#111111,#111111,1,0.262632220335
 'Petro Poroshenko',de,unknown,#111111,#111111,1,0.261742760315
+'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.261564010505
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.261372791549
 'Christian Kroll',de,Deutschland,#11dd44,#11dd44,1,0.261284177301
 'Paul Ronzheimer',de,Deutschland,#11dd44,#11dd44,2,0.261155874417
@@ -899,7 +900,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.261003125000
-'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.260493096745
 'Matthias Müller',de,Deutschland,#11dd44,#11dd44,2,0.259865430984
 'Wolodymyr Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.258993166937
 'Georg Bätzing',de,Deutschland,#11dd44,#11dd44,2,0.258823823119
