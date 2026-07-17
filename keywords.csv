@@ -168,7 +168,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Levinson',de,unknown,#111111,#111111,1,0.429007604731
 'Jay Clayton',de,unknown,#111111,#111111,1,0.428816666992
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
-'Michaela Coel',de,unknown,#111111,#111111,2,0.428769770870
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
 'Alexander Yui',de,unknown,#111111,#111111,2,0.428633017562
@@ -383,6 +382,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Diane Keaton',de,unknown,#111111,#111111,1,0.364719629245
 'François Mitterrand',de,unknown,#111111,#111111,1,0.364572394079
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.364513123144
+'Michaela Coel',de,unknown,#111111,#111111,1,0.364454305240
 'Tig Notaro',de,USA,#18e8e8,#18e8e8,1,0.364395336276
 'Léon XIV',de,Vatikan,#58b8e8,#58b8e8,1,0.364348510187
 'Daniel Cormier',de,unknown,#111111,#111111,1,0.364347882176
