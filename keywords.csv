@@ -799,7 +799,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Norbert Röttgen',de,Deutschland,#11dd44,#11dd44,2,0.292075331741
 'Vo Van Thuong',de,unknown,#111111,#111111,1,0.292059843556
 'Ursula von der Leyen',de,EU,#bbff33,#bbff33,3,0.291410160595
-'Alexander von Humboldt',de,Deutschland,#11dd44,#11dd44,1,0.291175625017
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.290506965818
 'Tom Brady',de,unknown,#111111,#111111,1,0.290478830333
 'Peter Breuer',de,unknown,#111111,#111111,1,0.289662084203
@@ -879,6 +878,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Doocy',de,unknown,#111111,#111111,1,0.264445890843
 'Matt Lauer',de,unknown,#111111,#111111,1,0.264323486282
 'Leonard Bernstein',de,unknown,#111111,#111111,1,0.264116365396
+'Alexander von Humboldt',de,Deutschland,#11dd44,#11dd44,1,0.263999431264
 'Bill Geddie',de,unknown,#111111,#111111,1,0.263772524303
 'nan Si',de,unknown,#111111,#111111,1,0.263529894355
 'Luc Terlinden',de,unknown,#111111,#111111,1,0.263398422573
@@ -992,8 +992,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.217596622844
 'Afida Turner',de,Frankreich,#e8e808,#e8e808,1,0.217315014423
 'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,2,0.217292238389
+'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.216059214426
 'Winfried Kretschmann',de,Deutschland,#11dd44,#11dd44,3,0.215520805967
-'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.214926374463
 'Tamim bin Hamad Al Thani',de,Katar,#33aadd,#33aadd,1,0.214613327752
 'Lothar Wieler',de,Deutschland,#11dd44,#11dd44,1,0.214475643039
 'Schellnhuber',de,Deutschland,#11dd44,#11dd44,2,0.214368131729
