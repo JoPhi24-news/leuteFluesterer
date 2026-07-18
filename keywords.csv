@@ -396,7 +396,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leslie Wexner',de,unknown,#111111,#111111,1,0.362875474423
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,1,0.362855793459
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.362709920874
-'Omar M. Yaghi',de,USA,#18e8e8,#18e8e8,1,0.362600249750
 'Gervonta Davis',de,USA,#18e8e8,#18e8e8,1,0.362562268201
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.362495251209
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.361877216072
@@ -708,6 +707,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.308520631764
 'Greg Brockman',de,unknown,#111111,#111111,1,0.308518972218
 'Kim Mulkey',de,unknown,#111111,#111111,1,0.308370055776
+'Omar M. Yaghi',de,USA,#18e8e8,#18e8e8,1,0.308360227288
 'Viktor Shokin',de,unknown,#111111,#111111,1,0.308245902726
 'Ronna McDaniel',de,unknown,#111111,#111111,1,0.308092498551
 'Benjamin Hasselhorn',de,unknown,#111111,#111111,1,0.308087707205
