@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.471663365487
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.546787906573
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.468188298776
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.468887739860
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.467634630342
 'Ken Paxton',de,unknown,#111111,#111111,2,0.466446350225
@@ -46,13 +46,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todd Blanche',de,unknown,#111111,#111111,3,0.455506743463
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
 'Spencer Pratt',de,unknown,#111111,#111111,2,0.454874730109
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.454825909396
 'Maud Bregeon',de,unknown,#111111,#111111,2,0.454798520145
 'Hunter Schafer',de,unknown,#111111,#111111,2,0.454728848435
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.454026972377
 'Helene Fischer',de,unknown,#111111,#111111,3,0.453745471156
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.453369698836
 'Viktor Orban',de,unknown,#111111,#111111,3,0.453108848268
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
 'Javier Bardem',de,unknown,#111111,#111111,2,0.452578371982
@@ -954,10 +954,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saskia Esken',de,Deutschland,#11dd44,#11dd44,3,0.231988335502
 'Karl Nehammer',de,Österreich,#6622bb,#6622bb,3,0.231631221730
 'Chelsea Manning',de,USA,#18e8e8,#18e8e8,2,0.231330931094
+'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.230202450598
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
 'Björn Höcke',de,Deutschland,#11dd44,#11dd44,2,0.229773416596
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.229714760019
-'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.229087826642
 'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.228457459188
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.228350263869
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.228009370159
