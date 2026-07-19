@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.551552947405
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.551057012567
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.468887739860
@@ -824,8 +824,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.282184822134
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.281926723588
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.281667364363
+'Putin',de,Russland,#e81818,#e81818,3,0.281479827714
 'Gisele Bundchen',de,unknown,#111111,#111111,1,0.281385182451
-'Putin',de,Russland,#e81818,#e81818,3,0.280438891853
 'Katarina Barley',de,EU,#bbff33,#bbff33,2,0.279368283180
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
 'Mojib Latif',de,Deutschland,#11dd44,#11dd44,2,0.278643045389
@@ -1038,13 +1038,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Louis Klamroth',de,Deutschland,#11dd44,#11dd44,2,0.192338651398
 'Mike Pence',de,USA,#18e8e8,#18e8e8,2,0.191986847842
 'Roland Busch',de,Deutschland,#11dd44,#11dd44,1,0.190063660652
+'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.189540710393
 'Joy Behar',de,unknown,#111111,#111111,1,0.188999608958
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.188841841894
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.188683143650
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,1,0.188632288693
 'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.188574757812
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.188544872669
-'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.188376387245
 'Paul Kagame',de,Ruanda,#33ddaa,#33ddaa,1,0.187897815073
 'Benjamin Netanyahu',de,Israel,#8822dd,#8822dd,2,0.187776071042
 'Michael Kretschmer',de,Deutschland,#11dd44,#11dd44,3,0.187538004884
