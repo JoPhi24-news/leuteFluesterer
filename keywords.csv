@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.546787906573
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.551552947405
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.468887739860
@@ -43,10 +43,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455890081124
 'Scooter Braun',de,unknown,#111111,#111111,2,0.455842208537
 'Stephen Miller',de,unknown,#111111,#111111,2,0.455563586145
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.455551855410
 'Todd Blanche',de,unknown,#111111,#111111,3,0.455506743463
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
 'Spencer Pratt',de,unknown,#111111,#111111,2,0.454874730109
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.454825909396
 'Maud Bregeon',de,unknown,#111111,#111111,2,0.454798520145
 'Hunter Schafer',de,unknown,#111111,#111111,2,0.454728848435
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
@@ -814,10 +814,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Klçdarolu',de,Türkei,#4411ee,#4411ee,3,0.286278690666
 'Irina Shayk',de,unknown,#111111,#111111,1,0.286204198439
 'Julia Louis-Dreyfus',de,unknown,#111111,#111111,1,0.285241155776
+'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.284254908940
 'William Shakespeare',de,UK,#e838e8,#e838e8,1,0.283965114119
 'Gabor Steingart',de,Deutschland,#11dd44,#11dd44,2,0.283584024228
 'Victoria Monét',de,unknown,#111111,#111111,1,0.283494997568
-'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.283218278855
 'Maria Bartiromo',de,unknown,#111111,#111111,1,0.283055669839
 'Michelle Williams',de,unknown,#111111,#111111,1,0.282733422476
 'président de la République',de,Frankreich,#e8e808,#e8e808,1,0.282613504978
@@ -825,7 +825,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.281926723588
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.281667364363
 'Gisele Bundchen',de,unknown,#111111,#111111,1,0.281385182451
-'Putin',de,Russland,#e81818,#e81818,3,0.279396348817
+'Putin',de,Russland,#e81818,#e81818,3,0.280438891853
 'Katarina Barley',de,EU,#bbff33,#bbff33,2,0.279368283180
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
 'Mojib Latif',de,Deutschland,#11dd44,#11dd44,2,0.278643045389
@@ -889,11 +889,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elisabeth Borne',de,Frankreich,#e8e808,#e8e808,2,0.262709250824
 'Dawn Staley',de,unknown,#111111,#111111,1,0.262641675079
 'Jerod Mayo',de,unknown,#111111,#111111,1,0.262632220335
+'Paul Ronzheimer',de,Deutschland,#11dd44,#11dd44,2,0.262225818732
 'Petro Poroshenko',de,unknown,#111111,#111111,1,0.261742760315
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.261564010505
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.261372791549
 'Christian Kroll',de,Deutschland,#11dd44,#11dd44,1,0.261284177301
-'Paul Ronzheimer',de,Deutschland,#11dd44,#11dd44,2,0.261155874417
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.261003125000
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.261003125000
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.261003125000
