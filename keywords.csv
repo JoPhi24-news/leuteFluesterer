@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.571038392751
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.503983172475
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.468887739860
@@ -728,6 +728,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gilbert Plass',de,Kanada,#ffaabb,#ffaabb,1,0.307062500000
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.306946133893
+'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.306693290373
 'James Biden',de,unknown,#111111,#111111,1,0.306666048656
 'Hugh Grant',de,unknown,#111111,#111111,1,0.306582026544
 'Kevin Kühnert',de,Deutschland,#11dd44,#11dd44,3,0.306267580113
@@ -736,7 +737,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Christie',de,USA,#18e8e8,#18e8e8,1,0.305456307916
 'Vivek Ramaswamy',de,USA,#18e8e8,#18e8e8,1,0.305155633285
 'Steve Scalise',de,unknown,#111111,#111111,1,0.305136974894
-'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.304690199932
 'Roger Corman',de,unknown,#111111,#111111,1,0.304414701172
 'Joey Fatone',de,unknown,#111111,#111111,1,0.304274074594
 'Chris Stapleton',de,unknown,#111111,#111111,1,0.304191702978
@@ -775,9 +775,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Ellermann',de,Deutschland,#11dd44,#11dd44,1,0.297797174829
 'Alexander De Croo',de,Belgien,#bb33ff,#bb33ff,1,0.297716995994
 'Jon Batiste',de,unknown,#111111,#111111,1,0.297600966200
+'Xi Jinping',de,China,#e88818,#e88818,3,0.297403415581
 'Paul-Henry Nargeolet',de,Frankreich,#e8e808,#e8e808,1,0.297186599281
 'Sam H',de,unknown,#111111,#111111,1,0.296477821593
-'Xi Jinping',de,China,#e88818,#e88818,3,0.296387595173
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.296302020821
 'Holger Friedrich',de,Deutschland,#11dd44,#11dd44,2,0.295783174007
 'Matt Winkelmeyer',de,unknown,#111111,#111111,1,0.295580984723
@@ -821,10 +821,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Bartiromo',de,unknown,#111111,#111111,1,0.283055669839
 'Michelle Williams',de,unknown,#111111,#111111,1,0.282733422476
 'président de la République',de,Frankreich,#e8e808,#e8e808,1,0.282613504978
+'Putin',de,Russland,#e81818,#e81818,3,0.282519154560
 'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.282184822134
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.281926723588
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.281667364363
-'Putin',de,Russland,#e81818,#e81818,3,0.281479827714
 'Gisele Bundchen',de,unknown,#111111,#111111,1,0.281385182451
 'Katarina Barley',de,EU,#bbff33,#bbff33,2,0.279368283180
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
@@ -1037,8 +1037,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Franziska Giffey',de,Deutschland,#11dd44,#11dd44,3,0.192783936160
 'Louis Klamroth',de,Deutschland,#11dd44,#11dd44,2,0.192338651398
 'Mike Pence',de,USA,#18e8e8,#18e8e8,2,0.191986847842
+'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.190703728163
 'Roland Busch',de,Deutschland,#11dd44,#11dd44,1,0.190063660652
-'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.189540710393
 'Joy Behar',de,unknown,#111111,#111111,1,0.188999608958
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.188841841894
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.188683143650
