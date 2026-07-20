@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Liveblog Ukrainekrieg',de,unknown,#111111,#111111,3,0.597436460086
+'Liveblog Ukrainekrieg',de,unknown,#111111,#111111,3,0.517317420619
 'Marine Tondelier',de,unknown,#111111,#111111,2,0.508276615660
 'Kevin Spacey',de,unknown,#111111,#111111,2,0.505306698040
 'Mark Twain',de,unknown,#111111,#111111,2,0.500804041810
@@ -771,6 +771,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mareike Fallwickl',de,Österreich,#6622bb,#6622bb,1,0.299068907077
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.298866396965
 'Roger Federer',de,Schweiz,#88cc44,#88cc44,1,0.298705941101
+'Xi Jinping',de,China,#e88818,#e88818,3,0.298417603468
 'Jon Hamm',de,USA,#18e8e8,#18e8e8,2,0.298409204029
 'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.298393370410
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,1,0.298375642633
@@ -779,7 +780,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Ellermann',de,Deutschland,#11dd44,#11dd44,1,0.297797174829
 'Alexander De Croo',de,Belgien,#bb33ff,#bb33ff,1,0.297716995994
 'Jon Batiste',de,unknown,#111111,#111111,1,0.297600966200
-'Xi Jinping',de,China,#e88818,#e88818,3,0.297403415581
 'Paul-Henry Nargeolet',de,Frankreich,#e8e808,#e8e808,1,0.297186599281
 'Sam H',de,unknown,#111111,#111111,1,0.296477821593
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.296302020821
@@ -1041,7 +1041,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Franziska Giffey',de,Deutschland,#11dd44,#11dd44,3,0.192783936160
 'Louis Klamroth',de,Deutschland,#11dd44,#11dd44,2,0.192338651398
 'Mike Pence',de,USA,#18e8e8,#18e8e8,2,0.191986847842
-'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.190703728163
+'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.191865434999
 'Roland Busch',de,Deutschland,#11dd44,#11dd44,1,0.190063660652
 'Joy Behar',de,unknown,#111111,#111111,1,0.188999608958
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.188841841894
