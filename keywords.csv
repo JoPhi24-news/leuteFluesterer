@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kevin Spacey',de,unknown,#111111,#111111,2,0.505306698040
 'Mark Twain',de,unknown,#111111,#111111,2,0.500804041810
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.477962357869
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
@@ -164,6 +163,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Bannon',de,unknown,#111111,#111111,2,0.430039170732
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.429941530419
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.429910134761
+'Kevin Spacey',de,unknown,#111111,#111111,1,0.429510738334
 'Raphaël Glucksmann',de,unknown,#111111,#111111,2,0.429418612514
 'Elie Favrot',de,unknown,#111111,#111111,1,0.429362325869
 'Michele Singer Reiner',de,unknown,#111111,#111111,2,0.429285768117
