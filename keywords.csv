@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
-'Mojtaba Khamenei',de,unknown,#111111,#111111,3,0.457805248509
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.457723920085
 'Joe Kent',de,unknown,#111111,#111111,3,0.457681562687
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.457329441189
@@ -304,6 +303,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
 'John Clarke',de,USA,#18e8e8,#18e8e8,1,0.389401780306
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.389344326612
+'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.389134896233
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.387458644881
 'Quentin Deranque',de,unknown,#111111,#111111,2,0.386408402825
 'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.386274793777
