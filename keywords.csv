@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.477962357869
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.468887739860
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.469585790124
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.467634630342
 'Ken Paxton',de,unknown,#111111,#111111,2,0.466446350225
@@ -33,12 +32,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.457329441189
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.457322086171
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457219909268
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.456999440817
 'John Cornyn',de,unknown,#111111,#111111,2,0.456875017197
 'Liveblog USA',de,unknown,#111111,#111111,3,0.456772453824
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.456702922373
 'David Lowery',de,unknown,#111111,#111111,2,0.456442206247
 'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.456282005585
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.456276365088
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455890081124
 'Scooter Braun',de,unknown,#111111,#111111,2,0.455842208537
@@ -97,7 +96,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hannu Halinen',de,unknown,#111111,#111111,1,0.440725000000
 'Giorgio Goacomelli',de,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
-'Liveblog Ukrainekrieg',de,unknown,#111111,#111111,2,0.439720767526
+'Liveblog Ukrainekrieg',de,unknown,#111111,#111111,2,0.440476483914
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.439068414002
 'Savannah Guthrie',de,unknown,#111111,#111111,1,0.438751281218
 'Cilia Flores',de,unknown,#111111,#111111,3,0.438603057210
@@ -120,6 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.434630821115
 'Michelle Reiner',de,unknown,#111111,#111111,1,0.434132993767
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.433959241916
 'James Talarico',de,unknown,#111111,#111111,2,0.433735923769
 'Michele Singer',de,unknown,#111111,#111111,1,0.433667429657
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
@@ -717,6 +717,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Massa',de,unknown,#111111,#111111,1,0.308056569607
 'Drake Maye',de,unknown,#111111,#111111,1,0.307899273929
 'Ayatollah Chamenei',de,Iran,#11bb99,#11bb99,1,0.307770240762
+'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.307692372697
 'Leonardo da Vinci',de,Italien,#7722cc,#7722cc,2,0.307523361241
 'Salvador Dali',de,Spanien,#1144aa,#1144aa,1,0.307512545000
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.307477450123
@@ -731,7 +732,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gilbert Plass',de,Kanada,#ffaabb,#ffaabb,1,0.307062500000
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.306946133893
-'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.306693290373
 'James Biden',de,unknown,#111111,#111111,1,0.306666048656
 'Hugh Grant',de,unknown,#111111,#111111,1,0.306582026544
 'Kevin Kühnert',de,Deutschland,#11dd44,#11dd44,3,0.306267580113
