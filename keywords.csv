@@ -683,7 +683,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marguerite Cazeneuve',de,Frankreich,#e8e808,#e8e808,1,0.311498535251
 'Olivier Marleix',de,Frankreich,#e8e808,#e8e808,2,0.311384365994
 "'Dwayne ""The Rock"" Johnson'",de,unknown,#111111,#111111,2,0.311360410276
-'Ana Navarro',de,unknown,#111111,#111111,1,0.311314593005
 'Georg Gänswein',de,Deutschland,#11dd44,#11dd44,1,0.311276120085
 'Mathias Döpfner',de,Deutschland,#11dd44,#11dd44,1,0.311181455532
 'Sarah Stier',de,unknown,#111111,#111111,1,0.310866891675
@@ -876,6 +875,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ricarda Lang',de,Deutschland,#11dd44,#11dd44,3,0.264920546298
 'Martha MacCallum',de,unknown,#111111,#111111,1,0.264803014688
 'Carey Mulligan',de,unknown,#111111,#111111,1,0.264741633283
+'Ana Navarro',de,unknown,#111111,#111111,1,0.264617404054
 'Joe Alwyn',de,unknown,#111111,#111111,1,0.264591171558
 'Julian Edelman',de,unknown,#111111,#111111,1,0.264504714131
 'Ulf Poschardt',de,Deutschland,#11dd44,#11dd44,1,0.264452346876
