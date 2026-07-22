@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mark Twain',de,unknown,#111111,#111111,2,0.500804041810
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.477962357869
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
@@ -197,6 +196,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Gaethje',de,unknown,#111111,#111111,1,0.425959272437
 'Paul McCartney',de,unknown,#111111,#111111,3,0.425761136850
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
+'Mark Twain',de,unknown,#111111,#111111,1,0.425683750538
 'Mark Ruffalo',de,unknown,#111111,#111111,1,0.425629559350
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Nathan Hochman',de,unknown,#111111,#111111,1,0.425492084985
