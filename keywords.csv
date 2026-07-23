@@ -157,7 +157,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MARGARET BRENNAN',de,unknown,#111111,#111111,1,0.430387282051
 'Ro Khanna',de,unknown,#111111,#111111,2,0.430235689404
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.430163071475
-'Steve Bannon',de,unknown,#111111,#111111,2,0.430039170732
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.429941530419
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.429910134761
 'Kevin Spacey',de,unknown,#111111,#111111,1,0.429510738334
@@ -321,6 +320,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jared Kushner',de,USA,#18e8e8,#18e8e8,2,0.382530619101
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,1,0.382326887908
+'Steve Bannon',de,unknown,#111111,#111111,2,0.382033460122
 'prince Andrew',de,unknown,#111111,#111111,1,0.381811038000
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
 'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.381728540489
