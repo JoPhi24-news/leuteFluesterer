@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475120419915
 'Thomas Massie',de,unknown,#111111,#111111,2,0.471431171415
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.469585790124
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.467634630342
 'Ken Paxton',de,unknown,#111111,#111111,2,0.466446350225
@@ -318,6 +318,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.383196891209
 'Pam Bondi',de,unknown,#111111,#111111,2,0.383175613249
 'Richard Robson',de,Australien,#99aa33,#99aa33,1,0.382880615247
+'Jared Kushner',de,USA,#18e8e8,#18e8e8,2,0.382530619101
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,1,0.382326887908
 'prince Andrew',de,unknown,#111111,#111111,1,0.381811038000
@@ -339,7 +340,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Isaac Herzog',de,unknown,#111111,#111111,1,0.375066813925
 'Nicolas Maduro',de,unknown,#111111,#111111,2,0.375017959737
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
-'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.374690758835
 'Amos Goldberg',de,unknown,#111111,#111111,1,0.374616273587
 'Revital Gottlieb',de,unknown,#111111,#111111,1,0.374616250000
 'Makarim Wobisono',de,unknown,#111111,#111111,1,0.374616250000
@@ -631,6 +631,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Timberlake',de,unknown,#111111,#111111,1,0.317706187140
 'Carter Reum',de,unknown,#111111,#111111,1,0.317665349784
 'Alvin Bragg',de,USA,#18e8e8,#18e8e8,1,0.317279410126
+'Kanye West',de,USA,#18e8e8,#18e8e8,1,0.317165437240
 'Robin Roberts',de,unknown,#111111,#111111,1,0.317068266930
 'Leandro De Niro-Rodriguez',de,unknown,#111111,#111111,1,0.317020448280
 'Bronny James',de,unknown,#111111,#111111,1,0.316940756144
@@ -638,7 +639,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jill Biden',de,USA,#18e8e8,#18e8e8,2,0.316781614009
 'Ralf Dieter',de,Deutschland,#11dd44,#11dd44,1,0.316459167619
 'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,3,0.316344686997
-'Kanye West',de,USA,#18e8e8,#18e8e8,1,0.316182101772
 'Christian Günther',de,unknown,#111111,#111111,2,0.316119172787
 'Jake Tapper',de,unknown,#111111,#111111,1,0.315803967854
 'Alex Jones',de,USA,#18e8e8,#18e8e8,1,0.315745582026
@@ -820,11 +820,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.284254908940
 'William Shakespeare',de,UK,#e838e8,#e838e8,1,0.283965114119
 'Gabor Steingart',de,Deutschland,#11dd44,#11dd44,2,0.283584024228
+'Putin',de,Russland,#e81818,#e81818,3,0.283556870592
 'Victoria Monét',de,unknown,#111111,#111111,1,0.283494997568
 'Maria Bartiromo',de,unknown,#111111,#111111,1,0.283055669839
 'Michelle Williams',de,unknown,#111111,#111111,1,0.282733422476
 'président de la République',de,Frankreich,#e8e808,#e8e808,1,0.282613504978
-'Putin',de,Russland,#e81818,#e81818,3,0.282519154560
 'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.282184822134
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.281926723588
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.281667364363
