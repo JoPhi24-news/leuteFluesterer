@@ -452,7 +452,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.351851685958
 'David Koch',de,USA,#18e8e8,#18e8e8,2,0.351497980293
 'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.351092598372
-'James Comer',de,USA,#18e8e8,#18e8e8,1,0.351073266212
 'Bettina Stark-Watzinger',de,Deutschland,#11dd44,#11dd44,3,0.350958211966
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.350386969523
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.350226973382
@@ -771,6 +770,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mareike Fallwickl',de,Österreich,#6622bb,#6622bb,1,0.299068907077
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.298866396965
 'Roger Federer',de,Schweiz,#88cc44,#88cc44,1,0.298705941101
+'James Comer',de,USA,#18e8e8,#18e8e8,1,0.298562291280
 'Xi Jinping',de,China,#e88818,#e88818,3,0.298417603468
 'Jon Hamm',de,USA,#18e8e8,#18e8e8,2,0.298409204029
 'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.298393370410
