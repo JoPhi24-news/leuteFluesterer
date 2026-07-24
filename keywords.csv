@@ -275,7 +275,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
 'Jonathan Ross',de,unknown,#111111,#111111,1,0.399665777012
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.399644884285
-'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.398272610753
+'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.399108445637
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
@@ -505,6 +505,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abraham Lincoln',de,USA,#18e8e8,#18e8e8,2,0.340951595224
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
 'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.340047785382
+'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,3,0.340043070504
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
 'Claudia Kemfert',de,Deutschland,#11dd44,#11dd44,1,0.338715139829
@@ -545,6 +546,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',de,Deutschland,#11dd44,#11dd44,3,0.332631192220
 'Eric Trump',de,USA,#18e8e8,#18e8e8,2,0.332165636979
 'Kate Hudson',de,USA,#18e8e8,#18e8e8,1,0.332116349309
+'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.332049118731
 'Marie Trintignant',de,Frankreich,#e8e808,#e8e808,1,0.331861922850
 'Joe Jonas',de,USA,#18e8e8,#18e8e8,1,0.331805695327
 'Jean Castex',de,Frankreich,#e8e808,#e8e808,1,0.331752014161
@@ -608,6 +610,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Adams',de,USA,#18e8e8,#18e8e8,2,0.323335007843
 'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.322742422260
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.322267465838
+'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.322192623393
 'Peter Tschentscher',de,Deutschland,#11dd44,#11dd44,2,0.321059408678
 'George Miller',de,unknown,#111111,#111111,1,0.320924279871
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,1,0.320653174005
@@ -622,7 +625,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lea Bonasera',de,Deutschland,#11dd44,#11dd44,1,0.318423812500
 'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.318423812500
 'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.318347476924
-'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.318283303753
 'Michelle O\'Neill',de,Irland,#33bbff,#33bbff,1,0.317954973082
 'Gabriel Attal',de,Frankreich,#e8e808,#e8e808,1,0.317881238693
 'Laurent Berger',de,Frankreich,#e8e808,#e8e808,1,0.317825978813
@@ -678,6 +680,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ainsley Earhardt',de,unknown,#111111,#111111,1,0.312178294602
 'Aubrey Plaza',de,unknown,#111111,#111111,1,0.312123935117
 'Affaire Epstein',de,unknown,#111111,#111111,1,0.311836049660
+'Robert Downey Jr',de,unknown,#111111,#111111,2,0.311688762803
 'Yves Bournazel',de,Frankreich,#e8e808,#e8e808,1,0.311683356333
 'Kristen Wiig',de,unknown,#111111,#111111,1,0.311676237917
 'Marguerite Cazeneuve',de,Frankreich,#e8e808,#e8e808,1,0.311498535251
@@ -686,7 +689,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Georg Gänswein',de,Deutschland,#11dd44,#11dd44,1,0.311276120085
 'Mathias Döpfner',de,Deutschland,#11dd44,#11dd44,1,0.311181455532
 'Sarah Stier',de,unknown,#111111,#111111,1,0.310866891675
-'Robert Downey Jr',de,unknown,#111111,#111111,2,0.310696285144
 'Duke Henri',de,Luxemburg,#dd3355,#dd3355,1,0.310608310712
 'Steffen Kotre',de,unknown,#111111,#111111,1,0.310593718750
 'Andrew Schulz',de,unknown,#111111,#111111,1,0.310518741270
@@ -699,7 +701,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mindy Kaling',de,unknown,#111111,#111111,1,0.309883617097
 'Buzz Aldrin',de,USA,#18e8e8,#18e8e8,1,0.309879240715
 'Ron Howard',de,unknown,#111111,#111111,2,0.309724600684
-'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.309597607368
 'Sunny Hostin',de,unknown,#111111,#111111,1,0.309200073287
 'François Braun',de,unknown,#111111,#111111,1,0.309100527042
 'Chris Kirkpatrick',de,unknown,#111111,#111111,1,0.309065915138
@@ -826,7 +827,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michelle Williams',de,unknown,#111111,#111111,1,0.282733422476
 'président de la République',de,Frankreich,#e8e808,#e8e808,1,0.282613504978
 'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.282184822134
-'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.281926723588
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.281667364363
 'Gisele Bundchen',de,unknown,#111111,#111111,1,0.281385182451
 'Katarina Barley',de,EU,#bbff33,#bbff33,2,0.279368283180
