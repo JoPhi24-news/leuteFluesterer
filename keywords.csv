@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.487167990529
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475806064382
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
@@ -210,7 +211,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hoda Kotb',de,unknown,#111111,#111111,2,0.421236576667
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.421061891369
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
-'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
 'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.420458697700
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
@@ -352,6 +352,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.370001019264
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,1,0.369538163397
+'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.369006809104
 'James Talarico',de,unknown,#111111,#111111,1,0.368675580204
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
 'Paul Konerko',de,USA,#18e8e8,#18e8e8,1,0.368176078984
@@ -393,7 +394,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Malone',de,USA,#18e8e8,#18e8e8,1,0.363700408881
 'König Felipe VI',de,Spanien,#1144aa,#1144aa,2,0.363691731071
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.363682490258
-'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.363629724834
 'Nick Bilton',de,unknown,#111111,#111111,2,0.363589443487
 'Peter Attia',de,unknown,#111111,#111111,1,0.362973737713
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.362944774228
