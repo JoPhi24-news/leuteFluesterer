@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475120419915
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475806064382
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.467634630342
@@ -50,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.454026972377
 'Helene Fischer',de,unknown,#111111,#111111,3,0.453745471156
+'Ro Khanna',de,unknown,#111111,#111111,2,0.453514831708
 'Viktor Orban',de,unknown,#111111,#111111,3,0.453108848268
 'Marine Tondelier',de,unknown,#111111,#111111,2,0.453062438064
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
@@ -154,7 +155,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.430424353690
 'Angus Cloud',de,unknown,#111111,#111111,1,0.430393750489
 'MARGARET BRENNAN',de,unknown,#111111,#111111,1,0.430387282051
-'Ro Khanna',de,unknown,#111111,#111111,2,0.430235689404
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.430163071475
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.429941530419
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.429910134761
@@ -163,6 +163,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elie Favrot',de,unknown,#111111,#111111,1,0.429362325869
 'Michele Singer Reiner',de,unknown,#111111,#111111,2,0.429285768117
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
+'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.428859434445
 'Jay Clayton',de,unknown,#111111,#111111,1,0.428816666992
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
@@ -173,7 +174,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noël Barrot',de,unknown,#111111,#111111,3,0.428486557388
 'Don Bacon',de,unknown,#111111,#111111,1,0.428434675927
 'David Amiel',de,unknown,#111111,#111111,1,0.428354875720
-'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.428080956345
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.427478252158
@@ -265,6 +265,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Fetterman',de,unknown,#111111,#111111,2,0.403409988678
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
 'Richard Falk',de,unknown,#111111,#111111,2,0.402293609350
+'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.402139819932
 'Ilhan Omar',de,unknown,#111111,#111111,1,0.402004134827
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.401833591320
@@ -274,7 +275,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Massie',de,unknown,#111111,#111111,1,0.400716765703
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
 'Jonathan Ross',de,unknown,#111111,#111111,1,0.399665777012
-'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.399644884285
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.399108445637
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
@@ -420,12 +420,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.359593040267
 'Charles III',de,UK,#e838e8,#e838e8,3,0.359328181690
 'Maja Göpel',de,Deutschland,#11dd44,#11dd44,1,0.358644819504
+'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.358184336533
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.358182989731
 'Sam Asghari',de,Iran,#11bb99,#11bb99,1,0.358138251632
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,2,0.357860484198
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,1,0.357431995697
-'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.357272553795
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.357088107469
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.357029866375
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.356825237617
