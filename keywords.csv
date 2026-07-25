@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.487167990529
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475806064382
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
@@ -228,6 +227,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
 'Ed Gallrein',de,unknown,#111111,#111111,2,0.416001075856
 'Kendall Jenner',de,unknown,#111111,#111111,1,0.414947600855
+'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.414093406950
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.412648994865
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,2,0.412480264105
