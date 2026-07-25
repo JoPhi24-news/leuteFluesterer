@@ -50,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.454026972377
 'Helene Fischer',de,unknown,#111111,#111111,3,0.453745471156
-'Ro Khanna',de,unknown,#111111,#111111,2,0.453514831708
 'Viktor Orban',de,unknown,#111111,#111111,3,0.453108848268
 'Marine Tondelier',de,unknown,#111111,#111111,2,0.453062438064
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
@@ -306,6 +305,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.386274793777
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.385790373521
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
+'Ro Khanna',de,unknown,#111111,#111111,1,0.385487816952
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.385154098488
 'Steve Witkoff',de,unknown,#111111,#111111,2,0.384451671637
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.383679243572
