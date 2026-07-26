@@ -119,10 +119,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michelle Reiner',de,unknown,#111111,#111111,1,0.434132993767
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.433959241916
+'Will Ferrell',de,unknown,#111111,#111111,1,0.433827866621
 'Michele Singer',de,unknown,#111111,#111111,1,0.433667429657
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
 'Ben Shapiro',de,unknown,#111111,#111111,1,0.433102086861
-'Will Ferrell',de,unknown,#111111,#111111,1,0.433059101928
 'James Carville',de,unknown,#111111,#111111,1,0.433034239553
 'Chappell Roan',de,unknown,#111111,#111111,2,0.433022738081
 'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
@@ -208,6 +208,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.421061891369
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
 'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.420458697700
+'Carter Reum',de,unknown,#111111,#111111,2,0.420315577316
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
 'Rob Reiner',de,unknown,#111111,#111111,2,0.419649608469
@@ -495,6 +496,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.342694588263
 'Rand Paul',de,USA,#18e8e8,#18e8e8,2,0.342339802847
 'David Weiss',de,Schweiz,#88cc44,#88cc44,2,0.342117073411
+'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.341930939035
 'Pietro Lombardi',de,Deutschland,#11dd44,#11dd44,2,0.341833027636
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,1,0.341700962002
 'Joachim Gauck',de,Deutschland,#11dd44,#11dd44,1,0.341559116541
@@ -504,7 +506,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Roberts',de,USA,#18e8e8,#18e8e8,2,0.340994510489
 'Abraham Lincoln',de,USA,#18e8e8,#18e8e8,2,0.340951595224
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
-'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.340047785382
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,3,0.340043070504
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
@@ -562,6 +563,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Affleck',de,USA,#18e8e8,#18e8e8,1,0.330274422867
 'Anne Will',de,Deutschland,#11dd44,#11dd44,3,0.330123315476
 'Aaron Rodgers',de,USA,#18e8e8,#18e8e8,1,0.329932646100
+'Brad Pitt',de,USA,#18e8e8,#18e8e8,3,0.329747583987
 'John Martinis',de,USA,#18e8e8,#18e8e8,1,0.329547879089
 'Mark Meadows',de,USA,#18e8e8,#18e8e8,1,0.329396810918
 'Christiane Schenderlein',de,Deutschland,#11dd44,#11dd44,2,0.329039506920
@@ -572,7 +574,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Tate',de,USA,#18e8e8,#18e8e8,1,0.328145935082
 'Laura Ingraham',de,USA,#18e8e8,#18e8e8,2,0.328084577896
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,2,0.327901257941
-'Brad Pitt',de,USA,#18e8e8,#18e8e8,3,0.327822036544
 'Edouard Philippe',de,Frankreich,#e8e808,#e8e808,2,0.327724688502
 'Dieter Bohlen',de,Deutschland,#11dd44,#11dd44,3,0.327706040056
 'Rachida Dati',de,Frankreich,#e8e808,#e8e808,1,0.327665175029
@@ -631,7 +632,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alyssa Farah Griffin',de,unknown,#111111,#111111,1,0.317709060651
 'Cem Özdemir',de,Deutschland,#11dd44,#11dd44,3,0.317708618151
 'Justin Timberlake',de,unknown,#111111,#111111,1,0.317706187140
-'Carter Reum',de,unknown,#111111,#111111,1,0.317665349784
 'Alvin Bragg',de,USA,#18e8e8,#18e8e8,1,0.317279410126
 'Kanye West',de,USA,#18e8e8,#18e8e8,1,0.317165437240
 'Robin Roberts',de,unknown,#111111,#111111,1,0.317068266930
