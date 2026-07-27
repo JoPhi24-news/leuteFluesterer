@@ -1,5 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.478535007609
+'Liveblog Irankrieg',de,unknown,#111111,#111111,2,0.600192095589
+'Christian Bale',de,unknown,#111111,#111111,2,0.600109179487
+'Max Holloway',de,unknown,#111111,#111111,2,0.507396635630
+'Conor McGregor',de,unknown,#111111,#111111,2,0.506292528019
+'Alex Pereira',de,unknown,#111111,#111111,2,0.505901610586
+'Josh Hokit',de,unknown,#111111,#111111,2,0.505817935174
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.484502514195
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.467634630342
@@ -146,6 +152,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karol G',de,Kolumbien,#3355dd,#3355dd,1,0.431101111006
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
 'Trevor Phillips',de,unknown,#111111,#111111,2,0.430747478606
+'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.430685047645
 'Nancy Guthrie',de,unknown,#111111,#111111,1,0.430680937954
 'Chris Cuomo',de,unknown,#111111,#111111,1,0.430603242396
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.430424353690
@@ -153,7 +160,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MARGARET BRENNAN',de,unknown,#111111,#111111,1,0.430387282051
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.430163071475
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.429941530419
-'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.429910134761
 'Kevin Spacey',de,unknown,#111111,#111111,1,0.429510738334
 'Raphaël Glucksmann',de,unknown,#111111,#111111,2,0.429418612514
 'Elie Favrot',de,unknown,#111111,#111111,1,0.429362325869
@@ -439,9 +445,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.355580426451
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.355165489478
+'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.354892611009
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.354594527910
 'Sohn Nick',de,unknown,#111111,#111111,2,0.354317754221
-'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.353974901044
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.353510533558
 'James Cleverly',de,UK,#e838e8,#e838e8,3,0.353336520045
@@ -637,6 +643,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robin Roberts',de,unknown,#111111,#111111,1,0.317068266930
 'Leandro De Niro-Rodriguez',de,unknown,#111111,#111111,1,0.317020448280
 'Bronny James',de,unknown,#111111,#111111,1,0.316940756144
+'Katy Perry',de,USA,#18e8e8,#18e8e8,1,0.316930784569
 'Katja Krasavice',de,Deutschland,#11dd44,#11dd44,1,0.316837847842
 'Jill Biden',de,USA,#18e8e8,#18e8e8,2,0.316781614009
 'Ralf Dieter',de,Deutschland,#11dd44,#11dd44,1,0.316459167619
@@ -648,7 +655,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Colin Farrell',de,unknown,#111111,#111111,3,0.315441792256
 'Pablo Picasso',de,Spanien,#1144aa,#1144aa,1,0.315119614981
 'Tim Müller',de,Deutschland,#11dd44,#11dd44,3,0.315049243587
-'Katy Perry',de,USA,#18e8e8,#18e8e8,1,0.314961676963
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,2,0.314291324230
 'Stefan Kolev',de,Deutschland,#11dd44,#11dd44,1,0.314267330783
 'Mark Kerr',de,unknown,#111111,#111111,1,0.314258670059
@@ -918,6 +924,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,1,0.252222829181
 'King Charles',de,UK,#e838e8,#e838e8,2,0.251571587054
 'Pat McAfee',de,USA,#18e8e8,#18e8e8,1,0.250956297151
+'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.249662953188
 'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.249471227397
 'Selenski',de,Ukraine,#e818e8,#e818e8,1,0.248822842717
 'Harrison Ford',de,unknown,#111111,#111111,1,0.248675424859
@@ -925,7 +932,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vučić',de,Serbien,#4488cc,#4488cc,1,0.247564191884
 'Péter Szijjártó',de,Ungarn,#33aa99,#33aa99,2,0.247233629196
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
-'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.246394292317
 'Mohammed bin Salman',de,SaudiArabien,#2266bb,#2266bb,3,0.245687851726
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
 'Kyle Pope',de,unknown,#111111,#111111,1,0.244273820463
