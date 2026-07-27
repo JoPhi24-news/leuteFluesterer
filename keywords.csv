@@ -335,6 +335,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francis Ngannou',de,unknown,#111111,#111111,1,0.376709486990
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,1,0.375531434263
 'Kylie Kelce',de,unknown,#111111,#111111,2,0.375362486525
+'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.375266782484
 'Yoav Gallant ',de,unknown,#111111,#111111,2,0.375215589925
 'Isaac Herzog',de,unknown,#111111,#111111,1,0.375066813925
 'Nicolas Maduro',de,unknown,#111111,#111111,2,0.375017959737
@@ -344,7 +345,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Makarim Wobisono',de,unknown,#111111,#111111,1,0.374616250000
 'Chris Soto',de,unknown,#111111,#111111,1,0.374616250000
 'Avi Dichter',de,unknown,#111111,#111111,1,0.374616250000
-'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,1,0.374321916751
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,1,0.372968218130
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
@@ -473,6 +473,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kılıçdaroğlu',de,Türkei,#4411ee,#4411ee,2,0.346400852550
 'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.346317538416
 'Omar Sy',de,Frankreich,#e8e808,#e8e808,1,0.346119661797
+'Adam Driver',de,unknown,#111111,#111111,2,0.346064292915
 'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.345947005443
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.345582969081
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.345355873396
@@ -508,6 +509,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,3,0.340043070504
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
+'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.339797173961
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
 'Claudia Kemfert',de,Deutschland,#11dd44,#11dd44,1,0.338715139829
 'Patrick Mahomes',de,USA,#18e8e8,#18e8e8,2,0.338648158701
@@ -530,7 +532,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.335685844193
 'Jerry Seinfeld',de,USA,#18e8e8,#18e8e8,1,0.335118759698
 'Adolf Hitler',de,Deutschland,#11dd44,#11dd44,3,0.335068911946
-'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.335058158739
 'Mira Murati',de,Albanien,#ee742d,#ee742d,1,0.334870621721
 'Pedro Sánchez',de,Spanien,#1144aa,#1144aa,2,0.334395175667
 'Cristiano Ronaldo',de,Portugal,#66bb22,#66bb22,3,0.334172741405
@@ -607,7 +608,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Jarasch',de,Deutschland,#11dd44,#11dd44,2,0.324138388908
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.324009525599
 'Barry Keoghan',de,unknown,#111111,#111111,1,0.323420364292
-'Adam Driver',de,unknown,#111111,#111111,2,0.323392151393
 'Eric Adams',de,USA,#18e8e8,#18e8e8,2,0.323335007843
 'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.322742422260
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.322267465838
@@ -705,6 +705,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Braun',de,unknown,#111111,#111111,1,0.309100527042
 'Chris Kirkpatrick',de,unknown,#111111,#111111,1,0.309065915138
 'Sean Hannity',de,unknown,#111111,#111111,1,0.309024442296
+'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.308941824238
 'Kevin Hart',de,USA,#18e8e8,#18e8e8,3,0.308899368814
 'Roman Pacino',de,unknown,#111111,#111111,1,0.308644020139
 'Premier ministre',de,unknown,#111111,#111111,1,0.308546290121
@@ -731,7 +732,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kiliçdaroglu',de,Türkei,#4411ee,#4411ee,1,0.307062500000
 'Gilbert Plass',de,Kanada,#ffaabb,#ffaabb,1,0.307062500000
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
-'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.306946133893
 'James Biden',de,unknown,#111111,#111111,1,0.306666048656
 'Hugh Grant',de,unknown,#111111,#111111,1,0.306582026544
 'Kevin Kühnert',de,Deutschland,#11dd44,#11dd44,3,0.306267580113
@@ -989,11 +989,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.221852656250
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.221828588284
 'Alice Weidel',de,Deutschland,#11dd44,#11dd44,2,0.221169914633
+'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.220980759766
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.220136488479
 'Eva Kaili',de,EU,#bbff33,#bbff33,3,0.219786134194
 'Recep Tayyip Erdoğan',de,Türkei,#4411ee,#4411ee,2,0.219655258809
 'Michael Cohen',de,USA,#18e8e8,#18e8e8,3,0.218792872905
-'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.217596622844
 'Afida Turner',de,Frankreich,#e8e808,#e8e808,1,0.217315014423
 'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,2,0.217292238389
 'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.216059214426
