@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Christian Bale',de,unknown,#111111,#111111,2,0.600109179487
+'Christian Bale',de,unknown,#111111,#111111,2,0.548608577179
 'Liveblog Irankrieg',de,unknown,#111111,#111111,3,0.544617440132
 'Max Holloway',de,unknown,#111111,#111111,2,0.507396635630
 'Conor McGregor',de,unknown,#111111,#111111,2,0.506292528019
@@ -527,6 +527,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
 'Haitham A-Ghais',de,Kuwait,#3fd97a,#3fd97a,1,0.337768750000
 'Claudia Kempfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
+'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.337762255940
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
 'Bastian Schweinsteiger',de,Deutschland,#11dd44,#11dd44,2,0.337431157474
 'Rudolf Steiner',de,Österreich,#6622bb,#6622bb,1,0.337337795599
@@ -554,7 +555,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',de,Deutschland,#11dd44,#11dd44,3,0.332631192220
 'Eric Trump',de,USA,#18e8e8,#18e8e8,2,0.332165636979
 'Kate Hudson',de,USA,#18e8e8,#18e8e8,1,0.332116349309
-'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.332049118731
 'Marie Trintignant',de,Frankreich,#e8e808,#e8e808,1,0.331861922850
 'Joe Jonas',de,USA,#18e8e8,#18e8e8,1,0.331805695327
 'Jean Castex',de,Frankreich,#e8e808,#e8e808,1,0.331752014161
