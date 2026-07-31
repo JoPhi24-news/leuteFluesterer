@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Savannah Guthrie',de,unknown,#111111,#111111,2,0.523388634035
 'Max Holloway',de,unknown,#111111,#111111,2,0.482187230286
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
 'Nick Reiner',de,unknown,#111111,#111111,2,0.445379509982
 'Markwayne Mullin',de,unknown,#111111,#111111,2,0.445133552072
+'Savannah Guthrie',de,unknown,#111111,#111111,1,0.444880383930
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.444859345688
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,2,0.444822478533
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
