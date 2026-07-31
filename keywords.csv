@@ -973,6 +973,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.228009370159
 'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.227375045985
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.226962077491
+'Richard Feynman',de,USA,#18e8e8,#18e8e8,2,0.226909065728
 'Missy Motown',de,Deutschland,#11dd44,#11dd44,1,0.226542975644
 'Nathalie Emmanuel',de,unknown,#111111,#111111,1,0.226456837978
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.226102477205
@@ -1101,7 +1102,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wissing',de,Deutschland,#11dd44,#11dd44,3,0.150531145402
 'David Malpass',de,USA,#18e8e8,#18e8e8,1,0.149645727636
 'Hans Joachim Schellnhuber',de,Deutschland,#11dd44,#11dd44,2,0.149505623769
-'Richard Feynman',de,USA,#18e8e8,#18e8e8,1,0.148775318503
 'Patriarch Kyrill',de,Ukraine,#e818e8,#e818e8,2,0.147265368122
 'Alfred Bernhard Nobel',de,Schweden,#77dd11,#77dd11,1,0.147144883521
 'Ebrahim Raisi',de,Iran,#11bb99,#11bb99,2,0.145990296084
