@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.492107819812
 'Max Holloway',de,unknown,#111111,#111111,2,0.482187230286
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
@@ -206,6 +205,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Mandelson',de,unknown,#111111,#111111,2,0.424354361120
 'Nicolas Cage',de,unknown,#111111,#111111,2,0.423749891475
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.423314801840
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.421470555490
 'Hoda Kotb',de,unknown,#111111,#111111,2,0.421236576667
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.421061891369
