@@ -657,7 +657,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Müller',de,Deutschland,#11dd44,#11dd44,3,0.315049243587
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,2,0.314291324230
 'Stefan Kolev',de,Deutschland,#11dd44,#11dd44,1,0.314267330783
-'Mark Kerr',de,unknown,#111111,#111111,1,0.314258670059
 'Nancy Mace',de,unknown,#111111,#111111,1,0.314251744840
 'Demi Moore',de,USA,#18e8e8,#18e8e8,1,0.314170757743
 'Mario Czaja',de,Deutschland,#11dd44,#11dd44,1,0.314138807309
@@ -865,6 +864,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Simion',de,unknown,#111111,#111111,1,0.269716884291
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,1,0.269594136597
 'Tino Chrupalla',de,Deutschland,#11dd44,#11dd44,3,0.268649662789
+'Mark Kerr',de,unknown,#111111,#111111,1,0.267269884550
 'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.267062405785
 'Ulrike Hermann',de,unknown,#111111,#111111,1,0.266857846585
 'Markus Wipperfürth',de,Deutschland,#11dd44,#11dd44,1,0.266648671404
