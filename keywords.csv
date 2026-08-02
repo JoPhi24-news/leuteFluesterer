@@ -390,7 +390,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphaël Arnault',de,unknown,#111111,#111111,1,0.364868422900
 'Ayo Edebiri',de,USA,#18e8e8,#18e8e8,1,0.364804884722
 'Diane Keaton',de,unknown,#111111,#111111,1,0.364719629245
-'Sam Levinson',de,unknown,#111111,#111111,1,0.364656464021
 'François Mitterrand',de,unknown,#111111,#111111,1,0.364572394079
 'Michaela Coel',de,unknown,#111111,#111111,1,0.364454305240
 'Tig Notaro',de,USA,#18e8e8,#18e8e8,1,0.364395336276
@@ -703,6 +702,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Spears',de,unknown,#111111,#111111,1,0.310097464071
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.310094127837
 'Devon Archer',de,unknown,#111111,#111111,1,0.310041952249
+'Sam Levinson',de,unknown,#111111,#111111,1,0.309957994418
 'Mindy Kaling',de,unknown,#111111,#111111,1,0.309883617097
 'Buzz Aldrin',de,USA,#18e8e8,#18e8e8,1,0.309879240715
 'Ron Howard',de,unknown,#111111,#111111,2,0.309724600684
