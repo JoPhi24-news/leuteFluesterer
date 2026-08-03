@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Herb Dean',de,unknown,#111111,#111111,2,0.508900013945
 'Logan Paul',de,unknown,#111111,#111111,2,0.506623583195
 'Gable Steveson',de,unknown,#111111,#111111,2,0.505855753125
 'Ian Garry',de,unknown,#111111,#111111,2,0.505776471149
@@ -137,6 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
 'Howie Mandel',de,unknown,#111111,#111111,2,0.432718855719
 'Craig Melvin',de,unknown,#111111,#111111,1,0.432701574810
+'Herb Dean',de,unknown,#111111,#111111,1,0.432565011853
 'Sarah Kellen',de,unknown,#111111,#111111,1,0.432564822757
 'Conor McGregor',de,unknown,#111111,#111111,1,0.432462177470
 'Ian Machado Garry',de,unknown,#111111,#111111,1,0.432344346814
