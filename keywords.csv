@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Logan Paul',de,unknown,#111111,#111111,2,0.506623583195
 'Gable Steveson',de,unknown,#111111,#111111,2,0.505855753125
 'Ian Garry',de,unknown,#111111,#111111,2,0.505776471149
 'Daniel Siad',de,unknown,#111111,#111111,2,0.505102793294
 'Christina Ricci',de,unknown,#111111,#111111,2,0.503789084320
 'Magomed Ankalaev',de,unknown,#111111,#111111,2,0.503675853317
 'Javier Mendez',de,unknown,#111111,#111111,2,0.501234748052
+'Logan Paul',de,unknown,#111111,#111111,2,0.491380120716
 'Max Holloway',de,unknown,#111111,#111111,2,0.482187230286
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
@@ -812,13 +812,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joaquim Valente',de,unknown,#111111,#111111,1,0.293285297355
 'Lawrence Jones',de,unknown,#111111,#111111,1,0.292846050533
 'Jacoby Brissett',de,unknown,#111111,#111111,1,0.292819529599
+'Tom Brady',de,unknown,#111111,#111111,1,0.292527684409
 'Melinda Gates',de,USA,#18e8e8,#18e8e8,2,0.292520929862
 'Geert Wilders',de,Niederlande,#33ffbb,#33ffbb,2,0.292104477972
 'Norbert Röttgen',de,Deutschland,#11dd44,#11dd44,2,0.292075331741
 'Vo Van Thuong',de,unknown,#111111,#111111,1,0.292059843556
 'Ursula von der Leyen',de,EU,#bbff33,#bbff33,3,0.291410160595
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.290506965818
-'Tom Brady',de,unknown,#111111,#111111,1,0.290478830333
 'Peter Breuer',de,unknown,#111111,#111111,1,0.289662084203
 'Hamish Harding',de,UK,#e838e8,#e838e8,1,0.289627929963
 'Nikki Glaser',de,USA,#18e8e8,#18e8e8,1,0.289368781346
