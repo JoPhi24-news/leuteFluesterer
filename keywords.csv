@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Daniel Siad',de,unknown,#111111,#111111,2,0.505102793294
+'Daniel Siad',de,unknown,#111111,#111111,2,0.559837674300
 'Christina Ricci',de,unknown,#111111,#111111,2,0.503789084320
 'Magomed Ankalaev',de,unknown,#111111,#111111,2,0.503675853317
 'Javier Mendez',de,unknown,#111111,#111111,2,0.501234748052
@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.465436754867
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.465344656482
 'Susan Collins',de,unknown,#111111,#111111,2,0.464531361365
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.464475375034
 'Bill Cassidy',de,unknown,#111111,#111111,2,0.464038283647
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.463082987548
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.463010353079
@@ -32,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.457723920085
 'Joe Kent',de,unknown,#111111,#111111,3,0.457681562687
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.457329441189
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.457322086171
 'Ken Paxton',de,unknown,#111111,#111111,2,0.457229472691
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457219909268
