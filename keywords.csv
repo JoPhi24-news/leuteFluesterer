@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Daniel Siad',de,unknown,#111111,#111111,2,0.486362323155
 'Max Holloway',de,unknown,#111111,#111111,2,0.482187230286
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
@@ -233,6 +232,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Chris Nanos',de,unknown,#111111,#111111,1,0.417052294638
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
+'Daniel Siad',de,unknown,#111111,#111111,2,0.416408274682
 'Ed Gallrein',de,unknown,#111111,#111111,2,0.416001075856
 'Kendall Jenner',de,unknown,#111111,#111111,1,0.414947600855
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.414093406950
