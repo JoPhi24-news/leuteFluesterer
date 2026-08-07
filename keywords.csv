@@ -43,13 +43,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scooter Braun',de,unknown,#111111,#111111,2,0.455842208537
 'Stephen Miller',de,unknown,#111111,#111111,2,0.455563586145
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
+'Helene Fischer',de,unknown,#111111,#111111,3,0.455200197043
 'Spencer Pratt',de,unknown,#111111,#111111,2,0.454874730109
 'Maud Bregeon',de,unknown,#111111,#111111,2,0.454798520145
 'Hunter Schafer',de,unknown,#111111,#111111,2,0.454728848435
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.454026972377
-'Helene Fischer',de,unknown,#111111,#111111,3,0.453745471156
 'Viktor Orban',de,unknown,#111111,#111111,3,0.453108848268
 'Marine Tondelier',de,unknown,#111111,#111111,2,0.453062438064
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
@@ -381,6 +381,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivia Nuzzi',de,USA,#18e8e8,#18e8e8,1,0.366448972126
 'Joey Kelly',de,unknown,#111111,#111111,1,0.366439336918
 'Harry Met Sally',de,unknown,#111111,#111111,1,0.366412149833
+'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.366308817684
 'Paddy Pimblett',de,unknown,#111111,#111111,1,0.366123560626
 'JULIEN MUGUET',de,Frankreich,#e8e808,#e8e808,1,0.366005069884
 'Yorgos Lanthimos',de,Griechenland,#448722,#448722,1,0.365898397103
@@ -390,7 +391,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alois Rainer',de,Deutschland,#11dd44,#11dd44,3,0.365702201496
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.365625574420
 'Lecornu II ',de,Frankreich,#e8e808,#e8e808,1,0.365483343523
-'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.365411789191
 'laffaire Epstein',de,unknown,#111111,#111111,1,0.365355925595
 'Scott Jennings',de,unknown,#111111,#111111,1,0.365240683024
 'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.365139849962
@@ -511,6 +511,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Weiss',de,Schweiz,#88cc44,#88cc44,2,0.342117073411
 'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.341930939035
 'Pietro Lombardi',de,Deutschland,#11dd44,#11dd44,2,0.341833027636
+'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.341755266098
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,1,0.341700962002
 'Joachim Gauck',de,Deutschland,#11dd44,#11dd44,1,0.341559116541
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.341517596062
@@ -520,7 +521,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abraham Lincoln',de,USA,#18e8e8,#18e8e8,2,0.340951595224
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,3,0.340043070504
-'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.339871494632
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.339797173961
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
 'Claudia Kemfert',de,Deutschland,#11dd44,#11dd44,1,0.338715139829
@@ -799,9 +799,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.296302020821
 'Holger Friedrich',de,Deutschland,#11dd44,#11dd44,2,0.295783174007
 'Matt Winkelmeyer',de,unknown,#111111,#111111,1,0.295580984723
+'Curtis Yarvin',de,USA,#111111,#111111,1,0.295570462506
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.295276485558
 'Kim Reynolds',de,unknown,#111111,#111111,1,0.295098519440
-'Curtis Yarvin',de,USA,#111111,#111111,1,0.294551701426
 'Benny Safdie',de,unknown,#111111,#111111,2,0.294540257841
 'Kim Jong Un',de,NordKorea,#4811f1,#4811f1,3,0.294391014951
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.294214558840
@@ -1069,6 +1069,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Kretschmer',de,Deutschland,#11dd44,#11dd44,3,0.187538004884
 'Bruno Kahl',de,Deutschland,#11dd44,#11dd44,1,0.187458681009
 'Fumio Kishida',de,Japan,#aa9933,#aa9933,3,0.187035135023
+'Daniel Freund',de,EU,#bbff33,#bbff33,3,0.185494163918
 'Napoleon Bonaparte',de,Frankreich,#e8e808,#e8e808,2,0.183532816274
 'Steffi Lemke',de,Deutschland,#11dd44,#11dd44,3,0.182995565350
 'Carola Rackete',de,Deutschland,#11dd44,#11dd44,2,0.181811642726
@@ -1096,7 +1097,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruno Retailleau',de,Frankreich,#e8e808,#e8e808,1,0.161214384255
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.160288544141
 'Detlef Garbe',de,Deutschland,#11dd44,#11dd44,1,0.160288544141
-'Daniel Freund',de,EU,#bbff33,#bbff33,3,0.159992022256
 'Cyril Ramaphosa',de,Südafrika,#1144ee,#1144ee,2,0.159854590076
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.159128394767
 'Dalai Lama',de,Tibet,#ddaa33,#ddaa33,1,0.156631375601
