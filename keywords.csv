@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Max Holloway',de,unknown,#111111,#111111,2,0.482187230286
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.467634630342
@@ -246,6 +245,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.411260914085
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,2,0.411153140000
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410919867639
+'Max Holloway',de,unknown,#111111,#111111,2,0.410609220743
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.409933106068
 'Renee Good',de,unknown,#111111,#111111,1,0.409901198270
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
