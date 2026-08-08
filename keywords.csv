@@ -911,7 +911,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Petro Poroshenko',de,unknown,#111111,#111111,1,0.261742760315
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.261372791549
 'Christian Kroll',de,Deutschland,#11dd44,#11dd44,1,0.261284177301
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.261003125000
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.261003125000
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.261003125000
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
@@ -1000,6 +999,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',de,Schweiz,#88cc44,#88cc44,1,0.222323499564
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.221852656250
 'Pierre-Yves Dermagne',de,Belgien,#bb33ff,#bb33ff,1,0.221852656250
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.221852656250
