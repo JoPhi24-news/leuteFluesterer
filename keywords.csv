@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
-'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.467634630342
 'Christian Bale',de,unknown,#111111,#111111,1,0.466317680602
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.466072403079
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.465853515125
@@ -284,6 +283,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.399108445637
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
+'Dua Lipa',de,UK,#e838e8,#e838e8,1,0.397489765791
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
 'Ali Larijani',de,unknown,#111111,#111111,1,0.397359988808
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.396653224329
