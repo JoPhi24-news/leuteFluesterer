@@ -39,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.456282005585
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455890081124
+'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.455877170827
 'Scooter Braun',de,unknown,#111111,#111111,2,0.455842208537
 'Stephen Miller',de,unknown,#111111,#111111,2,0.455563586145
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
@@ -178,12 +179,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.427478252158
 'Belal Muhammad',de,unknown,#111111,#111111,1,0.427423756320
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.427238255599
 'Catherine Pégard',de,unknown,#111111,#111111,1,0.427233210409
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Brendan Carr',de,unknown,#111111,#111111,1,0.426672023127
 'Chris Van Hollen',de,unknown,#111111,#111111,1,0.426546067202
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.426456615440
 'Adam Mockler',de,unknown,#111111,#111111,1,0.426320157079
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.426141048171
@@ -430,7 +431,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sophie Turner',de,UK,#e838e8,#e838e8,1,0.360437274561
 'Keith Kellogg',de,USA,#18e8e8,#18e8e8,3,0.360077520603
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
-'Merrick Garland',de,USA,#18e8e8,#18e8e8,1,0.359679006855
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.359593040267
 'Charles III',de,UK,#e838e8,#e838e8,3,0.359328181690
 'Maja Göpel',de,Deutschland,#11dd44,#11dd44,1,0.358644819504
@@ -719,6 +719,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',de,unknown,#111111,#111111,1,0.309024442296
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.308941824238
 'Kevin Hart',de,USA,#18e8e8,#18e8e8,3,0.308899368814
+'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.308689811919
 'Roman Pacino',de,unknown,#111111,#111111,1,0.308644020139
 'Premier ministre',de,unknown,#111111,#111111,1,0.308546290121
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.308520631764
@@ -731,7 +732,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Hasselhorn',de,unknown,#111111,#111111,1,0.308087707205
 'Sergio Massa',de,unknown,#111111,#111111,1,0.308056569607
 'Drake Maye',de,unknown,#111111,#111111,1,0.307899273929
-'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.307692372697
 'Leonardo da Vinci',de,Italien,#7722cc,#7722cc,2,0.307523361241
 'Salvador Dali',de,Spanien,#1144aa,#1144aa,1,0.307512545000
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.307477450123
