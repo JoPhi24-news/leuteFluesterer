@@ -1020,7 +1020,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.213101432961
 'Fidel Castro',de,Kuba,#cc4488,#cc4488,2,0.212798441710
 'Katalin Novák',de,Ungarn,#33aa99,#33aa99,1,0.212432244683
-'Thomas Haldenwang',de,Deutschland,#11dd44,#11dd44,2,0.212210223330
 'Peter Urban',de,Deutschland,#11dd44,#11dd44,2,0.212170543004
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,2,0.211854690614
 'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.211621018046
@@ -1075,6 +1074,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carola Rackete',de,Deutschland,#11dd44,#11dd44,2,0.181811642726
 'Andreas Baum',de,Deutschland,#11dd44,#11dd44,1,0.181350646481
 'Vitali Klitschko',de,Ukraine,#e818e8,#e818e8,3,0.180651019941
+'Thomas Haldenwang',de,Deutschland,#11dd44,#11dd44,1,0.180378779831
 'Boris Palmer',de,Deutschland,#11dd44,#11dd44,1,0.178768951656
 'Susanne Klatten',de,Deutschland,#11dd44,#11dd44,2,0.178039532123
 'Ed McVey',de,UK,#e838e8,#e838e8,1,0.177739427590
