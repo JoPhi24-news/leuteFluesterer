@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Maite Kelly',de,unknown,#111111,#111111,1,0.513073625431
 'Carlos Ulberg',de,unknown,#111111,#111111,2,0.509703670711
 'Monique Barbut',de,unknown,#111111,#111111,2,0.509205832847
 'Abu Dhabi',de,unknown,#111111,#111111,2,0.508122154566
+'Maite Kelly',de,unknown,#111111,#111111,2,0.507594729798
 'Valter Walker',de,unknown,#111111,#111111,2,0.506931512807
 'Usman Nurmagomedov',de,unknown,#111111,#111111,2,0.505941068295
 'Charles Oliveira',de,unknown,#111111,#111111,2,0.503583717424
@@ -582,6 +582,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rainer Maria Woelki',de,Deutschland,#11dd44,#11dd44,2,0.330713246305
 'Elizabeth Warren',de,USA,#18e8e8,#18e8e8,1,0.330449612945
 'Albert Einstein',de,Deutschland,#11dd44,#11dd44,3,0.330391176214
+'Jan Böhmermann',de,Deutschland,#11dd44,#11dd44,3,0.330368190416
 'Ben Affleck',de,USA,#18e8e8,#18e8e8,1,0.330274422867
 'Anne Will',de,Deutschland,#11dd44,#11dd44,3,0.330123315476
 'Aaron Rodgers',de,USA,#18e8e8,#18e8e8,1,0.329932646100
@@ -623,7 +624,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Scott',de,USA,#18e8e8,#18e8e8,2,0.325087414098
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.325045013207
 'Nawaz Sharif',de,Pakistan,#bb3355,#bb3355,1,0.324616478638
-'Jan Böhmermann',de,Deutschland,#11dd44,#11dd44,3,0.324578116942
 'Ryan Gosling',de,Kanada,#ffaabb,#ffaabb,1,0.324490434527
 'Mike Johnson',de,USA,#18e8e8,#18e8e8,2,0.324309562131
 'Bettina Jarasch',de,Deutschland,#11dd44,#11dd44,2,0.324138388908
@@ -757,12 +757,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Biden',de,unknown,#111111,#111111,1,0.306666048656
 'Hugh Grant',de,unknown,#111111,#111111,1,0.306582026544
 'Kevin Kühnert',de,Deutschland,#11dd44,#11dd44,3,0.306267580113
+'Barbara Schöneberger',de,Deutschland,#11dd44,#11dd44,3,0.305950455521
 'Fani Willis',de,unknown,#111111,#111111,1,0.305755674110
 'Ottmar Edenhofer',de,Deutschland,#11dd44,#11dd44,1,0.305593889903
 'Chris Christie',de,USA,#18e8e8,#18e8e8,1,0.305456307916
 'Vivek Ramaswamy',de,USA,#18e8e8,#18e8e8,1,0.305155633285
 'Steve Scalise',de,unknown,#111111,#111111,1,0.305136974894
-'Barbara Schöneberger',de,Deutschland,#11dd44,#11dd44,3,0.304948512266
 'Roger Corman',de,unknown,#111111,#111111,1,0.304414701172
 'Joey Fatone',de,unknown,#111111,#111111,1,0.304274074594
 'Chris Stapleton',de,unknown,#111111,#111111,1,0.304191702978
