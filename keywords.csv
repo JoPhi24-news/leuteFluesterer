@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Abu Dhabi',de,unknown,#111111,#111111,2,0.508122154566
 'Maite Kelly',de,unknown,#111111,#111111,2,0.507594729798
 'Valter Walker',de,unknown,#111111,#111111,2,0.506931512807
 'Usman Nurmagomedov',de,unknown,#111111,#111111,2,0.505941068295
@@ -67,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
 'Andy Burnham',de,unknown,#111111,#111111,3,0.451470440316
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
+'Abu Dhabi',de,unknown,#111111,#111111,2,0.450491710017
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
 'Ilia Topuria',de,unknown,#111111,#111111,2,0.448217594281
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
