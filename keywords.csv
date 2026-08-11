@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Carlos Ulberg',de,unknown,#111111,#111111,2,0.509703670711
 'Monique Barbut',de,unknown,#111111,#111111,2,0.509205832847
 'Abu Dhabi',de,unknown,#111111,#111111,2,0.508122154566
 'Maite Kelly',de,unknown,#111111,#111111,2,0.507594729798
@@ -129,6 +128,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Will Ferrell',de,unknown,#111111,#111111,1,0.433827866621
 'Michele Singer',de,unknown,#111111,#111111,1,0.433667429657
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
+'Carlos Ulberg',de,unknown,#111111,#111111,1,0.433248120104
 'Ben Shapiro',de,unknown,#111111,#111111,1,0.433102086861
 'James Carville',de,unknown,#111111,#111111,1,0.433034239553
 'Chappell Roan',de,unknown,#111111,#111111,2,0.433022738081
