@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helene Fischer',de,unknown,#111111,#111111,3,0.488408578998
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.472614651337
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
 'Christian Bale',de,unknown,#111111,#111111,1,0.466317680602
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.466072403079
@@ -65,13 +65,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilia Topuria',de,unknown,#111111,#111111,2,0.448217594281
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
+'Thomas Müller',de,unknown,#111111,#111111,3,0.447110817676
 'Bari Weiss',de,unknown,#111111,#111111,2,0.446988930110
 'Kash Patel',de,unknown,#111111,#111111,3,0.446916276017
-'Thomas Müller',de,unknown,#111111,#111111,3,0.446368173508
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
 'Nick Reiner',de,unknown,#111111,#111111,2,0.445379509982
 'Markwayne Mullin',de,unknown,#111111,#111111,2,0.445133552072
 'Savannah Guthrie',de,unknown,#111111,#111111,1,0.444880383930
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.444877411435
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.444859345688
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,2,0.444822478533
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
@@ -96,7 +97,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgio Goacomelli',de,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
 'Liveblog Ukrainekrieg',de,unknown,#111111,#111111,2,0.440476483914
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.440372975249
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.439068414002
 'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.438997853024
 'Cilia Flores',de,unknown,#111111,#111111,3,0.438603057210
@@ -372,8 +372,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Lang',de,unknown,#111111,#111111,2,0.371004070619
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.370001019264
+'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.369897266159
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,1,0.369538163397
-'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.369006809104
 'James Talarico',de,unknown,#111111,#111111,1,0.368675580204
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
 'Paul Konerko',de,USA,#18e8e8,#18e8e8,1,0.368176078984
@@ -442,6 +442,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.359593040267
 'Charles III',de,UK,#e838e8,#e838e8,3,0.359328181690
+'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.359161066507
 'Maja Göpel',de,Deutschland,#11dd44,#11dd44,1,0.358644819504
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.358184336533
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.358182989731
@@ -461,7 +462,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.355580426451
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.355165489478
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.354892611009
-'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.354594527910
 'Sohn Nick',de,unknown,#111111,#111111,2,0.354317754221
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.353510533558
