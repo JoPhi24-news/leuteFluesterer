@@ -939,7 +939,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.254589514446
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,1,0.252222829181
 'King Charles',de,UK,#e838e8,#e838e8,2,0.251571587054
-'Pat McAfee',de,USA,#18e8e8,#18e8e8,1,0.250956297151
 'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.249662953188
 'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.249471227397
 'Selenski',de,Ukraine,#e818e8,#e818e8,1,0.248822842717
@@ -1026,6 +1025,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim bin Hamad Al Thani',de,Katar,#33aadd,#33aadd,1,0.214613327752
 'Lothar Wieler',de,Deutschland,#11dd44,#11dd44,1,0.214475643039
 'Schellnhuber',de,Deutschland,#11dd44,#11dd44,2,0.214368131729
+'Pat McAfee',de,USA,#18e8e8,#18e8e8,1,0.213612882578
 'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.213101432961
 'Fidel Castro',de,Kuba,#cc4488,#cc4488,2,0.212798441710
 'Katalin Novák',de,Ungarn,#33aa99,#33aa99,1,0.212432244683
