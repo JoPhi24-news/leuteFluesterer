@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Elisha Ellison',de,unknown,#111111,#111111,2,0.501312965157
 'Helene Fischer',de,unknown,#111111,#111111,3,0.488408578998
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.469979414243
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
@@ -197,6 +196,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adam Mockler',de,unknown,#111111,#111111,1,0.426320157079
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.426141048171
+'Elisha Ellison',de,unknown,#111111,#111111,1,0.426116020383
 'Javier Mendez',de,unknown,#111111,#111111,1,0.426049535844
 'Katie Couric',de,unknown,#111111,#111111,1,0.426013384288
 'Abby Phillip',de,unknown,#111111,#111111,1,0.426007899239
