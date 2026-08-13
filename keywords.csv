@@ -979,7 +979,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Nobel',de,Schweden,#77dd11,#77dd11,2,0.232338286288
 'Saskia Esken',de,Deutschland,#11dd44,#11dd44,3,0.231988335502
 'Karl Nehammer',de,Österreich,#6622bb,#6622bb,3,0.231631221730
-'Chelsea Manning',de,USA,#18e8e8,#18e8e8,2,0.231330931094
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.230202450598
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
 'Björn Höcke',de,Deutschland,#11dd44,#11dd44,2,0.229773416596
@@ -1056,6 +1055,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.200431359371
 'Faisal Kawusi',de,Deutschland,#11dd44,#11dd44,1,0.199949052960
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.198812136611
+'Chelsea Manning',de,USA,#18e8e8,#18e8e8,1,0.196631291430
 'Zach Bryan',de,unknown,#111111,#111111,1,0.195639517322
 'Aleksandar Vucic',de,Serbien,#4488cc,#4488cc,3,0.195421796378
 'Christian Drosten',de,Deutschland,#11dd44,#11dd44,2,0.194786454223
