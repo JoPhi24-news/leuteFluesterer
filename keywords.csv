@@ -1140,7 +1140,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ali Chamenei',de,Iran,#11bb99,#11bb99,2,0.127525113095
 'Gérard Biard',de,Frankreich,#e8e808,#e8e808,1,0.127389320456
 'Katalin Novak',de,Ungarn,#33aa99,#33aa99,2,0.126380109410
-'Subrahmanyam Jaishankar',de,Indien,#dd3344,#dd3344,1,0.124582407941
 'Tamim bin Hamad Al-Thani',de,Katar,#33aadd,#33aadd,1,0.123566027127
 'Daniel Zhang',de,China,#e88818,#e88818,1,0.120954962142
 'Karl Jenkins',de,UK,#e838e8,#e838e8,1,0.119771472957
@@ -1155,3 +1154,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.111888838708
 'Miguel Díaz-Canel',de,Kuba,#cc4488,#cc4488,1,0.110844988124
 'Ayatollah Ali Chamenei',de,Iran,#11bb99,#11bb99,2,0.110833192808
+'Subrahmanyam Jaishankar',de,Indien,#dd3344,#dd3344,1,0.105895046750
