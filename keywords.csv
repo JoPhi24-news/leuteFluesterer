@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.528280458835
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.472614651337
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.468105339981
 'Christian Bale',de,unknown,#111111,#111111,1,0.466317680602
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Burnham',de,unknown,#111111,#111111,3,0.451470440316
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
 'Abu Dhabi',de,unknown,#111111,#111111,2,0.450491710017
+'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,1,0.449038405010
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
 'Ilia Topuria',de,unknown,#111111,#111111,2,0.448217594281
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
