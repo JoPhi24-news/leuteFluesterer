@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.498296139438
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.503353773522
 'Christian Bale',de,unknown,#111111,#111111,1,0.466317680602
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.466072403079
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.465853515125
@@ -10,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Susan Collins',de,unknown,#111111,#111111,2,0.464531361365
 'Bill Cassidy',de,unknown,#111111,#111111,2,0.464038283647
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.463082987548
+'Andy Burnham',de,unknown,#111111,#111111,3,0.463019366902
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.463010353079
 'HBO Max',de,unknown,#111111,#111111,2,0.462861333620
 'Jamieson Greer',de,unknown,#111111,#111111,2,0.462807299018
@@ -40,14 +41,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455890081124
 'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.455877170827
 'Scooter Braun',de,unknown,#111111,#111111,2,0.455842208537
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.455815012733
 'Stephen Miller',de,unknown,#111111,#111111,2,0.455563586145
 'Larry David',de,unknown,#111111,#111111,2,0.455404650685
 'Spencer Pratt',de,unknown,#111111,#111111,2,0.454874730109
+'Keir Starmer',de,unknown,#111111,#111111,3,0.454862475875
 'Maud Bregeon',de,unknown,#111111,#111111,2,0.454798520145
 'Hunter Schafer',de,unknown,#111111,#111111,2,0.454728848435
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
-'Andy Burnham',de,unknown,#111111,#111111,3,0.454392081996
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.454362726160
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Viktor Orban',de,unknown,#111111,#111111,3,0.453108848268
 'Marine Tondelier',de,unknown,#111111,#111111,2,0.453062438064
@@ -55,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Bardem',de,unknown,#111111,#111111,2,0.452578371982
 'David Letterman',de,unknown,#111111,#111111,2,0.452467696294
 'Daniel Craig',de,unknown,#111111,#111111,2,0.452191556446
-'Keir Starmer',de,unknown,#111111,#111111,3,0.451944571447
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.451542678173
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
@@ -170,6 +170,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Oliveira',de,unknown,#111111,#111111,2,0.429096264810
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
 'Jay Clayton',de,unknown,#111111,#111111,1,0.428816666992
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.428796974620
 'Arman Tsarukyan',de,unknown,#111111,#111111,1,0.428776307831
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Alexander Yui',de,unknown,#111111,#111111,2,0.428633017562
@@ -181,7 +182,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christina Ricci',de,unknown,#111111,#111111,1,0.428220721672
 'Kaitlan Collins',de,unknown,#111111,#111111,1,0.428167989466
 'Magomed Ankalaev',de,unknown,#111111,#111111,1,0.428124490319
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.428018374626
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Bogdan Guskov',de,unknown,#111111,#111111,2,0.427496593168
@@ -353,9 +353,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.378000495237
 'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.377805420683
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
+'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.376962234195
 'Francis Ngannou',de,unknown,#111111,#111111,1,0.376709486990
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.376129972275
-'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.376084808790
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,1,0.375531434263
 'Kylie Kelce',de,unknown,#111111,#111111,2,0.375362486525
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.375266782484
