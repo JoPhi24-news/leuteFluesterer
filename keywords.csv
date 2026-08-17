@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andy Burnham',de,unknown,#111111,#111111,3,0.483707836739
 'Christian Bale',de,unknown,#111111,#111111,1,0.466317680602
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.466072403079
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.465853515125
@@ -13,12 +12,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.463010353079
 'HBO Max',de,unknown,#111111,#111111,2,0.462861333620
 'Jamieson Greer',de,unknown,#111111,#111111,2,0.462807299018
+'Keir Starmer',de,unknown,#111111,#111111,3,0.462768490101
 'Jacob Elordi',de,unknown,#111111,#111111,3,0.462212918272
 'Scott Pelley',de,unknown,#111111,#111111,1,0.462075075924
 'John Lennon',de,unknown,#111111,#111111,2,0.461857448714
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.461630985309
+'Andy Burnham',de,unknown,#111111,#111111,3,0.461560826683
 'James Bond',de,unknown,#111111,#111111,3,0.461434173368
-'Keir Starmer',de,unknown,#111111,#111111,3,0.461343836398
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
@@ -387,6 +387,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mukesh Ambani',de,Indien,#dd3344,#dd3344,1,0.366804351496
 'Dan Hooker',de,unknown,#111111,#111111,1,0.366677150171
 'Jim Himes',de,unknown,#111111,#111111,1,0.366583384225
+'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.366522213047
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
 'Olivia Nuzzi',de,USA,#18e8e8,#18e8e8,1,0.366448972126
 'Joey Kelly',de,unknown,#111111,#111111,1,0.366439336918
@@ -399,7 +400,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anant Ambani',de,Indien,#dd3344,#dd3344,1,0.365815634693
 'Gwede Mantashe',de,Südafrika,#1144ee,#1144ee,1,0.365704405000
 'Alois Rainer',de,Deutschland,#11dd44,#11dd44,3,0.365702201496
-'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.365625574420
 'Lecornu II ',de,Frankreich,#e8e808,#e8e808,1,0.365483343523
 'laffaire Epstein',de,unknown,#111111,#111111,1,0.365355925595
 'Scott Jennings',de,unknown,#111111,#111111,1,0.365240683024
@@ -1027,10 +1027,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pat McAfee',de,USA,#18e8e8,#18e8e8,1,0.213612882578
 'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.213101432961
 'Fidel Castro',de,Kuba,#cc4488,#cc4488,2,0.212798441710
+'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.212757969920
 'Katalin Novák',de,Ungarn,#33aa99,#33aa99,1,0.212432244683
 'Peter Urban',de,Deutschland,#11dd44,#11dd44,2,0.212170543004
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,2,0.211854690614
-'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.211621018046
 'Alice Schwarzer',de,Deutschland,#11dd44,#11dd44,2,0.210745075219
 'Annalena Baerbock',de,Deutschland,#11dd44,#11dd44,3,0.210491810356
 'Julian Reichelt',de,Deutschland,#11dd44,#11dd44,2,0.210070563924
@@ -1058,8 +1058,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Manning',de,USA,#18e8e8,#18e8e8,1,0.196631291430
 'Zach Bryan',de,unknown,#111111,#111111,1,0.195639517322
 'Aleksandar Vucic',de,Serbien,#4488cc,#4488cc,3,0.195421796378
+'Liz Truss',de,UK,#e838e8,#e838e8,2,0.195183717855
 'Christian Drosten',de,Deutschland,#11dd44,#11dd44,2,0.194786454223
-'Liz Truss',de,UK,#e838e8,#e838e8,2,0.194025794077
 'Stefan Rahmstorf',de,Deutschland,#11dd44,#11dd44,2,0.193634442976
 'Franziska Giffey',de,Deutschland,#11dd44,#11dd44,3,0.192783936160
 'Louis Klamroth',de,Deutschland,#11dd44,#11dd44,2,0.192338651398
