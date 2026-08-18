@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ali Abdelaziz',de,unknown,#111111,#111111,2,0.505921855567
 'Khabib Nurmagomedov',de,unknown,#111111,#111111,2,0.505793712576
 'Mauricio Ruffy',de,unknown,#111111,#111111,2,0.503771089230
 'Andrea Berg',de,unknown,#111111,#111111,1,0.502087180039
@@ -163,6 +162,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Denise Kielholtz',de,unknown,#111111,#111111,1,0.430402238473
 'Angus Cloud',de,unknown,#111111,#111111,1,0.430393750489
 'Helene Fischer',de,unknown,#111111,#111111,3,0.430224275303
+'Ali Abdelaziz',de,unknown,#111111,#111111,2,0.430183592232
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.430163071475
 'Usman Nurmagomedov',de,unknown,#111111,#111111,1,0.430049908051
 'Alex Pereira',de,unknown,#111111,#111111,1,0.430016398998
