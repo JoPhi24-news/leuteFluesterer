@@ -440,7 +440,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.361250000000
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.361250000000
 'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.361250000000
-'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.361250000000
 'Robert Francis Prevost',de,USA,#18e8e8,#18e8e8,2,0.361070188314
 'Richard David Precht',de,Deutschland,#11dd44,#11dd44,2,0.361055188103
 'Sophie Turner',de,UK,#e838e8,#e838e8,1,0.360437274561
@@ -761,6 +760,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kiliçdaroglu',de,Türkei,#4411ee,#4411ee,1,0.307062500000
 'Gilbert Plass',de,Kanada,#ffaabb,#ffaabb,1,0.307062500000
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
+'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.307062500000
 'James Biden',de,unknown,#111111,#111111,1,0.306666048656
 'Hugh Grant',de,unknown,#111111,#111111,1,0.306582026544
 'Kevin Kühnert',de,Deutschland,#11dd44,#11dd44,3,0.306267580113
