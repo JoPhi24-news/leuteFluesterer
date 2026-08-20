@@ -1098,6 +1098,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodymyr Selenski',de,Ukraine,#e818e8,#e818e8,1,0.176280755108
 'Bernard Arnault',de,Frankreich,#e8e808,#e8e808,1,0.176277633014
 'Larry Page',de,USA,#18e8e8,#18e8e8,2,0.175047786083
+'Sergey Brin',de,USA,#18e8e8,#18e8e8,1,0.173352353751
 'Jair Lapid',de,Israel,#8822dd,#8822dd,2,0.171775392327
 'Justin Trudeau',de,Kanada,#ffaabb,#ffaabb,2,0.169677532419
 'Shahzada Dawood',de,Pakistan,#bb3355,#bb3355,1,0.169138056020
@@ -1131,7 +1132,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoon Suk-yeol',de,SüdKorea,#22bb66,#22bb66,3,0.145481018944
 'Kardinal Woelki',de,Deutschland,#11dd44,#11dd44,2,0.145274899609
 'Mary Lou McDonald',de,Irland,#33bbff,#33bbff,2,0.144444660028
-'Sergey Brin',de,USA,#18e8e8,#18e8e8,1,0.144061486766
 'Edmund Stoiber',de,Deutschland,#11dd44,#11dd44,1,0.140284921369
 'Nicola Beer',de,EU,#bbff33,#bbff33,1,0.139528069782
 'Alexei Nawalny',de,Russland,#e81818,#e81818,1,0.137418783808
