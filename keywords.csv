@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.468661456977
 'Christian Bale',de,unknown,#111111,#111111,1,0.466317680602
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.466072403079
 'Péter Magyar',de,unknown,#111111,#111111,3,0.465808526483
@@ -295,6 +294,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
 'Jonathan Ross',de,unknown,#111111,#111111,1,0.399665777012
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.399108445637
+'Brooklyn Beckham',de,UK,#e838e8,#e838e8,1,0.398362388430
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
 'Dua Lipa',de,UK,#e838e8,#e838e8,1,0.397489765791
