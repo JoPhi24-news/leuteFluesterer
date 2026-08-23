@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Christian Bale',de,unknown,#111111,#111111,1,0.466317680602
 'Péter Magyar',de,unknown,#111111,#111111,3,0.465808526483
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.465436754867
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.465344656482
@@ -189,6 +188,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.427478252158
 'Belal Muhammad',de,unknown,#111111,#111111,1,0.427423756320
 'Catherine Pégard',de,unknown,#111111,#111111,1,0.427233210409
+'Christian Bale',de,unknown,#111111,#111111,1,0.427120103512
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Brendan Carr',de,unknown,#111111,#111111,1,0.426672023127
@@ -536,6 +536,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,3,0.340043070504
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.339797173961
+'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.339653404758
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
 'Claudia Kemfert',de,Deutschland,#11dd44,#11dd44,1,0.338715139829
 'Patrick Mahomes',de,USA,#18e8e8,#18e8e8,2,0.338648158701
@@ -547,7 +548,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
 'Haitham A-Ghais',de,Kuwait,#3fd97a,#3fd97a,1,0.337768750000
 'Claudia Kempfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
-'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.337762255940
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
 'Bastian Schweinsteiger',de,Deutschland,#11dd44,#11dd44,2,0.337431157474
 'Rudolf Steiner',de,Österreich,#6622bb,#6622bb,1,0.337337795599
