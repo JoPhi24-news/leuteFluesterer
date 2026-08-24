@@ -1,4 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Vanessa Mai',de,unknown,#111111,#111111,2,0.608189737380
+'Henry Cejudo',de,unknown,#111111,#111111,2,0.509210988148
+'Michael Morales',de,unknown,#111111,#111111,2,0.507619233034
+'Dakota Ditcheva',de,unknown,#111111,#111111,2,0.504874429516
+'Carlos Prates',de,unknown,#111111,#111111,2,0.501190038164
+'François Hollande',de,unknown,#111111,#111111,2,0.500442838292
 'Péter Magyar',de,unknown,#111111,#111111,3,0.465808526483
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.465436754867
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.465344656482
@@ -82,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Daniel Hagari',de,unknown,#111111,#111111,1,0.441478744731
 'Mark Levin',de,unknown,#111111,#111111,1,0.440814002526
+'Alex Pereira',de,unknown,#111111,#111111,2,0.440813969148
 'Penny Green',de,unknown,#111111,#111111,1,0.440725030000
 'Thilo Jung',de,unknown,#111111,#111111,1,0.440725012750
 'William Schabas ',de,unknown,#111111,#111111,1,0.440725000000
@@ -157,7 +164,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ali Abdelaziz',de,unknown,#111111,#111111,2,0.430183592232
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.430163071475
 'Usman Nurmagomedov',de,unknown,#111111,#111111,1,0.430049908051
-'Alex Pereira',de,unknown,#111111,#111111,1,0.430016398998
 'Gable Steveson',de,unknown,#111111,#111111,1,0.429977390156
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.429941530419
 'Khabib Nurmagomedov',de,unknown,#111111,#111111,1,0.429924670690
@@ -947,11 +953,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles',de,UK,#e838e8,#e838e8,2,0.251571587054
 'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.249662953188
 'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.249471227397
+'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.249464989646
 'Selenski',de,Ukraine,#e818e8,#e818e8,1,0.248822842717
 'Harrison Ford',de,unknown,#111111,#111111,1,0.248675424859
 'Kurt Krömer',de,Deutschland,#11dd44,#11dd44,2,0.248464234503
 'Aleksandar Vučić',de,Serbien,#4488cc,#4488cc,1,0.247564191884
-'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.247286855141
 'Péter Szijjártó',de,Ungarn,#33aa99,#33aa99,2,0.247233629196
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Mohammed bin Salman',de,SaudiArabien,#2266bb,#2266bb,3,0.245687851726
