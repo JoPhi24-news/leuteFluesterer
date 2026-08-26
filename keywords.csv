@@ -17,13 +17,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Bond',de,unknown,#111111,#111111,3,0.461434173368
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.459160088265
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457941116867
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.457837595353
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.457723920085
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.457721084990
 'Joe Kent',de,unknown,#111111,#111111,3,0.457681562687
 'Todd Blanche',de,unknown,#111111,#111111,3,0.457676240408
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.457425153651
@@ -469,9 +469,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.356240721349
 'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.356216304654
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
+'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.355808674469
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.355165489478
-'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.354892611009
 'Sandra Maischberger',de,Deutschland,#11dd44,#11dd44,3,0.354891403922
 'Sohn Nick',de,unknown,#111111,#111111,2,0.354317754221
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
@@ -572,6 +572,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rupert Murdoch',de,Australien,#99aa33,#99aa33,1,0.333821629004
 'Jeff Ross',de,USA,#18e8e8,#18e8e8,2,0.333705848340
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.333443959179
+'Maria Sacharowa',de,Russland,#e81818,#e81818,2,0.333336125590
 'Yoon Suk Yeol',de,SüdKorea,#22bb66,#22bb66,2,0.333253232075
 'Prince Charles',de,UK,#e838e8,#e838e8,2,0.333174011643
 'Lily Gladstone',de,USA,#18e8e8,#18e8e8,1,0.333121756003
@@ -617,7 +618,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howard Stern',de,USA,#18e8e8,#18e8e8,1,0.327306349165
 'Gérald Darmanin',de,Frankreich,#e8e808,#e8e808,1,0.326918290029
 'Reinhard Marx',de,Deutschland,#11dd44,#11dd44,1,0.326725380392
-'Maria Sacharowa',de,Russland,#e81818,#e81818,2,0.326719844172
 'Lady Di',de,UK,#e838e8,#e838e8,2,0.326670120548
 'Tyson Fury',de,UK,#e838e8,#e838e8,1,0.326389926338
 'Leni Klum',de,USA,#18e8e8,#18e8e8,1,0.326176688483
