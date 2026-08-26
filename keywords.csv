@@ -369,7 +369,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.375266782484
 'Yoav Gallant ',de,unknown,#111111,#111111,2,0.375215589925
 'Isaac Herzog',de,unknown,#111111,#111111,1,0.375066813925
-'Nicolas Maduro',de,unknown,#111111,#111111,2,0.375017959737
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
 'Michael Lynk',de,unknown,#111111,#111111,1,0.374616273587
 'Amos Goldberg',de,unknown,#111111,#111111,1,0.374616273587
@@ -656,6 +655,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Louis',de,UK,#e838e8,#e838e8,2,0.319018665989
 'Radical Optimism',de,unknown,#111111,#111111,1,0.318959620849
 'Rosa Parks',de,unknown,#111111,#111111,1,0.318836466135
+'Nicolas Maduro',de,unknown,#111111,#111111,1,0.318765340776
 'Lea Bonasera',de,Deutschland,#11dd44,#11dd44,1,0.318423812500
 'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.318423812500
 'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.318347476924
