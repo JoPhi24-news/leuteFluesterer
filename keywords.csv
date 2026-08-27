@@ -1071,7 +1071,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zach Bryan',de,unknown,#111111,#111111,1,0.195639517322
 'Aleksandar Vucic',de,Serbien,#4488cc,#4488cc,3,0.195421796378
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.195183717855
-'Christian Drosten',de,Deutschland,#11dd44,#11dd44,2,0.194786454223
 'Stefan Rahmstorf',de,Deutschland,#11dd44,#11dd44,2,0.193634442976
 'Franziska Giffey',de,Deutschland,#11dd44,#11dd44,3,0.192783936160
 'Louis Klamroth',de,Deutschland,#11dd44,#11dd44,2,0.192338651398
@@ -1112,6 +1111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong-un',de,NordKorea,#4811f1,#4811f1,3,0.166994682129
 'Klaus-Michael Kühne',de,Deutschland,#11dd44,#11dd44,2,0.166959320396
 'Katharina König-Press',de,Deutschland,#11dd44,#11dd44,1,0.166387043835
+'Christian Drosten',de,Deutschland,#11dd44,#11dd44,2,0.166168546090
 'Tamim Hamad Thani',de,Katar,#33aadd,#33aadd,1,0.166024191066
 'Immanuel Kant',de,Deutschland,#11dd44,#11dd44,2,0.165889027054
 'Christoph Heusgen',de,Deutschland,#11dd44,#11dd44,2,0.162393528607
