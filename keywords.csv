@@ -19,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.459160088265
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
+'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.458145954786
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457941116867
@@ -26,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.457723920085
 'Joe Kent',de,unknown,#111111,#111111,3,0.457681562687
 'Todd Blanche',de,unknown,#111111,#111111,3,0.457676240408
-'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.457425153651
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.457322086171
 'Ken Paxton',de,unknown,#111111,#111111,2,0.457229472691
 'Liveblog Irankrieg',de,unknown,#111111,#111111,3,0.457030674476
@@ -56,10 +56,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
 'Abu Dhabi',de,unknown,#111111,#111111,2,0.450491710017
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.450065724081
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,1,0.449038405010
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
 'Ilia Topuria',de,unknown,#111111,#111111,2,0.448217594281
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.447850932562
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.447774622977
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
@@ -125,6 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Carville',de,unknown,#111111,#111111,1,0.433034239553
 'Chappell Roan',de,unknown,#111111,#111111,2,0.433022738081
 'Maite Kelly',de,unknown,#111111,#111111,1,0.432998136079
+'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.432938237612
 'Monique Barbut',de,unknown,#111111,#111111,1,0.432825002920
 'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
 'Howie Mandel',de,unknown,#111111,#111111,2,0.432718855719
@@ -196,9 +197,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Brendan Carr',de,unknown,#111111,#111111,1,0.426672023127
 'Chris Van Hollen',de,unknown,#111111,#111111,1,0.426546067202
+'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.426475734846
 'Adam Mockler',de,unknown,#111111,#111111,1,0.426320157079
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
-'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.426141048171
 'Elisha Ellison',de,unknown,#111111,#111111,1,0.426116020383
 'Javier Mendez',de,unknown,#111111,#111111,1,0.426049535844
 'Katie Couric',de,unknown,#111111,#111111,1,0.426013384288
@@ -215,7 +216,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Deborah Birx',de,unknown,#111111,#111111,1,0.425413941484
 'François Hollande',de,unknown,#111111,#111111,1,0.425376547548
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.424907957330
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.424787329872
 'Harriet Sperling',de,unknown,#111111,#111111,2,0.424713792593
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
@@ -312,11 +312,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
 'Brigitte Bardot',de,unknown,#111111,#111111,1,0.394733219666
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
+'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,2,0.393547988771
 'Jacob Frey',de,unknown,#111111,#111111,2,0.393280626717
 'Howard Lutnick',de,unknown,#111111,#111111,1,0.393205145022
 'Kamaru Usman',de,unknown,#111111,#111111,1,0.393011613486
 'Prinz Andrew',de,UK,#e838e8,#e838e8,2,0.392981424709
-'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,2,0.392701612480
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.391978648973
 'Eric Dane',de,unknown,#111111,#111111,1,0.391967045525
@@ -383,12 +383,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.370001019264
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,1,0.369538163397
+'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.368819877439
 'James Talarico',de,unknown,#111111,#111111,1,0.368675580204
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
 'Paul Konerko',de,USA,#18e8e8,#18e8e8,1,0.368176078984
 'Mark Cuban',de,USA,#18e8e8,#18e8e8,1,0.368032560177
 'Quand Harry',de,unknown,#111111,#111111,1,0.368021068580
-'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.367927443952
 'Shavkat Rakhmonov',de,unknown,#111111,#111111,1,0.367893931824
 'Craig Melvin',de,unknown,#111111,#111111,1,0.367796338588
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.367751180101
@@ -1010,13 +1010,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Jouzel',de,unknown,#111111,#111111,1,0.225379775988
 'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.224810135912
 'Oisin Fanning',de,Irland,#33bbff,#33bbff,1,0.224052172219
+'Alice Weidel',de,Deutschland,#11dd44,#11dd44,2,0.223418324106
 'Wolfgang Schäuble',de,Deutschland,#11dd44,#11dd44,2,0.223148145736
 'Jean-Denis Combrexelle',de,unknown,#111111,#111111,1,0.222772504283
 'Dieter Salomon',de,Deutschland,#11dd44,#11dd44,1,0.222764701048
 'Joana Cotar',de,Deutschland,#11dd44,#11dd44,2,0.222687770054
 'Sahra Wagenknecht',de,Deutschland,#11dd44,#11dd44,3,0.222424327517
 'Jean-Jacques Rousseau',de,Schweiz,#88cc44,#88cc44,1,0.222323499564
-'Alice Weidel',de,Deutschland,#11dd44,#11dd44,2,0.222294842189
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.221852656250
