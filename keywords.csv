@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vanessa Mai',de,unknown,#111111,#111111,2,0.466081427303
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.465436754867
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.465344656482
 'Susan Collins',de,unknown,#111111,#111111,2,0.464531361365
@@ -95,8 +94,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Giorgio Goacomelli',de,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
 'Liveblog Ukrainekrieg',de,unknown,#111111,#111111,2,0.440476483914
+'Andrea Berg',de,unknown,#111111,#111111,1,0.439551476146
 'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.438997853024
-'Andrea Berg',de,unknown,#111111,#111111,1,0.438793941125
 'Cilia Flores',de,unknown,#111111,#111111,3,0.438603057210
 'Casey Wasserman',de,unknown,#111111,#111111,1,0.438040141383
 'Alan Jackson',de,unknown,#111111,#111111,2,0.437921489400
@@ -262,6 +261,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Renee Good',de,unknown,#111111,#111111,1,0.409901198270
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
 'Tom Homan',de,unknown,#111111,#111111,2,0.409696094238
+'Vanessa Mai',de,unknown,#111111,#111111,2,0.409658364746
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,1,0.409632224203
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.409329477230
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,1,0.409196863586
