@@ -962,6 +962,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Mohammed bin Salman',de,SaudiArabien,#2266bb,#2266bb,3,0.245687851726
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
+'Miguel Díaz-Canel',de,Kuba,#cc4488,#cc4488,2,0.244368254905
 'Kyle Pope',de,unknown,#111111,#111111,1,0.244273820463
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
@@ -1036,9 +1037,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim bin Hamad Al Thani',de,Katar,#33aadd,#33aadd,1,0.214613327752
 'Lothar Wieler',de,Deutschland,#11dd44,#11dd44,1,0.214475643039
 'Schellnhuber',de,Deutschland,#11dd44,#11dd44,2,0.214368131729
+'Fidel Castro',de,Kuba,#cc4488,#cc4488,2,0.213933935004
 'Pat McAfee',de,USA,#18e8e8,#18e8e8,1,0.213612882578
 'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.213101432961
-'Fidel Castro',de,Kuba,#cc4488,#cc4488,2,0.212798441710
 'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.212757969920
 'Katalin Novák',de,Ungarn,#33aa99,#33aa99,1,0.212432244683
 'Peter Urban',de,Deutschland,#11dd44,#11dd44,2,0.212170543004
@@ -1165,4 +1166,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.115808473142
 'Robin Li',de,China,#e88818,#e88818,2,0.114759712483
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.111888838708
-'Miguel Díaz-Canel',de,Kuba,#cc4488,#cc4488,1,0.110844988124
