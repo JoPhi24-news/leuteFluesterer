@@ -141,7 +141,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Romy Reiner',de,unknown,#111111,#111111,2,0.431403566427
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,3,0.431380393532
 'Fabrice Aidan',de,unknown,#111111,#111111,1,0.431237406328
-'Jack White',de,unknown,#111111,#111111,1,0.431202535446
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.431185776722
 'Mark Consuelos',de,unknown,#111111,#111111,1,0.431158693667
 'Karol G',de,Kolumbien,#3355dd,#3355dd,1,0.431101111006
@@ -192,6 +191,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Brendan Carr',de,unknown,#111111,#111111,1,0.426672023127
 'Chris Van Hollen',de,unknown,#111111,#111111,1,0.426546067202
+'Paul McCartney',de,unknown,#111111,#111111,3,0.426544129731
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.426475734846
 'Adam Mockler',de,unknown,#111111,#111111,1,0.426320157079
 'Prince Philip',de,unknown,#111111,#111111,1,0.426250683920
@@ -202,7 +202,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abby Phillip',de,unknown,#111111,#111111,1,0.426007899239
 'Justin Gaethje',de,unknown,#111111,#111111,1,0.425959272437
 'Archie Colgan',de,unknown,#111111,#111111,1,0.425816367698
-'Paul McCartney',de,unknown,#111111,#111111,3,0.425761136850
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'Mark Twain',de,unknown,#111111,#111111,1,0.425683750538
 'Mark Ruffalo',de,unknown,#111111,#111111,1,0.425629559350
@@ -236,6 +235,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Norbert Rollinger',de,Deutschland,#11dd44,#11dd44,1,0.417948871837
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
+'Jack White',de,unknown,#111111,#111111,1,0.417422245129
 'Chris Nanos',de,unknown,#111111,#111111,1,0.417052294638
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
 'Daniel Siad',de,unknown,#111111,#111111,2,0.416408274682
