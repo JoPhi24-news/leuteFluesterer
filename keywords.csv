@@ -400,7 +400,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.366522213047
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
 'Olivia Nuzzi',de,USA,#18e8e8,#18e8e8,1,0.366448972126
-'Joey Kelly',de,unknown,#111111,#111111,1,0.366439336918
 'Harry Met Sally',de,unknown,#111111,#111111,1,0.366412149833
 'Paddy Pimblett',de,unknown,#111111,#111111,1,0.366123560626
 'JULIEN MUGUET',de,Frankreich,#e8e808,#e8e808,1,0.366005069884
@@ -578,6 +577,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lily Gladstone',de,USA,#18e8e8,#18e8e8,1,0.333121756003
 'Bridget Moynahan',de,USA,#18e8e8,#18e8e8,1,0.332967033182
 'Wolfgang Kubicki',de,Deutschland,#11dd44,#11dd44,2,0.332889885852
+'Joey Kelly',de,unknown,#111111,#111111,2,0.332681518688
 'Maybrit Illner',de,Deutschland,#11dd44,#11dd44,3,0.332631192220
 'George Washington',de,USA,#18e8e8,#18e8e8,2,0.332242276272
 'Eric Trump',de,USA,#18e8e8,#18e8e8,2,0.332165636979
