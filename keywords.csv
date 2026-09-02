@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sean Brady',de,unknown,#111111,#111111,1,0.489214244441
 'Kerstin Ott',de,unknown,#111111,#111111,2,0.476920646921
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.465436754867
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.465344656482
@@ -245,6 +244,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
 'Daniel Siad',de,unknown,#111111,#111111,2,0.416408274682
 'Ed Gallrein',de,unknown,#111111,#111111,2,0.416001075856
+'Sean Brady',de,unknown,#111111,#111111,1,0.415982122775
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.415069405563
 'Kendall Jenner',de,unknown,#111111,#111111,1,0.414947600855
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.414093406950
