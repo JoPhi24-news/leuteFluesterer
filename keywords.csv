@@ -309,7 +309,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans-Werner Sinn',de,Deutschland,#11dd44,#11dd44,1,0.396541427198
 'Islam Makhachev',de,unknown,#111111,#111111,1,0.395795416827
 'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.395734048273
-'Les Wexner',de,unknown,#111111,#111111,1,0.395648555578
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
 'Brigitte Bardot',de,unknown,#111111,#111111,1,0.394733219666
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
@@ -562,6 +561,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bastian Schweinsteiger',de,Deutschland,#11dd44,#11dd44,2,0.337431157474
 'Rudolf Steiner',de,Österreich,#6622bb,#6622bb,1,0.337337795599
 'Sergej Surowikin',de,Russland,#e81818,#e81818,1,0.337261748741
+'Les Wexner',de,unknown,#111111,#111111,1,0.336451287241
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.336377568567
 'Alberto Núñez Feijóo',de,Spanien,#1144aa,#1144aa,2,0.336144572063
 'Derek Chauvin',de,USA,#18e8e8,#18e8e8,1,0.336063797151
