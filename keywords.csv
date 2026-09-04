@@ -1123,7 +1123,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christoph Heusgen',de,Deutschland,#11dd44,#11dd44,2,0.162393528607
 'Antonio Guterres',de,UN,#e888e8,#e888e8,2,0.162032699536
 'Bruno Retailleau',de,Frankreich,#e8e808,#e8e808,1,0.161214384255
-'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.160288544141
 'Detlef Garbe',de,Deutschland,#11dd44,#11dd44,1,0.160288544141
 'Cyril Ramaphosa',de,Südafrika,#1144ee,#1144ee,2,0.159854590076
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.159128394767
@@ -1149,6 +1148,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Beer',de,EU,#bbff33,#bbff33,1,0.139528069782
 'Alexei Nawalny',de,Russland,#e81818,#e81818,1,0.137418783808
 'Sucharit Bhakdi',de,Deutschland,#11dd44,#11dd44,1,0.136883302257
+'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.136245262520
 'Sundar Pichai',de,USA,#18e8e8,#18e8e8,2,0.135153729412
 'Christine Lagarde',de,EU,#bbff33,#bbff33,2,0.133866592252
 'John Kerry',de,USA,#18e8e8,#18e8e8,1,0.131866122561
