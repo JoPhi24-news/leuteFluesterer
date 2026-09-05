@@ -262,7 +262,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Renee Good',de,unknown,#111111,#111111,1,0.409901198270
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
 'Tom Homan',de,unknown,#111111,#111111,2,0.409696094238
-'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,1,0.409632224203
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.409329477230
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,1,0.409196863586
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
@@ -298,6 +297,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
 'Jonathan Ross',de,unknown,#111111,#111111,1,0.399665777012
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.399108445637
+'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,1,0.398637435573
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,1,0.398362388430
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
@@ -358,8 +358,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,1,0.380203765266
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.380051399167
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.379283175466
+'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.378712214581
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.378375026495
-'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.377838035726
 'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.377805420683
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
 'Francis Ngannou',de,unknown,#111111,#111111,1,0.376709486990
