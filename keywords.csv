@@ -181,7 +181,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mauricio Ruffy',de,unknown,#111111,#111111,1,0.428205425846
 'Magomed Ankalaev',de,unknown,#111111,#111111,1,0.428124490319
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
-'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Bogdan Guskov',de,unknown,#111111,#111111,2,0.427496593168
 'Jack Della Maddalena',de,unknown,#111111,#111111,2,0.427478252158
 'Belal Muhammad',de,unknown,#111111,#111111,1,0.427423756320
@@ -432,6 +431,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Felipe VI',de,Spanien,#1144aa,#1144aa,2,0.363691731071
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.363682490258
 'Nick Bilton',de,unknown,#111111,#111111,2,0.363589443487
+'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,1,0.363545229500
 'Peter Attia',de,unknown,#111111,#111111,1,0.362973737713
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.362944774228
 'Kelly Ripa',de,unknown,#111111,#111111,1,0.362895997685
