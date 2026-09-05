@@ -153,6 +153,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Cuomo',de,unknown,#111111,#111111,1,0.430603242396
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.430424353690
 'Angus Cloud',de,unknown,#111111,#111111,1,0.430393750489
+'Raphaël Glucksmann',de,unknown,#111111,#111111,2,0.430194483866
 'Ali Abdelaziz',de,unknown,#111111,#111111,2,0.430183592232
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.430163071475
 'Usman Nurmagomedov',de,unknown,#111111,#111111,1,0.430049908051
@@ -161,7 +162,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Khabib Nurmagomedov',de,unknown,#111111,#111111,1,0.429924670690
 'Ian Garry',de,unknown,#111111,#111111,1,0.429910000477
 'Kevin Spacey',de,unknown,#111111,#111111,1,0.429510738334
-'Raphaël Glucksmann',de,unknown,#111111,#111111,2,0.429418612514
 'Elie Favrot',de,unknown,#111111,#111111,1,0.429362325869
 'Michele Singer Reiner',de,unknown,#111111,#111111,2,0.429285768117
 'Dakota Ditcheva',de,unknown,#111111,#111111,1,0.429143265089
@@ -271,8 +271,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.408015481408
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.407838681122
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.407757894642
+'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.407719536849
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.407637701006
-'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.406900145843
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.406885415367
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.406792004105
 'Kristi Noem',de,unknown,#111111,#111111,2,0.406313097902
@@ -476,6 +476,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.355165489478
 'Sandra Maischberger',de,Deutschland,#11dd44,#11dd44,3,0.354891403922
+'Fabien Roussel',de,unknown,#111111,#111111,2,0.354770296051
 'Sohn Nick',de,unknown,#111111,#111111,2,0.354317754221
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.353510533558
@@ -979,7 +980,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Buschmann',de,Deutschland,#11dd44,#11dd44,3,0.242330180960
 'Billy Crystal',de,unknown,#111111,#111111,1,0.241929659196
 'Mateusz Morawiecki',de,Polen,#8844cc,#8844cc,2,0.241238631256
-'Fabien Roussel',de,unknown,#111111,#111111,1,0.240729742413
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.240451797857
 'Joschka Fischer',de,Deutschland,#11dd44,#11dd44,1,0.240188544788
 'Nicolas Sarkozy',de,unknown,#111111,#111111,1,0.239725332857
