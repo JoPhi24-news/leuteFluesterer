@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Bond',de,unknown,#111111,#111111,3,0.463568497886
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.463082987548
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.463010353079
-'Jacob Elordi',de,unknown,#111111,#111111,3,0.462924228229
 'HBO Max',de,unknown,#111111,#111111,2,0.462861333620
 'Jamieson Greer',de,unknown,#111111,#111111,2,0.462807299018
 'Keir Starmer',de,unknown,#111111,#111111,3,0.462768490101
@@ -310,6 +309,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brigitte Bardot',de,unknown,#111111,#111111,1,0.394733219666
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,2,0.393547988771
+'Jacob Elordi',de,unknown,#111111,#111111,2,0.393486313995
 'Jacob Frey',de,unknown,#111111,#111111,2,0.393280626717
 'Howard Lutnick',de,unknown,#111111,#111111,1,0.393205145022
 'Kamaru Usman',de,unknown,#111111,#111111,1,0.393011613486
