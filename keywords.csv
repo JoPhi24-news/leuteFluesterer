@@ -675,7 +675,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',de,USA,#18e8e8,#18e8e8,1,0.317165437240
 'Robin Roberts',de,unknown,#111111,#111111,1,0.317068266930
 'Leandro De Niro-Rodriguez',de,unknown,#111111,#111111,1,0.317020448280
-'Bronny James',de,unknown,#111111,#111111,1,0.316940756144
 'Katy Perry',de,USA,#18e8e8,#18e8e8,1,0.316930784569
 'Katja Krasavice',de,Deutschland,#11dd44,#11dd44,1,0.316837847842
 'Jill Biden',de,USA,#18e8e8,#18e8e8,2,0.316781614009
@@ -901,6 +900,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Simion',de,unknown,#111111,#111111,1,0.269716884291
 'Tino Chrupalla',de,Deutschland,#11dd44,#11dd44,3,0.269708516525
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,1,0.269594136597
+'Bronny James',de,unknown,#111111,#111111,1,0.269399642722
 'Mark Kerr',de,unknown,#111111,#111111,1,0.267269884550
 'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.267062405785
 'Ulrike Hermann',de,unknown,#111111,#111111,1,0.266857846585
