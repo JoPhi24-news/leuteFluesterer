@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ali Khamenei',de,unknown,#111111,#111111,3,0.465344656482
 'Susan Collins',de,unknown,#111111,#111111,2,0.464531361365
 'Bill Cassidy',de,unknown,#111111,#111111,2,0.464038283647
 'James Bond',de,unknown,#111111,#111111,3,0.463568497886
@@ -49,6 +48,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
 'Javier Bardem',de,unknown,#111111,#111111,2,0.452578371982
 'David Letterman',de,unknown,#111111,#111111,2,0.452467696294
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.452192018432
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.451542678173
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.451534977471
@@ -58,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
 'Ilia Topuria',de,unknown,#111111,#111111,2,0.448217594281
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.448037877115
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.447774622977
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
 'Thomas Müller',de,unknown,#111111,#111111,3,0.447110817676
@@ -112,6 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alex Pretti',de,unknown,#111111,#111111,2,0.434747203396
 'Michelle Reiner',de,unknown,#111111,#111111,1,0.434132993767
 'Helene Fischer',de,unknown,#111111,#111111,3,0.434080688703
+'Ali Khamenei',de,unknown,#111111,#111111,3,0.434058732625
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
 'Will Ferrell',de,unknown,#111111,#111111,1,0.433827866621
 'Michele Singer',de,unknown,#111111,#111111,1,0.433667429657
@@ -321,11 +321,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Walz',de,unknown,#111111,#111111,1,0.391819157263
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.391488671137
 'Mark Kelly',de,unknown,#111111,#111111,1,0.391008204779
+'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.389987988003
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,1,0.389588364168
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
 'John Clarke',de,USA,#18e8e8,#18e8e8,1,0.389401780306
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.389344326612
-'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.389134896233
 'Larry David',de,unknown,#111111,#111111,2,0.387694508082
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.387458644881
 'Spencer Pratt',de,unknown,#111111,#111111,1,0.386643520593
