@@ -39,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.455815012733
 'Stephen Miller',de,unknown,#111111,#111111,2,0.455563586145
 'Joshua Van',de,unknown,#111111,#111111,2,0.455557527829
-'Spencer Pratt',de,unknown,#111111,#111111,2,0.454874730109
 'Maud Bregeon',de,unknown,#111111,#111111,2,0.454798520145
 'Hunter Schafer',de,unknown,#111111,#111111,2,0.454728848435
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
@@ -329,6 +328,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.389134896233
 'Larry David',de,unknown,#111111,#111111,2,0.387694508082
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.387458644881
+'Spencer Pratt',de,unknown,#111111,#111111,1,0.386643520593
 'Quentin Deranque',de,unknown,#111111,#111111,2,0.386408402825
 'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.386274793777
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.385790373521
