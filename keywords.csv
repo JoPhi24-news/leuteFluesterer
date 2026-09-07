@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Scott Pelley',de,unknown,#111111,#111111,1,0.462075075924
 'John Lennon',de,unknown,#111111,#111111,2,0.461857448714
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.461630985309
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.461307916623
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.461014905998
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.459160088265
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.458762668592
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
@@ -43,11 +43,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Viktor Orban',de,unknown,#111111,#111111,3,0.453838189754
 'Marine Tondelier',de,unknown,#111111,#111111,2,0.453062438064
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.452923171845
 'Daniel Craig',de,unknown,#111111,#111111,2,0.452922710771
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
 'Javier Bardem',de,unknown,#111111,#111111,2,0.452578371982
 'David Letterman',de,unknown,#111111,#111111,2,0.452467696294
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.452192018432
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.451542678173
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.451534977471
@@ -795,6 +795,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gerald Darmanin',de,unknown,#111111,#111111,1,0.302155950776
 'Lionel Richie',de,USA,#18e8e8,#18e8e8,1,0.301881526665
 'Jordan Neely',de,USA,#18e8e8,#18e8e8,1,0.301772532477
+'Xi Jinping',de,China,#e88818,#e88818,3,0.301450360160
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,1,0.301436554751
 'Henry Ford',de,USA,#18e8e8,#18e8e8,1,0.301274496426
 'Jimmy Carter',de,USA,#18e8e8,#18e8e8,1,0.301258027301
@@ -813,7 +814,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.298866396965
 'Roger Federer',de,Schweiz,#88cc44,#88cc44,1,0.298705941101
 'James Comer',de,USA,#18e8e8,#18e8e8,1,0.298562291280
-'Xi Jinping',de,China,#e88818,#e88818,3,0.298417603468
 'Jon Hamm',de,USA,#18e8e8,#18e8e8,2,0.298409204029
 'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.298393370410
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,1,0.298375642633
@@ -860,10 +860,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.286323326206
 'Kemal Klçdarolu',de,Türkei,#4411ee,#4411ee,3,0.286278690666
 'Irina Shayk',de,unknown,#111111,#111111,1,0.286204198439
+'Putin',de,Russland,#e81818,#e81818,3,0.285627463216
 'Julia Louis-Dreyfus',de,unknown,#111111,#111111,1,0.285241155776
 'William Shakespeare',de,UK,#e838e8,#e838e8,1,0.283965114119
 'Gabor Steingart',de,Deutschland,#11dd44,#11dd44,2,0.283584024228
-'Putin',de,Russland,#e81818,#e81818,3,0.283556870592
 'Victoria Monét',de,unknown,#111111,#111111,1,0.283494997568
 'Maria Bartiromo',de,unknown,#111111,#111111,1,0.283055669839
 'Michelle Williams',de,unknown,#111111,#111111,1,0.282733422476
@@ -875,6 +875,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katarina Barley',de,EU,#bbff33,#bbff33,2,0.279368283180
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
 'Mojib Latif',de,Deutschland,#11dd44,#11dd44,2,0.278643045389
+'Narendra Modi',de,Indien,#dd3344,#dd3344,3,0.278036366040
 'Robert Kraft',de,unknown,#111111,#111111,2,0.278029904614
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.277827658288
 'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.276884794256
@@ -890,7 +891,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friederike Otto',de,Deutschland,#11dd44,#11dd44,1,0.272631911210
 'Sam Bankman-Fried',de,unknown,#111111,#111111,1,0.272628103726
 'Andreas Jung',de,Deutschland,#11dd44,#11dd44,3,0.272394635672
-'Narendra Modi',de,Indien,#dd3344,#dd3344,3,0.271821542400
 'Johan Rockström',de,unknown,#111111,#111111,1,0.271395259460
 'Frank Plasberg',de,Deutschland,#11dd44,#11dd44,2,0.271311355898
 'Silvio Berlusconi',de,Italien,#7722cc,#7722cc,2,0.270648602368
