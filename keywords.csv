@@ -1,6 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Umar Nurmagomedov',de,unknown,#111111,#111111,2,0.509409606644
+'Movsar Evloev',de,unknown,#111111,#111111,2,0.508399395617
+'Rosie O’Donnell',de,unknown,#111111,#111111,2,0.505255368492
+'Alexandre Pantoja',de,unknown,#111111,#111111,2,0.504875569413
+'Gregory Rodrigues',de,unknown,#111111,#111111,2,0.503452168369
+'Alexander Volkanovski',de,unknown,#111111,#111111,2,0.503203043001
+'Song Yadong',de,unknown,#111111,#111111,2,0.501280382253
+'Petr Yan',de,unknown,#111111,#111111,2,0.500890426362
 'Susan Collins',de,unknown,#111111,#111111,2,0.464531361365
-'Bill Cassidy',de,unknown,#111111,#111111,2,0.464038283647
 'James Bond',de,unknown,#111111,#111111,3,0.463568497886
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.463082987548
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.463010353079
@@ -307,6 +314,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comey',de,USA,#18e8e8,#18e8e8,1,0.395621241637
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
 'Brigitte Bardot',de,unknown,#111111,#111111,1,0.394733219666
+'Bill Cassidy',de,unknown,#111111,#111111,1,0.394432691100
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,2,0.393547988771
 'Jacob Elordi',de,unknown,#111111,#111111,2,0.393486313995
