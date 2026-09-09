@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Petr Yan',de,unknown,#111111,#111111,2,0.500890426362
 'Susan Collins',de,unknown,#111111,#111111,2,0.464531361365
 'James Bond',de,unknown,#111111,#111111,3,0.463568497886
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.463082987548
@@ -205,6 +204,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carlos Prates',de,unknown,#111111,#111111,1,0.426011532439
 'Abby Phillip',de,unknown,#111111,#111111,1,0.426007899239
 'Justin Gaethje',de,unknown,#111111,#111111,1,0.425959272437
+'Petr Yan',de,unknown,#111111,#111111,2,0.425906877408
 'Archie Colgan',de,unknown,#111111,#111111,1,0.425816367698
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'Mark Twain',de,unknown,#111111,#111111,1,0.425683750538
