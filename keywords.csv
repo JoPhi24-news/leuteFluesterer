@@ -563,7 +563,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.337850116309
 'Steven Donziger',de,USA,#18e8e8,#18e8e8,1,0.337768750000
 'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
-'Haitham A-Ghais',de,Kuwait,#3fd97a,#3fd97a,1,0.337768750000
 'Claudia Kempfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
 'Bastian Schweinsteiger',de,Deutschland,#11dd44,#11dd44,2,0.337431157474
@@ -865,6 +864,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,1,0.287551078519
 'Chris Hemsworth',de,unknown,#111111,#111111,1,0.287124473049
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.287103437500
+'Haitham A-Ghais',de,Kuwait,#3fd97a,#3fd97a,1,0.287103437500
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.286323326206
 'Kemal Klçdarolu',de,Türkei,#4411ee,#4411ee,3,0.286278690666
 'Irina Shayk',de,unknown,#111111,#111111,1,0.286204198439
