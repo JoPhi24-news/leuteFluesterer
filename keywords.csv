@@ -517,7 +517,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.346317538416
 'Omar Sy',de,Frankreich,#e8e808,#e8e808,1,0.346119661797
 'Adam Driver',de,unknown,#111111,#111111,2,0.346064292915
-'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.345947005443
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.345582969081
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.345355873396
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.345325933349
@@ -794,6 +793,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Stapleton',de,unknown,#111111,#111111,1,0.304191702978
 'Bradley Cooper',de,unknown,#111111,#111111,2,0.304017063285
 'Barbara Sturm',de,Deutschland,#11dd44,#11dd44,1,0.303767129274
+'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.303559514627
 'Emma Stone',de,USA,#18e8e8,#18e8e8,2,0.303370774487
 'Mary Robinson',de,unknown,#111111,#111111,1,0.303268547741
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,1,0.302883779743
