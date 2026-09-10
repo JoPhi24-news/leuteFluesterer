@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keir Starmer',de,unknown,#111111,#111111,3,0.462768490101
 'Andy Burnham',de,unknown,#111111,#111111,3,0.462273430373
 'Scott Pelley',de,unknown,#111111,#111111,1,0.462075075924
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.462021021995
 'John Lennon',de,unknown,#111111,#111111,2,0.461857448714
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.461630985309
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.461307916623
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.461014905998
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
@@ -266,6 +266,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Renee Good',de,unknown,#111111,#111111,1,0.409901198270
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
 'Tom Homan',de,unknown,#111111,#111111,2,0.409696094238
+'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.409472302084
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.409329477230
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,1,0.409196863586
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
@@ -273,7 +274,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.408401632949
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.408383525883
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.408015481408
-'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.407838681122
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.407757894642
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.407719536849
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.407637701006
@@ -488,9 +488,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sohn Nick',de,unknown,#111111,#111111,2,0.354317754221
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,2,0.353510533558
+'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.353494053332
 'James Cleverly',de,UK,#e838e8,#e838e8,3,0.353336520045
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.353330422752
-'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.352573834149
 'Britney Spears',de,USA,#18e8e8,#18e8e8,2,0.352404207175
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.352170971658
 'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.352015464390
@@ -892,8 +892,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
 'Erich Honecker',de,Deutschland,#11dd44,#11dd44,1,0.275128434182
 'Stanislaw Petrow',de,unknown,#111111,#111111,1,0.275020355610
+'Recep Tayyip Erdoan',de,Türkei,#4411ee,#4411ee,2,0.274622086667
 'Dwayne Johnson',de,unknown,#111111,#111111,1,0.274205341389
-'Recep Tayyip Erdoan',de,Türkei,#4411ee,#4411ee,2,0.273570643225
 'Markus Krebber',de,Deutschland,#11dd44,#11dd44,2,0.273364356198
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,1,0.272755906180
 'Friederike Otto',de,Deutschland,#11dd44,#11dd44,1,0.272631911210
@@ -1005,6 +1005,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Nobel',de,Schweden,#77dd11,#77dd11,2,0.232338286288
 'Saskia Esken',de,Deutschland,#11dd44,#11dd44,3,0.231988335502
 'Karl Nehammer',de,Österreich,#6622bb,#6622bb,3,0.231631221730
+'Recep Tayyip Erdoğan',de,Türkei,#4411ee,#4411ee,2,0.231073906654
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.230202450598
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
 'Björn Höcke',de,Deutschland,#11dd44,#11dd44,2,0.229773416596
@@ -1041,7 +1042,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.220980759766
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.220136488479
 'Eva Kaili',de,EU,#bbff33,#bbff33,3,0.219786134194
-'Recep Tayyip Erdoğan',de,Türkei,#4411ee,#4411ee,2,0.219655258809
 'Michael Cohen',de,USA,#18e8e8,#18e8e8,3,0.218792872905
 'Afida Turner',de,Frankreich,#e8e808,#e8e808,1,0.217315014423
 'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,2,0.217292238389
