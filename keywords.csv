@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Susan Collins',de,unknown,#111111,#111111,2,0.489218608827
 'James Bond',de,unknown,#111111,#111111,3,0.463568497886
 'Todd Blanche',de,unknown,#111111,#111111,3,0.463398852975
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.463082987548
@@ -248,6 +247,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Siad',de,unknown,#111111,#111111,2,0.416408274682
 'Ed Gallrein',de,unknown,#111111,#111111,2,0.416001075856
 'Sean Brady',de,unknown,#111111,#111111,1,0.415982122775
+'Susan Collins',de,unknown,#111111,#111111,1,0.415835967503
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.415069405563
 'Kendall Jenner',de,unknown,#111111,#111111,1,0.414947600855
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.414093406950
