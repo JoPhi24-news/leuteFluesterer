@@ -668,7 +668,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Radical Optimism',de,unknown,#111111,#111111,1,0.318959620849
 'Rosa Parks',de,unknown,#111111,#111111,1,0.318836466135
 'Nicolas Maduro',de,unknown,#111111,#111111,1,0.318765340776
-'Lea Bonasera',de,Deutschland,#11dd44,#11dd44,1,0.318423812500
 'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.318423812500
 'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.318347476924
 'Michelle O\'Neill',de,Irland,#33bbff,#33bbff,1,0.317954973082
@@ -901,6 +900,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Jung',de,Deutschland,#11dd44,#11dd44,3,0.272394635672
 'Johan Rockström',de,unknown,#111111,#111111,1,0.271395259460
 'Frank Plasberg',de,Deutschland,#11dd44,#11dd44,2,0.271311355898
+'Lea Bonasera',de,Deutschland,#11dd44,#11dd44,1,0.270660240625
 'Silvio Berlusconi',de,Italien,#7722cc,#7722cc,2,0.270648602368
 'Brittany Mahomes',de,unknown,#111111,#111111,1,0.270478130738
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.270468949533
