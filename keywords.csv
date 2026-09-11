@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Kaitlan Collins',de,unknown,#111111,#111111,2,0.514904383331
 'James Bond',de,unknown,#111111,#111111,3,0.463568497886
 'Todd Blanche',de,unknown,#111111,#111111,3,0.463398852975
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.463082987548
@@ -14,11 +15,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.461014905998
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.459438816726
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.458762668592
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.458000921134
 'Ken Paxton',de,unknown,#111111,#111111,2,0.457950661351
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457941116867
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.457837595353
@@ -167,7 +168,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dakota Ditcheva',de,unknown,#111111,#111111,1,0.429143265089
 'Charles Oliveira',de,unknown,#111111,#111111,2,0.429096264810
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
-'Kaitlan Collins',de,unknown,#111111,#111111,1,0.428946298036
 'Péter Magyar',de,unknown,#111111,#111111,3,0.428863537511
 'Jay Clayton',de,unknown,#111111,#111111,1,0.428816666992
 'Alexander Yui',de,unknown,#111111,#111111,2,0.428633017562
@@ -261,6 +261,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410919867639
 'Max Holloway',de,unknown,#111111,#111111,2,0.410609220743
 'Vanessa Mai',de,unknown,#111111,#111111,2,0.410472469831
+'Karoline Leavitt',de,unknown,#111111,#111111,2,0.410086937622
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.409933106068
 'Renee Good',de,unknown,#111111,#111111,1,0.409901198270
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
@@ -275,7 +276,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.408015481408
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.407757894642
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.407719536849
-'Karoline Leavitt',de,unknown,#111111,#111111,2,0.407637701006
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.406885415367
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.406792004105
 'Kristi Noem',de,unknown,#111111,#111111,2,0.406313097902
