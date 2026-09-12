@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Leif-Erik Holm',de,Deutschland,#11dd44,#11dd44,3,0.810736290000
 'Ulrich Siegmund',de,Deutschland,#11dd44,#11dd44,3,0.810692487638
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,3,0.810644736290
 'Phillipp-Anders Rau',de,Deutschland,#11dd44,#11dd44,3,0.793940540259
+'Leif-Erik Holm',de,Deutschland,#11dd44,#11dd44,3,0.733627691500
 'Simon Lansmann',de,Deutschland,#11dd44,#11dd44,2,0.723405027585
 'James Bond',de,unknown,#111111,#111111,3,0.463568497886
 'Todd Blanche',de,unknown,#111111,#111111,3,0.463398852975
@@ -51,9 +51,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
 'Javier Bardem',de,unknown,#111111,#111111,2,0.452578371982
 'David Letterman',de,unknown,#111111,#111111,2,0.452467696294
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.452267428911
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.451542678173
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.451534977471
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
 'Abu Dhabi',de,unknown,#111111,#111111,2,0.450491710017
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,1,0.449038405010
@@ -1011,9 +1011,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saskia Esken',de,Deutschland,#11dd44,#11dd44,3,0.231988335502
 'Karl Nehammer',de,Österreich,#6622bb,#6622bb,3,0.231631221730
 'Recep Tayyip Erdoğan',de,Türkei,#4411ee,#4411ee,2,0.231073906654
+'Björn Höcke',de,Deutschland,#11dd44,#11dd44,2,0.230887134413
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.230202450598
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
-'Björn Höcke',de,Deutschland,#11dd44,#11dd44,2,0.229773416596
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.229714760019
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.229195449577
 'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.228457459188
@@ -1029,13 +1029,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willie Nelson',de,unknown,#111111,#111111,1,0.225421861623
 'Jean Jouzel',de,unknown,#111111,#111111,1,0.225379775988
 'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.224810135912
+'Sahra Wagenknecht',de,Deutschland,#11dd44,#11dd44,3,0.224669507449
 'Alice Weidel',de,Deutschland,#11dd44,#11dd44,2,0.224540356183
 'Oisin Fanning',de,Irland,#33bbff,#33bbff,1,0.224052172219
 'Wolfgang Schäuble',de,Deutschland,#11dd44,#11dd44,2,0.223148145736
 'Jean-Denis Combrexelle',de,unknown,#111111,#111111,1,0.222772504283
 'Dieter Salomon',de,Deutschland,#11dd44,#11dd44,1,0.222764701048
 'Joana Cotar',de,Deutschland,#11dd44,#11dd44,2,0.222687770054
-'Sahra Wagenknecht',de,Deutschland,#11dd44,#11dd44,3,0.222424327517
 'Jean-Jacques Rousseau',de,Schweiz,#88cc44,#88cc44,1,0.222323499564
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
