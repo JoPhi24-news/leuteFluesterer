@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ulrich Siegmund',de,Deutschland,#11dd44,#11dd44,3,0.588307871141
+'Ulrich Siegmund',de,Deutschland,#11dd44,#11dd44,3,0.582306977743
 'Phillipp-Anders Rau',de,Deutschland,#11dd44,#11dd44,2,0.574222151337
 'Leif-Erik Holm',de,Deutschland,#11dd44,#11dd44,3,0.566779991394
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.562935577682
@@ -907,6 +907,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friederike Otto',de,Deutschland,#11dd44,#11dd44,1,0.272631911210
 'Sam Bankman-Fried',de,unknown,#111111,#111111,1,0.272628103726
 'Andreas Jung',de,Deutschland,#11dd44,#11dd44,3,0.272394635672
+'Tino Chrupalla',de,Deutschland,#11dd44,#11dd44,3,0.271821463615
 'Johan Rockström',de,unknown,#111111,#111111,1,0.271395259460
 'Frank Plasberg',de,Deutschland,#11dd44,#11dd44,2,0.271311355898
 'Lea Bonasera',de,Deutschland,#11dd44,#11dd44,1,0.270660240625
@@ -915,7 +916,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.270468949533
 'Arno Antlitz',de,Deutschland,#11dd44,#11dd44,1,0.270439482609
 'George Simion',de,unknown,#111111,#111111,1,0.269716884291
-'Tino Chrupalla',de,Deutschland,#11dd44,#11dd44,3,0.269708516525
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,1,0.269594136597
 'Bronny James',de,unknown,#111111,#111111,1,0.269399642722
 'Mark Kerr',de,unknown,#111111,#111111,1,0.267269884550
@@ -1020,13 +1020,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.229714760019
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.229195449577
+'Sahra Wagenknecht',de,Deutschland,#11dd44,#11dd44,3,0.229142381230
 'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.228457459188
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.228350263869
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.228009370159
+'Alice Weidel',de,Deutschland,#11dd44,#11dd44,2,0.227897712088
 'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.227375045985
 'Richard Feynman',de,USA,#18e8e8,#18e8e8,2,0.226909065728
-'Sahra Wagenknecht',de,Deutschland,#11dd44,#11dd44,3,0.226908869559
-'Alice Weidel',de,Deutschland,#11dd44,#11dd44,2,0.226780054257
 'Missy Motown',de,Deutschland,#11dd44,#11dd44,1,0.226542975644
 'Nathalie Emmanuel',de,unknown,#111111,#111111,1,0.226456837978
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.226102477205
