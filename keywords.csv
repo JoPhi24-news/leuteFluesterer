@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Leif-Erik Holm',de,Deutschland,#11dd44,#11dd44,3,0.566779991394
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.562935577682
 'Simon Lansmann',de,Deutschland,#11dd44,#11dd44,2,0.553845358037
 'Ulrich Siegmund',de,Deutschland,#11dd44,#11dd44,3,0.521572249889
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yadong Song',de,unknown,#111111,#111111,2,0.503991502952
 'Natalie Harp',de,unknown,#111111,#111111,2,0.502158998296
 'Salahdine Parnasse',de,unknown,#111111,#111111,2,0.500737483443
+'Leif-Erik Holm',de,Deutschland,#11dd44,#11dd44,3,0.491370663240
 'Phillipp-Anders Rau',de,Deutschland,#11dd44,#11dd44,1,0.488088888636
 'James Bond',de,unknown,#111111,#111111,3,0.463568497886
 'Todd Blanche',de,unknown,#111111,#111111,3,0.463398852975
@@ -903,11 +903,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdoan',de,Türkei,#4411ee,#4411ee,2,0.274622086667
 'Dwayne Johnson',de,unknown,#111111,#111111,1,0.274205341389
 'Markus Krebber',de,Deutschland,#11dd44,#11dd44,2,0.273364356198
+'Tino Chrupalla',de,Deutschland,#11dd44,#11dd44,3,0.272875552495
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,1,0.272755906180
 'Friederike Otto',de,Deutschland,#11dd44,#11dd44,1,0.272631911210
 'Sam Bankman-Fried',de,unknown,#111111,#111111,1,0.272628103726
 'Andreas Jung',de,Deutschland,#11dd44,#11dd44,3,0.272394635672
-'Tino Chrupalla',de,Deutschland,#11dd44,#11dd44,3,0.271821463615
 'Johan Rockström',de,unknown,#111111,#111111,1,0.271395259460
 'Frank Plasberg',de,Deutschland,#11dd44,#11dd44,2,0.271311355898
 'Lea Bonasera',de,Deutschland,#11dd44,#11dd44,1,0.270660240625
