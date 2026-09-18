@@ -1,11 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Natalie Harp',de,unknown,#111111,#111111,2,0.502158998296
+'Natalie Harp',de,unknown,#111111,#111111,3,0.546336303552
 'Salahdine Parnasse',de,unknown,#111111,#111111,2,0.500737483443
 'Leif-Erik Holm',de,Deutschland,#11dd44,#11dd44,3,0.491370663240
 'Phillipp-Anders Rau',de,Deutschland,#11dd44,#11dd44,1,0.488088888636
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
 'Rosie ODonnell',de,unknown,#111111,#111111,2,0.471037884162
 'Simon Lansmann',de,Deutschland,#11dd44,#11dd44,1,0.470768869331
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.470738644151
 'James Bond',de,unknown,#111111,#111111,3,0.463568497886
 'Todd Blanche',de,unknown,#111111,#111111,3,0.463398852975
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.463082987548
@@ -19,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Lennon',de,unknown,#111111,#111111,2,0.461857448714
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.461630985309
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.461014905998
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.460871018683
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
@@ -54,8 +54,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
 'Javier Bardem',de,unknown,#111111,#111111,2,0.452578371982
 'David Letterman',de,unknown,#111111,#111111,2,0.452467696294
+'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.452271838540
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.451542678173
-'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.451539395828
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
 'Abu Dhabi',de,unknown,#111111,#111111,2,0.450491710017
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,1,0.449038405010
@@ -314,11 +314,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
+'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.397413748614
 'Ali Larijani',de,unknown,#111111,#111111,1,0.397359988808
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.396653224329
 'Hans-Werner Sinn',de,Deutschland,#11dd44,#11dd44,1,0.396541427198
 'Islam Makhachev',de,unknown,#111111,#111111,1,0.395795416827
-'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.395734048273
 'James Comey',de,USA,#18e8e8,#18e8e8,1,0.395621241637
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
 'Brigitte Bardot',de,unknown,#111111,#111111,1,0.394733219666
