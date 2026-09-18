@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ulrich Siegmund',de,Deutschland,#11dd44,#11dd44,3,0.521572249889
 'Rosie ODonnell',de,unknown,#111111,#111111,2,0.509338616661
 'Yadong Song',de,unknown,#111111,#111111,2,0.503991502952
 'Natalie Harp',de,unknown,#111111,#111111,2,0.502158998296
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abu Dhabi',de,unknown,#111111,#111111,2,0.450491710017
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,1,0.449038405010
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
+'Ulrich Siegmund',de,Deutschland,#11dd44,#11dd44,3,0.448309497406
 'Ilia Topuria',de,unknown,#111111,#111111,2,0.448217594281
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.448037877115
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
