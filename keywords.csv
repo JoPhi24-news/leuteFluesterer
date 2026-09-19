@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Natalie Harp',de,unknown,#111111,#111111,3,0.570496025157
+'Natalie Harp',de,unknown,#111111,#111111,3,0.562599989111
 'Salahdine Parnasse',de,unknown,#111111,#111111,2,0.500737483443
 'Leif-Erik Holm',de,Deutschland,#11dd44,#11dd44,3,0.491370663240
 'Phillipp-Anders Rau',de,Deutschland,#11dd44,#11dd44,1,0.488088888636
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485699404155
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.477620446892
 'Rosie ODonnell',de,unknown,#111111,#111111,2,0.471037884162
 'Simon Lansmann',de,Deutschland,#11dd44,#11dd44,1,0.470768869331
 'James Bond',de,unknown,#111111,#111111,3,0.463568497886
@@ -37,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Lowery',de,unknown,#111111,#111111,2,0.456442206247
 'Alexandria Ocasio-Cortez',de,unknown,#111111,#111111,3,0.456282005585
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
+'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.455912394175
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.455890081124
 'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.455877170827
 'Scooter Braun',de,unknown,#111111,#111111,2,0.455842208537
@@ -49,7 +50,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Viktor Orban',de,unknown,#111111,#111111,3,0.453838189754
-'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.453732385276
 'Marine Tondelier',de,unknown,#111111,#111111,2,0.453062438064
 'Daniel Craig',de,unknown,#111111,#111111,2,0.452922710771
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
@@ -263,12 +263,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,2,0.412480264105
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.412071941875
 'Bill Pulte',de,unknown,#111111,#111111,2,0.412005760318
+'Karoline Leavitt',de,unknown,#111111,#111111,2,0.411711940975
 'Emmanuel Moulin',de,unknown,#111111,#111111,1,0.411682945873
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.411320517426
 'Bill Maher',de,unknown,#111111,#111111,2,0.411306168503
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,2,0.411153140000
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410919867639
-'Karoline Leavitt',de,unknown,#111111,#111111,2,0.410900220176
 'Max Holloway',de,unknown,#111111,#111111,2,0.410609220743
 'Vanessa Mai',de,unknown,#111111,#111111,2,0.410472469831
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.409933106068
