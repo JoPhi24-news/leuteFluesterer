@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Natalie Harp',de,unknown,#111111,#111111,3,0.540887013019
+'Natalie Harp',de,unknown,#111111,#111111,3,0.570496025157
 'Salahdine Parnasse',de,unknown,#111111,#111111,2,0.500737483443
 'Leif-Erik Holm',de,Deutschland,#11dd44,#11dd44,3,0.491370663240
 'Phillipp-Anders Rau',de,Deutschland,#11dd44,#11dd44,1,0.488088888636
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472125999143
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.477620446892
 'Rosie ODonnell',de,unknown,#111111,#111111,2,0.471037884162
 'Simon Lansmann',de,Deutschland,#11dd44,#11dd44,1,0.470768869331
 'James Bond',de,unknown,#111111,#111111,3,0.463568497886
@@ -268,9 +268,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Maher',de,unknown,#111111,#111111,2,0.411306168503
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,2,0.411153140000
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410919867639
+'Karoline Leavitt',de,unknown,#111111,#111111,2,0.410900220176
 'Max Holloway',de,unknown,#111111,#111111,2,0.410609220743
 'Vanessa Mai',de,unknown,#111111,#111111,2,0.410472469831
-'Karoline Leavitt',de,unknown,#111111,#111111,2,0.410086937622
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.409933106068
 'Renee Good',de,unknown,#111111,#111111,1,0.409901198270
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
@@ -1131,7 +1131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Trudeau',de,Kanada,#ffaabb,#ffaabb,2,0.169677532419
 'Shahzada Dawood',de,Pakistan,#bb3355,#bb3355,1,0.169138056020
 'Jack Ma',de,China,#e88818,#e88818,1,0.168439267767
-'Kim Jong-un',de,NordKorea,#4811f1,#4811f1,3,0.166994682129
+'Kim Jong-un',de,NordKorea,#4811f1,#4811f1,3,0.168181706541
 'Klaus-Michael Kühne',de,Deutschland,#11dd44,#11dd44,2,0.166959320396
 'Katharina König-Press',de,Deutschland,#11dd44,#11dd44,1,0.166387043835
 'Christian Drosten',de,Deutschland,#11dd44,#11dd44,2,0.166168546090
