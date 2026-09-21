@@ -1,5 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.490978780516
+'Manuela Schwesig',de,unknown,#111111,#111111,2,0.608964033485
+'Sven Schulze',de,unknown,#111111,#111111,2,0.601540847236
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.535973542075
+'Mateusz Gamrot',de,unknown,#111111,#111111,2,0.509342748231
+'Jon Anik',de,unknown,#111111,#111111,2,0.508561557737
+'Ségolène Royal',de,unknown,#111111,#111111,2,0.502265762914
+'Jérôme Guedj',de,unknown,#111111,#111111,2,0.501858812657
+'Jon Ossoff',de,unknown,#111111,#111111,2,0.501854575080
+'Philippe Brun',de,unknown,#111111,#111111,2,0.501699489722
+'Léa Salamé',de,unknown,#111111,#111111,2,0.500671035387
+'Jimmy Fallon',de,unknown,#111111,#111111,2,0.500503125450
 'Phillipp-Anders Rau',de,Deutschland,#11dd44,#11dd44,1,0.488088888636
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.480392096234
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
@@ -144,6 +154,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'María Corina Machado',de,unknown,#111111,#111111,2,0.431749644085
 'Claire Legendre',de,unknown,#111111,#111111,1,0.431593502035
 'Michael Morales',de,unknown,#111111,#111111,1,0.431476378079
+'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.431458448781
 'Robert Gates',de,unknown,#111111,#111111,2,0.431451411757
 'Romy Reiner',de,unknown,#111111,#111111,2,0.431403566427
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,3,0.431380393532
@@ -153,7 +164,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
 'Valter Walker',de,unknown,#111111,#111111,1,0.430891785886
 'Trevor Phillips',de,unknown,#111111,#111111,2,0.430747478606
-'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.430685047645
 'Nancy Guthrie',de,unknown,#111111,#111111,1,0.430680937954
 'Chris Cuomo',de,unknown,#111111,#111111,1,0.430603242396
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.430424353690
@@ -308,12 +318,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
 'Jonathan Ross',de,unknown,#111111,#111111,1,0.399665777012
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.399108445637
+'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.399087088172
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,1,0.398637435573
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,1,0.398362388430
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.397908720034
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
-'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.397413748614
 'Ali Larijani',de,unknown,#111111,#111111,1,0.397359988808
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.396653224329
 'Hans-Werner Sinn',de,Deutschland,#11dd44,#11dd44,1,0.396541427198
@@ -878,10 +888,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Irina Shayk',de,unknown,#111111,#111111,1,0.286204198439
 'Putin',de,Russland,#e81818,#e81818,3,0.285627463216
 'Julia Louis-Dreyfus',de,unknown,#111111,#111111,1,0.285241155776
+'Maria Bartiromo',de,unknown,#111111,#111111,1,0.284092552676
 'William Shakespeare',de,UK,#e838e8,#e838e8,1,0.283965114119
 'Gabor Steingart',de,Deutschland,#11dd44,#11dd44,2,0.283584024228
 'Victoria Monét',de,unknown,#111111,#111111,1,0.283494997568
-'Maria Bartiromo',de,unknown,#111111,#111111,1,0.283055669839
 'Michelle Williams',de,unknown,#111111,#111111,1,0.282733422476
 'président de la République',de,Frankreich,#e8e808,#e8e808,1,0.282613504978
 'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.282184822134
