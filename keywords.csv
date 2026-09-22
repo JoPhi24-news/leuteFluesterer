@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sven Schulze',de,unknown,#111111,#111111,3,0.593548347423
 'Manuela Schwesig',de,unknown,#111111,#111111,2,0.550178233874
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.535973542075
+'Sven Schulze',de,unknown,#111111,#111111,3,0.532209283037
 'Mateusz Gamrot',de,unknown,#111111,#111111,2,0.509342748231
 'Jon Anik',de,unknown,#111111,#111111,2,0.508561557737
 'Ségolène Royal',de,unknown,#111111,#111111,2,0.502265762914
@@ -28,10 +28,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Lennon',de,unknown,#111111,#111111,2,0.461857448714
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.461630985309
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.461014905998
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.460944657320
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.458794660103
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.458762668592
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
@@ -66,9 +66,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.451542678173
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451064473629
 'Abu Dhabi',de,unknown,#111111,#111111,2,0.450491710017
+'Ulrich Siegmund',de,Deutschland,#11dd44,#11dd44,3,0.449048314982
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,1,0.449038405010
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
-'Ulrich Siegmund',de,Deutschland,#11dd44,#11dd44,3,0.448309497406
 'Ilia Topuria',de,unknown,#111111,#111111,2,0.448217594281
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.448037877115
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
