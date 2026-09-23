@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.513508262215
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.541487597883
 'Manuela Schwesig',de,unknown,#111111,#111111,3,0.509593104205
 'Mateusz Gamrot',de,unknown,#111111,#111111,2,0.509342748231
 'Jon Anik',de,unknown,#111111,#111111,2,0.508561557737
@@ -130,6 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
 'Will Ferrell',de,unknown,#111111,#111111,1,0.433827866621
 'Michele Singer',de,unknown,#111111,#111111,1,0.433667429657
+'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.433498525803
 'Valentina Shevchenko',de,unknown,#111111,#111111,1,0.433450392674
 'Carlos Ulberg',de,unknown,#111111,#111111,1,0.433248120104
 'Henry Cejudo',de,unknown,#111111,#111111,2,0.433129369926
@@ -140,7 +141,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.432938237612
 'Monique Barbut',de,unknown,#111111,#111111,1,0.432825002920
 'Kamel Daoud',de,unknown,#111111,#111111,1,0.432775002336
-'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.432729116216
 'Howie Mandel',de,unknown,#111111,#111111,2,0.432718855719
 'Sarah Kellen',de,unknown,#111111,#111111,1,0.432564822757
 'Conor McGregor',de,unknown,#111111,#111111,1,0.432462177470
