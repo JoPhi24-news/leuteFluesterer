@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jon Ossoff',de,unknown,#111111,#111111,2,0.502776508818
 'Philippe Brun',de,unknown,#111111,#111111,2,0.501699489722
 'Léa Salamé',de,unknown,#111111,#111111,2,0.500671035387
 'Jimmy Fallon',de,unknown,#111111,#111111,2,0.500503125450
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilia Topuria',de,unknown,#111111,#111111,2,0.448217594281
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.448037877115
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
+'Jon Ossoff',de,unknown,#111111,#111111,2,0.447310152495
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447212612942
 'Thomas Müller',de,unknown,#111111,#111111,3,0.447110817676
 'Bari Weiss',de,unknown,#111111,#111111,2,0.446988930110
