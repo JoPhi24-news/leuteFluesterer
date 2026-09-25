@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ségolène Royal',de,unknown,#111111,#111111,2,0.502265762914
 'Jérôme Guedj',de,unknown,#111111,#111111,2,0.501858812657
 'Jon Ossoff',de,unknown,#111111,#111111,2,0.501854575080
 'Philippe Brun',de,unknown,#111111,#111111,2,0.501699489722
@@ -205,6 +204,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Catherine Pégard',de,unknown,#111111,#111111,1,0.427233210409
 'Christian Bale',de,unknown,#111111,#111111,1,0.427120103512
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
+'Ségolène Royal',de,unknown,#111111,#111111,1,0.426925958477
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Brendan Carr',de,unknown,#111111,#111111,1,0.426672023127
 'Chris Van Hollen',de,unknown,#111111,#111111,1,0.426546067202
