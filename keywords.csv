@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Léa Salamé',de,unknown,#111111,#111111,2,0.500671035387
 'Jimmy Fallon',de,unknown,#111111,#111111,2,0.500503125450
 'Phillipp-Anders Rau',de,Deutschland,#11dd44,#11dd44,1,0.488088888636
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
@@ -221,6 +220,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Petr Yan',de,unknown,#111111,#111111,2,0.425906877408
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.425900086859
 'Archie Colgan',de,unknown,#111111,#111111,1,0.425816367698
+'Léa Salamé',de,unknown,#111111,#111111,2,0.425720395079
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'Mark Twain',de,unknown,#111111,#111111,1,0.425683750538
 'Mark Ruffalo',de,unknown,#111111,#111111,1,0.425629559350
