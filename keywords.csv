@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Todd Blanche',de,unknown,#111111,#111111,3,0.464107809270
 'James Bond',de,unknown,#111111,#111111,3,0.463568497886
 'Peter Magyar',de,Ungarn,#33aa99,#33aa99,3,0.463010353079
-'HBO Max',de,unknown,#111111,#111111,2,0.462861333620
 'Jamieson Greer',de,unknown,#111111,#111111,2,0.462807299018
 'Keir Starmer',de,unknown,#111111,#111111,3,0.462768490101
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.462732712702
@@ -259,6 +258,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Jack White',de,unknown,#111111,#111111,1,0.417422245129
 'Chris Nanos',de,unknown,#111111,#111111,1,0.417052294638
+'HBO Max',de,unknown,#111111,#111111,3,0.416567791759
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
 'Daniel Siad',de,unknown,#111111,#111111,2,0.416408274682
 'Ed Gallrein',de,unknown,#111111,#111111,2,0.416001075856
@@ -655,6 +655,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Al Nassr',de,unknown,#111111,#111111,2,0.326109950470
 'François Bayrou',de,Frankreich,#e8e808,#e8e808,2,0.326105473874
 'Jesse Watters',de,USA,#18e8e8,#18e8e8,1,0.326058094678
+'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.326013362661
 'Lewis Kaplan',de,USA,#18e8e8,#18e8e8,2,0.325971685129
 'Bruno Le Maire',de,Frankreich,#e8e808,#e8e808,2,0.325904709939
 'George Santos',de,USA,#18e8e8,#18e8e8,2,0.325784856978
@@ -664,7 +665,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.325155765774
 'Nadja Abd el Farrag',de,Deutschland,#11dd44,#11dd44,2,0.325134551821
 'Tim Scott',de,USA,#18e8e8,#18e8e8,2,0.325087414098
-'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.325045013207
 'Nawaz Sharif',de,Pakistan,#bb3355,#bb3355,1,0.324616478638
 'Mike Johnson',de,USA,#18e8e8,#18e8e8,2,0.324309562131
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.324211961661
