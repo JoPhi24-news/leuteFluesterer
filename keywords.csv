@@ -146,7 +146,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geraldo Rivera',de,unknown,#111111,#111111,1,0.432202047281
 'Movsar Evloev',de,unknown,#111111,#111111,1,0.432139486274
 'María Corina Machado',de,unknown,#111111,#111111,2,0.431749644085
-'Claire Legendre',de,unknown,#111111,#111111,1,0.431593502035
 'Michael Morales',de,unknown,#111111,#111111,1,0.431476378079
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.431458448781
 'Robert Gates',de,unknown,#111111,#111111,2,0.431451411757
@@ -424,6 +423,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gigi Hadid',de,USA,#18e8e8,#18e8e8,1,0.366998126098
 'Mark Consuelos',de,unknown,#111111,#111111,1,0.366934934617
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.366872657888
+'Claire Legendre',de,unknown,#111111,#111111,1,0.366854476730
 'Mukesh Ambani',de,Indien,#dd3344,#dd3344,1,0.366804351496
 'Dan Hooker',de,unknown,#111111,#111111,1,0.366677150171
 'Jim Himes',de,unknown,#111111,#111111,1,0.366583384225
