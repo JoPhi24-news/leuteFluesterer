@@ -1,4 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Dolly Parton',de,unknown,#111111,#111111,2,0.508268855403
+'Baptiste Marteau',de,unknown,#111111,#111111,2,0.507916180955
+'Tom Cruise',de,unknown,#111111,#111111,2,0.501949623263
+'Yannick Jadot',de,unknown,#111111,#111111,2,0.500391535181
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472539916021
@@ -594,7 +598,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerry Seinfeld',de,USA,#18e8e8,#18e8e8,1,0.335118759698
 'Adolf Hitler',de,Deutschland,#11dd44,#11dd44,3,0.335068911946
 'Angela Merkel',de,Deutschland,#11dd44,#11dd44,3,0.335043764446
-'Mira Murati',de,Albanien,#ee742d,#ee742d,1,0.334870621721
 'Maybrit Illner',de,Deutschland,#11dd44,#11dd44,3,0.334540174308
 'Pedro Sánchez',de,Spanien,#1144aa,#1144aa,2,0.334395175667
 'Cristiano Ronaldo',de,Portugal,#66bb22,#66bb22,3,0.334172741405
@@ -889,6 +892,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Klçdarolu',de,Türkei,#4411ee,#4411ee,3,0.286278690666
 'Irina Shayk',de,unknown,#111111,#111111,1,0.286204198439
 'Julia Louis-Dreyfus',de,unknown,#111111,#111111,1,0.285241155776
+'Mira Murati',de,Albanien,#ee742d,#ee742d,1,0.284790043463
 'Maria Bartiromo',de,unknown,#111111,#111111,1,0.284092552676
 'William Shakespeare',de,UK,#e838e8,#e838e8,1,0.283965114119
 'Gabor Steingart',de,Deutschland,#11dd44,#11dd44,2,0.283584024228
