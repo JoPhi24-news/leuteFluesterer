@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dolly Parton',de,unknown,#111111,#111111,3,0.540981225627
+'Dolly Parton',de,unknown,#111111,#111111,3,0.532967509965
 'Baptiste Marteau',de,unknown,#111111,#111111,2,0.507916180955
 'Tom Cruise',de,unknown,#111111,#111111,2,0.501949623263
 'Yannick Jadot',de,unknown,#111111,#111111,2,0.500391535181
@@ -234,9 +234,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harriet Sperling',de,unknown,#111111,#111111,2,0.424713792593
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Peter Mandelson',de,unknown,#111111,#111111,2,0.424354361120
+'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.424012266173
 'Nicolas Cage',de,unknown,#111111,#111111,2,0.423749891475
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
-'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.423224345125
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.421470555490
 'Hoda Kotb',de,unknown,#111111,#111111,2,0.421236576667
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
@@ -377,12 +377,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Bannon',de,unknown,#111111,#111111,2,0.382033460122
 'prince Andrew',de,unknown,#111111,#111111,1,0.381811038000
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
+'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.381292653898
 'Novak Djokovic',de,Serbien,#4488cc,#4488cc,3,0.381103800458
 'Greta Gerwig',de,USA,#18e8e8,#18e8e8,2,0.380979675716
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.380302120527
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,1,0.380203765266
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.380051399167
-'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.379552277813
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.379283175466
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.378712214581
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.378375026495
@@ -481,6 +481,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Francis Prevost',de,USA,#18e8e8,#18e8e8,2,0.361070188314
 'Richard David Precht',de,Deutschland,#11dd44,#11dd44,2,0.361055188103
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,2,0.360976173996
+'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.360768285381
 'Sophie Turner',de,UK,#e838e8,#e838e8,1,0.360437274561
 'Keith Kellogg',de,USA,#18e8e8,#18e8e8,3,0.360077520603
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
@@ -490,7 +491,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.358184336533
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.358182989731
 'Sam Asghari',de,Iran,#11bb99,#11bb99,1,0.358138251632
-'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.358042028738
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,2,0.357860484198
 'Sandra Maischberger',de,Deutschland,#11dd44,#11dd44,3,0.357634663888
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
