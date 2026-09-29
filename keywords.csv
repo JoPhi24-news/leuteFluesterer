@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dolly Parton',de,unknown,#111111,#111111,3,0.603885097529
+'Dolly Parton',de,unknown,#111111,#111111,3,0.540981225627
 'Baptiste Marteau',de,unknown,#111111,#111111,2,0.507916180955
 'Tom Cruise',de,unknown,#111111,#111111,2,0.501949623263
 'Yannick Jadot',de,unknown,#111111,#111111,2,0.500391535181
@@ -149,6 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geraldo Rivera',de,unknown,#111111,#111111,1,0.432202047281
 'Movsar Evloev',de,unknown,#111111,#111111,1,0.432139486274
 'María Corina Machado',de,unknown,#111111,#111111,2,0.431749644085
+'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.431489722060
 'Michael Morales',de,unknown,#111111,#111111,1,0.431476378079
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.431458448781
 'Robert Gates',de,unknown,#111111,#111111,2,0.431451411757
@@ -160,7 +161,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
 'Valter Walker',de,unknown,#111111,#111111,1,0.430891785886
 'Trevor Phillips',de,unknown,#111111,#111111,2,0.430747478606
-'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.430716382070
 'Nancy Guthrie',de,unknown,#111111,#111111,1,0.430680937954
 'Chris Cuomo',de,unknown,#111111,#111111,1,0.430603242396
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.430424353690
@@ -236,13 +236,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Mandelson',de,unknown,#111111,#111111,2,0.424354361120
 'Nicolas Cage',de,unknown,#111111,#111111,2,0.423749891475
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
+'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.423224345125
 'Nancy Pelosi',de,unknown,#111111,#111111,1,0.421470555490
 'Hoda Kotb',de,unknown,#111111,#111111,2,0.421236576667
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,1,0.421059979679
 'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.420458697700
 'Carter Reum',de,unknown,#111111,#111111,2,0.420315577316
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
-'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.420057323519
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
 'Rob Reiner',de,unknown,#111111,#111111,2,0.419649608469
 'Dua Lipa',de,UK,#e838e8,#e838e8,3,0.419588044494
@@ -263,9 +263,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Siad',de,unknown,#111111,#111111,2,0.416408274682
 'Ed Gallrein',de,unknown,#111111,#111111,2,0.416001075856
 'Sean Brady',de,unknown,#111111,#111111,1,0.415982122775
+'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.415873102556
 'Susan Collins',de,unknown,#111111,#111111,1,0.415835967503
 'Phillipp-Anders Rau',de,Deutschland,#11dd44,#11dd44,1,0.415475615341
-'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.415069405563
 'Kendall Jenner',de,unknown,#111111,#111111,1,0.414947600855
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.414093406950
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
