@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tom Cruise',de,unknown,#111111,#111111,3,0.531608754774
 'Yannick Jadot',de,unknown,#111111,#111111,2,0.500391535181
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Manuela Schwesig',de,unknown,#111111,#111111,3,0.469196635559
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.468719269595
 'Natalie Harp',de,unknown,#111111,#111111,3,0.467287303597
+'Tom Cruise',de,unknown,#111111,#111111,3,0.465909925649
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.464859321171
 'Todd Blanche',de,unknown,#111111,#111111,3,0.464107809270
 'James Bond',de,unknown,#111111,#111111,3,0.463568497886
@@ -573,9 +573,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Abraham Lincoln',de,USA,#18e8e8,#18e8e8,2,0.340951595224
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
 'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.340596499075
+'Patrick Mahomes',de,USA,#18e8e8,#18e8e8,2,0.340536212222
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,3,0.340043070504
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.339797173961
-'Patrick Mahomes',de,USA,#18e8e8,#18e8e8,2,0.339593012135
 'Patricia Blanco',de,Deutschland,#11dd44,#11dd44,2,0.338900915525
 'Claudia Kemfert',de,Deutschland,#11dd44,#11dd44,1,0.338715139829
 'Charles Barkley',de,USA,#18e8e8,#18e8e8,1,0.338271583625
@@ -897,9 +897,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'William Shakespeare',de,UK,#e838e8,#e838e8,1,0.283965114119
 'Gabor Steingart',de,Deutschland,#11dd44,#11dd44,2,0.283584024228
 'Victoria Monét',de,unknown,#111111,#111111,1,0.283494997568
+'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.283223056802
 'Michelle Williams',de,unknown,#111111,#111111,1,0.282733422476
 'président de la République',de,Frankreich,#e8e808,#e8e808,1,0.282613504978
-'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.282184822134
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.281667364363
 'Gisele Bundchen',de,unknown,#111111,#111111,1,0.281385182451
 'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.281156506787
