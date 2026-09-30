@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dolly Parton',de,unknown,#111111,#111111,3,0.532967509965
 'Baptiste Marteau',de,unknown,#111111,#111111,2,0.507916180955
 'Tom Cruise',de,unknown,#111111,#111111,2,0.501949623263
 'Yannick Jadot',de,unknown,#111111,#111111,2,0.500391535181
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
+'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.474608142649
 'Rosie ODonnell',de,unknown,#111111,#111111,2,0.471037884162
@@ -374,10 +374,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jared Kushner',de,USA,#18e8e8,#18e8e8,2,0.382530619101
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,1,0.382326887908
+'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.382160414703
 'Steve Bannon',de,unknown,#111111,#111111,2,0.382033460122
 'prince Andrew',de,unknown,#111111,#111111,1,0.381811038000
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
-'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.381292653898
 'Novak Djokovic',de,Serbien,#4488cc,#4488cc,3,0.381103800458
 'Greta Gerwig',de,USA,#18e8e8,#18e8e8,2,0.380979675716
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.380302120527
