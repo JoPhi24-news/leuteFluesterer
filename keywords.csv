@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Baptiste Marteau',de,unknown,#111111,#111111,2,0.507916180955
 'Tom Cruise',de,unknown,#111111,#111111,2,0.501949623263
 'Yannick Jadot',de,unknown,#111111,#111111,2,0.500391535181
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
@@ -149,6 +148,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geraldo Rivera',de,unknown,#111111,#111111,1,0.432202047281
 'Movsar Evloev',de,unknown,#111111,#111111,1,0.432139486274
 'María Corina Machado',de,unknown,#111111,#111111,2,0.431749644085
+'Baptiste Marteau',de,unknown,#111111,#111111,1,0.431728753812
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.431489722060
 'Michael Morales',de,unknown,#111111,#111111,1,0.431476378079
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.431458448781
