@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Yannick Jadot',de,unknown,#111111,#111111,2,0.500391535181
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
@@ -230,6 +229,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nathan Hochman',de,unknown,#111111,#111111,1,0.425492084985
 'Deborah Birx',de,unknown,#111111,#111111,1,0.425413941484
 'François Hollande',de,unknown,#111111,#111111,1,0.425376547548
+'Yannick Jadot',de,unknown,#111111,#111111,1,0.425332804904
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Kerstin Ott',de,unknown,#111111,#111111,2,0.424882999883
 'Harriet Sperling',de,unknown,#111111,#111111,2,0.424713792593
