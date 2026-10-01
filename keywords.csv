@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.474608142649
 'Rosie ODonnell',de,unknown,#111111,#111111,2,0.471037884162
 'Simon Lansmann',de,Deutschland,#11dd44,#11dd44,1,0.470768869331
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.469417654885
 'Manuela Schwesig',de,unknown,#111111,#111111,3,0.469196635559
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.468719269595
 'Natalie Harp',de,unknown,#111111,#111111,3,0.467287303597
 'Tom Cruise',de,unknown,#111111,#111111,3,0.465909925649
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.464859321171
@@ -912,7 +912,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.276595110921
 'James Cameron',de,USA,#18e8e8,#18e8e8,1,0.276122176969
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
-'Erich Honecker',de,Deutschland,#11dd44,#11dd44,1,0.275128434182
 'Stanislaw Petrow',de,unknown,#111111,#111111,1,0.275020355610
 'Recep Tayyip Erdoan',de,Türkei,#4411ee,#4411ee,2,0.274622086667
 'Dwayne Johnson',de,unknown,#111111,#111111,1,0.274205341389
@@ -977,6 +976,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.261003125000
 'Matthias Müller',de,Deutschland,#11dd44,#11dd44,2,0.259865430984
+'Erich Honecker',de,Deutschland,#11dd44,#11dd44,1,0.259759259055
 'Wolodymyr Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.258993166937
 'Georg Bätzing',de,Deutschland,#11dd44,#11dd44,2,0.258823823119
 'Olli Schulz',de,Deutschland,#11dd44,#11dd44,1,0.258162065918
