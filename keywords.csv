@@ -838,7 +838,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.299801128495
 'Andrea Arnold',de,unknown,#111111,#111111,1,0.299422015919
 'Patrick Graichen',de,Deutschland,#11dd44,#11dd44,3,0.299151866067
-'Mareike Fallwickl',de,Österreich,#6622bb,#6622bb,1,0.299068907077
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.298866396965
 'Roger Federer',de,Schweiz,#88cc44,#88cc44,1,0.298705941101
 'James Comer',de,USA,#18e8e8,#18e8e8,1,0.298562291280
@@ -986,6 +985,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.256013031994
 'Amber Heard',de,USA,#18e8e8,#18e8e8,1,0.255381858055
 'Charlie Munger',de,unknown,#111111,#111111,1,0.255006696635
+'Mareike Fallwickl',de,Österreich,#6622bb,#6622bb,1,0.254808631015
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.254589514446
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,1,0.252222829181
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.251636982538
