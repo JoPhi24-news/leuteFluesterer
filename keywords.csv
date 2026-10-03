@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.474608142649
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.477346605253
 'Rosie ODonnell',de,unknown,#111111,#111111,2,0.471037884162
 'Simon Lansmann',de,Deutschland,#11dd44,#11dd44,1,0.470768869331
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.469417654885
@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Cruise',de,unknown,#111111,#111111,3,0.466613895086
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.464859321171
 'Todd Blanche',de,unknown,#111111,#111111,3,0.464107809270
-'Jamieson Greer',de,unknown,#111111,#111111,2,0.462807299018
 'Keir Starmer',de,unknown,#111111,#111111,3,0.462768490101
 'Andy Burnham',de,unknown,#111111,#111111,3,0.462273430373
 'Scott Pelley',de,unknown,#111111,#111111,1,0.462075075924
@@ -118,6 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maite Kelly',de,unknown,#111111,#111111,1,0.435300280430
 'Helene Fischer',de,unknown,#111111,#111111,3,0.434847456002
 'Alex Pretti',de,unknown,#111111,#111111,2,0.434747203396
+'Jamieson Greer',de,unknown,#111111,#111111,2,0.434486669165
 'Michelle Reiner',de,unknown,#111111,#111111,1,0.434132993767
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.434058732625
 'Jake Reiner',de,unknown,#111111,#111111,2,0.433965609440
@@ -770,6 +770,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Buzz Aldrin',de,USA,#18e8e8,#18e8e8,1,0.309879240715
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.309783019488
 'Ron Howard',de,unknown,#111111,#111111,2,0.309724600684
+'Xi Jinping',de,China,#e88818,#e88818,3,0.309465605935
 'Sunny Hostin',de,unknown,#111111,#111111,1,0.309200073287
 'François Braun',de,unknown,#111111,#111111,1,0.309100527042
 'Chris Kirkpatrick',de,unknown,#111111,#111111,1,0.309065915138
@@ -803,7 +804,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.307062500000
 'James Biden',de,unknown,#111111,#111111,1,0.306666048656
 'Hugh Grant',de,unknown,#111111,#111111,1,0.306582026544
-'Xi Jinping',de,China,#e88818,#e88818,3,0.306472199159
 'Kevin Kühnert',de,Deutschland,#11dd44,#11dd44,3,0.306267580113
 'Barbara Schöneberger',de,Deutschland,#11dd44,#11dd44,3,0.305950455521
 'Fani Willis',de,unknown,#111111,#111111,1,0.305755674110
