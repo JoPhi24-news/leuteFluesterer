@@ -157,7 +157,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fabrice Aidan',de,unknown,#111111,#111111,1,0.431237406328
 'Karol G',de,Kolumbien,#3355dd,#3355dd,1,0.431101111006
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
-'Valter Walker',de,unknown,#111111,#111111,1,0.430891785886
 'Trevor Phillips',de,unknown,#111111,#111111,2,0.430747478606
 'Nancy Guthrie',de,unknown,#111111,#111111,1,0.430680937954
 'Chris Cuomo',de,unknown,#111111,#111111,1,0.430603242396
@@ -434,6 +433,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
 'Olivia Nuzzi',de,USA,#18e8e8,#18e8e8,1,0.366448972126
 'Harry Met Sally',de,unknown,#111111,#111111,1,0.366412149833
+'Valter Walker',de,unknown,#111111,#111111,1,0.366258018003
 'Paddy Pimblett',de,unknown,#111111,#111111,1,0.366123560626
 'JULIEN MUGUET',de,Frankreich,#e8e808,#e8e808,1,0.366005069884
 'Yorgos Lanthimos',de,Griechenland,#448722,#448722,1,0.365898397103
