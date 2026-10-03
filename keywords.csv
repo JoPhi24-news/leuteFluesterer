@@ -288,9 +288,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,1,0.409196863586
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Charles Kushner',de,unknown,#111111,#111111,1,0.408966233405
+'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.408832736582
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.408401632949
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.408383525883
-'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.408015481408
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.407757894642
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.407719536849
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.406885415367
@@ -529,6 +529,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hendrik Wüst',de,Deutschland,#11dd44,#11dd44,3,0.348634417430
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.348506567653
 'Jason Kelce',de,USA,#18e8e8,#18e8e8,1,0.348445920974
+'Lionel Richie',de,USA,#18e8e8,#18e8e8,2,0.348099447665
 'Sergio Mattarella',de,Italien,#7722cc,#7722cc,1,0.348064632851
 'Alexander Dobrindt',de,Deutschland,#11dd44,#11dd44,3,0.347411481732
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
@@ -822,7 +823,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Yo Jong',de,NordKorea,#4811f1,#4811f1,1,0.302602775640
 'Ahmed Al Jaber',de,unknown,#111111,#111111,1,0.302587902721
 'Gerald Darmanin',de,unknown,#111111,#111111,1,0.302155950776
-'Lionel Richie',de,USA,#18e8e8,#18e8e8,1,0.301881526665
 'Jordan Neely',de,USA,#18e8e8,#18e8e8,1,0.301772532477
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,1,0.301436554751
 'Henry Ford',de,USA,#18e8e8,#18e8e8,1,0.301274496426
