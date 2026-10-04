@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Bond',de,unknown,#111111,#111111,3,0.489894549112
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.477346605253
+'James Bond',de,unknown,#111111,#111111,3,0.471362631745
 'Rosie ODonnell',de,unknown,#111111,#111111,2,0.471037884162
 'Simon Lansmann',de,Deutschland,#11dd44,#11dd44,1,0.470768869331
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.469417654885
@@ -47,9 +47,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maud Bregeon',de,unknown,#111111,#111111,2,0.454798520145
 'Hunter Schafer',de,unknown,#111111,#111111,2,0.454728848435
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
+'Daniel Craig',de,unknown,#111111,#111111,2,0.454380687046
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Viktor Orban',de,unknown,#111111,#111111,3,0.453838189754
-'Daniel Craig',de,unknown,#111111,#111111,2,0.453652420182
 'Javier Bardem',de,unknown,#111111,#111111,2,0.453308761940
 'Marine Tondelier',de,unknown,#111111,#111111,2,0.453062438064
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.453006103624
@@ -903,10 +903,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.281156506787
 'Katarina Barley',de,EU,#bbff33,#bbff33,2,0.279368283180
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
+'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.278975985571
 'Mojib Latif',de,Deutschland,#11dd44,#11dd44,2,0.278643045389
 'Robert Kraft',de,unknown,#111111,#111111,2,0.278029904614
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.277827658288
-'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.276884794256
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.276595110921
 'James Cameron',de,USA,#18e8e8,#18e8e8,1,0.276122176969
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
