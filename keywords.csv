@@ -1033,7 +1033,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdoğan',de,Türkei,#4411ee,#4411ee,2,0.231073906654
 'Björn Höcke',de,Deutschland,#11dd44,#11dd44,2,0.230887134413
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.230202450598
-'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.229714760019
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.229195449577
 'Sahra Wagenknecht',de,Deutschland,#11dd44,#11dd44,3,0.229142381230
@@ -1106,6 +1105,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.198812136611
 'Chelsea Manning',de,USA,#18e8e8,#18e8e8,1,0.196631291430
 'Zach Bryan',de,unknown,#111111,#111111,1,0.195639517322
+'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.195552023851
 'Aleksandar Vucic',de,Serbien,#4488cc,#4488cc,3,0.195421796378
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.195183717855
 'Stefan Rahmstorf',de,Deutschland,#11dd44,#11dd44,2,0.193634442976
