@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dakota Johnson',de,unknown,#111111,#111111,2,0.508719145223
+'Dakota Johnson',de,unknown,#111111,#111111,3,0.546453397530
 'Alejandro González Iñárritu',de,unknown,#111111,#111111,2,0.506484959479
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
@@ -81,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
 'Victoria Beckham',de,UK,#e838e8,#e838e8,3,0.444371404109
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
+'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.443967493337
 'Mother Mary',de,unknown,#111111,#111111,3,0.443824807500
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Mario Adorf',de,unknown,#111111,#111111,3,0.442521214081
@@ -101,7 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Dugard',de,unknown,#111111,#111111,1,0.440725000000
 'Hannu Halinen',de,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
-'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.438997853024
+'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.439754988013
 'Cilia Flores',de,unknown,#111111,#111111,3,0.438603057210
 'Casey Wasserman',de,unknown,#111111,#111111,1,0.438040141383
 'Kaitlan Collins',de,unknown,#111111,#111111,2,0.437968755831
@@ -144,13 +145,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jon Anik',de,unknown,#111111,#111111,1,0.432277324076
 'Bruna Caroline Ferreira',de,unknown,#111111,#111111,2,0.432271642205
 'Margaret Brennan',de,unknown,#111111,#111111,1,0.432266505047
+'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.432261552533
 'Candace Owens',de,unknown,#111111,#111111,2,0.432235937725
 'Nanon Williams',de,unknown,#111111,#111111,1,0.432214722713
 'Geraldo Rivera',de,unknown,#111111,#111111,1,0.432202047281
 'Movsar Evloev',de,unknown,#111111,#111111,1,0.432139486274
 'María Corina Machado',de,unknown,#111111,#111111,2,0.431749644085
 'Baptiste Marteau',de,unknown,#111111,#111111,1,0.431728753812
-'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.431489722060
 'Michael Morales',de,unknown,#111111,#111111,1,0.431476378079
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.431458448781
 'Robert Gates',de,unknown,#111111,#111111,2,0.431451411757
@@ -208,7 +209,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Van Hollen',de,unknown,#111111,#111111,1,0.426546067202
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.426475734846
 'Philippe Brun',de,unknown,#111111,#111111,1,0.426444566264
-'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.426366859568
 'Adam Mockler',de,unknown,#111111,#111111,1,0.426320157079
 'Elisha Ellison',de,unknown,#111111,#111111,1,0.426116020383
 'Song Yadong',de,unknown,#111111,#111111,1,0.426088324915
@@ -677,9 +677,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.324211961661
 'Bettina Jarasch',de,Deutschland,#11dd44,#11dd44,2,0.324138388908
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.324009525599
+'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.323714690227
 'Barry Keoghan',de,unknown,#111111,#111111,1,0.323420364292
 'Eric Adams',de,USA,#18e8e8,#18e8e8,2,0.323335007843
-'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.322742422260
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.322192623393
 'Peter Tschentscher',de,Deutschland,#11dd44,#11dd44,2,0.321059408678
 'George Miller',de,unknown,#111111,#111111,1,0.320924279871
@@ -709,13 +709,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katja Krasavice',de,Deutschland,#11dd44,#11dd44,1,0.316837847842
 'Jill Biden',de,USA,#18e8e8,#18e8e8,2,0.316781614009
 'Ralf Dieter',de,Deutschland,#11dd44,#11dd44,1,0.316459167619
+'Colin Farrell',de,unknown,#111111,#111111,3,0.316426367517
 'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,3,0.316344686997
 'Christian Günther',de,unknown,#111111,#111111,2,0.316119172787
 'Jake Tapper',de,unknown,#111111,#111111,1,0.315803967854
 'Alex Jones',de,USA,#18e8e8,#18e8e8,1,0.315745582026
 'Ulf Poschardt',de,Deutschland,#11dd44,#11dd44,2,0.315570043962
 'Ines de Ramon',de,unknown,#111111,#111111,1,0.315461152501
-'Colin Farrell',de,unknown,#111111,#111111,3,0.315441792256
 'Pablo Picasso',de,Spanien,#1144aa,#1144aa,1,0.315119614981
 'Tim Müller',de,Deutschland,#11dd44,#11dd44,3,0.315049243587
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,2,0.314291324230
