@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dakota Johnson',de,unknown,#111111,#111111,3,0.546453397530
+'Dakota Johnson',de,unknown,#111111,#111111,3,0.519436617900
 'Alejandro González Iñárritu',de,unknown,#111111,#111111,2,0.506484959479
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.478707664600
 'James Bond',de,unknown,#111111,#111111,3,0.474814494616
 'Rosie ODonnell',de,unknown,#111111,#111111,2,0.471037884162
+'Tom Cruise',de,unknown,#111111,#111111,3,0.470808422901
 'Simon Lansmann',de,Deutschland,#11dd44,#11dd44,1,0.470768869331
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.470114651230
 'Manuela Schwesig',de,unknown,#111111,#111111,3,0.469196635559
 'Natalie Harp',de,unknown,#111111,#111111,3,0.467287303597
-'Tom Cruise',de,unknown,#111111,#111111,3,0.466613895086
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.465565377579
 'Andy Burnham',de,unknown,#111111,#111111,3,0.464402768358
 'Todd Blanche',de,unknown,#111111,#111111,3,0.464107809270
@@ -72,6 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Müller',de,unknown,#111111,#111111,3,0.447110817676
 'Bari Weiss',de,unknown,#111111,#111111,2,0.446988930110
 'Kash Patel',de,unknown,#111111,#111111,3,0.446916276017
+'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.446205195494
 'Nick Reiner',de,unknown,#111111,#111111,2,0.446124101428
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.445844855236
@@ -81,7 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caroline Lang',de,unknown,#111111,#111111,2,0.444449017930
 'Victoria Beckham',de,UK,#e838e8,#e838e8,3,0.444371404109
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
-'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.443967493337
 'Mother Mary',de,unknown,#111111,#111111,3,0.443824807500
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Mario Adorf',de,unknown,#111111,#111111,3,0.442521214081
@@ -102,7 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Dugard',de,unknown,#111111,#111111,1,0.440725000000
 'Hannu Halinen',de,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
-'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.439754988013
+'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.440510637234
 'Cilia Flores',de,unknown,#111111,#111111,3,0.438603057210
 'Casey Wasserman',de,unknown,#111111,#111111,1,0.438040141383
 'Kaitlan Collins',de,unknown,#111111,#111111,2,0.437968755831
@@ -294,6 +294,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.408832736582
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.408401632949
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.408383525883
+'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.408198266872
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.407757894642
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.407719536849
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.406885415367
@@ -302,7 +303,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Renee Nicole Good',de,unknown,#111111,#111111,2,0.404148612920
-'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.404090188821
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.403733466580
 'Michele Reiner',de,unknown,#111111,#111111,1,0.403471082934
 'John Fetterman',de,unknown,#111111,#111111,2,0.403409988678
