@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alejandro González Iñárritu',de,unknown,#111111,#111111,2,0.506484959479
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
@@ -164,6 +163,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Trevor Phillips',de,unknown,#111111,#111111,2,0.430747478606
 'Nancy Guthrie',de,unknown,#111111,#111111,1,0.430680937954
 'Chris Cuomo',de,unknown,#111111,#111111,1,0.430603242396
+'Alejandro González Iñárritu',de,unknown,#111111,#111111,1,0.430512710557
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.430424353690
 'Angus Cloud',de,unknown,#111111,#111111,1,0.430393750489
 'Raphaël Glucksmann',de,unknown,#111111,#111111,2,0.430194483866
