@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.506031569459
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.488522442029
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
@@ -7,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.479386160057
 'James Bond',de,unknown,#111111,#111111,3,0.474814494616
 'Rosie ODonnell',de,unknown,#111111,#111111,2,0.471037884162
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.470810261103
 'Tom Cruise',de,unknown,#111111,#111111,3,0.470808422901
 'Simon Lansmann',de,Deutschland,#11dd44,#11dd44,1,0.470768869331
 'Dakota Johnson',de,unknown,#111111,#111111,3,0.470542958450
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.470114651230
 'Manuela Schwesig',de,unknown,#111111,#111111,3,0.469196635559
 'Natalie Harp',de,unknown,#111111,#111111,3,0.467287303597
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.465565377579
@@ -26,11 +27,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.458762668592
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.458557579588
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Tony Dokoupil',de,unknown,#111111,#111111,2,0.458006122800
 'Ken Paxton',de,unknown,#111111,#111111,2,0.457950661351
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457941116867
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.457837595353
 'Liveblog Irankrieg',de,unknown,#111111,#111111,3,0.457752256802
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.457723920085
 'Joe Kent',de,unknown,#111111,#111111,3,0.457681562687
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.455877170827
 'Scooter Braun',de,unknown,#111111,#111111,2,0.455842208537
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.455815012733
 'Stephen Miller',de,unknown,#111111,#111111,2,0.455563586145
 'Joshua Van',de,unknown,#111111,#111111,2,0.455557527829
 'Maud Bregeon',de,unknown,#111111,#111111,2,0.454798520145
@@ -354,6 +354,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
 'John Clarke',de,USA,#18e8e8,#18e8e8,1,0.389401780306
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.389344326612
+'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.388221447723
 'Larry David',de,unknown,#111111,#111111,2,0.387694508082
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.387458644881
 'Spencer Pratt',de,unknown,#111111,#111111,1,0.386643520593
@@ -381,16 +382,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Bannon',de,unknown,#111111,#111111,2,0.382033460122
 'prince Andrew',de,unknown,#111111,#111111,1,0.381811038000
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
+'Prinz George',de,UK,#e838e8,#e838e8,2,0.381369690552
 'Novak Djokovic',de,Serbien,#4488cc,#4488cc,3,0.381103800458
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.380302120527
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,1,0.380203765266
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.380051399167
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.379283175466
-'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.378712214581
+'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.378631323449
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.378375026495
-'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
 'Francis Ngannou',de,unknown,#111111,#111111,1,0.376709486990
-'Prinz George',de,UK,#e838e8,#e838e8,2,0.376129972275
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,1,0.375531434263
 'Kylie Kelce',de,unknown,#111111,#111111,2,0.375362486525
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.375266782484
@@ -649,13 +649,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edouard Philippe',de,Frankreich,#e8e808,#e8e808,2,0.327724688502
 'Dieter Bohlen',de,Deutschland,#11dd44,#11dd44,3,0.327706040056
 'Rachida Dati',de,Frankreich,#e8e808,#e8e808,1,0.327665175029
+'Lady Di',de,UK,#e838e8,#e838e8,2,0.327635693985
 'Irina Scherbakowa',de,Russland,#e81818,#e81818,1,0.327605875664
 'Jonathan Roumie',de,USA,#18e8e8,#18e8e8,1,0.327500081275
 'Indiana Jones',de,USA,#18e8e8,#18e8e8,2,0.327437912835
 'Howard Stern',de,USA,#18e8e8,#18e8e8,1,0.327306349165
 'Gérald Darmanin',de,Frankreich,#e8e808,#e8e808,1,0.326918290029
 'Reinhard Marx',de,Deutschland,#11dd44,#11dd44,1,0.326725380392
-'Lady Di',de,UK,#e838e8,#e838e8,2,0.326670120548
 'Ryan Gosling',de,Kanada,#ffaabb,#ffaabb,1,0.326427371195
 'Tyson Fury',de,UK,#e838e8,#e838e8,1,0.326389926338
 'Leni Klum',de,USA,#18e8e8,#18e8e8,1,0.326176688483
