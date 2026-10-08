@@ -900,7 +900,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Victoria Monét',de,unknown,#111111,#111111,1,0.283494997568
 'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.283223056802
 'Michelle Williams',de,unknown,#111111,#111111,1,0.282733422476
-'président de la République',de,Frankreich,#e8e808,#e8e808,1,0.282613504978
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.281667364363
 'Gisele Bundchen',de,unknown,#111111,#111111,1,0.281385182451
 'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.281156506787
@@ -1016,6 +1015,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billy Crystal',de,unknown,#111111,#111111,1,0.241929659196
 'Mateusz Morawiecki',de,Polen,#8844cc,#8844cc,2,0.241238631256
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.240451797857
+'président de la République',de,Frankreich,#e8e808,#e8e808,1,0.240221479231
 'Joschka Fischer',de,Deutschland,#11dd44,#11dd44,1,0.240188544788
 'Nicolas Sarkozy',de,unknown,#111111,#111111,1,0.239725332857
 'Gregor Gysi',de,Deutschland,#11dd44,#11dd44,2,0.239215475841
