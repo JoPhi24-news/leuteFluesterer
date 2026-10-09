@@ -16,9 +16,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Natalie Harp',de,unknown,#111111,#111111,3,0.467287303597
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.465679370883
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.465565377579
-'Andy Burnham',de,unknown,#111111,#111111,3,0.464402768358
+'Andy Burnham',de,unknown,#111111,#111111,3,0.465109731451
 'Todd Blanche',de,unknown,#111111,#111111,3,0.464107809270
-'Keir Starmer',de,unknown,#111111,#111111,3,0.463186189768
+'Keir Starmer',de,unknown,#111111,#111111,3,0.463895568199
 'Scott Pelley',de,unknown,#111111,#111111,1,0.462075075924
 'John Lennon',de,unknown,#111111,#111111,2,0.461857448714
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.461630985309
@@ -984,6 +984,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.258076975746
 'Kemal Kilicdaroglu',de,Türkei,#4411ee,#4411ee,1,0.257438385831
 'Michael Kahle',de,Deutschland,#11dd44,#11dd44,1,0.256585755261
+'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.256144349432
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.256013031994
 'Amber Heard',de,USA,#18e8e8,#18e8e8,1,0.255381858055
 'Charlie Munger',de,unknown,#111111,#111111,1,0.255006696635
@@ -1078,7 +1079,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fidel Castro',de,Kuba,#cc4488,#cc4488,2,0.213933935004
 'Pat McAfee',de,USA,#18e8e8,#18e8e8,1,0.213612882578
 'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.213101432961
-'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.212757969920
 'Katalin Novák',de,Ungarn,#33aa99,#33aa99,1,0.212432244683
 'Peter Urban',de,Deutschland,#11dd44,#11dd44,2,0.212170543004
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,2,0.211854690614
