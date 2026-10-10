@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.488522442029
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
@@ -266,6 +265,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfram Weimer',de,Deutschland,#11dd44,#11dd44,3,0.415873102556
 'Susan Collins',de,unknown,#111111,#111111,1,0.415835967503
 'Phillipp-Anders Rau',de,Deutschland,#11dd44,#11dd44,1,0.415475615341
+'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.415244105725
 'Kendall Jenner',de,unknown,#111111,#111111,1,0.414947600855
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.414898984914
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
