@@ -543,6 +543,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.346317538416
 'Omar Sy',de,Frankreich,#e8e808,#e8e808,1,0.346119661797
 'Adam Driver',de,unknown,#111111,#111111,2,0.346064292915
+'Aaron Rodgers',de,USA,#18e8e8,#18e8e8,2,0.345604265296
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.345582969081
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.345355873396
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.345325933349
@@ -635,7 +636,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jan Böhmermann',de,Deutschland,#11dd44,#11dd44,3,0.330368190416
 'Ben Affleck',de,USA,#18e8e8,#18e8e8,1,0.330274422867
 'Anne Will',de,Deutschland,#11dd44,#11dd44,3,0.330123315476
-'Aaron Rodgers',de,USA,#18e8e8,#18e8e8,1,0.329932646100
 'Paul Ronzheimer',de,Deutschland,#11dd44,#11dd44,3,0.329657808230
 'John Martinis',de,USA,#18e8e8,#18e8e8,1,0.329547879089
 'Mark Meadows',de,USA,#18e8e8,#18e8e8,1,0.329396810918
@@ -778,6 +778,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Kirkpatrick',de,unknown,#111111,#111111,1,0.309065915138
 'Sean Hannity',de,unknown,#111111,#111111,1,0.309024442296
 'Kevin Hart',de,USA,#18e8e8,#18e8e8,3,0.308899368814
+'Drake Maye',de,unknown,#111111,#111111,1,0.308896372435
 'Roman Pacino',de,unknown,#111111,#111111,1,0.308644020139
 'Premier ministre',de,unknown,#111111,#111111,1,0.308546290121
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.308520631764
@@ -789,7 +790,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ronna McDaniel',de,unknown,#111111,#111111,1,0.308092498551
 'Benjamin Hasselhorn',de,unknown,#111111,#111111,1,0.308087707205
 'Sergio Massa',de,unknown,#111111,#111111,1,0.308056569607
-'Drake Maye',de,unknown,#111111,#111111,1,0.307899273929
 'Leonardo da Vinci',de,Italien,#7722cc,#7722cc,2,0.307523361241
 'Salvador Dali',de,Spanien,#1144aa,#1144aa,1,0.307512545000
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.307477450123
