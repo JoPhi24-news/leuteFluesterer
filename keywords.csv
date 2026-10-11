@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Burnham',de,unknown,#111111,#111111,3,0.465109731451
 'Todd Blanche',de,unknown,#111111,#111111,3,0.464107809270
 'Keir Starmer',de,unknown,#111111,#111111,3,0.463895568199
-'Scott Pelley',de,unknown,#111111,#111111,1,0.462075075924
 'John Lennon',de,unknown,#111111,#111111,2,0.461857448714
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.461630985309
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.461014905998
@@ -342,6 +341,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamaru Usman',de,unknown,#111111,#111111,1,0.393011613486
 'Prinz Andrew',de,UK,#e838e8,#e838e8,2,0.392981424709
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.392826388622
+'Scott Pelley',de,unknown,#111111,#111111,1,0.392763814535
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'Eric Dane',de,unknown,#111111,#111111,1,0.391967045525
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,1,0.391940467051
