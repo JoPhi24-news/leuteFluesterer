@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Charles Spencer',de,unknown,#111111,#111111,2,0.608735805255
+'Charles Spencer',de,unknown,#111111,#111111,3,0.613286055376
 'Michael Showalter',de,unknown,#111111,#111111,2,0.504786858374
 'Colleen Hoover',de,unknown,#111111,#111111,2,0.502518718476
 'Josh Hartnett',de,unknown,#111111,#111111,2,0.500610333785
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.480063302719
 'Pierce Brosnan',de,unknown,#111111,#111111,2,0.479766053691
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.479386160057
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.476154027992
 'James Bond',de,unknown,#111111,#111111,3,0.474814494616
 'Tom Cruise',de,unknown,#111111,#111111,3,0.472886969428
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dakota Johnson',de,unknown,#111111,#111111,3,0.470542958450
 'Manuela Schwesig',de,unknown,#111111,#111111,3,0.469196635559
 'Natalie Harp',de,unknown,#111111,#111111,3,0.467287303597
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.465679370883
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.466383798369
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.465565377579
 'Andy Burnham',de,unknown,#111111,#111111,3,0.465109731451
 'Todd Blanche',de,unknown,#111111,#111111,3,0.464107809270
@@ -257,6 +257,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Jack White',de,unknown,#111111,#111111,1,0.417422245129
+'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.417306412009
 'Chris Nanos',de,unknown,#111111,#111111,1,0.417052294638
 'HBO Max',de,unknown,#111111,#111111,3,0.416567791759
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
@@ -268,7 +269,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Phillipp-Anders Rau',de,Deutschland,#11dd44,#11dd44,1,0.415475615341
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.415244105725
 'Kendall Jenner',de,unknown,#111111,#111111,1,0.414947600855
-'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.414898984914
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
 'Prince Philip',de,unknown,#111111,#111111,1,0.412763126332
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,2,0.412480264105
@@ -302,6 +302,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kristi Noem',de,unknown,#111111,#111111,2,0.406313097902
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
+'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.404189754479
 'Renee Nicole Good',de,unknown,#111111,#111111,2,0.404148612920
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.403733466580
 'Michele Reiner',de,unknown,#111111,#111111,1,0.403471082934
@@ -318,7 +319,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
 'Sydney Sweeney',de,unknown,#111111,#111111,2,0.401645799142
 'Epstein Files',de,unknown,#111111,#111111,2,0.401155682769
-'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.400875684392
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
 'Jonathan Ross',de,unknown,#111111,#111111,1,0.399665777012
 'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.399087088172
@@ -605,6 +605,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Königin Camilla',de,UK,#e838e8,#e838e8,2,0.335849257621
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.335685844193
 'Maybrit Illner',de,Deutschland,#11dd44,#11dd44,3,0.335492184400
+'Lady Di',de,UK,#e838e8,#e838e8,2,0.335300747196
 'Jerry Seinfeld',de,USA,#18e8e8,#18e8e8,1,0.335118759698
 'Adolf Hitler',de,Deutschland,#11dd44,#11dd44,3,0.335068911946
 'Angela Merkel',de,Deutschland,#11dd44,#11dd44,3,0.335043764446
@@ -614,7 +615,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rupert Murdoch',de,Australien,#99aa33,#99aa33,1,0.333821629004
 'Jeff Ross',de,USA,#18e8e8,#18e8e8,2,0.333705848340
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.333443959179
-'Lady Di',de,UK,#e838e8,#e838e8,2,0.333394407408
 'Maria Sacharowa',de,Russland,#e81818,#e81818,2,0.333336125590
 'Yoon Suk Yeol',de,SüdKorea,#22bb66,#22bb66,2,0.333253232075
 'Prince Charles',de,UK,#e838e8,#e838e8,2,0.333174011643
