@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Charles Spencer',de,unknown,#111111,#111111,3,0.613286055376
+'Charles Spencer',de,unknown,#111111,#111111,3,0.576244677070
 'Michael Showalter',de,unknown,#111111,#111111,2,0.504786858374
 'Colleen Hoover',de,unknown,#111111,#111111,2,0.502518718476
 'Josh Hartnett',de,unknown,#111111,#111111,2,0.500610333785
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dakota Johnson',de,unknown,#111111,#111111,3,0.470542958450
 'Manuela Schwesig',de,unknown,#111111,#111111,3,0.469196635559
 'Natalie Harp',de,unknown,#111111,#111111,3,0.467287303597
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.466383798369
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.467086826242
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.465565377579
 'Andy Burnham',de,unknown,#111111,#111111,3,0.465109731451
 'Todd Blanche',de,unknown,#111111,#111111,3,0.464107809270
@@ -253,11 +253,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Samuel',de,USA,#18e8e8,#18e8e8,2,0.418343196774
 'Logan Paul',de,unknown,#111111,#111111,2,0.418273162609
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.418171871714
+'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.418105791901
 'Norbert Rollinger',de,Deutschland,#11dd44,#11dd44,1,0.417948871837
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Jack White',de,unknown,#111111,#111111,1,0.417422245129
-'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.417306412009
 'Chris Nanos',de,unknown,#111111,#111111,1,0.417052294638
 'HBO Max',de,unknown,#111111,#111111,3,0.416567791759
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
@@ -368,8 +368,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ro Khanna',de,unknown,#111111,#111111,1,0.385487816952
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.385154098488
 'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.384967789505
+'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.384542554626
 'Steve Witkoff',de,unknown,#111111,#111111,2,0.384451671637
-'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.383679243572
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
 'Delcy Rodriguez',de,unknown,#111111,#111111,2,0.383414451610
 'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.383219467853
