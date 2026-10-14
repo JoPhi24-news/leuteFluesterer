@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michael Showalter',de,unknown,#111111,#111111,2,0.504786858374
 'Charles Spencer',de,unknown,#111111,#111111,3,0.502542508729
 'Colleen Hoover',de,unknown,#111111,#111111,2,0.502518718476
 'Josh Hartnett',de,unknown,#111111,#111111,2,0.500610333785
@@ -180,6 +179,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexandre Pantoja',de,unknown,#111111,#111111,1,0.429144234001
 'Dakota Ditcheva',de,unknown,#111111,#111111,1,0.429143265089
 'Charles Oliveira',de,unknown,#111111,#111111,2,0.429096264810
+'Michael Showalter',de,unknown,#111111,#111111,1,0.429068949618
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
 'Péter Magyar',de,unknown,#111111,#111111,3,0.428863537511
 'Jay Clayton',de,unknown,#111111,#111111,1,0.428816666992
