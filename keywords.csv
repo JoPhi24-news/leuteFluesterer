@@ -1,8 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Don Bacon',de,unknown,#111111,#111111,2,0.496619594538
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.484765634537
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.480063302719
 'Pierce Brosnan',de,unknown,#111111,#111111,2,0.479766053691
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.476154027992
 'James Bond',de,unknown,#111111,#111111,3,0.474814494616
@@ -13,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.470810261103
 'Simon Lansmann',de,Deutschland,#11dd44,#11dd44,1,0.470768869331
 'Manuela Schwesig',de,unknown,#111111,#111111,3,0.469196635559
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.468375603135
 'Natalie Harp',de,unknown,#111111,#111111,3,0.467287303597
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.465565377579
 'Andy Burnham',de,unknown,#111111,#111111,3,0.465109731451
 'Todd Blanche',de,unknown,#111111,#111111,3,0.464107809270
 'Keir Starmer',de,unknown,#111111,#111111,3,0.463895568199
@@ -105,10 +106,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tulsi Gabbard',de,unknown,#111111,#111111,2,0.437805502089
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.437572900269
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.437018267581
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'James Van Der Beek',de,unknown,#111111,#111111,1,0.436730744677
 'Graham Platner',de,unknown,#111111,#111111,1,0.436314874010
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.436255757374
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.435834398522
 'Ciryl Gane',de,unknown,#111111,#111111,2,0.435810981303
@@ -187,7 +188,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Murphy',de,unknown,#111111,#111111,1,0.428508761803
 'Amélie de Montchalin',de,unknown,#111111,#111111,1,0.428495491464
 'Noël Barrot',de,unknown,#111111,#111111,3,0.428486557388
-'Don Bacon',de,unknown,#111111,#111111,1,0.428434675927
 'Yadong Song',de,unknown,#111111,#111111,1,0.428392777509
 'David Amiel',de,unknown,#111111,#111111,1,0.428354875720
 'Christina Ricci',de,unknown,#111111,#111111,1,0.428220721672
@@ -507,10 +507,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.357088107469
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.357029866375
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.356825237617
+'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.356723092068
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.356470107316
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.356240721349
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
-'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.355808674469
 'Peyton Manning',de,unknown,#111111,#111111,2,0.355718007326
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.355165489478
 'Fabien Roussel',de,unknown,#111111,#111111,2,0.354770296051
