@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Josh Hartnett',de,unknown,#111111,#111111,3,0.507742065990
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
@@ -151,6 +150,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Spencer',de,unknown,#111111,#111111,3,0.432112632420
 'María Corina Machado',de,unknown,#111111,#111111,2,0.431749644085
 'Baptiste Marteau',de,unknown,#111111,#111111,1,0.431728753812
+'Josh Hartnett',de,unknown,#111111,#111111,2,0.431581341092
 'Michael Morales',de,unknown,#111111,#111111,1,0.431476378079
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.431458448781
 'Robert Gates',de,unknown,#111111,#111111,2,0.431451411757
