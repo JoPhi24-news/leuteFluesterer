@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Josh Hartnett',de,unknown,#111111,#111111,2,0.500610333785
+'Josh Hartnett',de,unknown,#111111,#111111,3,0.507742065990
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierce Brosnan',de,unknown,#111111,#111111,2,0.479766053691
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.476154027992
 'James Bond',de,unknown,#111111,#111111,3,0.474814494616
-'Tom Cruise',de,unknown,#111111,#111111,3,0.472886969428
+'Tom Cruise',de,unknown,#111111,#111111,3,0.473577061853
+'Dakota Johnson',de,unknown,#111111,#111111,3,0.473313704529
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.471275739497
 'Rosie ODonnell',de,unknown,#111111,#111111,2,0.471037884162
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.470810261103
 'Simon Lansmann',de,Deutschland,#11dd44,#11dd44,1,0.470768869331
-'Dakota Johnson',de,unknown,#111111,#111111,3,0.470542958450
 'Manuela Schwesig',de,unknown,#111111,#111111,3,0.469196635559
 'Natalie Harp',de,unknown,#111111,#111111,3,0.467287303597
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.465565377579
@@ -113,6 +113,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.435834398522
 'Ciryl Gane',de,unknown,#111111,#111111,2,0.435810981303
+'Colleen Hoover',de,unknown,#111111,#111111,1,0.435641505379
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.435581110391
 'Juan Pablo Guanipa',de,unknown,#111111,#111111,3,0.435578893182
 'Maite Kelly',de,unknown,#111111,#111111,1,0.435300280430
@@ -171,6 +172,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gable Steveson',de,unknown,#111111,#111111,1,0.429977390156
 'Khabib Nurmagomedov',de,unknown,#111111,#111111,1,0.429924670690
 'Ian Garry',de,unknown,#111111,#111111,1,0.429910000477
+'Michael Showalter',de,unknown,#111111,#111111,1,0.429845502612
 'Kevin Spacey',de,unknown,#111111,#111111,1,0.429510738334
 'Rosie O’Donnell',de,unknown,#111111,#111111,1,0.429467093218
 'Elie Favrot',de,unknown,#111111,#111111,1,0.429362325869
@@ -178,7 +180,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexandre Pantoja',de,unknown,#111111,#111111,1,0.429144234001
 'Dakota Ditcheva',de,unknown,#111111,#111111,1,0.429143265089
 'Charles Oliveira',de,unknown,#111111,#111111,2,0.429096264810
-'Michael Showalter',de,unknown,#111111,#111111,1,0.429068949618
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
 'Péter Magyar',de,unknown,#111111,#111111,3,0.428863537511
 'Jay Clayton',de,unknown,#111111,#111111,1,0.428816666992
@@ -198,7 +199,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Belal Muhammad',de,unknown,#111111,#111111,1,0.427423756320
 'Paul McCartney',de,unknown,#111111,#111111,3,0.427325599624
 'Catherine Pégard',de,unknown,#111111,#111111,1,0.427233210409
-'Colleen Hoover',de,unknown,#111111,#111111,1,0.427141330705
 'Christian Bale',de,unknown,#111111,#111111,1,0.427120103512
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Ségolène Royal',de,unknown,#111111,#111111,1,0.426925958477
@@ -276,6 +276,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Pulte',de,unknown,#111111,#111111,2,0.412005760318
 'Karoline Leavitt',de,unknown,#111111,#111111,2,0.411711940975
 'Emmanuel Moulin',de,unknown,#111111,#111111,1,0.411682945873
+'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.411456497857
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.411320517426
 'Bill Maher',de,unknown,#111111,#111111,2,0.411306168503
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,2,0.411153140000
@@ -294,7 +295,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.408832736582
 'Sebastian Hille',de,unknown,#111111,#111111,2,0.408401632949
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.408383525883
-'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.408198266872
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.407757894642
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.407719536849
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.406885415367
@@ -482,6 +482,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ferdinand Dudenhöffer',de,Deutschland,#11dd44,#11dd44,3,0.361712987269
 'Tom Cotton',de,unknown,#111111,#111111,1,0.361590772500
 'Tom Aspinall',de,UK,#e838e8,#e838e8,1,0.361577459386
+'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.361406586483
 'Rashida Tlaib',de,unknown,#111111,#111111,1,0.361334458116
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.361250000000
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.361250000000
@@ -492,7 +493,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sophie Turner',de,UK,#e838e8,#e838e8,1,0.360437274561
 'Keith Kellogg',de,USA,#18e8e8,#18e8e8,3,0.360077520603
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
-'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.359593040267
 'Charles III',de,UK,#e838e8,#e838e8,3,0.359328181690
 'Maja Göpel',de,Deutschland,#11dd44,#11dd44,1,0.358644819504
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.358184336533
@@ -692,13 +692,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francesca Albanese',de,Italien,#7722cc,#7722cc,2,0.319906598401
 'Chez Krömer',de,Deutschland,#11dd44,#11dd44,1,0.319800306197
 'Margaret Qualley',de,unknown,#111111,#111111,1,0.319749668263
+'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.319327175338
 'Gayle King',de,unknown,#111111,#111111,1,0.319274050661
 'Prinz Louis',de,UK,#e838e8,#e838e8,2,0.319018665989
 'Radical Optimism',de,unknown,#111111,#111111,1,0.318959620849
 'Rosa Parks',de,unknown,#111111,#111111,1,0.318836466135
 'Nicolas Maduro',de,unknown,#111111,#111111,1,0.318765340776
 'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.318423812500
-'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.318347476924
 'Michelle O\'Neill',de,Irland,#33bbff,#33bbff,1,0.317954973082
 'Gabriel Attal',de,Frankreich,#e8e808,#e8e808,1,0.317881238693
 'Laurent Berger',de,Frankreich,#e8e808,#e8e808,1,0.317825978813
