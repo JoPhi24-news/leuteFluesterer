@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Fallon',de,unknown,#111111,#111111,2,0.460387075566
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
-'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,3,0.459480820081
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.458014084025
 'Ken Paxton',de,unknown,#111111,#111111,2,0.457950661351
@@ -352,6 +351,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Walz',de,unknown,#111111,#111111,1,0.391819157263
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.391488671137
 'Mark Kelly',de,unknown,#111111,#111111,1,0.391008204779
+'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,2,0.390559327069
 'Mojtaba Khamenei',de,unknown,#111111,#111111,2,0.389987988003
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,1,0.389588364168
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
