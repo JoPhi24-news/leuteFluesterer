@@ -771,7 +771,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.310094127837
 'Devon Archer',de,unknown,#111111,#111111,1,0.310041952249
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,1,0.310004494944
-'Sam Levinson',de,unknown,#111111,#111111,1,0.309957994418
 'Mindy Kaling',de,unknown,#111111,#111111,1,0.309883617097
 'Buzz Aldrin',de,USA,#18e8e8,#18e8e8,1,0.309879240715
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.309783019488
@@ -963,6 +962,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander von Humboldt',de,Deutschland,#11dd44,#11dd44,1,0.263999431264
 'Bill Geddie',de,unknown,#111111,#111111,1,0.263772524303
 'nan Si',de,unknown,#111111,#111111,1,0.263529894355
+'Sam Levinson',de,unknown,#111111,#111111,1,0.263464295255
 'Luc Terlinden',de,unknown,#111111,#111111,1,0.263398422573
 'Sherri Shepherd',de,unknown,#111111,#111111,1,0.263383745961
 'Sergei Shoigu',de,unknown,#111111,#111111,1,0.263376069387
