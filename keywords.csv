@@ -99,10 +99,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
 'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.440510637234
 'Cilia Flores',de,unknown,#111111,#111111,3,0.438603057210
+'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.438332829673
 'Casey Wasserman',de,unknown,#111111,#111111,1,0.438040141383
 'Kaitlan Collins',de,unknown,#111111,#111111,2,0.437968755831
 'Tulsi Gabbard',de,unknown,#111111,#111111,2,0.437805502089
-'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.437572900269
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.437018267581
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
@@ -391,6 +391,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.379283175466
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.378631323449
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.378375026495
+'Al Nassr',de,unknown,#111111,#111111,3,0.377599338354
 'Francis Ngannou',de,unknown,#111111,#111111,1,0.376709486990
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,1,0.375531434263
 'Kylie Kelce',de,unknown,#111111,#111111,2,0.375362486525
@@ -508,6 +509,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.357029866375
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.356825237617
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.356723092068
+'Cristiano Ronaldo',de,Portugal,#66bb22,#66bb22,3,0.356580243843
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.356470107316
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.356240721349
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
@@ -610,7 +612,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adolf Hitler',de,Deutschland,#11dd44,#11dd44,3,0.335068911946
 'Angela Merkel',de,Deutschland,#11dd44,#11dd44,3,0.335043764446
 'Pedro Sánchez',de,Spanien,#1144aa,#1144aa,2,0.334395175667
-'Cristiano Ronaldo',de,Portugal,#66bb22,#66bb22,3,0.334172741405
 'Oliver Anthony',de,USA,#18e8e8,#18e8e8,1,0.333988588800
 'Rupert Murdoch',de,Australien,#99aa33,#99aa33,1,0.333821629004
 'Jeff Ross',de,USA,#18e8e8,#18e8e8,2,0.333705848340
@@ -664,7 +665,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tyson Fury',de,UK,#e838e8,#e838e8,1,0.326389926338
 'Leni Klum',de,USA,#18e8e8,#18e8e8,1,0.326176688483
 'Camille Cottin',de,Frankreich,#e8e808,#e8e808,1,0.326142521580
-'Al Nassr',de,unknown,#111111,#111111,2,0.326109950470
 'François Bayrou',de,Frankreich,#e8e808,#e8e808,2,0.326105473874
 'Jesse Watters',de,USA,#18e8e8,#18e8e8,1,0.326058094678
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.326013362661
