@@ -152,7 +152,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Morales',de,unknown,#111111,#111111,1,0.431476378079
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.431458448781
 'Robert Gates',de,unknown,#111111,#111111,2,0.431451411757
-'Romy Reiner',de,unknown,#111111,#111111,2,0.431403566427
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,3,0.431380393532
 'Merab Dvalishvili',de,unknown,#111111,#111111,2,0.431266078829
 'Fabrice Aidan',de,unknown,#111111,#111111,1,0.431237406328
@@ -434,6 +433,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.366872657888
 'Claire Legendre',de,unknown,#111111,#111111,1,0.366854476730
 'Mukesh Ambani',de,Indien,#dd3344,#dd3344,1,0.366804351496
+'Romy Reiner',de,unknown,#111111,#111111,1,0.366693031463
 'Dan Hooker',de,unknown,#111111,#111111,1,0.366677150171
 'Jim Himes',de,unknown,#111111,#111111,1,0.366583384225
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.366522213047
