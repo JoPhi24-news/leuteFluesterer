@@ -1,4 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Earl Spencer',de,unknown,#111111,#111111,2,0.608773713396
+'Dianas Bruder',de,unknown,#111111,#111111,2,0.605095952729
+'Buckingham Palace',de,unknown,#111111,#111111,2,0.509799303214
+'George Staines',de,unknown,#111111,#111111,2,0.507394276784
+'François Ruffin',de,unknown,#111111,#111111,2,0.505815734981
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.487296800958
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485432045518
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
@@ -195,7 +200,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Bale',de,unknown,#111111,#111111,1,0.427120103512
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Ségolène Royal',de,unknown,#111111,#111111,1,0.426925958477
-'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Brendan Carr',de,unknown,#111111,#111111,1,0.426672023127
 'Jérôme Guedj',de,unknown,#111111,#111111,1,0.426580020758
 'Chris Van Hollen',de,unknown,#111111,#111111,1,0.426546067202
@@ -477,6 +481,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kelly Ripa',de,unknown,#111111,#111111,1,0.362895997685
 'Leslie Wexner',de,unknown,#111111,#111111,1,0.362875474423
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,1,0.362855793459
+'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,1,0.362750483760
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.362709920874
 'Gervonta Davis',de,USA,#18e8e8,#18e8e8,1,0.362562268201
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.362495251209
