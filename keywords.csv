@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Earl Spencer',de,unknown,#111111,#111111,1,0.517458121387
 'Buckingham Palace',de,unknown,#111111,#111111,2,0.509799303214
 'Dianas Bruder',de,unknown,#111111,#111111,3,0.508123288272
 'George Staines',de,unknown,#111111,#111111,2,0.507394276784
@@ -12,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierce Brosnan',de,unknown,#111111,#111111,2,0.479766053691
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.476154027992
 'James Bond',de,unknown,#111111,#111111,3,0.474814494616
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.474040668748
 'Tom Cruise',de,unknown,#111111,#111111,3,0.473577061853
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.473351501238
 'Dakota Johnson',de,unknown,#111111,#111111,3,0.473313704529
 'Rosie ODonnell',de,unknown,#111111,#111111,2,0.471037884162
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.470810261103
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.468375603135
 'Natalie Harp',de,unknown,#111111,#111111,3,0.467287303597
 'Andy Burnham',de,unknown,#111111,#111111,3,0.465109731451
+'Earl Spencer',de,unknown,#111111,#111111,2,0.464339853179
 'Todd Blanche',de,unknown,#111111,#111111,3,0.464107809270
 'Keir Starmer',de,unknown,#111111,#111111,3,0.463895568199
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.462440863414
@@ -289,6 +289,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Homan',de,unknown,#111111,#111111,2,0.409696094238
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.409472302084
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,1,0.409196863586
+'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.409113600290
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Charles Kushner',de,unknown,#111111,#111111,1,0.408966233405
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.408832736582
@@ -297,7 +298,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.407757894642
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.406885415367
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.406792004105
-'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.406658747801
 'Kristi Noem',de,unknown,#111111,#111111,2,0.406313097902
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
