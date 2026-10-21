@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'George Staines',de,unknown,#111111,#111111,2,0.507394276784
 'François Ruffin',de,unknown,#111111,#111111,2,0.505815734981
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.487296800958
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485432045518
@@ -158,6 +157,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.431458448781
 'Robert Gates',de,unknown,#111111,#111111,2,0.431451411757
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,3,0.431380393532
+'George Staines',de,unknown,#111111,#111111,1,0.431285135266
 'Merab Dvalishvili',de,unknown,#111111,#111111,2,0.431266078829
 'Fabrice Aidan',de,unknown,#111111,#111111,1,0.431237406328
 'Karol G',de,Kolumbien,#3355dd,#3355dd,1,0.431101111006
