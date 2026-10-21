@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'François Ruffin',de,unknown,#111111,#111111,2,0.505815734981
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.487296800958
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485432045518
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
@@ -171,6 +170,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.430163071475
 'Usman Nurmagomedov',de,unknown,#111111,#111111,1,0.430049908051
 'Gable Steveson',de,unknown,#111111,#111111,1,0.429977390156
+'François Ruffin',de,unknown,#111111,#111111,1,0.429943374734
 'Khabib Nurmagomedov',de,unknown,#111111,#111111,1,0.429924670690
 'Ian Garry',de,unknown,#111111,#111111,1,0.429910000477
 'Kevin Spacey',de,unknown,#111111,#111111,1,0.429510738334
