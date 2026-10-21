@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dianas Bruder',de,unknown,#111111,#111111,3,0.508123288272
 'George Staines',de,unknown,#111111,#111111,2,0.507394276784
 'François Ruffin',de,unknown,#111111,#111111,2,0.505815734981
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.487296800958
@@ -109,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tulsi Gabbard',de,unknown,#111111,#111111,2,0.437805502089
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.437018267581
+'Dianas Bruder',de,unknown,#111111,#111111,3,0.436855575031
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'James Van Der Beek',de,unknown,#111111,#111111,1,0.436730744677
 'Graham Platner',de,unknown,#111111,#111111,1,0.436314874010
