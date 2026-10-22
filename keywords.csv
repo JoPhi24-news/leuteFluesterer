@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.496330555476
+'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.490469480791
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.487296800958
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485432045518
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
@@ -23,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keir Starmer',de,unknown,#111111,#111111,3,0.463895568199
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.462440863414
 'Buckingham Palace',de,unknown,#111111,#111111,2,0.462350250967
+'Sven Schulze',de,unknown,#111111,#111111,3,0.461647940216
 'Jimmy Fallon',de,unknown,#111111,#111111,2,0.460387075566
 'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
@@ -34,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Liveblog Irankrieg',de,unknown,#111111,#111111,3,0.457752256802
 'Joe Kent',de,unknown,#111111,#111111,3,0.457681562687
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.457358553728
-'Sven Schulze',de,unknown,#111111,#111111,3,0.457343535581
 'John Cornyn',de,unknown,#111111,#111111,2,0.456875017197
 'Liveblog USA',de,unknown,#111111,#111111,3,0.456772453824
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.456613921442
@@ -191,6 +191,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Amiel',de,unknown,#111111,#111111,1,0.428354875720
 'Christina Ricci',de,unknown,#111111,#111111,1,0.428220721672
 'Mauricio Ruffy',de,unknown,#111111,#111111,1,0.428205425846
+'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.428037419688
 'Gregory Rodrigues',de,unknown,#111111,#111111,1,0.427934343114
 'Christophe Gleizes',de,unknown,#111111,#111111,1,0.427801086370
 'Bogdan Guskov',de,unknown,#111111,#111111,2,0.427496593168
@@ -204,7 +205,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brendan Carr',de,unknown,#111111,#111111,1,0.426672023127
 'Jérôme Guedj',de,unknown,#111111,#111111,1,0.426580020758
 'Chris Van Hollen',de,unknown,#111111,#111111,1,0.426546067202
-'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.426475734846
 'Philippe Brun',de,unknown,#111111,#111111,1,0.426444566264
 'Adam Mockler',de,unknown,#111111,#111111,1,0.426320157079
 'Elisha Ellison',de,unknown,#111111,#111111,1,0.426116020383
@@ -400,6 +400,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kylie Kelce',de,unknown,#111111,#111111,2,0.375362486525
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.375266782484
 'Yoav Gallant ',de,unknown,#111111,#111111,2,0.375215589925
+'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.375189250453
 'Isaac Herzog',de,unknown,#111111,#111111,1,0.375066813925
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
 'Michael Lynk',de,unknown,#111111,#111111,1,0.374616273587
@@ -410,7 +411,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Soto',de,unknown,#111111,#111111,1,0.374616250000
 'Avi Dichter',de,unknown,#111111,#111111,1,0.374616250000
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,1,0.374321916751
-'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.373426208714
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,1,0.372968218130
 'Alan Jackson',de,unknown,#111111,#111111,1,0.372233265990
 'Jack Lang',de,unknown,#111111,#111111,2,0.371004070619
@@ -639,11 +639,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.331629582494
 'Ivanka Trump',de,USA,#18e8e8,#18e8e8,2,0.331608319977
 'Emily Blunt',de,UK,#e838e8,#e838e8,1,0.331553686645
+'Jan Böhmermann',de,Deutschland,#11dd44,#11dd44,3,0.331327415032
 'Rainer Maria Woelki',de,Deutschland,#11dd44,#11dd44,2,0.330713246305
 'Brad Pitt',de,USA,#18e8e8,#18e8e8,3,0.330707877112
 'Elizabeth Warren',de,USA,#18e8e8,#18e8e8,1,0.330449612945
 'Albert Einstein',de,Deutschland,#11dd44,#11dd44,3,0.330391176214
-'Jan Böhmermann',de,Deutschland,#11dd44,#11dd44,3,0.330368190416
 'Ben Affleck',de,USA,#18e8e8,#18e8e8,1,0.330274422867
 'Anne Will',de,Deutschland,#11dd44,#11dd44,3,0.330123315476
 'Paul Ronzheimer',de,Deutschland,#11dd44,#11dd44,3,0.329657808230
