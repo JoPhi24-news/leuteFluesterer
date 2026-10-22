@@ -222,7 +222,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Salahdine Parnasse',de,unknown,#111111,#111111,1,0.425626860927
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Sean Strickland',de,unknown,#111111,#111111,1,0.425565294009
-'Nathan Hochman',de,unknown,#111111,#111111,1,0.425492084985
 'Deborah Birx',de,unknown,#111111,#111111,1,0.425413941484
 'François Hollande',de,unknown,#111111,#111111,1,0.425376547548
 'Yannick Jadot',de,unknown,#111111,#111111,1,0.425332804904
@@ -476,6 +475,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nick Bilton',de,unknown,#111111,#111111,2,0.363589443487
 'Alexander Volkanovski',de,unknown,#111111,#111111,1,0.363564211318
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,1,0.363545229500
+'Nathan Hochman',de,unknown,#111111,#111111,1,0.363018407237
 'Peter Attia',de,unknown,#111111,#111111,1,0.362973737713
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.362944774228
 'Kelly Ripa',de,unknown,#111111,#111111,1,0.362895997685
