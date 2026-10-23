@@ -89,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michele Singer',de,unknown,#111111,#111111,1,0.441207301177
 'Mark Levin',de,unknown,#111111,#111111,1,0.440814002526
 'Alex Pereira',de,unknown,#111111,#111111,2,0.440813969148
-'Penny Green',de,unknown,#111111,#111111,1,0.440725030000
 'Thilo Jung',de,unknown,#111111,#111111,1,0.440725012750
 'William Schabas ',de,unknown,#111111,#111111,1,0.440725000000
 'René Gelber',de,unknown,#111111,#111111,1,0.440725000000
@@ -401,6 +400,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.375189250453
 'Isaac Herzog',de,unknown,#111111,#111111,1,0.375066813925
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
+'Penny Green',de,unknown,#111111,#111111,1,0.374616275500
 'Michael Lynk',de,unknown,#111111,#111111,1,0.374616273587
 'Amos Goldberg',de,unknown,#111111,#111111,1,0.374616273587
 'Revital Gottlieb',de,unknown,#111111,#111111,1,0.374616250000
