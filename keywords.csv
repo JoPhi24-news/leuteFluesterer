@@ -1,7 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.541075116429
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.487296800958
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.486097126402
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.485487477309
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485432045518
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
@@ -25,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Buckingham Palace',de,unknown,#111111,#111111,2,0.462350250967
 'Sven Schulze',de,unknown,#111111,#111111,3,0.461647940216
 'Jimmy Fallon',de,unknown,#111111,#111111,2,0.460387075566
-'Ghislaine Maxwell',de,unknown,#111111,#111111,3,0.459558907564
 'Peter Phillips',de,unknown,#111111,#111111,1,0.459523981564
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.459162912138
 'Corey Lewandowski',de,unknown,#111111,#111111,2,0.458928282502
@@ -104,6 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Casey Wasserman',de,unknown,#111111,#111111,1,0.438040141383
 'Kaitlan Collins',de,unknown,#111111,#111111,2,0.437968755831
 'Tulsi Gabbard',de,unknown,#111111,#111111,2,0.437805502089
+'Nicolás Maduro',de,unknown,#111111,#111111,3,0.437359574230
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.437018267581
 'Dianas Bruder',de,unknown,#111111,#111111,3,0.436855575031
@@ -111,7 +112,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Van Der Beek',de,unknown,#111111,#111111,1,0.436730744677
 'Graham Platner',de,unknown,#111111,#111111,1,0.436314874010
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
-'Nicolás Maduro',de,unknown,#111111,#111111,3,0.435834398522
 'Ciryl Gane',de,unknown,#111111,#111111,2,0.435810981303
 'Colleen Hoover',de,unknown,#111111,#111111,1,0.435641505379
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.435581110391
