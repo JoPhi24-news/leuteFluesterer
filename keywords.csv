@@ -279,6 +279,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Max Holloway',de,unknown,#111111,#111111,2,0.410609220743
 'Vanessa Mai',de,unknown,#111111,#111111,2,0.410472469831
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.410144213309
+'Fani Willis',de,unknown,#111111,#111111,2,0.410042337993
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.409933106068
 'Renee Good',de,unknown,#111111,#111111,1,0.409901198270
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
@@ -816,7 +817,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hugh Grant',de,unknown,#111111,#111111,1,0.306582026544
 'Kevin Kühnert',de,Deutschland,#11dd44,#11dd44,3,0.306267580113
 'Barbara Schöneberger',de,Deutschland,#11dd44,#11dd44,3,0.305950455521
-'Fani Willis',de,unknown,#111111,#111111,1,0.305755674110
 'Ottmar Edenhofer',de,Deutschland,#11dd44,#11dd44,1,0.305593889903
 'Chris Christie',de,USA,#18e8e8,#18e8e8,1,0.305456307916
 'Vivek Ramaswamy',de,USA,#18e8e8,#18e8e8,1,0.305155633285
@@ -833,12 +833,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Yo Jong',de,NordKorea,#4811f1,#4811f1,1,0.302602775640
 'Ahmed Al Jaber',de,unknown,#111111,#111111,1,0.302587902721
 'Gerald Darmanin',de,unknown,#111111,#111111,1,0.302155950776
+'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.302077880975
 'Jordan Neely',de,USA,#18e8e8,#18e8e8,1,0.301772532477
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,1,0.301436554751
 'Henry Ford',de,USA,#18e8e8,#18e8e8,1,0.301274496426
 'Jimmy Carter',de,USA,#18e8e8,#18e8e8,1,0.301258027301
 'Gerhard Schröder',de,Deutschland,#11dd44,#11dd44,3,0.301091614085
-'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.301069616808
 'Nikki Haley',de,USA,#18e8e8,#18e8e8,2,0.300820494039
 'Christine Lambrecht',de,Deutschland,#11dd44,#11dd44,1,0.300702679890
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,1,0.300582690342
