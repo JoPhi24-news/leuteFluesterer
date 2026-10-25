@@ -882,7 +882,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ursula von der Leyen',de,EU,#bbff33,#bbff33,3,0.292433924217
 'Geert Wilders',de,Niederlande,#33ffbb,#33ffbb,2,0.292104477972
 'Norbert Röttgen',de,Deutschland,#11dd44,#11dd44,2,0.292075331741
-'Vo Van Thuong',de,unknown,#111111,#111111,1,0.292059843556
 'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.290699627315
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.290506965818
 'Peter Breuer',de,unknown,#111111,#111111,1,0.289662084203
@@ -1006,6 +1005,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selenski',de,Ukraine,#e818e8,#e818e8,1,0.248822842717
 'Harrison Ford',de,unknown,#111111,#111111,1,0.248675424859
 'Kurt Krömer',de,Deutschland,#11dd44,#11dd44,2,0.248464234503
+'Vo Van Thuong',de,unknown,#111111,#111111,1,0.248250867023
 'Aleksandar Vučić',de,Serbien,#4488cc,#4488cc,1,0.247564191884
 'Péter Szijjártó',de,Ungarn,#33aa99,#33aa99,2,0.247233629196
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
