@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,3,0.525990396910
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.487296800958
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.486760879721
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.485487477309
@@ -67,6 +66,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Jon Ossoff',de,unknown,#111111,#111111,2,0.447310152495
 'Thomas Müller',de,unknown,#111111,#111111,3,0.447110817676
+'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447092422373
 'Bari Weiss',de,unknown,#111111,#111111,2,0.446988930110
 'Kash Patel',de,unknown,#111111,#111111,3,0.446916276017
 'Nick Reiner',de,unknown,#111111,#111111,2,0.446124101428
