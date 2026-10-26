@@ -1,786 +1,766 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Sachsen-Anhalt,Sachsen-Anhalt,LOC,0.1006465517241379,0.0603448275862069,de,116
-USA,USA,LOC,0.019005847953216387,0.11988304093567252,de,114
-US-Präsident,US-Präsident,LOC,0.05651515151515152,0.0606060606060606,de,110
-Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,0.09799999999999999,0.0,de,75
-Iran,Iran,LOC,-0.21325757575757578,0.022727272727272728,de,44
-Frankreich,Frankreich,LOC,-0.05,0.0,de,39
-Russland,Russland,LOC,-0.11666666666666667,0.08333333333333333,de,36
-Washington,Washington,LOC,0.0015151515151515132,0.015151515151515152,de,33
-Berlin,Berlin,LOC,-0.03548387096774192,0.03225806451612903,de,31
-New York,New York,LOC,-0.09354838709677418,0.06451612903225806,de,31
-Großbritannien,Großbritannien,LOC,0.15166666666666667,0.13333333333333333,de,30
+Sachsen-Anhalt,Sachsen-Anhalt,LOC,0.09114173228346455,0.05774278215223097,de,127
+USA,USA,LOC,0.02742424242424243,0.12424242424242425,de,110
+US-Präsident,US-Präsident,LOC,0.08754385964912278,0.059649122807017535,de,95
+Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,0.09671052631578947,0.0,de,76
+Berlin,Berlin,LOC,0.03068181818181819,0.056818181818181816,de,44
+Frankreich,Frankreich,LOC,-0.024999999999999998,0.0,de,38
+Russland,Russland,LOC,-0.05945945945945943,0.08108108108108109,de,37
+New York,New York,LOC,-0.08529411764705881,0.058823529411764705,de,34
+Washington,Washington,LOC,0.0016666666666666644,0.016666666666666666,de,30
+Großbritannien,Großbritannien,LOC,0.19833333333333333,0.23333333333333334,de,30
 Landtagswahl,Landtagswahl,LOC,0.21551724137931033,0.06896551724137931,de,29
-den USA,den USA,LOC,-0.0630952380952381,0.20238095238095236,de,28
-Deutschland,Deutschland,LOC,0.09999999999999998,0.07407407407407407,de,27
-Paris,Paris,LOC,-0.05909090909090908,0.045454545454545456,de,22
-US-Präsidenten,US-Präsidenten,LOC,-0.04047619047619047,0.14285714285714285,de,21
-Ukraine,Ukraine,LOC,0.017499999999999988,0.0,de,20
+den USA,den USA,LOC,-0.06091954022988506,0.1954022988505747,de,29
+Deutschland,Deutschland,LOC,0.13214285714285715,0.07142857142857142,de,28
+Iran,Iran,LOC,-0.21346153846153848,0.0,de,26
 Kalifornien,Kalifornien,LOC,-0.021052631578947364,0.05263157894736842,de,19
-England,England,LOC,0.05555555555555555,0.1111111111111111,de,18
+Ukraine,Ukraine,LOC,-0.01842105263157896,0.0,de,19
+Paris,Paris,LOC,0.1722222222222222,0.05555555555555555,de,18
 Kanada,Kanada,LOC,-0.01851851851851852,0.06481481481481481,de,18
-Moskau,Moskau,LOC,-0.04062500000000001,0.03125,de,16
-Meghan,Meghan,LOC,-0.4,0.125,de,16
+US-Präsidenten,US-Präsidenten,LOC,-0.02058823529411764,0.08823529411764706,de,17
 Nashville,Nashville,LOC,0.1875,0.0,de,16
-Tennessee,Tennessee,LOC,0.08125,0.0,de,16
-…,…,LOC,0.06785714285714287,0.03571428571428571,de,14
-Straße von Hormus,Straße von Hormus,LOC,-0.07142857142857142,0.0,de,14
-Europa,Europa,LOC,-0.09642857142857143,0.03571428571428571,de,14
-Reuters,Reuters,LOC,0.0,0.0,de,12
+London,London,LOC,-0.15625,0.03125,de,16
+England,England,LOC,0.0625,0.0625,de,16
+Moskau,Moskau,LOC,-0.09000000000000001,0.03333333333333333,de,15
+Tennessee,Tennessee,LOC,0.09285714285714286,0.0,de,14
+Meghan,Meghan,LOC,-0.19285714285714287,0.14285714285714285,de,14
+…,…,LOC,0.07307692307692308,0.038461538461538464,de,13
 Los Angeles,Los Angeles,LOC,0.4583333333333333,0.08333333333333333,de,12
-Privacy Center,Privacy Center,LOC,0.0,0.0,de,12
-Eton College,Eton College,LOC,0.02121212121212121,0.0606060606060606,de,11
+Reuters,Reuters,LOC,0.0,0.0,de,12
 China,China,LOC,0.010606060606060598,0.09090909090909091,de,11
+Eton College,Eton College,LOC,0.02121212121212121,0.0606060606060606,de,11
+Privacy Center,Privacy Center,LOC,0.0,0.0,de,11
+Europa,Europa,LOC,-0.031818181818181815,0.045454545454545456,de,11
 Weißen Haus,Weißen Haus,LOC,-0.0409090909090909,0.0,de,11
-London,London,LOC,-0.16363636363636364,0.045454545454545456,de,11
-Pentagon,Pentagon,LOC,0.12727272727272726,0.2727272727272727,de,11
 U.S.,U.S.,LOC,0.0,0.0,de,11
+Pentagon,Pentagon,LOC,0.12727272727272726,0.2727272727272727,de,11
 Kennedy Center,Kennedy Center,LOC,-0.42000000000000004,0.05,de,10
-Weiße Haus,Weiße Haus,LOC,-0.06999999999999999,0.0,de,10
-US-Sexualstraftäter,US-Sexualstraftäter,LOC,0.1111111111111111,0.0,de,9
+Weiße Haus,Weiße Haus,LOC,-0.04444444444444443,0.0,de,9
 Marine Le Pen,Marine Le Pen,LOC,0.0611111111111111,0.0,de,9
 Königshaus,Königshaus,LOC,0.4541666666666667,0.0,de,8
+Straße von Hormus,Straße von Hormus,LOC,-0.0875,0.0,de,8
 Veröffentlichung,Veröffentlichung,LOC,0.4375,0.0,de,8
-Eton,Eton,LOC,-0.04375,0.0625,de,8
 Russlands,Russlands,LOC,0.25,0.0,de,8
-US-Sängerin,US-Sängerin,LOC,0.0875,0.0,de,8
-Schweiz,Schweiz,LOC,-0.4145833333333333,0.0,de,8
-Portugal,Portugal,LOC,0.4428571428571428,0.0,de,7
-Bund,Bund,LOC,0.24285714285714285,0.2857142857142857,de,7
-Country-Ikone,Country-Ikone,LOC,0.0,0.0,de,7
+Eton,Eton,LOC,-0.04375,0.0625,de,8
+Landtag,Landtag,LOC,0.0,0.0,de,7
 Türkei,Türkei,LOC,-0.19285714285714287,0.21428571428571427,de,7
 Harry,Harry,LOC,-0.34285714285714286,0.14285714285714285,de,7
-Pariser,Pariser,LOC,-0.23809523809523808,0.0,de,7
+Deutschlands,Deutschlands,LOC,0.0,0.0,de,7
+Royal Lodge,Royal Lodge,LOC,-0.12142857142857143,0.0,de,7
+Country-Ikone,Country-Ikone,LOC,0.0,0.0,de,7
+Dianas,Dianas,LOC,0.0,0.0,de,7
+Portugal,Portugal,LOC,0.4428571428571428,0.0,de,7
+US-Sängerin,US-Sängerin,LOC,0.24285714285714285,0.0,de,7
 Trump,Trump,LOC,0.0,0.0,de,7
-US-Regierung,US-Regierung,LOC,0.09999999999999999,0.14285714285714285,de,7
+AfD-Politiker,AfD-Politiker,LOC,0.24285714285714285,0.0,de,7
+Bund,Bund,LOC,0.24285714285714285,0.2857142857142857,de,7
 Indien,Indien,LOC,0.0,0.0,de,6
-Leipzig,Leipzig,LOC,-0.14166666666666666,0.0,de,6
-Venezuela,Venezuela,LOC,-0.05000000000000001,0.0,de,6
-Trumps,Trumps,LOC,-0.39999999999999997,0.0,de,6
-Flughafen Nashville,Flughafen Nashville,LOC,0.0,0.0,de,6
-Ungarn,Ungarn,LOC,0.2833333333333333,0.3333333333333333,de,6
-Ontariosee,Ontariosee,LOC,0.0,0.0,de,6
+US-Regierung,US-Regierung,LOC,0.11666666666666665,0.16666666666666666,de,6
 Oslo,Oslo,LOC,0.5833333333333334,0.0,de,6
+Lanz,Lanz,LOC,0.0,0.0,de,6
+Flughafen Nashville,Flughafen Nashville,LOC,0.0,0.0,de,6
+Venezuela,Venezuela,LOC,-0.05000000000000001,0.0,de,6
+Ontariosee,Ontariosee,LOC,0.0,0.0,de,6
+Leipzig,Leipzig,LOC,-0.14166666666666666,0.0,de,6
+Trumps,Trumps,LOC,-0.39999999999999997,0.0,de,6
 Texas,Texas,LOC,-0.16666666666666666,0.0,de,6
-Malibu,Malibu,LOC,-0.27999999999999997,0.2,de,5
-Amerikaner,Amerikaner,LOC,0.6,0.0,de,5
-Frankreichs,Frankreichs,LOC,-0.16999999999999998,0.0,de,5
-Frankfurt,Frankfurt,LOC,0.26,0.0,de,5
+Windsor,Windsor,LOC,0.0,0.0,de,6
+Schweiz,Schweiz,LOC,-0.38333333333333336,0.0,de,5
+Hollywood,Hollywood,LOC,0.0,0.2,de,5
+Pariser,Pariser,LOC,-0.13333333333333333,0.2,de,5
 Landes,Landes,LOC,0.0,0.2,de,5
+Frankfurt,Frankfurt,LOC,0.26,0.0,de,5
 Israel,Israel,LOC,-0.4,0.0,de,5
-Landtag,Landtag,LOC,0.0,0.0,de,5
-Kiew,Kiew,LOC,-0.4,0.0,de,5
+Unionsfraktionschef,Unionsfraktionschef,LOC,0.7,0.0,de,5
+Amerikaner,Amerikaner,LOC,0.6,0.0,de,5
 Tennessees,Tennessees,LOC,0.6,0.0,de,5
-Briten,Briten,LOC,-0.030000000000000006,0.2,de,5
-Dianas,Dianas,LOC,0.0,0.0,de,5
-AfD-Politiker,AfD-Politiker,LOC,0.13999999999999999,0.0,de,5
-Deutschlands,Deutschlands,LOC,0.0,0.0,de,5
-Buch-Community,Buch-Community,LOC,0.0,0.0,de,4
-MV,MV,LOC,-0.15000000000000002,0.0,de,4
+Schwerin,Schwerin,LOC,0.48,0.0,de,5
+Malibu,Malibu,LOC,-0.27999999999999997,0.2,de,5
+Frankreichs,Frankreichs,LOC,-0.16999999999999998,0.0,de,5
+Kiew,Kiew,LOC,-0.4,0.0,de,5
+Brandenburger Tor,Brandenburger Tor,LOC,0.0,0.0,de,4
 Magdeburg,Magdeburg,LOC,-0.425,0.0,de,4
-Union,Union,LOC,0.0,0.0,de,4
-Landtag von Sachsen-Anhalt,Landtag von Sachsen-Anhalt,LOC,0.0,0.0,de,4
-Aug 31,Aug 31,LOC,0.0,0.0,de,4
-Vereinigten Staaten,Vereinigten Staaten,LOC,0.25,0.0,de,4
+Amerika,Amerika,LOC,0.30416666666666664,0.25,de,4
+AfD-Spitzenkandidat,AfD-Spitzenkandidat,LOC,0.175,0.0,de,4
 Wales,Wales,LOC,0.0875,0.375,de,4
-Lilibet,Lilibet,LOC,0.17499999999999996,0.25,de,4
+Vereinigten Staaten,Vereinigten Staaten,LOC,0.25,0.0,de,4
+Aug 31,Aug 31,LOC,0.0,0.0,de,4
+Neue Villa,Neue Villa,LOC,0.7,0.0,de,4
 Cleveland,Cleveland,LOC,-0.35,0.0,de,4
-Dänemark,Dänemark,LOC,-0.425,0.0,de,4
+Delhi,Delhi,LOC,0.0,0.0,de,4
+Indiens,Indiens,LOC,0.6375,0.0,de,4
 Grönland,Grönland,LOC,0.175,0.0,de,4
 Landtagswahlen,Landtagswahlen,LOC,0.175,0.25,de,4
-Europas,Europas,LOC,0.25,0.0,de,4
-Bestseller-Autorin,Bestseller-Autorin,LOC,0.7,0.0,de,4
-Norwegen,Norwegen,LOC,0.0,0.25,de,4
-Bad Bunny,Bad Bunny,LOC,0.0,0.0,de,4
-Hollywood,Hollywood,LOC,0.0,0.25,de,4
-Selenskyj,Selenskyj,LOC,0.35,0.0,de,4
-Flughafen Leipzig/Halle,Flughafen Leipzig/Halle,LOC,-0.0875,0.125,de,4
-Dolly-Parton-Tag,Dolly-Parton-Tag,LOC,0.0,0.0,de,4
-Indiens,Indiens,LOC,0.6375,0.0,de,4
 Chinas,Chinas,LOC,0.4625,0.0,de,4
-Landtagswahl in Sachsen-Anhalt,Landtagswahl in Sachsen-Anhalt,LOC,0.25,0.0,de,4
-Dallas,Dallas,LOC,-0.07500000000000001,0.0,de,4
-Unionsfraktionschef,Unionsfraktionschef,LOC,0.7,0.0,de,4
-Delhi,Delhi,LOC,0.0,0.0,de,4
-Amerika,Amerika,LOC,0.30416666666666664,0.25,de,4
+München,München,LOC,0.35,0.25,de,4
+Dänemark,Dänemark,LOC,-0.425,0.0,de,4
+MV,MV,LOC,-0.15000000000000002,0.0,de,4
+Landtag von Sachsen-Anhalt,Landtag von Sachsen-Anhalt,LOC,0.0,0.0,de,4
+Norwegen,Norwegen,LOC,0.0,0.25,de,4
+Bestseller-Autorin,Bestseller-Autorin,LOC,0.7,0.0,de,4
+Sachsen-Anhalts,Sachsen-Anhalts,LOC,0.07500000000000001,0.0,de,4
+Lilibet,Lilibet,LOC,0.17499999999999996,0.25,de,4
+Buch-Community,Buch-Community,LOC,0.0,0.0,de,4
+Selenskyj,Selenskyj,LOC,0.35,0.0,de,4
+Royals,Royals,LOC,0.175,0.0,de,4
+Flughafen Leipzig/Halle,Flughafen Leipzig/Halle,LOC,-0.0875,0.125,de,4
 Miami,Miami,LOC,0.5249999999999999,0.0,de,4
-Brandenburger Tor,Brandenburger Tor,LOC,0.0,0.0,de,4
+Dolly-Parton-Tag,Dolly-Parton-Tag,LOC,0.0,0.0,de,4
+Landtagswahl in Sachsen-Anhalt,Landtagswahl in Sachsen-Anhalt,LOC,0.25,0.0,de,4
 Amerikasee,Amerikasee,LOC,0.0,0.0,de,4
-Schwerin,Schwerin,LOC,0.6,0.0,de,4
-Oval Office,Oval Office,LOC,0.3333333333333333,0.0,de,3
-München,München,LOC,0.4666666666666666,0.0,de,3
-Italien,Italien,LOC,0.0,0.0,de,3
-Weißes Haus,Weißes Haus,LOC,-0.2833333333333333,0.0,de,3
-Flughafen,Flughafen,LOC,0.6666666666666666,0.0,de,3
-Georgia,Georgia,LOC,-0.3333333333333333,0.0,de,3
-Pasewalk,Pasewalk,LOC,-0.2333333333333333,0.0,de,3
-Stasi-Offizier,Stasi-Offizier,LOC,0.0,0.0,de,3
-Kanadas,Kanadas,LOC,-0.6666666666666666,0.0,de,3
-D…,D…,LOC,0.0,0.0,de,3
-Bischkek,Bischkek,LOC,-0.2333333333333333,0.0,de,3
-Insiderkreisen,Insiderkreisen,LOC,-1.0,0.0,de,3
-Krebsartiger,Krebsartiger,LOC,-0.4666666666666666,0.0,de,3
-Steuer,Steuer,LOC,0.0,0.0,de,3
-Spanien,Spanien,LOC,0.011111111111111072,0.0,de,3
-US-Senator,US-Senator,LOC,0.6833333333333332,0.16666666666666666,de,3
-Irland,Irland,LOC,0.0,0.0,de,3
-Landsitz Highgrove…,Landsitz Highgrove…,LOC,0.0,0.0,de,3
-Insidern,Insidern,LOC,1.0,0.0,de,3
-New Mexico,New Mexico,LOC,-0.5666666666666667,0.0,de,3
-Bordeaux,Bordeaux,LOC,0.0,0.0,de,3
-Basij-Miliz,Basij-Miliz,LOC,0.0,0.0,de,3
-UN-Generaldebatte,UN-Generaldebatte,LOC,0.0,0.0,de,3
-Irans,Irans,LOC,0.3333333333333333,0.0,de,3
-Florida,Florida,LOC,0.2333333333333333,0.0,de,3
-TikTok,TikTok,LOC,0.0,0.0,de,3
-AfD-Spitzenkandidaten,AfD-Spitzenkandidaten,LOC,-0.05000000000000001,0.0,de,3
-New Yorker,New Yorker,LOC,0.6166666666666667,0.0,de,3
-Finanzminister,Finanzminister,LOC,0.0,0.0,de,3
-(77,(77,LOC,0.3333333333333333,0.0,de,3
 Bundesrepublik,Bundesrepublik,LOC,-0.3333333333333333,0.0,de,3
-weiterlesenNew York,weiterlesenNew York,LOC,0.0,0.3333333333333333,de,3
+Basij-Miliz,Basij-Miliz,LOC,0.0,0.0,de,3
+D…,D…,LOC,0.0,0.0,de,3
+Epstein,Epstein,LOC,-0.3333333333333333,0.0,de,3
+New Mexico,New Mexico,LOC,-0.5666666666666667,0.0,de,3
+Bischkek,Bischkek,LOC,-0.2333333333333333,0.0,de,3
+Irland,Irland,LOC,0.0,0.0,de,3
+Oval Office,Oval Office,LOC,0.3333333333333333,0.0,de,3
 Bern,Bern,LOC,0.027777777777777762,0.0,de,3
-AfD-Spitzenkandidat,AfD-Spitzenkandidat,LOC,0.2333333333333333,0.0,de,3
-Justizminister,Justizminister,LOC,0.0,0.0,de,3
-Nanterre,Nanterre,LOC,0.0,0.0,de,3
-Sachsen-Anhalts,Sachsen-Anhalts,LOC,-0.2333333333333333,0.0,de,3
-Grafschaft Devon,Grafschaft Devon,LOC,0.0,0.0,de,3
-Princetown,Princetown,LOC,0.0,0.0,de,3
+Stasi-Offizier,Stasi-Offizier,LOC,0.0,0.0,de,3
+Buckingham Palace,Buckingham Palace,LOC,-0.10000000000000002,0.0,de,3
+Italien,Italien,LOC,0.0,0.0,de,3
+Briten,Briten,LOC,-0.2833333333333333,0.0,de,3
+Krebsartiger,Krebsartiger,LOC,-0.4666666666666666,0.0,de,3
+New Yorker,New Yorker,LOC,0.6166666666666667,0.0,de,3
+Union,Union,LOC,0.0,0.0,de,3
+Georgia,Georgia,LOC,-0.3333333333333333,0.0,de,3
+TikTok,TikTok,LOC,0.0,0.0,de,3
+Steuer,Steuer,LOC,0.0,0.0,de,3
+Weißes Haus,Weißes Haus,LOC,-0.2833333333333333,0.0,de,3
+Pasewalk,Pasewalk,LOC,-0.2333333333333333,0.0,de,3
+ZDF-Talk,ZDF-Talk,LOC,0.0,0.0,de,3
+Flughafen,Flughafen,LOC,0.6666666666666666,0.0,de,3
 Gemeinde,Gemeinde,LOC,0.6999999999999998,0.0,de,3
-TTS-Player,TTS-Player,LOC,0.2333333333333333,0.0,de,3
-Kuba,Kuba,LOC,0.0,0.0,de,2
-Landgericht Hamburg,Landgericht Hamburg,LOC,-0.5,0.0,de,2
-Buckingham Palace,Buckingham Palace,LOC,-0.5,0.0,de,2
-Nachrichtenportal,Nachrichtenportal,LOC,-0.5,0.0,de,2
-Weisse Haus,Weisse Haus,LOC,-0.7,0.0,de,2
-Bond-Abenteuer,Bond-Abenteuer,LOC,0.0,0.0,de,2
-Kreml,Kreml,LOC,-0.5,0.0,de,2
-Lanz,Lanz,LOC,-0.35,0.0,de,2
-Oranienbaum,Oranienbaum,LOC,0.0,0.0,de,2
-Harp,Harp,LOC,-0.7,0.0,de,2
-Umfragen,Umfragen,LOC,0.0,0.0,de,2
-Trump-Kosmos,Trump-Kosmos,LOC,0.0,0.0,de,2
-Spencers,Spencers,LOC,0.0,0.0,de,2
-US-Amerikanerin,US-Amerikanerin,LOC,-1.0,0.0,de,2
-Halle,Halle,LOC,0.0,0.0,de,2
-Le Pen,Le Pen,LOC,-0.07500000000000001,0.0,de,2
-Geldhahn,Geldhahn,LOC,0.0,0.0,de,2
-Staaten,Staaten,LOC,0.0,0.0,de,2
-Aufhören</li><li,Aufhören</li><li,LOC,0.35,0.5,de,2
-Nord Stream 2,Nord Stream 2,LOC,1.0,0.0,de,2
+Princetown,Princetown,LOC,0.0,0.0,de,3
+Grafschaft Devon,Grafschaft Devon,LOC,0.0,0.0,de,3
+Kanadas,Kanadas,LOC,-0.6666666666666666,0.0,de,3
+Justizminister,Justizminister,LOC,0.0,0.0,de,3
+UN-Generaldebatte,UN-Generaldebatte,LOC,0.0,0.0,de,3
+US-Senator,US-Senator,LOC,0.6833333333333332,0.16666666666666666,de,3
+Monarch,Monarch,LOC,0.0,0.0,de,3
+AfD-Spitzenkandidaten,AfD-Spitzenkandidaten,LOC,-0.05000000000000001,0.0,de,3
+weiterlesenNew York,weiterlesenNew York,LOC,0.0,0.3333333333333333,de,3
+Bordeaux,Bordeaux,LOC,0.0,0.0,de,3
+Ex-Partnern,Ex-Partnern,LOC,0.0,0.0,de,2
 Mapquest,Mapquest,LOC,0.0,0.0,de,2
-AfD-Kandidat,AfD-Kandidat,LOC,1.0,0.0,de,2
-Güstrow,Güstrow,LOC,1.0,0.0,de,2
-AfD-Abgeordneten,AfD-Abgeordneten,LOC,0.5,0.0,de,2
-Hamburgs SPD-Chefin,Hamburgs SPD-Chefin,LOC,0.0,0.0,de,2
-St. Louis,St. Louis,LOC,0.0,0.0,de,2
-Kampagne,Kampagne,LOC,0.35,0.0,de,2
+Finanzminister,Finanzminister,LOC,0.0,0.0,de,2
 Argentinien,Argentinien,LOC,-0.85,0.0,de,2
 Falklandinseln,Falklandinseln,LOC,-0.85,0.0,de,2
+Bayern,Bayern,LOC,0.0,0.0,de,2
+Rechtsaussen-Parteien,Rechtsaussen-Parteien,LOC,0.0,0.0,de,2
+St. Louis,St. Louis,LOC,0.0,0.0,de,2
+Kampagne,Kampagne,LOC,0.35,0.0,de,2
+Amerikanerin,Amerikanerin,LOC,0.0,0.0,de,2
+Millionenhöhe,Millionenhöhe,LOC,0.0,0.0,de,2
+Studioalbum</li><li,Studioalbum</li><li,LOC,0.0,0.0,de,2
+US-Sexualverbrecher,US-Sexualverbrecher,LOC,-0.425,0.0,de,2
+Al-Nassr,Al-Nassr,LOC,0.5,0.0,de,2
+Stadt,Stadt,LOC,0.0,0.0,de,2
+High Court,High Court,LOC,-0.7,0.0,de,2
+Ottawa,Ottawa,LOC,0.0,0.0,de,2
+Portugals,Portugals,LOC,0.0,0.5,de,2
+Monumental-Stadion,Monumental-Stadion,LOC,0.0,0.0,de,2
 Landtagswahl Sachsen-Anhalt,Landtagswahl Sachsen-Anhalt,LOC,0.0,0.0,de,2
+Nordamerika,Nordamerika,LOC,1.0,0.0,de,2
+Mainzer Lerchenberg,Mainzer Lerchenberg,LOC,0.0,0.0,de,2
+Aug 28,Aug 28,LOC,0.0,0.0,de,2
+Hofbräuhaus,Hofbräuhaus,LOC,0.0,0.0,de,2
+Amt,Amt,LOC,-0.35,0.0,de,2
+Branchen-Website Box Office Mojo,Branchen-Website Box Office Mojo,LOC,0.0,0.0,de,2
+Mecklenburg-Vorpommerns AfD-Kandidat,Mecklenburg-Vorpommerns AfD-Kandidat,LOC,0.0,0.0,de,2
+Florida,Florida,LOC,0.35,0.0,de,2
+Irans,Irans,LOC,0.5,0.0,de,2
+bitter,bitter,LOC,0.0,0.0,de,2
+Amerikas,Amerikas,LOC,-0.7,0.0,de,2
+Andrews,Andrews,LOC,0.0,0.0,de,2
+Riad,Riad,LOC,0.0,0.0,de,2
+South Park,South Park,LOC,0.0,0.0,de,2
 Jungstars,Jungstars,LOC,0.0,0.0,de,2
-AfD-Landtagsfraktion,AfD-Landtagsfraktion,LOC,0.0,0.0,de,2
+Lincoln,Lincoln,LOC,0.7,0.0,de,2
+Princess of Wales,Princess of Wales,LOC,0.5,0.0,de,2
+Dublin,Dublin,LOC,0.0,0.0,de,2
+Archie,Archie,LOC,0.7,0.0,de,2
+Teppich,Teppich,LOC,0.0,0.0,de,2
+na…,na…,LOC,0.0,0.0,de,2
+Bond-Universum,Bond-Universum,LOC,0.0,0.0,de,2
+Bedrängnis,Bedrängnis,LOC,0.5,0.0,de,2
+Europas,Europas,LOC,0.5,0.0,de,2
+Maisfeld,Maisfeld,LOC,0.6625,0.125,de,2
+Catherine,Catherine,LOC,0.0,0.0,de,2
+Rechtsaußenpopulisten,Rechtsaußenpopulisten,LOC,0.0,0.0,de,2
+(77,(77,LOC,0.0,0.0,de,2
+Euro-Austritt,Euro-Austritt,LOC,1.0,0.0,de,2
+Aufhören</li><li,Aufhören</li><li,LOC,0.35,0.5,de,2
+Le Pen,Le Pen,LOC,-0.07500000000000001,0.0,de,2
+Nachrichtenportal,Nachrichtenportal,LOC,-0.5,0.0,de,2
+Spencers,Spencers,LOC,0.0,0.0,de,2
+Umfragen,Umfragen,LOC,0.0,0.0,de,2
+Laufsteg,Laufsteg,LOC,0.35,0.0,de,2
+Bond-Abenteuer,Bond-Abenteuer,LOC,0.0,0.0,de,2
+Spitzenkandidatinnen Schwesig,Spitzenkandidatinnen Schwesig,LOC,0.7,0.0,de,2
+Mailand,Mailand,LOC,-0.175,0.0,de,2
+Eralp,Eralp,LOC,0.7,0.0,de,2
+US-Sänger,US-Sänger,LOC,0.0,0.0,de,2
+US-Amerikaner,US-Amerikaner,LOC,0.7,0.0,de,2
+Grönland-Abkommen,Grönland-Abkommen,LOC,0.0,0.0,de,2
+Gangsterrolle,Gangsterrolle,LOC,1.0,0.0,de,2
+Dallas,Dallas,LOC,-0.15000000000000002,0.0,de,2
+Nordirland,Nordirland,LOC,-0.07500000000000001,0.0,de,2
 Wahllokale,Wahllokale,LOC,-0.35,0.0,de,2
+Schottland,Schottland,LOC,-0.07500000000000001,0.0,de,2
 Tangermünde,Tangermünde,LOC,0.0,0.0,de,2
 Siegmunds,Siegmunds,LOC,0.0,0.0,de,2
-US-Amerikanern,US-Amerikanern,LOC,0.0,0.0,de,2
-Republikaner-Parteitag,Republikaner-Parteitag,LOC,-1.0,0.0,de,2
 New Jersey,New Jersey,LOC,0.0,0.0,de,2
-Neue Villa,Neue Villa,LOC,0.7,0.0,de,2
-Holm,Holm,LOC,0.0,0.0,de,2
-Wahlsieger,Wahlsieger,LOC,0.0,0.0,de,2
-South Park,South Park,LOC,0.0,0.0,de,2
-Neu Delhi,Neu Delhi,LOC,0.0,0.0,de,2
-Studioalbum</li><li,Studioalbum</li><li,LOC,0.0,0.0,de,2
-Broad Beach,Broad Beach,LOC,-0.35,0.0,de,2
-Aug 28,Aug 28,LOC,0.0,0.0,de,2
-Aug 25,Aug 25,LOC,0.0,0.0,de,2
-US-Finanzminister,US-Finanzminister,LOC,0.0,0.0,de,2
-Umbaupläne,Umbaupläne,LOC,-0.75,0.25,de,2
-Lincoln,Lincoln,LOC,0.7,0.0,de,2
-Rechtsaußenpopulisten,Rechtsaußenpopulisten,LOC,0.0,0.0,de,2
-Neonazi-Organisation,Neonazi-Organisation,LOC,1.0,0.0,de,2
-Catherine,Catherine,LOC,0.0,0.0,de,2
-Bayern,Bayern,LOC,0.0,0.0,de,2
-Maisfeld,Maisfeld,LOC,0.6625,0.125,de,2
-na…,na…,LOC,0.0,0.0,de,2
-Mecklenburg-Vorpommerns AfD-Kandidat,Mecklenburg-Vorpommerns AfD-Kandidat,LOC,0.0,0.0,de,2
-Amerikas,Amerikas,LOC,-0.7,0.0,de,2
-Stadt,Stadt,LOC,0.0,0.0,de,2
-Ottawa,Ottawa,LOC,0.0,0.0,de,2
-Archie,Archie,LOC,0.7,0.0,de,2
-Princess of Wales,Princess of Wales,LOC,0.5,0.0,de,2
-Nordirland,Nordirland,LOC,-0.07500000000000001,0.0,de,2
-Schottland,Schottland,LOC,-0.07500000000000001,0.0,de,2
-Marvel-Chef,Marvel-Chef,LOC,0.0,0.0,de,2
-Staat,Staat,LOC,0.0,1.0,de,2
-Amt,Amt,LOC,-0.35,0.0,de,2
-Kanadier,Kanadier,LOC,-0.5,0.0,de,2
-Mainzer Lerchenberg,Mainzer Lerchenberg,LOC,0.0,0.0,de,2
-Weiße Haus …,Weiße Haus …,LOC,0.0,0.0,de,2
-Bad Bunny</li><li,Bad Bunny</li><li,LOC,0.7,0.0,de,2
-auswärtigen Amtes,auswärtigen Amtes,LOC,0.11666666666666665,0.0,de,2
-Dublin,Dublin,LOC,0.0,0.0,de,2
-US-Einwanderungsbehörde,US-Einwanderungsbehörde,LOC,-0.7,0.0,de,2
-Roten Meer,Roten Meer,LOC,-0.85,0.0,de,2
-US-Außenminister,US-Außenminister,LOC,-0.85,0.0,de,2
-Jemen,Jemen,LOC,-0.85,0.0,de,2
-Kuwait,Kuwait,LOC,-0.85,0.0,de,2
-Jordanien,Jordanien,LOC,-0.85,0.0,de,2
-Huthi-Miliz,Huthi-Miliz,LOC,-0.85,0.0,de,2
-Teppich,Teppich,LOC,0.0,0.0,de,2
-Nordamerika,Nordamerika,LOC,1.0,0.0,de,2
-Bond-Universum,Bond-Universum,LOC,0.0,0.0,de,2
-Amerikanerin,Amerikanerin,LOC,0.0,0.0,de,2
-Japan,Japan,LOC,0.35,0.0,de,2
-Südafrika,Südafrika,LOC,0.0,0.0,de,2
-Al-Nassr,Al-Nassr,LOC,0.5,0.0,de,2
-Ceuta,Ceuta,LOC,0.7,0.0,de,2
-Portugals,Portugals,LOC,0.0,0.5,de,2
-Mailand,Mailand,LOC,-0.175,0.0,de,2
-Todesfall,Todesfall,LOC,0.0,0.0,de,2
-Franzose,Franzose,LOC,-1.0,0.0,de,2
-Monumental-Stadion,Monumental-Stadion,LOC,0.0,0.0,de,2
-Madrid,Madrid,LOC,0.15000000000000002,0.0,de,2
-Nacht[2:41]4,Nacht[2:41]4,LOC,0.0,0.0,de,2
-Ronzheimer-Podcast,Ronzheimer-Podcast,LOC,0.0,0.0,de,2
-Oberhaus,Oberhaus,LOC,0.0,0.0,de,2
 Privatjet,Privatjet,LOC,-1.0,0.0,de,2
+Wahlsieger,Wahlsieger,LOC,0.0,0.0,de,2
 Teamcamp,Teamcamp,LOC,-0.425,0.0,de,2
-Protesten,Protesten,LOC,0.0,0.0,de,2
-US-Moderatorin,US-Moderatorin,LOC,0.35,0.0,de,2
-Brasilien,Brasilien,LOC,0.0,0.0,de,2
-bitter,bitter,LOC,0.0,0.0,de,2
-Royals,Royals,LOC,0.35,0.0,de,2
-Highgrove,Highgrove,LOC,0.0,0.0,de,2
-Washingtoner,Washingtoner,LOC,-0.35,0.5,de,2
-US-Senators,US-Senators,LOC,1.0,0.0,de,2
-Salzburg,Salzburg,LOC,0.0,0.0,de,2
+Weiße Haus …,Weiße Haus …,LOC,0.0,0.0,de,2
+Australien,Australien,LOC,-1.0,0.0,de,2
+(77),(77),LOC,-1.0,0.0,de,2
+Holm,Holm,LOC,0.0,0.0,de,2
+Republikaner-Parteitag,Republikaner-Parteitag,LOC,-1.0,0.0,de,2
+US-Amerikanern,US-Amerikanern,LOC,0.0,0.0,de,2
+AfD-Landtagsfraktion,AfD-Landtagsfraktion,LOC,0.0,0.0,de,2
+Hamburgs SPD-Chefin,Hamburgs SPD-Chefin,LOC,0.0,0.0,de,2
+Völkermord,Völkermord,LOC,0.0,0.0,de,2
+AfD-Abgeordneten,AfD-Abgeordneten,LOC,0.5,0.0,de,2
+Güstrow,Güstrow,LOC,1.0,0.0,de,2
+AfD-Kandidat,AfD-Kandidat,LOC,1.0,0.0,de,2
+Nord Stream 2,Nord Stream 2,LOC,1.0,0.0,de,2
+Neu Delhi,Neu Delhi,LOC,0.0,0.0,de,2
+Oberhaus,Oberhaus,LOC,0.0,0.0,de,2
+Broad Beach,Broad Beach,LOC,-0.35,0.0,de,2
+Kanadier,Kanadier,LOC,-0.5,0.0,de,2
 Rassemblement national,Rassemblement national,LOC,0.0,0.0,de,2
+Staat,Staat,LOC,0.0,1.0,de,2
 nutzen.</li><li,nutzen.</li><li,LOC,0.0,0.0,de,2
-Minnesota,Minnesota,LOC,0.0,0.0,de,2
-Königreich,Königreich,LOC,0.0,0.0,de,2
-Saudiarabien,Saudiarabien,LOC,0.0,0.0,de,2
 U2,U2,LOC,0.35,0.0,de,2
+Neonazi-Organisation,Neonazi-Organisation,LOC,1.0,0.0,de,2
+Geldhahn,Geldhahn,LOC,0.0,0.0,de,2
+Harp,Harp,LOC,-0.7,0.0,de,2
+Highgrove,Highgrove,LOC,0.0,0.0,de,2
+Spanien,Spanien,LOC,-0.33333333333333337,0.0,de,2
+Halle,Halle,LOC,0.0,0.0,de,2
 Silicon Valley,Silicon Valley,LOC,0.35,0.0,de,2
-Weissrussland,Weissrussland,LOC,0.0,0.0,de,2
-Branchen-Website Box Office Mojo,Branchen-Website Box Office Mojo,LOC,0.0,0.0,de,2
-Großbritanniens,Großbritanniens,LOC,0.35,0.0,de,2
-Brent,Brent,LOC,0.0,0.0,de,2
-Riad,Riad,LOC,0.0,0.0,de,2
-Rolex,Rolex,LOC,0.0,0.0,de,2
-Gangsterrolle,Gangsterrolle,LOC,1.0,0.0,de,2
-US-Amerikaner,US-Amerikaner,LOC,0.7,0.0,de,2
-Drohnen-Anschlag,Drohnen-Anschlag,LOC,0.0,0.0,de,2
-Grönland-Abkommen,Grönland-Abkommen,LOC,0.0,0.0,de,2
-US-Sänger,US-Sänger,LOC,0.0,0.0,de,2
-Eralp,Eralp,LOC,0.7,0.0,de,2
-Cambridge,Cambridge,LOC,0.0,0.0,de,2
-Rechtsaussen-Parteien,Rechtsaussen-Parteien,LOC,0.0,0.0,de,2
+Kreml,Kreml,LOC,-0.5,0.0,de,2
+Bad Bunny</li><li,Bad Bunny</li><li,LOC,0.7,0.0,de,2
 Putin-Regimes,Putin-Regimes,LOC,0.0,0.0,de,2
-Spitzenkandidatinnen Schwesig,Spitzenkandidatinnen Schwesig,LOC,0.7,0.0,de,2
-Teheran,Teheran,LOC,0.0,0.0,de,2
-Avalon,Avalon,LOC,-0.7,0.0,de,1
-Don…,Don…,LOC,0.0,0.0,de,1
-Lippenrand,Lippenrand,LOC,-0.7,0.0,de,1
-Nationen-Bündnisses Brics,Nationen-Bündnisses Brics,LOC,0.0,0.0,de,1
-Missouri,Missouri,LOC,0.0,0.0,de,1
-Portugal-Camp,Portugal-Camp,LOC,-1.0,0.0,de,1
-Referendum,Referendum,LOC,0.0,0.0,de,1
-Dakota Johnson,Dakota Johnson,LOC,0.0,0.0,de,1
-Irlands,Irlands,LOC,0.7,0.0,de,1
-Manhattan,Manhattan,LOC,0.0,0.0,de,1
-Trennungen,Trennungen,LOC,1.0,0.0,de,1
-kalifornischen Küste,kalifornischen Küste,LOC,0.0,0.0,de,1
-Hollywood-Glamours,Hollywood-Glamours,LOC,0.0,0.0,de,1
-Pulborough,Pulborough,LOC,0.0,0.0,de,1
-Newsportal,Newsportal,LOC,-0.85,0.0,de,1
-Elite-Schule,Elite-Schule,LOC,0.0,0.0,de,1
-Lippen,Lippen,LOC,0.0,0.0,de,1
-Niederlande,Niederlande,LOC,0.0,0.0,de,1
-Unruhen,Unruhen,LOC,0.0,0.0,de,1
-Raketen-Alarm,Raketen-Alarm,LOC,0.0,0.0,de,1
-Chefcoach,Chefcoach,LOC,-1.0,0.0,de,1
-Ego-Trip,Ego-Trip,LOC,0.0,0.0,de,1
-Teilzeitrente,Teilzeitrente,LOC,0.0,0.0,de,1
-Brüssel,Brüssel,LOC,0.0,0.0,de,1
-Dolly Parton International Airport“,Dolly Parton International Airport“,LOC,0.0,0.0,de,1
-Grand-Slam-Titel,Grand-Slam-Titel,LOC,0.0,0.0,de,1
-New York“,New York“,LOC,0.0,0.0,de,1
-Cardiff,Cardiff,LOC,0.0,0.0,de,1
-Rodgers,Rodgers,LOC,-0.7,0.0,de,1
-Kreises,Kreises,LOC,0.0,0.0,de,1
-Wahlvolk,Wahlvolk,LOC,0.0,0.0,de,1
-Meck-Pomm,Meck-Pomm,LOC,0.0,0.0,de,1
-Königsfamilie,Königsfamilie,LOC,0.0,0.0,de,1
-Top-Mitarbeiter,Top-Mitarbeiter,LOC,0.85,0.0,de,1
-Manhatten,Manhatten,LOC,0.0,0.0,de,1
-Niederlanden,Niederlanden,LOC,0.0,0.0,de,1
-Kensington Palace,Kensington Palace,LOC,-0.7,0.0,de,1
-Hollands,Hollands,LOC,0.0,0.0,de,1
-B66,B66,LOC,-0.7,0.0,de,1
-Musiker-Dates,Musiker-Dates,LOC,1.0,0.0,de,1
-Ronaldo-Spiel,Ronaldo-Spiel,LOC,0.0,0.0,de,1
-Staatsgäste,Staatsgäste,LOC,0.7,0.0,de,1
-Portugal-Coach,Portugal-Coach,LOC,0.0,0.0,de,1
-Wernigerode-Mitte,Wernigerode-Mitte,LOC,0.7,0.0,de,1
-US,US,LOC,0.0,0.0,de,1
-UK,UK,LOC,0.0,0.0,de,1
-Leiria,Leiria,LOC,0.0,0.0,de,1
-Kreisel,Kreisel,LOC,0.7,0.0,de,1
-Radiomikrofon,Radiomikrofon,LOC,1.0,0.0,de,1
-AfD-Direktkandidaten,AfD-Direktkandidaten,LOC,0.7,0.0,de,1
-Schwesigs,Schwesigs,LOC,0.0,0.0,de,1
-Stasi,Stasi,LOC,0.0,0.0,de,1
-Skulptur Blue,Skulptur Blue,LOC,-0.7,0.0,de,1
-Teamcamp Portugals,Teamcamp Portugals,LOC,0.0,0.0,de,1
-Theater der Hauptschuldige,Theater der Hauptschuldige,LOC,0.0,0.0,de,1
-Straftaten,Straftaten,LOC,0.0,0.0,de,1
-Kopenhagen,Kopenhagen,LOC,0.0,0.0,de,1
-Pornos,Pornos,LOC,0.0,0.0,de,1
-AfD-Herausforderer,AfD-Herausforderer,LOC,1.0,0.0,de,1
-Machtfrage,Machtfrage,LOC,0.0,0.0,de,1
-National Gallery of Art,National Gallery of Art,LOC,-0.7,0.0,de,1
-Romanfragment Amerika,Romanfragment Amerika,LOC,-0.7,0.0,de,1
-di…,di…,LOC,0.7,0.0,de,1
-Straßburg,Straßburg,LOC,0.0,0.0,de,1
-Eurozone,Eurozone,LOC,0.7,0.0,de,1
-College Park,College Park,LOC,0.0,0.0,de,1
-Lowen,Lowen,LOC,0.0,0.0,de,1
-Kafka,Kafka,LOC,0.0,0.0,de,1
-Handwerks,Handwerks,LOC,1.0,0.0,de,1
-wei…,wei…,LOC,0.0,0.0,de,1
-Box Office Mojo,Box Office Mojo,LOC,0.0,0.0,de,1
-Nor…,Nor…,LOC,0.7,0.0,de,1
-Vereinigten Königreich,Vereinigten Königreich,LOC,0.0,0.0,de,1
-Nordirlands,Nordirlands,LOC,0.0,0.0,de,1
-Louise,Louise,LOC,0.0,0.0,de,1
-britische Regierung,britische Regierung,LOC,0.7,0.0,de,1
-Elwan,Elwan,LOC,0.0,0.0,de,1
-Élysée-Palast,Élysée-Palast,LOC,0.0,1.0,de,1
-Macron,Macron,LOC,0.0,0.0,de,1
-Palmer,Palmer,LOC,0.0,0.0,de,1
-Sachsen-Anha…,Sachsen-Anha…,LOC,0.0,0.0,de,1
-Autokraten,Autokraten,LOC,0.0,0.0,de,1
-Triumphbogen da…,Triumphbogen da…,LOC,0.0,0.0,de,1
-Kapitol,Kapitol,LOC,0.0,0.0,de,1
-Endlos-Reden,Endlos-Reden,LOC,0.7,0.0,de,1
-Bundes,Bundes,LOC,0.0,0.0,de,1
-AfD-Wahlsieger,AfD-Wahlsieger,LOC,0.0,1.0,de,1
-Autobahn 36,Autobahn 36,LOC,0.7,0.0,de,1
-Wahl-Forum,Wahl-Forum,LOC,1.0,0.0,de,1
-Direktwahlkreisen,Direktwahlkreisen,LOC,0.0,0.0,de,1
-Konrad-Adenauer-Haus,Konrad-Adenauer-Haus,LOC,-0.7,0.0,de,1
-Kulturzentrum,Kulturzentrum,LOC,-1.0,0.0,de,1
-Luxemburg,Luxemburg,LOC,0.0,0.0,de,1
-Arc de Triomphe,Arc de Triomphe,LOC,0.0,0.0,de,1
-Super-Bowl-Sieger,Super-Bowl-Sieger,LOC,0.0,0.0,de,1
-Kellner,Kellner,LOC,0.0,0.0,de,1
-Wunschkonzert-Parteien,Wunschkonzert-Parteien,LOC,0.0,0.0,de,1
-AfD,AfD,LOC,-1.0,0.0,de,1
-Lionel Richie,Lionel Richie,LOC,0.0,0.0,de,1
-Hello“-Sänger,Hello“-Sänger,LOC,0.0,0.0,de,1
-Earl of Spencer,Earl of Spencer,LOC,0.0,0.0,de,1
-KI-Branche,KI-Branche,LOC,-0.7,0.0,de,1
-Landkreis…,Landkreis…,LOC,0.7,0.0,de,1
-Schockwellen,Schockwellen,LOC,0.0,0.0,de,1
-NZZ am Sonntag,NZZ am Sonntag,LOC,0.0,0.0,de,1
-Swan Song,Swan Song,LOC,0.0,0.0,de,1
-Lebensgefahr,Lebensgefahr,LOC,0.7,0.0,de,1
-Hello-Sänger,Hello-Sänger,LOC,0.0,0.0,de,1
-Filmes,Filmes,LOC,0.0,0.0,de,1
-Umfrage-Instituten,Umfrage-Instituten,LOC,-0.35,0.5,de,1
-Nachrichtenportal Politico,Nachrichtenportal Politico,LOC,-1.0,0.0,de,1
-Vorhofflimmern,Vorhofflimmern,LOC,0.0,0.0,de,1
-VorhofflimmernLionel,VorhofflimmernLionel,LOC,0.0,0.0,de,1
-Warnemünde,Warnemünde,LOC,0.0,0.0,de,1
-Laufsteg,Laufsteg,LOC,0.0,0.0,de,1
-Hauptstadtjournalisten,Hauptstadtjournalisten,LOC,0.0,0.0,de,1
-Rostock,Rostock,LOC,0.0,0.0,de,1
-Diana-Fans,Diana-Fans,LOC,0.0,1.0,de,1
-Mittwoch beka,Mittwoch beka,LOC,0.0,0.0,de,1
-US-Hauptstadt,US-Hauptstadt,LOC,0.0,0.0,de,1
-Potomac River,Potomac River,LOC,1.0,0.0,de,1
-Gavin Newsom,Gavin Newsom,LOC,-0.7,0.0,de,1
-Sonntag erklä,Sonntag erklä,LOC,0.0,0.0,de,1
-Batman-Day,Batman-Day,LOC,1.0,0.0,de,1
-Mecklenburg-Vorpom…,Mecklenburg-Vorpom…,LOC,0.0,0.0,de,1
-Xis,Xis,LOC,0.0,0.0,de,1
-Ostdeutschland,Ostdeutschland,LOC,1.0,0.0,de,1
-Stadts…,Stadts…,LOC,0.0,0.0,de,1
+auswärtigen Amtes,auswärtigen Amtes,LOC,0.11666666666666665,0.0,de,2
+US-Senators,US-Senators,LOC,1.0,0.0,de,2
+TTS-Player,TTS-Player,LOC,0.35,0.0,de,2
+Großbritanniens,Großbritanniens,LOC,0.35,0.0,de,2
+Ceuta,Ceuta,LOC,0.7,0.0,de,2
+US-Amerikanerin,US-Amerikanerin,LOC,-1.0,0.0,de,2
+Staaten,Staaten,LOC,0.0,0.0,de,2
+Weissrussland,Weissrussland,LOC,0.0,0.0,de,2
+Ungarn,Ungarn,LOC,0.0,1.0,de,2
+Landgericht Hamburg,Landgericht Hamburg,LOC,-0.5,0.0,de,2
+Minnesota,Minnesota,LOC,0.0,0.0,de,2
+Washingtoner,Washingtoner,LOC,-0.35,0.5,de,2
+Japan,Japan,LOC,0.35,0.0,de,2
+Bad Bunny,Bad Bunny,LOC,0.0,0.0,de,2
+Oranienbaum,Oranienbaum,LOC,0.0,0.0,de,2
+Aug 25,Aug 25,LOC,0.0,0.0,de,2
+Umbaupläne,Umbaupläne,LOC,-0.75,0.25,de,2
+Kuba,Kuba,LOC,0.0,0.0,de,2
+US-Einwanderungsbehörde,US-Einwanderungsbehörde,LOC,-0.7,0.0,de,2
+Ronzheimer-Podcast,Ronzheimer-Podcast,LOC,0.0,0.0,de,2
+Trump-Kosmos,Trump-Kosmos,LOC,0.0,0.0,de,2
+US-Finanzminister,US-Finanzminister,LOC,0.0,0.0,de,2
+Nacht[2:41]4,Nacht[2:41]4,LOC,0.0,0.0,de,2
+Drohnen-Anschlag,Drohnen-Anschlag,LOC,0.0,0.0,de,2
+Weisse Haus,Weisse Haus,LOC,-0.7,0.0,de,2
 Einflussnahme,Einflussnahme,LOC,0.0,0.0,de,1
-Balmoral,Balmoral,LOC,0.0,0.0,de,1
-Sandringham,Sandringham,LOC,0.0,0.0,de,1
-Windsor Castle,Windsor Castle,LOC,0.0,0.0,de,1
+Tel Aviv,Tel Aviv,LOC,0.0,0.0,de,1
 Rekordtief,Rekordtief,LOC,-1.0,0.0,de,1
-Mecklenburg-Vorpommerns,Mecklenburg-Vorpommerns,LOC,0.0,0.0,de,1
 machtbewusst,machtbewusst,LOC,0.0,0.0,de,1
-Skandal,Skandal,LOC,0.0,0.0,de,1
-Neubrandenburg,Neubrandenburg,LOC,0.0,0.0,de,1
-Gaza-Partei,Gaza-Partei,LOC,0.0,0.0,de,1
-Palast ungewöhn…,Palast ungewöhn…,LOC,0.0,0.0,de,1
-Frankfurt am Main,Frankfurt am Main,LOC,-0.7,0.0,de,1
-Streaming-Abo,Streaming-Abo,LOC,0.0,0.0,de,1
-Schnaps,Schnaps,LOC,-0.7,0.0,de,1
-Geeintes Russland,Geeintes Russland,LOC,-1.0,0.0,de,1
-Interfax,Interfax,LOC,-1.0,0.0,de,1
-Pokhrahi-Grundschule,Pokhrahi-Grundschule,LOC,0.0,0.0,de,1
-schmalen Straße,schmalen Straße,LOC,0.0,0.0,de,1
-Knopf,Knopf,LOC,-0.7,0.0,de,1
-Jharkhand,Jharkhand,LOC,0.0,0.0,de,1
-Oxford,Oxford,LOC,0.0,0.0,de,1
-Südfrankreich,Südfrankreich,LOC,0.0,0.0,de,1
-Länderspielen,Länderspielen,LOC,0.0,0.0,de,1
-Vatikan,Vatikan,LOC,0.0,0.0,de,1
-Hannover-Insider,Hannover-Insider,LOC,0.0,0.0,de,1
-Herbstlooks,Herbstlooks,LOC,0.0,0.0,de,1
-TTS-Player überspringenArtikel weiterlesenDublin,TTS-Player überspringenArtikel weiterlesenDublin,LOC,0.0,0.0,de,1
-Kalenderwoche 39,Kalenderwoche 39,LOC,0.0,0.0,de,1
-KW39,KW39,LOC,1.0,0.0,de,1
-Machtzuwachs,Machtzuwachs,LOC,0.0,0.0,de,1
-Küns…,Küns…,LOC,0.0,0.0,de,1
-AfD-Fraktionschef,AfD-Fraktionschef,LOC,0.0,0.0,de,1
-Peacock Theater,Peacock Theater,LOC,0.0,0.0,de,1
-Kamele,Kamele,LOC,0.0,1.0,de,1
-Hasenfell,Hasenfell,LOC,0.0,1.0,de,1
-US-Verteidigungsminister,US-Verteidigungsminister,LOC,0.0,0.0,de,1
-Packers,Packers,LOC,0.0,0.0,de,1
-ha…,ha…,LOC,0.0,0.0,de,1
+Stadts…,Stadts…,LOC,0.0,0.0,de,1
+Xis,Xis,LOC,0.0,0.0,de,1
+Amerikanern,Amerikanern,LOC,0.0,0.0,de,1
+Ceuta-Vorgeschichte,Ceuta-Vorgeschichte,LOC,-1.0,0.0,de,1
+Mecklenburg-Vorpommerns,Mecklenburg-Vorpommerns,LOC,0.0,0.0,de,1
+Schlechter Lernfortschritt,Schlechter Lernfortschritt,LOC,-1.0,0.0,de,1
+Konrad-Adenauer-Haus,Konrad-Adenauer-Haus,LOC,-0.7,0.0,de,1
+Windsor Castle,Windsor Castle,LOC,0.0,0.0,de,1
 Schwesig,Schwesig,LOC,0.0,0.0,de,1
-Brexit,Brexit,LOC,-1.0,0.0,de,1
-Chrupalla,Chrupalla,LOC,-0.7,0.0,de,1
-Direktzahlungen,Direktzahlungen,LOC,0.7,0.0,de,1
-Meck…,Meck…,LOC,0.0,0.0,de,1
-Ostküste,Ostküste,LOC,-1.0,0.0,de,1
-Witz,Witz,LOC,-1.0,0.0,de,1
-Widow's Bay,Widow's Bay,LOC,-1.0,0.0,de,1
-Ölfirma,Ölfirma,LOC,0.0,0.0,de,1
-Deutschland/Russland,Deutschland/Russland,LOC,0.0,0.0,de,1
-Zielgeraden,Zielgeraden,LOC,0.0,0.0,de,1
-Bandjubiläum,Bandjubiläum,LOC,0.0,0.0,de,1
-Mecklenbur…,Mecklenbur…,LOC,0.0,0.0,de,1
-Provence-Alpes-Côte dAzur,Provence-Alpes-Côte dAzur,LOC,0.0,0.0,de,1
-Place de la Concorde,Place de la Concorde,LOC,0.0,0.0,de,1
-Saintes-Maries-de-la-Mer,Saintes-Maries-de-la-Mer,LOC,0.0,0.0,de,1
+Sandringham,Sandringham,LOC,0.0,0.0,de,1
+Podcast Ronzheimer,Podcast Ronzheimer,LOC,-0.7,0.0,de,1
+Mecklenburg-Vorpom…,Mecklenburg-Vorpom…,LOC,0.0,0.0,de,1
+Balmoral,Balmoral,LOC,0.0,0.0,de,1
+Ostdeutschland,Ostdeutschland,LOC,1.0,0.0,de,1
+Batman-Day,Batman-Day,LOC,1.0,0.0,de,1
+Importregeln,Importregeln,LOC,0.0,0.0,de,1
+Bundesrepublik Deutschland,Bundesrepublik Deutschland,LOC,0.0,0.0,de,1
+Skandal,Skandal,LOC,0.0,0.0,de,1
 4K.,4K.,LOC,0.0,0.0,de,1
-Händedruck,Händedruck,LOC,0.0,0.8,de,1
-Grossbritannien,Grossbritannien,LOC,0.0,0.0,de,1
+Liedzeile,Liedzeile,LOC,0.0,0.0,de,1
+Gavin Newsom,Gavin Newsom,LOC,-0.7,0.0,de,1
+Waldbränden,Waldbränden,LOC,0.0,0.0,de,1
+Oxford,Oxford,LOC,0.0,0.0,de,1
+Mittwoch beka,Mittwoch beka,LOC,0.0,0.0,de,1
+Downing Street,Downing Street,LOC,0.0,0.0,de,1
+Hals,Hals,LOC,0.0,0.0,de,1
+Diana-Fans,Diana-Fans,LOC,0.0,1.0,de,1
+Krisenmodus,Krisenmodus,LOC,0.0,0.0,de,1
+Originalformat,Originalformat,LOC,0.0,1.0,de,1
+Brand Beckham,Brand Beckham,LOC,0.0,0.0,de,1
+VorhofflimmernLionel,VorhofflimmernLionel,LOC,0.0,0.0,de,1
+Vorhofflimmern,Vorhofflimmern,LOC,0.0,0.0,de,1
+Filmes,Filmes,LOC,0.0,0.0,de,1
+Hello-Sänger,Hello-Sänger,LOC,0.0,0.0,de,1
+Hello“-Sänger,Hello“-Sänger,LOC,0.0,0.0,de,1
+Lionel Richie,Lionel Richie,LOC,0.0,0.0,de,1
+Super-Bowl-Sieger,Super-Bowl-Sieger,LOC,0.0,0.0,de,1
+Jharkhand,Jharkhand,LOC,0.0,0.0,de,1
+Pokhrahi-Grundschule,Pokhrahi-Grundschule,LOC,0.0,0.0,de,1
+Streaming-Abo,Streaming-Abo,LOC,0.0,0.0,de,1
+Frankfurt am Main,Frankfurt am Main,LOC,-0.7,0.0,de,1
+Palast ungewöhn…,Palast ungewöhn…,LOC,0.0,0.0,de,1
+weiterlesenTel Aviv,weiterlesenTel Aviv,LOC,0.0,0.0,de,1
+schmalen Straße,schmalen Straße,LOC,0.0,0.0,de,1
+Triumphbogen,Triumphbogen,LOC,0.0,0.0,de,1
+Neubrandenburg,Neubrandenburg,LOC,0.0,0.0,de,1
+Hauptstadtjournalisten,Hauptstadtjournalisten,LOC,0.0,0.0,de,1
+Südfrankreich,Südfrankreich,LOC,0.0,0.0,de,1
+Provence-Alpes-Côte dAzur,Provence-Alpes-Côte dAzur,LOC,0.0,0.0,de,1
+Saintes-Maries-de-la-Mer,Saintes-Maries-de-la-Mer,LOC,0.0,0.0,de,1
 Schloss Schwerin,Schloss Schwerin,LOC,0.0,0.0,de,1
 Sussex,Sussex,LOC,0.7,0.0,de,1
 Mobland,Mobland,LOC,0.0,0.0,de,1
 Mafiaserie,Mafiaserie,LOC,0.0,0.0,de,1
 Talkshows,Talkshows,LOC,0.0,0.0,de,1
 Schockstarre,Schockstarre,LOC,0.0,0.0,de,1
-Lokalposse,Lokalposse,LOC,0.0,0.0,de,1
 Kanzlers,Kanzlers,LOC,0.0,0.0,de,1
 Worst-Case-Szenario,Worst-Case-Szenario,LOC,0.0,0.0,de,1
-Burgfrieden,Burgfrieden,LOC,0.0,0.0,de,1
 Landesverband,Landesverband,LOC,0.0,0.0,de,1
-Xi-Trump-Gipfel,Xi-Trump-Gipfel,LOC,0.0,0.0,de,1
 Buckingham-Palastes,Buckingham-Palastes,LOC,1.0,0.0,de,1
-Andrews Air Force Base,Andrews Air Force Base,LOC,0.0,0.0,de,1
-Troll-Modus,Troll-Modus,LOC,0.0,0.0,de,1
-Anschuldigungen,Anschuldigungen,LOC,0.0,0.0,de,1
-Flughafen Orly,Flughafen Orly,LOC,0.0,0.0,de,1
-Buckingham-Palast,Buckingham-Palast,LOC,0.0,0.0,de,1
-Monarch,Monarch,LOC,0.0,0.0,de,1
-Meistgestreamter Song,Meistgestreamter Song,LOC,0.0,0.0,de,1
-Kopf,Kopf,LOC,0.0,0.0,de,1
-Triumphbogen,Triumphbogen,LOC,0.0,0.0,de,1
-Marvel,Marvel,LOC,0.7,0.0,de,1
-Handelskonflikt,Handelskonflikt,LOC,-0.5,0.5,de,1
-Enteignungspläne der Linken,Enteignungspläne der Linken,LOC,-0.7,0.0,de,1
-weiterlesenSaint-Tropez,weiterlesenSaint-Tropez,LOC,0.7,0.0,de,1
-Saint-Tropez,Saint-Tropez,LOC,1.0,0.0,de,1
-Jacht-Hafen,Jacht-Hafen,LOC,1.0,0.0,de,1
-Eisdiele,Eisdiele,LOC,1.0,0.0,de,1
-Epstein,Epstein,LOC,-1.0,0.0,de,1
 Bundesstaat reic…,Bundesstaat reic…,LOC,0.0,0.0,de,1
+Anschuldigungen,Anschuldigungen,LOC,0.0,0.0,de,1
+Buckingham-Palast,Buckingham-Palast,LOC,0.0,0.0,de,1
 Abbey Road Studios,Abbey Road Studios,LOC,0.0,0.0,de,1
 Mannheimer,Mannheimer,LOC,0.0,0.0,de,1
+Kopf,Kopf,LOC,0.0,0.0,de,1
+Mecklenbur…,Mecklenbur…,LOC,0.0,0.0,de,1
 Spokane,Spokane,LOC,0.0,0.0,de,1
 Kongressanhörungen,Kongressanhörungen,LOC,0.0,0.0,de,1
+Hannover-Insider,Hannover-Insider,LOC,0.0,0.0,de,1
+Herbstlooks,Herbstlooks,LOC,0.0,0.0,de,1
 Flughafen Leipzig,Flughafen Leipzig,LOC,0.0,0.0,de,1
 Kreml-Hetzer,Kreml-Hetzer,LOC,0.0,0.0,de,1
-Müssen Harry,Müssen Harry,LOC,0.0,0.0,de,1
-Belgien,Belgien,LOC,-1.0,0.0,de,1
-Bayreuth,Bayreuth,LOC,0.0,0.0,de,1
-Urlaubs-Krimi,Urlaubs-Krimi,LOC,0.0,0.0,de,1
+AfD-Fraktionschef,AfD-Fraktionschef,LOC,0.0,0.0,de,1
+Rostock,Rostock,LOC,0.0,0.0,de,1
+Warnemünde,Warnemünde,LOC,0.0,0.0,de,1
+Gaza-Partei,Gaza-Partei,LOC,0.0,0.0,de,1
+Eisdiele,Eisdiele,LOC,1.0,0.0,de,1
+Mainz,Mainz,LOC,0.0,0.0,de,1
 Nicola,Nicola,LOC,0.0,0.0,de,1
-Schlechter Lernfortschritt,Schlechter Lernfortschritt,LOC,-1.0,0.0,de,1
-Downing Street,Downing Street,LOC,0.0,0.0,de,1
-Manchester,Manchester,LOC,0.0,0.0,de,1
-Labour-Hand,Labour-Hand,LOC,0.0,0.0,de,1
+Urlaubs-Krimi,Urlaubs-Krimi,LOC,0.0,0.0,de,1
+Grossbritannien,Grossbritannien,LOC,0.0,0.0,de,1
+Geeintes Russland,Geeintes Russland,LOC,-1.0,0.0,de,1
+Interfax,Interfax,LOC,-1.0,0.0,de,1
+Knopf,Knopf,LOC,-0.7,0.0,de,1
+Sonntag erklä,Sonntag erklä,LOC,0.0,0.0,de,1
+Potomac River,Potomac River,LOC,1.0,0.0,de,1
+Arc de Triomphe,Arc de Triomphe,LOC,0.0,0.0,de,1
+US-Hauptstadt,US-Hauptstadt,LOC,0.0,0.0,de,1
+Kellner,Kellner,LOC,0.0,0.0,de,1
+Wunschkonzert-Parteien,Wunschkonzert-Parteien,LOC,0.0,0.0,de,1
+AfD,AfD,LOC,-1.0,0.0,de,1
+weiterlesenSaint-Tropez,weiterlesenSaint-Tropez,LOC,0.7,0.0,de,1
+Sonderausgabe,Sonderausgabe,LOC,0.0,0.0,de,1
+Earl of Spencer,Earl of Spencer,LOC,0.0,0.0,de,1
+KI-Branche,KI-Branche,LOC,-0.7,0.0,de,1
+Landkreis…,Landkreis…,LOC,0.7,0.0,de,1
+Schockwellen,Schockwellen,LOC,0.0,0.0,de,1
+Saint-Tropez,Saint-Tropez,LOC,1.0,0.0,de,1
+NZZ am Sonntag,NZZ am Sonntag,LOC,0.0,0.0,de,1
+Swan Song,Swan Song,LOC,0.0,0.0,de,1
+Lebensgefahr,Lebensgefahr,LOC,0.7,0.0,de,1
+Jacht-Hafen,Jacht-Hafen,LOC,1.0,0.0,de,1
+Umfrage-Instituten,Umfrage-Instituten,LOC,-0.35,0.5,de,1
+Nachrichtenportal Politico,Nachrichtenportal Politico,LOC,-1.0,0.0,de,1
+Händedruck,Händedruck,LOC,0.0,0.8,de,1
 Metropolregion Manchester,Metropolregion Manchester,LOC,0.0,0.0,de,1
 Engalnd,Engalnd,LOC,1.0,0.0,de,1
-Liedzeile,Liedzeile,LOC,0.0,0.0,de,1
-Waldbränden,Waldbränden,LOC,0.0,0.0,de,1
-Originalformat,Originalformat,LOC,0.0,1.0,de,1
-Ceuta-Vorgeschichte,Ceuta-Vorgeschichte,LOC,-1.0,0.0,de,1
-Brand Beckham,Brand Beckham,LOC,0.0,0.0,de,1
-weiterlesenTel Aviv,weiterlesenTel Aviv,LOC,0.0,0.0,de,1
-Bundesrepublik Deutschland,Bundesrepublik Deutschland,LOC,0.0,0.0,de,1
-Podcast Ronzheimer,Podcast Ronzheimer,LOC,-0.7,0.0,de,1
-Tel Aviv,Tel Aviv,LOC,0.0,0.0,de,1
-Amerikanern,Amerikanern,LOC,0.0,0.0,de,1
-Kulturstaatsminister,Kulturstaatsminister,LOC,0.0,0.0,de,1
-Epsteins Insel,Epsteins Insel,LOC,0.0,0.0,de,1
-KI,KI,LOC,0.0,0.0,de,1
-Geldwäschezentrum,Geldwäschezentrum,LOC,0.0,0.0,de,1
-Nudeln,Nudeln,LOC,-0.7,0.0,de,1
-Bühnen-Outfit,Bühnen-Outfit,LOC,0.0,0.0,de,1
-Washingtons,Washingtons,LOC,0.0,0.0,de,1
-Havanna,Havanna,LOC,0.15000000000000002,0.0,de,1
-Hormus-Straße,Hormus-Straße,LOC,-1.0,0.0,de,1
-Teherans,Teherans,LOC,0.0,0.0,de,1
-Siegmund,Siegmund,LOC,0.7,0.0,de,1
-Verfassungsschutz,Verfassungsschutz,LOC,0.7,0.0,de,1
-Verfassungsschutzes,Verfassungsschutzes,LOC,-0.7,0.0,de,1
-Kreml Maria Sacharowa,Kreml Maria Sacharowa,LOC,-1.0,0.0,de,1
-TV-Ferien,TV-Ferien,LOC,-0.7,0.0,de,1
-Hamburg,Hamburg,LOC,0.0,0.0,de,1
-Massoud Pezeshkian,Massoud Pezeshkian,LOC,0.0,0.0,de,1
-Portofino,Portofino,LOC,0.0,0.0,de,1
-Briten-Premier,Briten-Premier,LOC,-0.85,0.0,de,1
-Meerwasser,Meerwasser,LOC,0.0,0.0,de,1
-Italiener,Italiener,LOC,-1.0,0.0,de,1
-Aachen,Aachen,LOC,0.0,0.0,de,1
-Capybara,Capybara,LOC,0.7,0.0,de,1
-Münsteraner,Münsteraner,LOC,-0.7,0.0,de,1
-Hormus,Hormus,LOC,0.0,0.0,de,1
-Iraner,Iraner,LOC,0.0,0.0,de,1
-Metropolitan Museum,Metropolitan Museum,LOC,0.0,0.0,de,1
-Roland-Kaiser-Duett,Roland-Kaiser-Duett,LOC,0.0,0.0,de,1
-Personalie,Personalie,LOC,-1.0,0.0,de,1
-Wien,Wien,LOC,0.0,0.0,de,1
-brasi…,brasi…,LOC,0.0,0.0,de,1
-Ankara,Ankara,LOC,0.0,0.0,de,1
-Obersten Gerichtshofes,Obersten Gerichtshofes,LOC,0.0,0.0,de,1
-Donbass,Donbass,LOC,0.0,0.0,de,1
-Pazifik,Pazifik,LOC,0.0,0.0,de,1
-Noworossijsk am Schwarzen Meer,Noworossijsk am Schwarzen Meer,LOC,0.7,0.0,de,1
-Söder,Söder,LOC,0.7,0.0,de,1
-Südens,Südens,LOC,0.0,0.0,de,1
-Münchner Landgericht,Münchner Landgericht,LOC,0.0,0.0,de,1
-AfD-Wahlerfolg,AfD-Wahlerfolg,LOC,0.7,0.0,de,1
-Milei,Milei,LOC,0.7,0.0,de,1
-Straße steh…,Straße steh…,LOC,0.0,0.0,de,1
-Fiskalregeln,Fiskalregeln,LOC,0.7,0.0,de,1
-Burnham,Burnham,LOC,0.0,0.0,de,1
-Südafrikas,Südafrikas,LOC,0.0,0.0,de,1
-Johannesburg,Johannesburg,LOC,0.0,0.0,de,1
-Stadt Salzburg,Stadt Salzburg,LOC,0.0,0.0,de,1
-Britische Regierung,Britische Regierung,LOC,0.0,0.0,de,1
-schwergetan,schwergetan,LOC,0.0,0.0,de,1
-Masterminds,Masterminds,LOC,0.0,0.0,de,1
-Glasgow,Glasgow,LOC,0.0,0.0,de,1
-Luxus,Luxus,LOC,1.0,0.0,de,1
-missliebigem Museum,missliebigem Museum,LOC,0.0,0.0,de,1
-Epstein-Enthüllungen,Epstein-Enthüllungen,LOC,-1.0,0.0,de,1
-Royal,Royal,LOC,0.0,0.0,de,1
-Royal Lodge,Royal Lodge,LOC,0.0,0.0,de,1
-Sumner County,Sumner County,LOC,0.0,0.0,de,1
-Vietnam-Veteranen,Vietnam-Veteranen,LOC,0.0,0.0,de,1
-Dover Air Force Base,Dover Air Force Base,LOC,0.0,0.0,de,1
-Haus in Colombes,Haus in Colombes,LOC,0.0,0.0,de,1
-Vereinigten Königreichs,Vereinigten Königreichs,LOC,0.0,0.0,de,1
-Ex-Spice-Girls,Ex-Spice-Girls,LOC,1.0,0.0,de,1
-Platzeck,Platzeck,LOC,0.7,0.0,de,1
-Pofalla,Pofalla,LOC,0.7,0.0,de,1
-Schwarzen Meer,Schwarzen Meer,LOC,0.7,0.0,de,1
-Cowboy-Boots,Cowboy-Boots,LOC,0.0,0.0,de,1
-Filmmusical La La Land,Filmmusical La La Land,LOC,0.0,0.0,de,1
-Hause,Hause,LOC,0.0,0.0,de,1
-Epstein-Files,Epstein-Files,LOC,0.0,0.0,de,1
-Huthi-Drohungen,Huthi-Drohungen,LOC,0.85,0.0,de,1
-Atom-Deal,Atom-Deal,LOC,0.0,0.0,de,1
-Saudi-Arabien,Saudi-Arabien,LOC,0.0,0.0,de,1
-Business-Gewand,Business-Gewand,LOC,0.0,0.0,de,1
-US-Konzern,US-Konzern,LOC,0.0,0.0,de,1
-Kettensägen-Präsident,Kettensägen-Präsident,LOC,0.7,0.0,de,1
-Bolsonaro,Bolsonaro,LOC,-0.15000000000000002,0.0,de,1
-Suno,Suno,LOC,0.0,0.0,de,1
-Teheraner,Teheraner,LOC,0.0,0.0,de,1
-Krisen-Gipfel,Krisen-Gipfel,LOC,-0.7,0.0,de,1
-Präs…,Präs…,LOC,0.0,0.0,de,1
+US-Staat,US-Staat,LOC,0.0,0.0,de,1
+Konsequenzen,Konsequenzen,LOC,0.0,0.0,de,1
+Theater der Hauptschuldige,Theater der Hauptschuldige,LOC,0.0,0.0,de,1
+di…,di…,LOC,0.7,0.0,de,1
+Eurozone,Eurozone,LOC,0.7,0.0,de,1
+Unruhen,Unruhen,LOC,0.0,0.0,de,1
 US-Bundesstaat,US-Bundesstaat,LOC,-0.7,0.0,de,1
+Straßburg,Straßburg,LOC,0.0,0.0,de,1
+Kopenhagen,Kopenhagen,LOC,0.0,0.0,de,1
 KI-Nacktbilder,KI-Nacktbilder,LOC,-0.7,0.0,de,1
+(77) die Monarchie,(77) die Monarchie,LOC,0.0,0.0,de,1
 t3n.de,t3n.de,LOC,0.0,0.0,de,1
 Austin,Austin,LOC,0.0,0.0,de,1
 Michigan,Michigan,LOC,0.0,0.0,de,1
-US-Staat,US-Staat,LOC,0.0,0.0,de,1
-Anleger,Anleger,LOC,-1.0,0.0,de,1
+Box Office Mojo,Box Office Mojo,LOC,0.0,0.0,de,1
 Facebook-Konzern Meta,Facebook-Konzern Meta,LOC,-1.0,0.0,de,1
+Portugal-Coach,Portugal-Coach,LOC,0.0,0.0,de,1
+Musiker-Dates,Musiker-Dates,LOC,1.0,0.0,de,1
+Trennungen,Trennungen,LOC,1.0,0.0,de,1
+Hollywood-Glamours,Hollywood-Glamours,LOC,0.0,0.0,de,1
+Lippenrand,Lippenrand,LOC,-0.7,0.0,de,1
+Dakota Johnson,Dakota Johnson,LOC,0.0,0.0,de,1
+Lippen,Lippen,LOC,0.0,0.0,de,1
+Don…,Don…,LOC,0.0,0.0,de,1
+Newsportal,Newsportal,LOC,-0.85,0.0,de,1
+Pulborough,Pulborough,LOC,0.0,0.0,de,1
+Chefcoach,Chefcoach,LOC,-1.0,0.0,de,1
+Brandmauer,Brandmauer,LOC,0.0,0.0,de,1
+AfD-Debatte,AfD-Debatte,LOC,0.0,0.0,de,1
+Teamcamp Portugals,Teamcamp Portugals,LOC,0.0,0.0,de,1
+Leiria,Leiria,LOC,0.0,0.0,de,1
+Knast,Knast,LOC,-1.0,0.0,de,1
+Yorkshire,Yorkshire,LOC,1.0,0.0,de,1
+Schladming,Schladming,LOC,0.0,0.0,de,1
+Brüssel,Brüssel,LOC,0.0,0.0,de,1
+NRW,NRW,LOC,0.0,0.0,de,1
+Clive Alderton,Clive Alderton,LOC,0.0,0.0,de,1
+Kreises,Kreises,LOC,0.0,0.0,de,1
+ZDF-Talk „Markus Lanz“,ZDF-Talk „Markus Lanz“,LOC,0.0,1.0,de,1
+Vertrauens-Test,Vertrauens-Test,LOC,0.0,0.0,de,1
+Erfolgs-Podcast Kaulitz Hills,Erfolgs-Podcast Kaulitz Hills,LOC,0.35,0.5,de,1
+Kaulitz,Kaulitz,LOC,0.35,0.5,de,1
+Brüdern Tom,Brüdern Tom,LOC,0.35,0.5,de,1
+Sternchen,Sternchen,LOC,0.35,0.5,de,1
+Promis,Promis,LOC,0.35,0.5,de,1
+Ronaldo-Spiel,Ronaldo-Spiel,LOC,0.0,0.0,de,1
+Raketen-Alarm,Raketen-Alarm,LOC,0.0,0.0,de,1
+Portugal-Camp,Portugal-Camp,LOC,-1.0,0.0,de,1
+Louise,Louise,LOC,0.0,0.0,de,1
+Elwan,Elwan,LOC,0.0,0.0,de,1
+Vertrauen,Vertrauen,LOC,0.0,0.0,de,1
+Krisen-Gipfel,Krisen-Gipfel,LOC,-0.7,0.0,de,1
+Präs…,Präs…,LOC,0.0,0.0,de,1
+Élysée-Palast,Élysée-Palast,LOC,0.0,1.0,de,1
+Macron,Macron,LOC,0.0,0.0,de,1
+Colorado,Colorado,LOC,0.0,0.0,de,1
+Justizangaben,Justizangaben,LOC,0.7,0.0,de,1
+Linke-Debatte,Linke-Debatte,LOC,0.0,0.0,de,1
+Banaszak,Banaszak,LOC,0.0,0.0,de,1
+Triumphbogen da…,Triumphbogen da…,LOC,0.0,0.0,de,1
+Anleger,Anleger,LOC,-1.0,0.0,de,1
+Rodgers,Rodgers,LOC,-0.7,0.0,de,1
+Lokalposse,Lokalposse,LOC,0.0,0.0,de,1
+Kalenderwoche 39,Kalenderwoche 39,LOC,0.0,0.0,de,1
+Glamour,Glamour,LOC,0.7,0.0,de,1
+Monaten,Monaten,LOC,0.0,0.0,de,1
+Südens,Südens,LOC,0.0,0.0,de,1
+ha…,ha…,LOC,0.0,0.0,de,1
+Packers,Packers,LOC,0.0,0.0,de,1
+Manchester,Manchester,LOC,0.0,0.0,de,1
+Hasenfell,Hasenfell,LOC,0.0,1.0,de,1
+Kamele,Kamele,LOC,0.0,1.0,de,1
+Peacock Theater,Peacock Theater,LOC,0.0,0.0,de,1
+Küns…,Küns…,LOC,0.0,0.0,de,1
+Machtzuwachs,Machtzuwachs,LOC,0.0,0.0,de,1
+Gangstertypen,Gangstertypen,LOC,0.0,0.0,de,1
+KW39,KW39,LOC,1.0,0.0,de,1
+TTS-Player überspringenArtikel weiterlesenDublin,TTS-Player überspringenArtikel weiterlesenDublin,LOC,0.0,0.0,de,1
+Magdeburger Landtag,Magdeburger Landtag,LOC,0.0,0.0,de,1
+Labour-Hand,Labour-Hand,LOC,0.0,0.0,de,1
+Bandjubiläum,Bandjubiläum,LOC,0.0,0.0,de,1
+Vatikan,Vatikan,LOC,0.0,0.0,de,1
+Place de la Concorde,Place de la Concorde,LOC,0.0,0.0,de,1
+Meistgestreamter Song,Meistgestreamter Song,LOC,0.0,0.0,de,1
+Foto-Überblick,Foto-Überblick,LOC,0.0,0.0,de,1
+Flughafen Orly,Flughafen Orly,LOC,0.0,0.0,de,1
+Belgien,Belgien,LOC,-1.0,0.0,de,1
+Troll-Modus,Troll-Modus,LOC,0.0,0.0,de,1
+Andrews Air Force Base,Andrews Air Force Base,LOC,0.0,0.0,de,1
+Xi-Trump-Gipfel,Xi-Trump-Gipfel,LOC,0.0,0.0,de,1
+Burgfrieden,Burgfrieden,LOC,0.0,0.0,de,1
+Floskel,Floskel,LOC,-0.5,0.5,de,1
+Blitzlicht,Blitzlicht,LOC,0.7,0.0,de,1
+Brexit,Brexit,LOC,-1.0,0.0,de,1
+Ölfirma,Ölfirma,LOC,0.0,0.0,de,1
+Drittländer,Drittländer,LOC,1.0,0.0,de,1
+AfD-Anträgen,AfD-Anträgen,LOC,0.0,0.0,de,1
 Wall Street,Wall Street,LOC,-1.0,0.0,de,1
 US-Handel,US-Handel,LOC,0.0,1.0,de,1
 Santa Nirgen…,Santa Nirgen…,LOC,-0.7,0.0,de,1
+Teilzeitrente,Teilzeitrente,LOC,0.0,0.0,de,1
+Ego-Trip,Ego-Trip,LOC,0.0,0.0,de,1
+Lowen,Lowen,LOC,0.0,0.0,de,1
+Württemberger,Württemberger,LOC,0.0,0.0,de,1
+Madrid,Madrid,LOC,1.0,0.0,de,1
 Frankfurts,Frankfurts,LOC,0.0,0.0,de,1
+Erklärungsnot,Erklärungsnot,LOC,0.0,0.0,de,1
+Unionsfraktionschef Frei,Unionsfraktionschef Frei,LOC,0.85,0.0,de,1
+Länderspielen,Länderspielen,LOC,0.0,0.0,de,1
 Toronto,Toronto,LOC,0.0,0.0,de,1
-Vertrauen,Vertrauen,LOC,0.0,0.0,de,1
-Vertrauens-Test,Vertrauens-Test,LOC,0.0,0.0,de,1
-Clive Alderton,Clive Alderton,LOC,0.0,0.0,de,1
-Oman,Oman,LOC,0.7,0.0,de,1
-Ägyptens,Ägyptens,LOC,0.0,0.0,de,1
-Trump Tower,Trump Tower,LOC,0.0,0.0,de,1
-Komplim…,Komplim…,LOC,0.0,0.0,de,1
-Bahrain-Rennen,Bahrain-Rennen,LOC,-1.0,0.0,de,1
-Liveblog Iran,Liveblog Iran,LOC,0.7,0.0,de,1
-Sonntag Fortschritte,Sonntag Fortschritte,LOC,0.7,0.0,de,1
-Welthandel,Welthandel,LOC,0.7,0.0,de,1
-Schladming,Schladming,LOC,0.0,0.0,de,1
-Gang ,Gang ,LOC,0.7,0.0,de,1
-US-Angriffspause,US-Angriffspause,LOC,0.0,0.0,de,1
-Australien,Australien,LOC,0.0,0.0,de,1
-RONZHEIMER,RONZHEIMER,LOC,0.0,0.0,de,1
-Putins,Putins,LOC,0.0,0.0,de,1
-Ukraine Russland,Ukraine Russland,LOC,0.0,0.0,de,1
-POLITICO,POLITICO,LOC,0.0,0.0,de,1
-Tass,Tass,LOC,0.0,0.0,de,1
-Streaming-Zahlen,Streaming-Zahlen,LOC,0.0,0.0,de,1
-Limonade,Limonade,LOC,0.0,0.0,de,1
+Suno,Suno,LOC,0.0,0.0,de,1
+Münchner Landgericht,Münchner Landgericht,LOC,0.0,0.0,de,1
+KI,KI,LOC,0.0,0.0,de,1
+Klums Halloween-Sause,Klums Halloween-Sause,LOC,-0.7,0.0,de,1
+Klums Halloween-Party,Klums Halloween-Party,LOC,0.0,0.0,de,1
+Deutschland/Russland,Deutschland/Russland,LOC,0.0,0.0,de,1
+Kaulitz-Brüder,Kaulitz-Brüder,LOC,0.0,0.0,de,1
+Tokio Hotel,Tokio Hotel,LOC,0.0,0.0,de,1
+Senf,Senf,LOC,0.0,0.0,de,1
+Kaulitz Hills,Kaulitz Hills,LOC,0.0,0.0,de,1
+Peine-Gifhorn,Peine-Gifhorn,LOC,0.0,0.0,de,1
+Was Lanz,Was Lanz,LOC,1.0,0.0,de,1
+SPD-Chefsessel,SPD-Chefsessel,LOC,1.0,0.0,de,1
+Müssen Harry,Müssen Harry,LOC,0.0,0.0,de,1
+Ostküste,Ostküste,LOC,-1.0,0.0,de,1
+Bayreuth,Bayreuth,LOC,0.0,0.0,de,1
 Kairo,Kairo,LOC,0.0,0.0,de,1
-Hollywood Bowl,Hollywood Bowl,LOC,0.0,0.0,de,1
-Los Angeles an</li></…,Los Angeles an</li></…,LOC,0.0,0.0,de,1
-Walk of Fame,Walk of Fame,LOC,0.0,0.0,de,1
-Hollywood Walk of Fame Blumen,Hollywood Walk of Fame Blumen,LOC,0.0,0.0,de,1
-Hollywood Historic Trust an der Platte,Hollywood Historic Trust an der Platte,LOC,0.0,0.0,de,1
-Bond-Favoriten,Bond-Favoriten,LOC,0.0,0.0,de,1
-Apple,Apple,LOC,0.0,0.0,de,1
-Lake America,Lake America,LOC,0.0,0.0,de,1
+Arbeiten im Weißen Haus,Arbeiten im Weißen Haus,LOC,0.0,0.0,de,1
 Wilden Westen,Wilden Westen,LOC,0.0,0.0,de,1
-Leistungsgedanken,Leistungsgedanken,LOC,0.0,0.0,de,1
-Venedig,Venedig,LOC,0.0,0.0,de,1
-US‑Podcast,US‑Podcast,LOC,0.0,0.0,de,1
-Irak,Irak,LOC,0.0,0.0,de,1
-Afghanistan,Afghanistan,LOC,0.0,0.0,de,1
+Lake America,Lake America,LOC,0.0,0.0,de,1
+New York…,New York…,LOC,0.0,0.0,de,1
+Apple,Apple,LOC,0.0,0.0,de,1
+Bond-Favoriten,Bond-Favoriten,LOC,0.0,0.0,de,1
+Hollywood Historic Trust an der Platte,Hollywood Historic Trust an der Platte,LOC,0.0,0.0,de,1
+Hollywood Walk of Fame Blumen,Hollywood Walk of Fame Blumen,LOC,0.0,0.0,de,1
+Walk of Fame,Walk of Fame,LOC,0.0,0.0,de,1
+Los Angeles an</li></…,Los Angeles an</li></…,LOC,0.0,0.0,de,1
+Hollywood Bowl,Hollywood Bowl,LOC,0.0,0.0,de,1
+Maga-Welt los,Maga-Welt los,LOC,0.0,0.0,de,1
+Verbal-Attacke,Verbal-Attacke,LOC,0.7,0.0,de,1
 Herr Tetzlaff,Herr Tetzlaff,LOC,-1.0,0.0,de,1
+Venedig,Venedig,LOC,0.0,0.0,de,1
 AfD-Bundeschef,AfD-Bundeschef,LOC,-1.0,0.0,de,1
+Reichweite,Reichweite,LOC,0.0,0.0,de,1
 Deuts…,Deuts…,LOC,1.0,0.0,de,1
-Imago,Imago,LOC,0.0,0.0,de,1
-Armenien,Armenien,LOC,0.7,0.0,de,1
-Pipelines,Pipelines,LOC,0.7,0.0,de,1
-armenisch-iranischen Grenze,armenisch-iranischen Grenze,LOC,0.0,0.0,de,1
-TRIPP,TRIPP,LOC,0.0,0.0,de,1
-Parteivorsitzenden,Parteivorsitzenden,LOC,0.0,0.0,de,1
-Oscar-Preisträgerin,Oscar-Preisträgerin,LOC,-1.0,0.0,de,1
-Collage ntv.de,Collage ntv.de,LOC,0.0,0.0,de,1
 Dienstwagen-Check,Dienstwagen-Check,LOC,0.0,0.0,de,1
-Hofbräuhaus,Hofbräuhaus,LOC,0.0,0.0,de,1
-US-Heeresstaatssekretär,US-Heeresstaatssekretär,LOC,0.0,0.0,de,1
-Weiße Haus am Montag,Weiße Haus am Montag,LOC,0.0,0.0,de,1
-AfD-Chefin,AfD-Chefin,LOC,0.0,0.0,de,1
-Politikerranking,Politikerranking,LOC,0.0,0.0,de,1
+Politstars,Politstars,LOC,0.0,0.0,de,1
 Kirgisistan,Kirgisistan,LOC,-0.7,0.0,de,1
-belast…,belast…,LOC,0.0,0.0,de,1
-Frühstückscerealien,Frühstückscerealien,LOC,0.0,0.0,de,1
-Album-Releases,Album-Releases,LOC,0.0,0.0,de,1
-Bundesstaat Maryland,Bundesstaat Maryland,LOC,0.0,0.0,de,1
-Istanbul,Istanbul,LOC,0.0,0.0,de,1
-Pu…,Pu…,LOC,0.0,0.0,de,1
-US-Politiker,US-Politiker,LOC,1.0,0.0,de,1
-Koalitionspartner,Koalitionspartner,LOC,1.0,0.0,de,1
-Cannes,Cannes,LOC,0.0,0.0,de,1
-d…,d…,LOC,0.0,0.0,de,1
-Morristown,Morristown,LOC,0.0,0.0,de,1
-Gaza,Gaza,LOC,0.0,0.0,de,1
-Gazastreifens,Gazastreifens,LOC,0.0,0.0,de,1
-Exodus,Exodus,LOC,0.0,0.0,de,1
-Wahlabend,Wahlabend,LOC,-1.0,0.0,de,1
-Eton…,Eton…,LOC,0.0,0.0,de,1
-Finnland,Finnland,LOC,0.7,0.0,de,1
-Estland,Estland,LOC,0.7,0.0,de,1
-Rückensturm,Rückensturm,LOC,0.0,1.0,de,1
-Griechenland,Griechenland,LOC,0.0,0.0,de,1
-AfD-Wähler,AfD-Wähler,LOC,0.35,0.5,de,1
-Sachsen-Anhal…,Sachsen-Anhal…,LOC,0.0,0.0,de,1
-Hofe,Hofe,LOC,0.0,0.0,de,1
-Medien-Gegenwart,Medien-Gegenwart,LOC,0.0,0.0,de,1
-Intensivstation,Intensivstation,LOC,0.0,0.0,de,1
-Int…,Int…,LOC,0.0,0.0,de,1
-US-Senatorin,US-Senatorin,LOC,0.0,0.0,de,1
-Bundesweit,Bundesweit,LOC,-1.0,0.0,de,1
-Beobachtungszeitraum,Beobachtungszeitraum,LOC,0.0,0.0,de,1
-Mette-Marit,Mette-Marit,LOC,0.7,0.0,de,1
-Wahlkreis Genthin,Wahlkreis Genthin,LOC,0.0,0.0,de,1
-Kleinwerte-Index,Kleinwerte-Index,LOC,0.0,0.0,de,1
-Zuckerberg,Zuckerberg,LOC,0.0,0.0,de,1
-Mark Zuckerberg,Mark Zuckerberg,LOC,0.7,0.0,de,1
-Kinderkanal Kika auftrumpfte,Kinderkanal Kika auftrumpfte,LOC,0.0,0.0,de,1
+Heute-Show-Mann,Heute-Show-Mann,LOC,0.0,0.0,de,1
+Politikerranking,Politikerranking,LOC,0.0,0.0,de,1
+AfD-Chefin,AfD-Chefin,LOC,0.0,0.0,de,1
+Weiße Haus am Montag,Weiße Haus am Montag,LOC,0.0,0.0,de,1
+US-Heeresstaatssekretär,US-Heeresstaatssekretär,LOC,0.0,0.0,de,1
+Rundfunk,Rundfunk,LOC,0.0,0.0,de,1
+Collage ntv.de,Collage ntv.de,LOC,0.0,0.0,de,1
+Leistungsgedanken,Leistungsgedanken,LOC,0.0,0.0,de,1
+US‑Podcast,US‑Podcast,LOC,0.0,0.0,de,1
+Getty,Getty,LOC,0.0,0.0,de,1
+“,“,LOC,-1.0,0.0,de,1
 Kinderkanal Kika,Kinderkanal Kika,LOC,0.0,0.0,de,1
-Tange…,Tange…,LOC,0.0,1.0,de,1
-Kaukasus,Kaukasus,LOC,0.0,0.0,de,1
-NashvilleSo,NashvilleSo,LOC,1.0,0.0,de,1
-Trump-Dekret,Trump-Dekret,LOC,0.0,0.0,de,1
-Schicksalswahlen,Schicksalswahlen,LOC,0.0,0.0,de,1
-BSW-Parteigründerin,BSW-Parteigründerin,LOC,0.0,0.0,de,1
-zweiten Platz,zweiten Platz,LOC,0.0,0.0,de,1
-Handelskrieg USA-Kanada,Handelskrieg USA-Kanada,LOC,0.0,0.0,de,1
+Kinderkanal Kika auftrumpfte,Kinderkanal Kika auftrumpfte,LOC,0.0,0.0,de,1
+Streaming-Zahlen,Streaming-Zahlen,LOC,0.0,0.0,de,1
+Album-Releases,Album-Releases,LOC,0.0,0.0,de,1
+Mark Zuckerberg,Mark Zuckerberg,LOC,0.7,0.0,de,1
+Zuckerberg,Zuckerberg,LOC,0.0,0.0,de,1
+US-Demokraten,US-Demokraten,LOC,-1.0,0.0,de,1
+These wirk,These wirk,LOC,0.0,0.0,de,1
+Kleinwerte-Index,Kleinwerte-Index,LOC,0.0,0.0,de,1
+Wagenknecht,Wagenknecht,LOC,0.0,0.0,de,1
+Brombeer-Koalition,Brombeer-Koalition,LOC,0.0,0.0,de,1
+Thüringen,Thüringen,LOC,0.0,0.0,de,1
+Mette-Marit,Mette-Marit,LOC,0.7,0.0,de,1
+Hofe,Hofe,LOC,0.0,0.0,de,1
+Irak,Irak,LOC,0.0,0.0,de,1
+Beobachtungszeitraum,Beobachtungszeitraum,LOC,0.0,0.0,de,1
+Bundesweit,Bundesweit,LOC,-1.0,0.0,de,1
+US-Journalistin,US-Journalistin,LOC,-0.85,0.0,de,1
+US-Senatorin,US-Senatorin,LOC,0.0,0.0,de,1
+Popstar Dua Lipa,Popstar Dua Lipa,LOC,0.0,0.0,de,1
+Int…,Int…,LOC,0.0,0.0,de,1
+Intensivstation,Intensivstation,LOC,0.0,0.0,de,1
+Medien-Gegenwart,Medien-Gegenwart,LOC,0.0,0.0,de,1
+Bundesstaat Maryland,Bundesstaat Maryland,LOC,0.0,0.0,de,1
+Frühstückscerealien,Frühstückscerealien,LOC,0.0,0.0,de,1
+Limonade,Limonade,LOC,0.0,0.0,de,1
+belast…,belast…,LOC,0.0,0.0,de,1
+Afghanistan,Afghanistan,LOC,0.0,0.0,de,1
+Imago,Imago,LOC,0.0,0.0,de,1
+Oscar-Preisträgerin,Oscar-Preisträgerin,LOC,-1.0,0.0,de,1
+US-Verteidigungsminister,US-Verteidigungsminister,LOC,0.0,0.0,de,1
+Rocky Mountains,Rocky Mountains,LOC,0.0,0.0,de,1
+Briefwahl,Briefwahl,LOC,0.0,0.0,de,1
+Schweigegeld-Affäre,Schweigegeld-Affäre,LOC,-0.5,0.5,de,1
 Nordkoreas,Nordkoreas,LOC,0.0,0.0,de,1
+Ten…,Ten…,LOC,0.0,0.0,de,1
 Wahlkampftour,Wahlkampftour,LOC,0.0,0.0,de,1
 Amazonas-Regenwald,Amazonas-Regenwald,LOC,0.85,0.0,de,1
 Dortmund,Dortmund,LOC,0.0,0.0,de,1
 Ibiza,Ibiza,LOC,0.0,0.0,de,1
 Lipa-Familie,Lipa-Familie,LOC,0.0,0.0,de,1
+Pankow,Pankow,LOC,0.0,0.0,de,1
 US-Spezialeinheiten,US-Spezialeinheiten,LOC,0.0,0.0,de,1
 weiterlesenNew York City,weiterlesenNew York City,LOC,0.0,0.0,de,1
+Notenbank-Elite,Notenbank-Elite,LOC,0.0,0.0,de,1
+Jackson Hole,Jackson Hole,LOC,0.0,0.0,de,1
+Flughafen von,Flughafen von,LOC,0.0,0.0,de,1
 Mitschuld,Mitschuld,LOC,0.0,0.0,de,1
+Kolumbien,Kolumbien,LOC,-0.5,0.5,de,1
 Mutiny,Mutiny,LOC,-0.7,0.0,de,1
 Stasi-Funktion,Stasi-Funktion,LOC,0.0,0.0,de,1
+Harz,Harz,LOC,0.0,0.0,de,1
+achtzigjährig,achtzigjährig,LOC,-1.0,0.0,de,1
+Country-Diva,Country-Diva,LOC,-1.0,0.0,de,1
+Dolly-Parton-Moment,Dolly-Parton-Moment,LOC,0.0,0.0,de,1
 Gebäudes,Gebäudes,LOC,-0.85,0.0,de,1
-Geburtenwende,Geburtenwende,LOC,0.0,0.0,de,1
-Fachkräfte,Fachkräfte,LOC,0.0,0.0,de,1
-Rundfunk,Rundfunk,LOC,0.0,0.0,de,1
-US-Journalistin,US-Journalistin,LOC,-0.85,0.0,de,1
-US-Demokraten,US-Demokraten,LOC,-1.0,0.0,de,1
-These wirk,These wirk,LOC,0.0,0.0,de,1
-Wagenknecht,Wagenknecht,LOC,0.0,0.0,de,1
-Brombeer-Koalition,Brombeer-Koalition,LOC,0.0,0.0,de,1
-Thüringen,Thüringen,LOC,0.0,0.0,de,1
-“,“,LOC,-1.0,0.0,de,1
-Popstar Dua Lipa,Popstar Dua Lipa,LOC,0.0,0.0,de,1
-Heute-Show-Mann,Heute-Show-Mann,LOC,0.0,0.0,de,1
-Arbeiten im Weißen Haus,Arbeiten im Weißen Haus,LOC,0.0,0.0,de,1
-New York…,New York…,LOC,0.0,0.0,de,1
-Maga-Welt los,Maga-Welt los,LOC,0.0,0.0,de,1
-Verbal-Attacke,Verbal-Attacke,LOC,0.7,0.0,de,1
-Reichweite,Reichweite,LOC,0.0,0.0,de,1
-Politstars,Politstars,LOC,0.0,0.0,de,1
 "Kennedy
  Center","Kennedy
  Center",LOC,0.0,0.0,de,1
-Importregeln,Importregeln,LOC,0.0,0.0,de,1
-Wahlarena,Wahlarena,LOC,-0.7,0.0,de,1
-Land,Land,LOC,0.35,0.5,de,1
-Nashville International Airport,Nashville International Airport,LOC,0.0,0.0,de,1
-Mutterpartei,Mutterpartei,LOC,0.0,0.0,de,1
-Alten Theater,Alten Theater,LOC,-0.7,0.0,de,1
-Ott,Ott,LOC,-1.0,0.0,de,1
-Beinahe-Rückfall,Beinahe-Rückfall,LOC,-1.0,0.0,de,1
-Strass,Strass,LOC,0.0,0.0,de,1
-Obere Warnow,Obere Warnow,LOC,0.7,0.0,de,1
-Brite,Brite,LOC,0.0,0.0,de,1
-Parchim,Parchim,LOC,0.7,0.0,de,1
-Schlagerboom,Schlagerboom,LOC,0.0,0.0,de,1
-Love[3:01]6,Love[3:01]6,LOC,0.0,0.0,de,1
-Woodlawn Memorial …,Woodlawn Memorial …,LOC,0.0,0.0,de,1
-Düsseldorf,Düsseldorf,LOC,1.0,0.0,de,1
-Streifen,Streifen,LOC,0.0,0.0,de,1
-Nachkriegsdeutschland,Nachkriegsdeutschland,LOC,1.0,0.0,de,1
-Blogger,Blogger,LOC,-1.0,0.0,de,1
-US-Podcast,US-Podcast,LOC,0.0,0.0,de,1
-Jackson Hole,Jackson Hole,LOC,0.0,0.0,de,1
 Angriffsmodus,Angriffsmodus,LOC,-0.15000000000000002,0.0,de,1
-Dolly-Parton-Moment,Dolly-Parton-Moment,LOC,0.0,0.0,de,1
-Country-Diva,Country-Diva,LOC,-1.0,0.0,de,1
-achtzigjährig,achtzigjährig,LOC,-1.0,0.0,de,1
-Harz,Harz,LOC,0.0,0.0,de,1
-Kolumbien,Kolumbien,LOC,-0.5,0.5,de,1
-Rocky Mountains,Rocky Mountains,LOC,0.0,0.0,de,1
-Flughafen von,Flughafen von,LOC,0.0,0.0,de,1
-Notenbank-Elite,Notenbank-Elite,LOC,0.0,0.0,de,1
-Pankow,Pankow,LOC,0.0,0.0,de,1
-Ten…,Ten…,LOC,0.0,0.0,de,1
-Schweigegeld-Affäre,Schweigegeld-Affäre,LOC,-0.5,0.5,de,1
-Briefwahl,Briefwahl,LOC,0.0,0.0,de,1
+US-Podcast,US-Podcast,LOC,0.0,0.0,de,1
+Wahlarena,Wahlarena,LOC,-0.7,0.0,de,1
 Yosemite-Park,Yosemite-Park,LOC,0.0,0.0,de,1
-Getty,Getty,LOC,0.0,0.0,de,1
+Blogger,Blogger,LOC,-1.0,0.0,de,1
+Parteivorsitzenden,Parteivorsitzenden,LOC,0.0,0.0,de,1
+Schlagerboom,Schlagerboom,LOC,0.0,0.0,de,1
+Fachkräfte,Fachkräfte,LOC,0.0,0.0,de,1
+TRIPP,TRIPP,LOC,0.0,0.0,de,1
+armenisch-iranischen Grenze,armenisch-iranischen Grenze,LOC,0.0,0.0,de,1
+Pipelines,Pipelines,LOC,0.7,0.0,de,1
+Armenien,Armenien,LOC,0.7,0.0,de,1
+Kaukasus,Kaukasus,LOC,0.0,0.0,de,1
+NashvilleSo,NashvilleSo,LOC,1.0,0.0,de,1
+Trump-Dekret,Trump-Dekret,LOC,0.0,0.0,de,1
+Schicksalswahlen,Schicksalswahlen,LOC,0.0,0.0,de,1
+Streifen,Streifen,LOC,0.0,0.0,de,1
+Düsseldorf,Düsseldorf,LOC,1.0,0.0,de,1
+Woodlawn Memorial …,Woodlawn Memorial …,LOC,0.0,0.0,de,1
+Love[3:01]6,Love[3:01]6,LOC,0.0,0.0,de,1
+Parchim,Parchim,LOC,0.7,0.0,de,1
+Brite,Brite,LOC,0.0,0.0,de,1
+Obere Warnow,Obere Warnow,LOC,0.7,0.0,de,1
+Land,Land,LOC,0.35,0.5,de,1
+Strass,Strass,LOC,0.0,0.0,de,1
+Geburtenwende,Geburtenwende,LOC,0.0,0.0,de,1
+Beinahe-Rückfall,Beinahe-Rückfall,LOC,-1.0,0.0,de,1
+Ott,Ott,LOC,-1.0,0.0,de,1
+BSW-Parteigründerin,BSW-Parteigründerin,LOC,0.0,0.0,de,1
+Alten Theater,Alten Theater,LOC,-0.7,0.0,de,1
+Mutterpartei,Mutterpartei,LOC,0.0,0.0,de,1
+zweiten Platz,zweiten Platz,LOC,0.0,0.0,de,1
+Handelskrieg USA-Kanada,Handelskrieg USA-Kanada,LOC,0.0,0.0,de,1
+Nashville International Airport,Nashville International Airport,LOC,0.0,0.0,de,1
+Nachkriegsdeutschland,Nachkriegsdeutschland,LOC,1.0,0.0,de,1
+Tange…,Tange…,LOC,0.0,1.0,de,1
+Tass,Tass,LOC,0.0,0.0,de,1
+Wahlkreis Genthin,Wahlkreis Genthin,LOC,0.0,0.0,de,1
+Nordirlands,Nordirlands,LOC,0.0,0.0,de,1
+Referendum,Referendum,LOC,0.0,0.0,de,1
+Irlands,Irlands,LOC,0.7,0.0,de,1
+Ankara,Ankara,LOC,0.0,0.0,de,1
+Manhattan,Manhattan,LOC,0.0,0.0,de,1
+Obersten Gerichtshofes,Obersten Gerichtshofes,LOC,0.0,0.0,de,1
+Donbass,Donbass,LOC,0.0,0.0,de,1
+Elite-Schule,Elite-Schule,LOC,0.0,0.0,de,1
+Pazifik,Pazifik,LOC,0.0,0.0,de,1
+Niederlande,Niederlande,LOC,0.0,0.0,de,1
+kalifornischen Küste,kalifornischen Küste,LOC,0.0,0.0,de,1
+Noworossijsk am Schwarzen Meer,Noworossijsk am Schwarzen Meer,LOC,0.7,0.0,de,1
+wei…,wei…,LOC,0.0,0.0,de,1
+Vereinigten Königreich,Vereinigten Königreich,LOC,0.0,0.0,de,1
+britische Regierung,britische Regierung,LOC,0.7,0.0,de,1
+Nationen-Bündnisses Brics,Nationen-Bündnisses Brics,LOC,0.0,0.0,de,1
+Söder,Söder,LOC,0.7,0.0,de,1
+brasi…,brasi…,LOC,0.0,0.0,de,1
+Autokraten,Autokraten,LOC,0.0,0.0,de,1
+Aachen,Aachen,LOC,0.0,0.0,de,1
+Italiener,Italiener,LOC,-1.0,0.0,de,1
+Meerwasser,Meerwasser,LOC,0.0,0.0,de,1
+Wahl-Forum,Wahl-Forum,LOC,1.0,0.0,de,1
+Direktwahlkreisen,Direktwahlkreisen,LOC,0.0,0.0,de,1
+Nudeln,Nudeln,LOC,-0.7,0.0,de,1
+Handwerks,Handwerks,LOC,1.0,0.0,de,1
+College Park,College Park,LOC,0.0,0.0,de,1
+US,US,LOC,0.0,0.0,de,1
+UK,UK,LOC,0.0,0.0,de,1
+Missouri,Missouri,LOC,0.0,0.0,de,1
+Hollands,Hollands,LOC,0.0,0.0,de,1
+Sachsen-Anhal…,Sachsen-Anhal…,LOC,0.0,0.0,de,1
+Hormus,Hormus,LOC,0.0,0.0,de,1
+Kulturzentrum,Kulturzentrum,LOC,-1.0,0.0,de,1
+Kulturstaatsminister,Kulturstaatsminister,LOC,0.0,0.0,de,1
+Chrupalla,Chrupalla,LOC,-0.7,0.0,de,1
+Direktzahlungen,Direktzahlungen,LOC,0.7,0.0,de,1
+Meck…,Meck…,LOC,0.0,0.0,de,1
+Witz,Witz,LOC,-1.0,0.0,de,1
+Widow's Bay,Widow's Bay,LOC,-1.0,0.0,de,1
+Enteignungspläne der Linken,Enteignungspläne der Linken,LOC,-0.7,0.0,de,1
+Zielgeraden,Zielgeraden,LOC,0.0,0.0,de,1
+Epsteins Insel,Epsteins Insel,LOC,0.0,0.0,de,1
+Geldwäschezentrum,Geldwäschezentrum,LOC,0.0,0.0,de,1
+Luxemburg,Luxemburg,LOC,0.0,0.0,de,1
+Münsteraner,Münsteraner,LOC,-0.7,0.0,de,1
+Iraner,Iraner,LOC,0.0,0.0,de,1
+Niederlanden,Niederlanden,LOC,0.0,0.0,de,1
+Metropolitan Museum,Metropolitan Museum,LOC,0.0,0.0,de,1
+Dolly Parton International Airport“,Dolly Parton International Airport“,LOC,0.0,0.0,de,1
+Grand-Slam-Titel,Grand-Slam-Titel,LOC,0.0,0.0,de,1
+New York“,New York“,LOC,0.0,0.0,de,1
+Roland-Kaiser-Duett,Roland-Kaiser-Duett,LOC,0.0,0.0,de,1
+Cardiff,Cardiff,LOC,0.0,0.0,de,1
+Personalie,Personalie,LOC,-1.0,0.0,de,1
+Capybara,Capybara,LOC,0.7,0.0,de,1
+Wien,Wien,LOC,0.0,0.0,de,1
+Wahlvolk,Wahlvolk,LOC,0.0,0.0,de,1
+Meck-Pomm,Meck-Pomm,LOC,0.0,0.0,de,1
+Königsfamilie,Königsfamilie,LOC,0.0,0.0,de,1
+Manhatten,Manhatten,LOC,0.0,0.0,de,1
+Bühnen-Outfit,Bühnen-Outfit,LOC,0.0,0.0,de,1
+Radiomikrofon,Radiomikrofon,LOC,1.0,0.0,de,1
+Schwesigs,Schwesigs,LOC,0.0,0.0,de,1
+Portofino,Portofino,LOC,0.0,0.0,de,1
+Verfassungsschutzes,Verfassungsschutzes,LOC,-0.7,0.0,de,1
+Schnaps,Schnaps,LOC,-0.7,0.0,de,1
+Handelskonflikt,Handelskonflikt,LOC,-0.5,0.5,de,1
+AfD-Wahlerfolg,AfD-Wahlerfolg,LOC,0.7,0.0,de,1
+Rückensturm,Rückensturm,LOC,0.0,1.0,de,1
+Kreml Maria Sacharowa,Kreml Maria Sacharowa,LOC,-1.0,0.0,de,1
+Estland,Estland,LOC,0.7,0.0,de,1
+Finnland,Finnland,LOC,0.7,0.0,de,1
+Eton…,Eton…,LOC,0.0,0.0,de,1
+TV-Ferien,TV-Ferien,LOC,-0.7,0.0,de,1
+Hamburg,Hamburg,LOC,0.0,0.0,de,1
+Teheran,Teheran,LOC,0.0,0.0,de,1
+Massoud Pezeshkian,Massoud Pezeshkian,LOC,0.0,0.0,de,1
+Wahlabend,Wahlabend,LOC,-1.0,0.0,de,1
+Stasi,Stasi,LOC,0.0,0.0,de,1
+Exodus,Exodus,LOC,0.0,0.0,de,1
+Gazastreifens,Gazastreifens,LOC,0.0,0.0,de,1
+Gaza,Gaza,LOC,0.0,0.0,de,1
+Morristown,Morristown,LOC,0.0,0.0,de,1
+Briten-Premier,Briten-Premier,LOC,-0.85,0.0,de,1
+d…,d…,LOC,0.0,0.0,de,1
+Cannes,Cannes,LOC,0.0,0.0,de,1
+Koalitionspartner,Koalitionspartner,LOC,1.0,0.0,de,1
+US-Politiker,US-Politiker,LOC,1.0,0.0,de,1
+Pu…,Pu…,LOC,0.0,0.0,de,1
+POLITICO,POLITICO,LOC,0.0,0.0,de,1
+Griechenland,Griechenland,LOC,0.0,0.0,de,1
+AfD-Wähler,AfD-Wähler,LOC,0.35,0.5,de,1
+Verfassungsschutz,Verfassungsschutz,LOC,0.7,0.0,de,1
+Siegmund,Siegmund,LOC,0.7,0.0,de,1
+Top-Mitarbeiter,Top-Mitarbeiter,LOC,0.85,0.0,de,1
+Kensington Palace,Kensington Palace,LOC,-0.7,0.0,de,1
+Straftaten,Straftaten,LOC,0.0,0.0,de,1
+Pornos,Pornos,LOC,0.0,0.0,de,1
+AfD-Herausforderer,AfD-Herausforderer,LOC,1.0,0.0,de,1
+Machtfrage,Machtfrage,LOC,0.0,0.0,de,1
+Romanfragment Amerika,Romanfragment Amerika,LOC,-0.7,0.0,de,1
+Kafka,Kafka,LOC,0.0,0.0,de,1
+Washingtons,Washingtons,LOC,0.0,0.0,de,1
+National Gallery of Art,National Gallery of Art,LOC,-0.7,0.0,de,1
+Skulptur Blue,Skulptur Blue,LOC,-0.7,0.0,de,1
+AfD-Direktkandidaten,AfD-Direktkandidaten,LOC,0.7,0.0,de,1
+Kreisel,Kreisel,LOC,0.7,0.0,de,1
+Wernigerode-Mitte,Wernigerode-Mitte,LOC,0.7,0.0,de,1
+Autobahn 36,Autobahn 36,LOC,0.7,0.0,de,1
+AfD-Wahlsieger,AfD-Wahlsieger,LOC,0.0,1.0,de,1
+Bundes,Bundes,LOC,0.0,0.0,de,1
+Endlos-Reden,Endlos-Reden,LOC,0.7,0.0,de,1
+Kapitol,Kapitol,LOC,0.0,0.0,de,1
+Havanna,Havanna,LOC,0.15000000000000002,0.0,de,1
+Sachsen-Anha…,Sachsen-Anha…,LOC,0.0,0.0,de,1
+Palmer,Palmer,LOC,0.0,0.0,de,1
+Hormus-Straße,Hormus-Straße,LOC,-1.0,0.0,de,1
+Teherans,Teherans,LOC,0.0,0.0,de,1
+Protesten,Protesten,LOC,0.0,0.0,de,1
+Nor…,Nor…,LOC,0.7,0.0,de,1
+Staatsgäste,Staatsgäste,LOC,0.7,0.0,de,1
+Avalon,Avalon,LOC,-0.7,0.0,de,1
+B66,B66,LOC,-0.7,0.0,de,1
+Istanbul,Istanbul,LOC,0.0,0.0,de,1
