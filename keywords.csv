@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Swan Song',de,unknown,#111111,#111111,2,0.507954591523
 'Emmanuel Maurel',de,unknown,#111111,#111111,2,0.505509781763
 'Demetrious Johnson',de,unknown,#111111,#111111,2,0.505485695032
 'My Sister',de,unknown,#111111,#111111,2,0.505402597065
@@ -87,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Victoria Beckham',de,UK,#e838e8,#e838e8,3,0.444371404109
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
 'Mother Mary',de,unknown,#111111,#111111,3,0.443824807500
+'Swan Song',de,unknown,#111111,#111111,2,0.443536642795
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Mario Adorf',de,unknown,#111111,#111111,3,0.442521214081
 'Liveblog Ukrainekrieg',de,unknown,#111111,#111111,2,0.441983468070
@@ -117,6 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dianas Bruder',de,unknown,#111111,#111111,3,0.436855575031
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'James Van Der Beek',de,unknown,#111111,#111111,1,0.436730744677
+'Charles Spencer',de,unknown,#111111,#111111,3,0.436713775687
 'Graham Platner',de,unknown,#111111,#111111,1,0.436314874010
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Ciryl Gane',de,unknown,#111111,#111111,2,0.435810981303
@@ -124,7 +125,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.435581110391
 'Juan Pablo Guanipa',de,unknown,#111111,#111111,3,0.435578893182
 'Maite Kelly',de,unknown,#111111,#111111,1,0.435300280430
-'Charles Spencer',de,unknown,#111111,#111111,3,0.435186063414
 'Helene Fischer',de,unknown,#111111,#111111,3,0.434847456002
 'Michelle Reiner',de,unknown,#111111,#111111,1,0.434132993767
 'Ali Khamenei',de,unknown,#111111,#111111,3,0.434058732625
