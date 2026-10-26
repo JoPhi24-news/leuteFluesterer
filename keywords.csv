@@ -1,4 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Swan Song',de,unknown,#111111,#111111,2,0.507954591523
+'Emmanuel Maurel',de,unknown,#111111,#111111,2,0.505509781763
+'Demetrious Johnson',de,unknown,#111111,#111111,2,0.505485695032
+'My Sister',de,unknown,#111111,#111111,2,0.505402597065
+'Piers Morgan',de,unknown,#111111,#111111,2,0.503426005577
+'Jorge Masvidal',de,unknown,#111111,#111111,2,0.503036705080
+'Nassourdine Imavov',de,unknown,#111111,#111111,2,0.502477089012
+'Loai Abushaar',de,unknown,#111111,#111111,2,0.500369115421
+'Katie Zacharia',de,unknown,#111111,#111111,2,0.500015325043
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.487296800958
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.486760879721
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.485487477309
@@ -235,7 +244,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.420494671628
 'Amélie de Montchalin',de,unknown,#111111,#111111,2,0.420458697700
 'Carter Reum',de,unknown,#111111,#111111,2,0.420315577316
-'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.420315113952
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.419765744244
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
 'Dua Lipa',de,UK,#e838e8,#e838e8,3,0.419588044494
@@ -512,6 +520,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,1,0.357431995697
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.357408436890
+'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,2,0.357268116859
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.357088107469
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.357029866375
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.356723092068
