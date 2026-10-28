@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Loai Abushaar',de,unknown,#111111,#111111,2,0.500369115421
 'Katie Zacharia',de,unknown,#111111,#111111,2,0.500015325043
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.487296800958
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.486760879721
@@ -229,6 +228,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Deborah Birx',de,unknown,#111111,#111111,1,0.425413941484
 'François Hollande',de,unknown,#111111,#111111,1,0.425376547548
 'Yannick Jadot',de,unknown,#111111,#111111,1,0.425332804904
+'Loai Abushaar',de,unknown,#111111,#111111,1,0.425313748108
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Kerstin Ott',de,unknown,#111111,#111111,2,0.424882999883
 'Harriet Sperling',de,unknown,#111111,#111111,2,0.424713792593
