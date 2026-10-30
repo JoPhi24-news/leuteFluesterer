@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Katie Zacharia',de,unknown,#111111,#111111,3,0.518956975704
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.510409688273
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.487296800958
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.485487477309
@@ -72,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nick Reiner',de,unknown,#111111,#111111,2,0.446124101428
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.445844855236
+'Katie Zacharia',de,unknown,#111111,#111111,3,0.445765664348
 'Markwayne Mullin',de,unknown,#111111,#111111,2,0.445133552072
 'Savannah Guthrie',de,unknown,#111111,#111111,1,0.444880383930
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,2,0.444822478533
