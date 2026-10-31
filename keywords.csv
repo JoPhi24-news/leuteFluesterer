@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.502626053292
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.487296800958
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.485487477309
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481741023042
@@ -52,6 +51,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Bardem',de,unknown,#111111,#111111,2,0.453308761940
 'Marine Tondelier',de,unknown,#111111,#111111,2,0.453062438064
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.453006103624
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.452916921727
 'Woody Allen',de,unknown,#111111,#111111,3,0.452728689640
 'David Letterman',de,unknown,#111111,#111111,2,0.452467696294
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451797854330
