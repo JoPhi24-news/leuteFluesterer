@@ -223,7 +223,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Twain',de,unknown,#111111,#111111,1,0.425683750538
 'Mark Ruffalo',de,unknown,#111111,#111111,1,0.425629559350
 'Salahdine Parnasse',de,unknown,#111111,#111111,1,0.425626860927
-'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Sean Strickland',de,unknown,#111111,#111111,1,0.425565294009
 'Deborah Birx',de,unknown,#111111,#111111,1,0.425413941484
 'François Hollande',de,unknown,#111111,#111111,1,0.425376547548
@@ -495,6 +494,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.362709920874
 'Gervonta Davis',de,USA,#18e8e8,#18e8e8,1,0.362562268201
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.362495251209
+'Eddie Hearn',de,UK,#e838e8,#e838e8,1,0.361749197638
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.361715994918
 'Ferdinand Dudenhöffer',de,Deutschland,#11dd44,#11dd44,3,0.361712987269
 'Tom Cotton',de,unknown,#111111,#111111,1,0.361590772500
