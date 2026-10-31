@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.507034428214
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.502626053292
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.487296800958
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.485487477309
-'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481067232908
+'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481741023042
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.479844235720
@@ -588,6 +588,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Meryl Streep',de,USA,#18e8e8,#18e8e8,1,0.342816442944
 'Rand Paul',de,USA,#18e8e8,#18e8e8,2,0.342339802847
 'David Weiss',de,Schweiz,#88cc44,#88cc44,2,0.342117073411
+'Julia Roberts',de,USA,#18e8e8,#18e8e8,2,0.341935253213
 'Paris Hilton',de,USA,#18e8e8,#18e8e8,2,0.341930939035
 'Pietro Lombardi',de,Deutschland,#11dd44,#11dd44,2,0.341833027636
 'Jessica Biel',de,USA,#18e8e8,#18e8e8,1,0.341755266098
@@ -595,7 +596,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.341517596062
 'Dana White',de,USA,#18e8e8,#18e8e8,1,0.341507804440
 'nan nan',de,unknown,#dddddd,#dddddd,1,0.341027803203
-'Julia Roberts',de,USA,#18e8e8,#18e8e8,2,0.340994510489
 'Lady Di',de,UK,#e838e8,#e838e8,2,0.340980075975
 'Abraham Lincoln',de,USA,#18e8e8,#18e8e8,2,0.340951595224
 'Billie Eilish',de,USA,#18e8e8,#18e8e8,2,0.340917797909
@@ -899,12 +899,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ehud Olmert',de,Israel,#8822dd,#8822dd,1,0.289265527954
 'Kate Capshaw',de,unknown,#111111,#111111,1,0.288158777136
 'Narendra Modi',de,Indien,#dd3344,#dd3344,3,0.288006931134
+'Putin',de,Russland,#e81818,#e81818,3,0.287691591981
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.287576688510
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,1,0.287551078519
 'Chris Hemsworth',de,unknown,#111111,#111111,1,0.287124473049
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.287103437500
 'Haitham A-Ghais',de,Kuwait,#3fd97a,#3fd97a,1,0.287103437500
-'Putin',de,Russland,#e81818,#e81818,3,0.286660336406
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.286323326206
 'Kemal Klçdarolu',de,Türkei,#4411ee,#4411ee,3,0.286278690666
 'Irina Shayk',de,unknown,#111111,#111111,1,0.286204198439
