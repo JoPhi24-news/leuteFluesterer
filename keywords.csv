@@ -56,8 +56,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Letterman',de,unknown,#111111,#111111,2,0.452467696294
 'Caren Miosga',de,Deutschland,#11dd44,#11dd44,3,0.451797854330
 'Leif-Erik Holm',de,Deutschland,#11dd44,#11dd44,3,0.451608846626
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.450986550304
 'Abu Dhabi',de,unknown,#111111,#111111,2,0.450491710017
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.450251564578
 'Ulrich Siegmund',de,Deutschland,#11dd44,#11dd44,3,0.449785675252
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,1,0.449038405010
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
@@ -115,6 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Graham Platner',de,unknown,#111111,#111111,1,0.436314874010
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Ciryl Gane',de,unknown,#111111,#111111,2,0.435810981303
+'Derek Chauvin',de,USA,#18e8e8,#18e8e8,2,0.435804242578
 'Colleen Hoover',de,unknown,#111111,#111111,1,0.435641505379
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.435581110391
 'Juan Pablo Guanipa',de,unknown,#111111,#111111,3,0.435578893182
@@ -620,7 +621,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',de,Deutschland,#11dd44,#11dd44,3,0.336442540584
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.336377568567
 'Alberto Núñez Feijóo',de,Spanien,#1144aa,#1144aa,2,0.336144572063
-'Derek Chauvin',de,USA,#18e8e8,#18e8e8,1,0.336063797151
 'Königin Camilla',de,UK,#e838e8,#e838e8,2,0.335849257621
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.335685844193
 'Jerry Seinfeld',de,USA,#18e8e8,#18e8e8,1,0.335118759698
