@@ -112,7 +112,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'James Van Der Beek',de,unknown,#111111,#111111,1,0.436730744677
 'Charles Spencer',de,unknown,#111111,#111111,3,0.436713775687
-'Graham Platner',de,unknown,#111111,#111111,1,0.436314874010
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.436209530192
 'Ciryl Gane',de,unknown,#111111,#111111,2,0.435810981303
 'Derek Chauvin',de,USA,#18e8e8,#18e8e8,2,0.435804242578
@@ -320,6 +319,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.401833591320
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
 'Sydney Sweeney',de,unknown,#111111,#111111,2,0.401645799142
+'Graham Platner',de,unknown,#111111,#111111,1,0.401617717908
 'Epstein Files',de,unknown,#111111,#111111,2,0.401155682769
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
 'Jonathan Ross',de,unknown,#111111,#111111,1,0.399665777012
@@ -691,11 +691,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.325155765774
 'Nadja Abd el Farrag',de,Deutschland,#11dd44,#11dd44,2,0.325134551821
 'Tim Scott',de,USA,#18e8e8,#18e8e8,2,0.325087414098
+'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.324979639384
 'Nawaz Sharif',de,Pakistan,#bb3355,#bb3355,1,0.324616478638
 'Mike Johnson',de,USA,#18e8e8,#18e8e8,2,0.324309562131
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.324211961661
 'Bettina Jarasch',de,Deutschland,#11dd44,#11dd44,2,0.324138388908
-'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.324009525599
 'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.323714690227
 'Barry Keoghan',de,unknown,#111111,#111111,1,0.323420364292
 'Eric Adams',de,USA,#18e8e8,#18e8e8,2,0.323335007843
