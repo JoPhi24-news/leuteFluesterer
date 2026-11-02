@@ -837,7 +837,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Sturm',de,Deutschland,#11dd44,#11dd44,1,0.303767129274
 'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.303559514627
 'Emma Stone',de,USA,#18e8e8,#18e8e8,2,0.303370774487
-'Mary Robinson',de,unknown,#111111,#111111,1,0.303268547741
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,1,0.302883779743
 'Kim Yo Jong',de,NordKorea,#4811f1,#4811f1,1,0.302602775640
 'Ahmed Al Jaber',de,unknown,#111111,#111111,1,0.302587902721
@@ -999,6 +998,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Georg Bätzing',de,Deutschland,#11dd44,#11dd44,2,0.258823823119
 'Olli Schulz',de,Deutschland,#11dd44,#11dd44,1,0.258162065918
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.258076975746
+'Mary Robinson',de,unknown,#111111,#111111,1,0.257778265580
 'Kemal Kilicdaroglu',de,Türkei,#4411ee,#4411ee,1,0.257438385831
 'Michael Kahle',de,Deutschland,#11dd44,#11dd44,1,0.256585755261
 'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.256144349432
