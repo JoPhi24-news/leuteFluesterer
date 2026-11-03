@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kimberly Guilfoyle',de,unknown,#111111,#111111,3,0.508080087534
 'Diego Lopes',de,unknown,#111111,#111111,2,0.508034023110
+'Kimberly Guilfoyle',de,unknown,#111111,#111111,3,0.504260504888
 'Khamzat Chimaev',de,unknown,#111111,#111111,2,0.503716902422
 'Dricus Du Plessis',de,unknown,#111111,#111111,2,0.502127660624
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.485487477309
@@ -36,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457941116867
 'Joe Kent',de,unknown,#111111,#111111,3,0.457681562687
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.457358553728
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.457273655901
 'John Cornyn',de,unknown,#111111,#111111,2,0.456875017197
 'Liveblog USA',de,unknown,#111111,#111111,3,0.456772453824
 'Venezuelas Übergangspräsidentin',de,unknown,#111111,#111111,2,0.456613921442
@@ -52,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Craig',de,unknown,#111111,#111111,2,0.454380687046
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Viktor Orban',de,unknown,#111111,#111111,3,0.453838189754
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.453646642580
 'Javier Bardem',de,unknown,#111111,#111111,2,0.453308761940
 'Marine Tondelier',de,unknown,#111111,#111111,2,0.453062438064
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.453006103624
@@ -72,10 +72,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.447092422373
 'Bari Weiss',de,unknown,#111111,#111111,2,0.446988930110
 'Kash Patel',de,unknown,#111111,#111111,3,0.446916276017
+'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.446588530263
+'Katie Zacharia',de,unknown,#111111,#111111,3,0.446509495345
 'Nick Reiner',de,unknown,#111111,#111111,2,0.446124101428
 'Usha Vance',de,unknown,#111111,#111111,1,0.446052362821
-'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.445844855236
-'Katie Zacharia',de,unknown,#111111,#111111,3,0.445765664348
 'Liveblog Ukrainekrieg',de,unknown,#111111,#111111,2,0.445725083884
 'Markwayne Mullin',de,unknown,#111111,#111111,2,0.445133552072
 'Savannah Guthrie',de,unknown,#111111,#111111,1,0.444880383930
@@ -314,11 +314,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Fetterman',de,unknown,#111111,#111111,2,0.403409988678
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.402968301335
+'Ilhan Omar',de,unknown,#111111,#111111,1,0.402832874719
 'Callum Turner',de,UK,#e838e8,#e838e8,2,0.402445856879
 'Thomas Massie',de,unknown,#111111,#111111,1,0.402377565065
 'Richard Falk',de,unknown,#111111,#111111,2,0.402293609350
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,2,0.402272699724
-'Ilhan Omar',de,unknown,#111111,#111111,1,0.402004134827
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.401833591320
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
