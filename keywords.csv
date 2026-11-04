@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dricus Du Plessis',de,unknown,#111111,#111111,2,0.502127660624
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.485487477309
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481741023042
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
@@ -208,6 +207,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nassourdine Imavov',de,unknown,#111111,#111111,1,0.427105525660
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Ségolène Royal',de,unknown,#111111,#111111,1,0.426925958477
+'Dricus Du Plessis',de,unknown,#111111,#111111,1,0.426808511530
 'Brendan Carr',de,unknown,#111111,#111111,1,0.426672023127
 'Jérôme Guedj',de,unknown,#111111,#111111,1,0.426580020758
 'Chris Van Hollen',de,unknown,#111111,#111111,1,0.426546067202
