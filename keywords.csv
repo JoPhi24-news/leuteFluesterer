@@ -212,7 +212,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jérôme Guedj',de,unknown,#111111,#111111,1,0.426580020758
 'Chris Van Hollen',de,unknown,#111111,#111111,1,0.426546067202
 'Philippe Brun',de,unknown,#111111,#111111,1,0.426444566264
-'Adam Mockler',de,unknown,#111111,#111111,1,0.426320157079
 'Elisha Ellison',de,unknown,#111111,#111111,1,0.426116020383
 'Song Yadong',de,unknown,#111111,#111111,1,0.426088324915
 'Javier Mendez',de,unknown,#111111,#111111,1,0.426049535844
@@ -499,6 +498,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.362709920874
 'Gervonta Davis',de,USA,#18e8e8,#18e8e8,1,0.362562268201
 'Abdelmadjid Tebboune',de,unknown,#111111,#111111,1,0.362495251209
+'Adam Mockler',de,unknown,#111111,#111111,1,0.362372133517
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.362276117023
 'Eddie Hearn',de,UK,#e838e8,#e838e8,1,0.361749197638
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.361715994918
