@@ -820,7 +820,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Phoebe Bridgers',de,unknown,#111111,#111111,1,0.307158196786
 'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.307131327466
 'Uwe Neumärker',de,Deutschland,#11dd44,#11dd44,1,0.307062500000
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Kemal Kiliçdaroglu',de,Türkei,#4411ee,#4411ee,1,0.307062500000
 'Gilbert Plass',de,Kanada,#ffaabb,#ffaabb,1,0.307062500000
@@ -992,6 +991,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.261372791549
 'Christian Kroll',de,Deutschland,#11dd44,#11dd44,1,0.261284177301
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.261003125000
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.261003125000
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.261003125000
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
