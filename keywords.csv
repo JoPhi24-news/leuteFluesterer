@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.547961722003
+'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.490269698703
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481741023042
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
@@ -643,6 +643,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Kubicki',de,Deutschland,#11dd44,#11dd44,2,0.332889885852
 'Kai Wegner',de,Deutschland,#11dd44,#11dd44,3,0.332682416855
 'Joey Kelly',de,unknown,#111111,#111111,2,0.332681518688
+'Jan Böhmermann',de,Deutschland,#11dd44,#11dd44,3,0.332284985730
 'George Washington',de,USA,#18e8e8,#18e8e8,2,0.332242276272
 'Eric Trump',de,USA,#18e8e8,#18e8e8,2,0.332165636979
 'Kate Hudson',de,USA,#18e8e8,#18e8e8,1,0.332116349309
@@ -653,7 +654,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.331629582494
 'Ivanka Trump',de,USA,#18e8e8,#18e8e8,2,0.331608319977
 'Emily Blunt',de,UK,#e838e8,#e838e8,1,0.331553686645
-'Jan Böhmermann',de,Deutschland,#11dd44,#11dd44,3,0.331327415032
 'Rainer Maria Woelki',de,Deutschland,#11dd44,#11dd44,2,0.330713246305
 'Brad Pitt',de,USA,#18e8e8,#18e8e8,3,0.330707877112
 'Paul Ronzheimer',de,Deutschland,#11dd44,#11dd44,3,0.330618255822
