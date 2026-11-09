@@ -1,9 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.485317842534
+'Brendan Allen',de,unknown,#111111,#111111,2,0.509595071714
+'Robert Whittaker',de,unknown,#111111,#111111,2,0.506105599175
+'Dillon Danis',de,unknown,#111111,#111111,2,0.504835536521
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481741023042
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
+'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.480520464959
 'Frank-Ronald Bischoff',de,Deutschland,#11dd44,#11dd44,1,0.480145406030
-'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.479844235720
 'Pierce Brosnan',de,unknown,#111111,#111111,2,0.479766053691
 'Ken Paxton',de,unknown,#111111,#111111,3,0.479047048375
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.478826554421
@@ -204,6 +206,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nassourdine Imavov',de,unknown,#111111,#111111,1,0.427105525660
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Ségolène Royal',de,unknown,#111111,#111111,1,0.426925958477
+'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.426849730509
 'Dricus Du Plessis',de,unknown,#111111,#111111,1,0.426808511530
 'Brendan Carr',de,unknown,#111111,#111111,1,0.426672023127
 'Jérôme Guedj',de,unknown,#111111,#111111,1,0.426580020758
@@ -1047,10 +1050,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hun Sen',de,Kambodscha,#ff33bb,#ff33bb,1,0.237398915225
 'Giorgia Meloni',de,Italien,#7722cc,#7722cc,3,0.236506144687
 'Stephan Harbarth',de,Deutschland,#11dd44,#11dd44,1,0.234611867592
+'Saskia Esken',de,Deutschland,#11dd44,#11dd44,3,0.234208401815
 'Boris Pistorius',de,Deutschland,#11dd44,#11dd44,3,0.233482877808
 'Bob Menendez',de,unknown,#111111,#111111,1,0.233410415249
 'Karl Lauterbach',de,Deutschland,#11dd44,#11dd44,3,0.233363913320
-'Saskia Esken',de,Deutschland,#11dd44,#11dd44,3,0.233099110807
 'Martin Schirdewan',de,Deutschland,#11dd44,#11dd44,3,0.232780733585
 'Don Lemon',de,USA,#18e8e8,#18e8e8,1,0.232670486562
 'Alfred Nobel',de,Schweden,#77dd11,#77dd11,2,0.232338286288
