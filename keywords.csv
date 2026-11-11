@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pierce Brosnan',de,unknown,#111111,#111111,2,0.479766053691
 'Ken Paxton',de,unknown,#111111,#111111,3,0.479047048375
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.478826554421
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.477690650361
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.478371173201
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.476837613181
 'James Bond',de,unknown,#111111,#111111,3,0.474814494616
 'Tom Cruise',de,unknown,#111111,#111111,3,0.473577061853
@@ -181,6 +181,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dillon Danis',de,unknown,#111111,#111111,1,0.429110206043
 'Charles Oliveira',de,unknown,#111111,#111111,2,0.429096264810
 'Joy Reid',de,unknown,#111111,#111111,1,0.429067110203
+'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.429021850231
 'Péter Magyar',de,unknown,#111111,#111111,3,0.428863537511
 'Jay Clayton',de,unknown,#111111,#111111,1,0.428816666992
 'Alexander Yui',de,unknown,#111111,#111111,2,0.428633017562
@@ -189,7 +190,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Noël Barrot',de,unknown,#111111,#111111,3,0.428486557388
 'Yadong Song',de,unknown,#111111,#111111,1,0.428392777509
 'David Amiel',de,unknown,#111111,#111111,1,0.428354875720
-'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.428243689123
 'Christina Ricci',de,unknown,#111111,#111111,1,0.428220721672
 'Mauricio Ruffy',de,unknown,#111111,#111111,1,0.428205425846
 'Khamzat Chimaev',de,unknown,#111111,#111111,1,0.428159367059
@@ -251,7 +251,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dua Lipa',de,UK,#e838e8,#e838e8,3,0.419588044494
 'Castel Gandolfo',de,Vatikan,#58b8e8,#58b8e8,2,0.419258389753
 'Josh Hokit',de,unknown,#111111,#111111,1,0.419246353026
-'Karin Prien',de,Deutschland,#11dd44,#11dd44,3,0.419161866599
 'Kevin McCarthy',de,USA,#18e8e8,#18e8e8,2,0.418482790348
 'Henry Samuel',de,USA,#18e8e8,#18e8e8,2,0.418343196774
 'Logan Paul',de,unknown,#111111,#111111,2,0.418273162609
@@ -282,6 +281,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.411456497857
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.411320517426
 'Bill Maher',de,unknown,#111111,#111111,2,0.411306168503
+'Karin Prien',de,Deutschland,#11dd44,#11dd44,3,0.411240571609
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,2,0.411153140000
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410919867639
 'Max Holloway',de,unknown,#111111,#111111,2,0.410609220743
@@ -1076,10 +1076,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.226102477205
 'Suleika Jaouad',de,unknown,#111111,#111111,1,0.225488402466
 'Jean Jouzel',de,unknown,#111111,#111111,1,0.225379775988
+'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.225070388574
 'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.224810135912
 'Oisin Fanning',de,Irland,#33bbff,#33bbff,1,0.224052172219
 'Wolfgang Schäuble',de,Deutschland,#11dd44,#11dd44,2,0.223148145736
-'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.222826246584
 'Jean-Denis Combrexelle',de,unknown,#111111,#111111,1,0.222772504283
 'Dieter Salomon',de,Deutschland,#11dd44,#11dd44,1,0.222764701048
 'Joana Cotar',de,Deutschland,#11dd44,#11dd44,2,0.222687770054
