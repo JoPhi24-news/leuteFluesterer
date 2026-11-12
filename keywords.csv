@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.455877170827
 'Scooter Braun',de,unknown,#111111,#111111,2,0.455842208537
 'Stephen Miller',de,unknown,#111111,#111111,2,0.455563586145
-'Joshua Van',de,unknown,#111111,#111111,2,0.455557527829
 'Maud Bregeon',de,unknown,#111111,#111111,2,0.454798520145
 'Hunter Schafer',de,unknown,#111111,#111111,2,0.454728848435
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.454516464019
@@ -368,6 +367,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Dokoupil',de,unknown,#111111,#111111,1,0.389305204380
 'Larry David',de,unknown,#111111,#111111,2,0.387694508082
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.387458644881
+'Joshua Van',de,unknown,#111111,#111111,1,0.387223988655
 'Spencer Pratt',de,unknown,#111111,#111111,1,0.386643520593
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.386558258866
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.386551176578
