@@ -694,7 +694,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lewis Kaplan',de,USA,#18e8e8,#18e8e8,2,0.325971685129
 'Bruno Le Maire',de,Frankreich,#e8e808,#e8e808,2,0.325904709939
 'George Santos',de,USA,#18e8e8,#18e8e8,2,0.325784856978
-'Margot Robbie',de,unknown,#111111,#111111,2,0.325356583906
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,1,0.325182269045
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.325155765774
 'Nadja Abd el Farrag',de,Deutschland,#11dd44,#11dd44,2,0.325134551821
@@ -931,6 +930,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Kraft',de,unknown,#111111,#111111,2,0.278029904614
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.277827658288
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.276595110921
+'Margot Robbie',de,unknown,#111111,#111111,1,0.276553201320
 'James Cameron',de,USA,#18e8e8,#18e8e8,1,0.276122176969
 'Antonio Brown',de,unknown,#111111,#111111,1,0.275540309588
 'Stanislaw Petrow',de,unknown,#111111,#111111,1,0.275020355610
