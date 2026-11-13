@@ -520,6 +520,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
 'Charles III',de,UK,#e838e8,#e838e8,3,0.359328181690
 'Maja Göpel',de,Deutschland,#11dd44,#11dd44,1,0.358644819504
+'Sandra Maischberger',de,Deutschland,#11dd44,#11dd44,3,0.358545793961
 'Cristiano Ronaldo',de,Portugal,#66bb22,#66bb22,3,0.358404658365
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.358319974755
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.358184336533
@@ -527,7 +528,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,2,0.358179907592
 'Sam Asghari',de,Iran,#11bb99,#11bb99,1,0.358138251632
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,2,0.357860484198
-'Sandra Maischberger',de,Deutschland,#11dd44,#11dd44,3,0.357634663888
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
 'Zack Snyder',de,USA,#18e8e8,#18e8e8,1,0.357431995697
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.357088107469
@@ -1228,4 +1228,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Münch',de,Deutschland,#11dd44,#11dd44,2,0.116486442923
 'Michelle Neill',de,Irland,#33bbff,#33bbff,1,0.115808473142
 'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.115808473142
-'Robin Li',de,China,#e88818,#e88818,1,0.090524716642
+'Robin Li',de,China,#e88818,#e88818,1,0.096312945812
