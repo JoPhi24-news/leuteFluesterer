@@ -975,6 +975,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Edelman',de,unknown,#111111,#111111,1,0.264504714131
 'Steve Doocy',de,unknown,#111111,#111111,1,0.264445890843
 'Matt Lauer',de,unknown,#111111,#111111,1,0.264323486282
+'Jean-Jacques Rousseau',de,Schweiz,#88cc44,#88cc44,2,0.264275004629
 'Leonard Bernstein',de,unknown,#111111,#111111,1,0.264116365396
 'Alexander von Humboldt',de,Deutschland,#11dd44,#11dd44,1,0.263999431264
 'Bill Geddie',de,unknown,#111111,#111111,1,0.263772524303
@@ -1083,7 +1084,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Denis Combrexelle',de,unknown,#111111,#111111,1,0.222772504283
 'Dieter Salomon',de,Deutschland,#11dd44,#11dd44,1,0.222764701048
 'Joana Cotar',de,Deutschland,#11dd44,#11dd44,2,0.222687770054
-'Jean-Jacques Rousseau',de,Schweiz,#88cc44,#88cc44,1,0.222323499564
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.221852656250
