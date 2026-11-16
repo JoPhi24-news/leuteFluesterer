@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.483084573767
+'Alex Volkanovski',de,unknown,#111111,#111111,2,0.505950804415
+'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481051717702
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.480520464959
 'Pierce Brosnan',de,unknown,#111111,#111111,2,0.479766053691
@@ -7,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.478826554421
 'Liveblog USA',de,unknown,#111111,#111111,3,0.478723882933
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.478371173201
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.478295291204
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.476837613181
 'James Bond',de,unknown,#111111,#111111,3,0.474814494616
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.474190804692
 'Tom Cruise',de,unknown,#111111,#111111,3,0.473577061853
 'Dakota Johnson',de,unknown,#111111,#111111,3,0.473313704529
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.472082047266
@@ -300,13 +301,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,2,0.408083833060
 'Delcy Rodríguez',de,unknown,#111111,#111111,3,0.407757894642
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,3,0.407611602080
+'Thomas Massie',de,unknown,#111111,#111111,1,0.407322091781
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,3,0.406885415367
 'Kristi Noem',de,unknown,#111111,#111111,2,0.406313097902
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.404558909393
 'Renee Nicole Good',de,unknown,#111111,#111111,2,0.404148612920
-'Thomas Massie',de,unknown,#111111,#111111,1,0.404032043294
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,2,0.403580357778
 'Michele Reiner',de,unknown,#111111,#111111,1,0.403471082934
 'John Fetterman',de,unknown,#111111,#111111,2,0.403409988678
