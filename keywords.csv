@@ -163,7 +163,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ali Abdelaziz',de,unknown,#111111,#111111,2,0.430183592232
 'Conan O’Brien',de,unknown,#111111,#111111,2,0.430163071475
 'Usman Nurmagomedov',de,unknown,#111111,#111111,1,0.430049908051
-'Gable Steveson',de,unknown,#111111,#111111,1,0.429977390156
 'Khabib Nurmagomedov',de,unknown,#111111,#111111,1,0.429924670690
 'Ian Garry',de,unknown,#111111,#111111,1,0.429910000477
 'Emmanuel Maurel',de,unknown,#111111,#111111,1,0.429683374499
@@ -468,6 +467,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gwede Mantashe',de,Südafrika,#1144ee,#1144ee,1,0.365704405000
 'Alois Rainer',de,Deutschland,#11dd44,#11dd44,3,0.365702201496
 'Lecornu II ',de,Frankreich,#e8e808,#e8e808,1,0.365483343523
+'Gable Steveson',de,unknown,#111111,#111111,1,0.365480781633
 'François Ruffin',de,unknown,#111111,#111111,1,0.365451868524
 'laffaire Epstein',de,unknown,#111111,#111111,1,0.365355925595
 'Scott Jennings',de,unknown,#111111,#111111,1,0.365240683024
