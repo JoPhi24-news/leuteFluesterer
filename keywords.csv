@@ -219,7 +219,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Léa Salamé',de,unknown,#111111,#111111,2,0.425720395079
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'Mark Twain',de,unknown,#111111,#111111,1,0.425683750538
-'Mark Ruffalo',de,unknown,#111111,#111111,1,0.425629559350
 'Salahdine Parnasse',de,unknown,#111111,#111111,1,0.425626860927
 'Deborah Birx',de,unknown,#111111,#111111,1,0.425413941484
 'François Hollande',de,unknown,#111111,#111111,1,0.425376547548
@@ -321,6 +320,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sydney Sweeney',de,unknown,#111111,#111111,2,0.401645799142
 'Graham Platner',de,unknown,#111111,#111111,1,0.401617717908
 'Epstein Files',de,unknown,#111111,#111111,2,0.401155682769
+'Mark Ruffalo',de,unknown,#111111,#111111,1,0.401085305448
 'Rosie ODonnell',de,unknown,#111111,#111111,1,0.400382201538
 'Simon Lansmann',de,Deutschland,#11dd44,#11dd44,1,0.400153538931
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
@@ -565,12 +565,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jason Kelce',de,USA,#18e8e8,#18e8e8,1,0.348445920974
 'Lionel Richie',de,USA,#18e8e8,#18e8e8,2,0.348099447665
 'Sergio Mattarella',de,Italien,#7722cc,#7722cc,1,0.348064632851
+'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.347248894662
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.346972833766
 'Pippa Middleton',de,UK,#e838e8,#e838e8,2,0.346453328909
 'Mohammed Bin Salman',de,SaudiArabien,#2266bb,#2266bb,2,0.346424112751
 'Kemal Kılıçdaroğlu',de,Türkei,#4411ee,#4411ee,2,0.346400852550
-'Chuck Schumer',de,USA,#18e8e8,#18e8e8,3,0.346317538416
 'Omar Sy',de,Frankreich,#e8e808,#e8e808,1,0.346119661797
 'Adam Driver',de,unknown,#111111,#111111,2,0.346064292915
 'Aaron Rodgers',de,USA,#18e8e8,#18e8e8,2,0.345604265296
