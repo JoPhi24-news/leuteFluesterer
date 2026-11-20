@@ -15,10 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dakota Johnson',de,unknown,#111111,#111111,3,0.473313704529
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.472082047266
 'Manuela Schwesig',de,unknown,#111111,#111111,3,0.471284784085
-'Keir Starmer',de,unknown,#111111,#111111,3,0.469911787969
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.469772350304
 'Natalie Harp',de,unknown,#111111,#111111,3,0.467287303597
-'Andy Burnham',de,unknown,#111111,#111111,3,0.465109731451
+'Andy Burnham',de,unknown,#111111,#111111,3,0.466519447955
 'Earl Spencer',de,unknown,#111111,#111111,2,0.464339853179
 'Todd Blanche',de,unknown,#111111,#111111,3,0.464107809270
 'Buckingham Palace',de,unknown,#111111,#111111,2,0.462350250967
@@ -102,6 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cilia Flores',de,unknown,#111111,#111111,3,0.438603057210
 'Casey Wasserman',de,unknown,#111111,#111111,1,0.438040141383
 'Kaitlan Collins',de,unknown,#111111,#111111,2,0.437968755831
+'Keir Starmer',de,unknown,#111111,#111111,3,0.437940809389
 'Tulsi Gabbard',de,unknown,#111111,#111111,2,0.437805502089
 'Nicolás Maduro',de,unknown,#111111,#111111,3,0.437359574230
 'RFK Jr',de,USA,#18e8e8,#18e8e8,2,0.437095897533
@@ -371,12 +371,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.386551176578
 'Quentin Deranque',de,unknown,#111111,#111111,2,0.386408402825
 'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.386274793777
+'Steve Witkoff',de,unknown,#111111,#111111,2,0.386173796375
 'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.385807136623
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.385790373521
 'Ro Khanna',de,unknown,#111111,#111111,1,0.385487816952
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.385404252911
 'Michael Showalter',de,unknown,#111111,#111111,1,0.385318797220
-'Steve Witkoff',de,unknown,#111111,#111111,2,0.385313539780
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.385154098488
 'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.384967789505
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.383514774259
@@ -555,11 +555,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jane Fonda',de,USA,#18e8e8,#18e8e8,2,0.350742472918
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.350386969523
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.350226973382
+'Alexander Dobrindt',de,Deutschland,#11dd44,#11dd44,3,0.350194782008
 'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.350168949066
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.350123191912
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.349698847457
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
-'Alexander Dobrindt',de,Deutschland,#11dd44,#11dd44,3,0.349268665285
 'Hendrik Wüst',de,Deutschland,#11dd44,#11dd44,3,0.348634417430
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.348506567653
 'Jason Kelce',de,USA,#18e8e8,#18e8e8,1,0.348445920974
