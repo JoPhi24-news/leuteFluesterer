@@ -1143,7 +1143,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Pence',de,USA,#18e8e8,#18e8e8,2,0.191986847842
 'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.191865434999
 'Roland Busch',de,Deutschland,#11dd44,#11dd44,1,0.190063660652
-'Joy Behar',de,unknown,#111111,#111111,1,0.188999608958
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.188841841894
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.188683143650
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,1,0.188632288693
@@ -1184,6 +1183,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christoph Heusgen',de,Deutschland,#11dd44,#11dd44,2,0.162393528607
 'Antonio Guterres',de,UN,#e888e8,#e888e8,2,0.162032699536
 'Bruno Retailleau',de,Frankreich,#e8e808,#e8e808,1,0.161214384255
+'Joy Behar',de,unknown,#111111,#111111,1,0.160649667614
 'Detlef Garbe',de,Deutschland,#11dd44,#11dd44,1,0.160288544141
 'Cyril Ramaphosa',de,Südafrika,#1144ee,#1144ee,2,0.159854590076
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.159128394767
