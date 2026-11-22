@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Khabib Nurmagomedov',de,unknown,#111111,#111111,2,0.486186045086
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.485693712101
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481725538782
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
@@ -266,6 +265,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,1,0.415244105725
 'Prinz Andrew',de,UK,#e838e8,#e838e8,2,0.414458756684
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
+'Khabib Nurmagomedov',de,unknown,#111111,#111111,1,0.413258213323
 'Prince Philip',de,unknown,#111111,#111111,1,0.412763126332
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,2,0.412480264105
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.412071941875
