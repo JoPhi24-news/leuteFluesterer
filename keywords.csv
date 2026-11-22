@@ -303,7 +303,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Summers',de,unknown,#111111,#111111,2,0.405561059019
 'Bruna Ferreira',de,unknown,#111111,#111111,1,0.405112996966
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.404558909393
-'Renee Nicole Good',de,unknown,#111111,#111111,2,0.404148612920
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,2,0.403580357778
 'Michele Reiner',de,unknown,#111111,#111111,1,0.403471082934
 'John Fetterman',de,unknown,#111111,#111111,2,0.403409988678
@@ -590,6 +589,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Chamenei',de,Iran,#11bb99,#11bb99,3,0.343827956920
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.343742127142
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.343632342212
+'Renee Nicole Good',de,unknown,#111111,#111111,1,0.343526320982
 'Joachim Gauck',de,Deutschland,#11dd44,#11dd44,1,0.343436966098
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.343348192802
 'Steve Jobs',de,USA,#18e8e8,#18e8e8,3,0.343166466282
