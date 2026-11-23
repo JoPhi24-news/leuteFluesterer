@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Sergei Pavlovich',de,unknown,#111111,#111111,2,0.508168828645
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481725538782
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.480520464959
@@ -7,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.478826554421
 'Liveblog USA',de,unknown,#111111,#111111,3,0.478723882933
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.478371173201
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.477519836177
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.476946369377
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.476837613181
 'James Bond',de,unknown,#111111,#111111,3,0.474814494616
 'Tom Cruise',de,unknown,#111111,#111111,3,0.473577061853
 'Dakota Johnson',de,unknown,#111111,#111111,3,0.473313704529
@@ -19,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andy Burnham',de,unknown,#111111,#111111,3,0.466519447955
 'Earl Spencer',de,unknown,#111111,#111111,2,0.464339853179
 'Todd Blanche',de,unknown,#111111,#111111,3,0.463992237879
+'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.463416461572
 'Buckingham Palace',de,unknown,#111111,#111111,2,0.462350250967
 'Kimberly Guilfoyle',de,unknown,#111111,#111111,3,0.462304182219
 'Sven Schulze',de,unknown,#111111,#111111,3,0.461647940216
@@ -57,7 +59,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,1,0.449038405010
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.448810774517
 'Joe Rogan',de,unknown,#111111,#111111,3,0.448790508145
-'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.448429701849
 'Thomas Müller',de,unknown,#111111,#111111,3,0.447851998456
 'Andrew Windsor',de,unknown,#111111,#111111,3,0.447726542366
 'Jon Ossoff',de,unknown,#111111,#111111,2,0.447310152495
@@ -83,6 +84,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrea Berg',de,unknown,#111111,#111111,1,0.441815171965
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Daniel Hagari',de,unknown,#111111,#111111,1,0.441478744731
+'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.441264802932
 'Michele Singer',de,unknown,#111111,#111111,1,0.441207301177
 'Mark Levin',de,unknown,#111111,#111111,1,0.440814002526
 'Alex Pereira',de,unknown,#111111,#111111,2,0.440813969148
@@ -94,7 +96,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Dugard',de,unknown,#111111,#111111,1,0.440725000000
 'Hannu Halinen',de,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
-'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.440510637234
 'Cilia Flores',de,unknown,#111111,#111111,3,0.438603057210
 'Casey Wasserman',de,unknown,#111111,#111111,1,0.438040141383
 'Kaitlan Collins',de,unknown,#111111,#111111,2,0.437968755831
@@ -164,6 +165,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ian Garry',de,unknown,#111111,#111111,1,0.429910000477
 'Emmanuel Maurel',de,unknown,#111111,#111111,1,0.429683374499
 'Demetrious Johnson',de,unknown,#111111,#111111,1,0.429662840777
+'Paul McCartney',de,unknown,#111111,#111111,3,0.429660892330
 'Kevin Spacey',de,unknown,#111111,#111111,1,0.429510738334
 'Rosie O’Donnell',de,unknown,#111111,#111111,1,0.429467093218
 'Elie Favrot',de,unknown,#111111,#111111,1,0.429362325869
@@ -185,7 +187,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christina Ricci',de,unknown,#111111,#111111,1,0.428220721672
 'Mauricio Ruffy',de,unknown,#111111,#111111,1,0.428205425846
 'Khamzat Chimaev',de,unknown,#111111,#111111,1,0.428159367059
-'Paul McCartney',de,unknown,#111111,#111111,3,0.428105548619
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.428037419688
 'Gregory Rodrigues',de,unknown,#111111,#111111,1,0.427934343114
 'Piers Morgan',de,unknown,#111111,#111111,1,0.427912584740
