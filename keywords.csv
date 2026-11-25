@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Bond',de,unknown,#111111,#111111,3,0.490256910881
+'James Bond',de,unknown,#111111,#111111,3,0.518147007797
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481725538782
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.480520464959
@@ -19,13 +19,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Earl Spencer',de,unknown,#111111,#111111,2,0.464339853179
 'Todd Blanche',de,unknown,#111111,#111111,3,0.463992237879
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.463416461572
+'Daniel Craig',de,unknown,#111111,#111111,2,0.463008239924
 'Buckingham Palace',de,unknown,#111111,#111111,2,0.462350250967
 'Kimberly Guilfoyle',de,unknown,#111111,#111111,3,0.462304182219
 'Sven Schulze',de,unknown,#111111,#111111,3,0.461647940216
 'Jimmy Fallon',de,unknown,#111111,#111111,2,0.460387075566
 'Ghislaine Maxwell',de,unknown,#111111,#111111,2,0.459913893965
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.459880270455
-'Daniel Craig',de,unknown,#111111,#111111,2,0.459438363800
 'Liveblog Irankrieg',de,unknown,#111111,#111111,3,0.458472410074
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.458079486761
 'Lisa Müller',de,unknown,#111111,#111111,2,0.457941116867
@@ -83,6 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
 'Daniel Hagari',de,unknown,#111111,#111111,1,0.441478744731
 'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.441264802932
+'Pierce Brosnan',de,unknown,#111111,#111111,2,0.441213746137
 'Michele Singer',de,unknown,#111111,#111111,1,0.441207301177
 'Mark Levin',de,unknown,#111111,#111111,1,0.440814002526
 'Alex Pereira',de,unknown,#111111,#111111,2,0.440813969148
@@ -94,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Dugard',de,unknown,#111111,#111111,1,0.440725000000
 'Hannu Halinen',de,unknown,#111111,#111111,1,0.440725000000
 'Amihai Eliyahu',de,unknown,#111111,#111111,1,0.440725000000
-'Pierce Brosnan',de,unknown,#111111,#111111,2,0.439703730156
 'Cilia Flores',de,unknown,#111111,#111111,3,0.438603057210
 'Casey Wasserman',de,unknown,#111111,#111111,1,0.438040141383
 'Kaitlan Collins',de,unknown,#111111,#111111,2,0.437968755831
@@ -1025,6 +1025,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',de,Brasilien,#58e838,#58e848,2,0.248737232171
 'Harrison Ford',de,unknown,#111111,#111111,1,0.248675424859
 'Kurt Krömer',de,Deutschland,#11dd44,#11dd44,2,0.248464234503
+'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.248307381686
 'Vo Van Thuong',de,unknown,#111111,#111111,1,0.248250867023
 'Aleksandar Vučić',de,Serbien,#4488cc,#4488cc,1,0.247564191884
 'Péter Szijjártó',de,Ungarn,#33aa99,#33aa99,2,0.247233629196
@@ -1068,7 +1069,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.229714760019
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.229195449577
 'Sahra Wagenknecht',de,Deutschland,#11dd44,#11dd44,3,0.229142381230
-'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.228457459188
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.228350263869
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.228009370159
 'Alice Weidel',de,Deutschland,#11dd44,#11dd44,2,0.227897712088
