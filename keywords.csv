@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Bond',de,unknown,#111111,#111111,3,0.513561229809
+'James Bond',de,unknown,#111111,#111111,3,0.500572379429
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481725538782
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.480520464959
@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.472082047266
 'Manuela Schwesig',de,unknown,#111111,#111111,3,0.471284784085
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.469772350304
+'Daniel Craig',de,unknown,#111111,#111111,2,0.467946861120
 'Natalie Harp',de,unknown,#111111,#111111,3,0.467287303597
-'Daniel Craig',de,unknown,#111111,#111111,2,0.467245545876
 'Andy Burnham',de,unknown,#111111,#111111,3,0.466519447955
 'Earl Spencer',de,unknown,#111111,#111111,2,0.464339853179
 'Todd Blanche',de,unknown,#111111,#111111,3,0.463992237879
@@ -637,13 +637,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adolf Hitler',de,Deutschland,#11dd44,#11dd44,3,0.335068911946
 'Angela Merkel',de,Deutschland,#11dd44,#11dd44,3,0.335043764446
 'Pedro Sánchez',de,Spanien,#1144aa,#1144aa,2,0.334395175667
+'Jan Böhmermann',de,Deutschland,#11dd44,#11dd44,3,0.334195165210
 'Oliver Anthony',de,USA,#18e8e8,#18e8e8,1,0.333988588800
 'Rupert Murdoch',de,Australien,#99aa33,#99aa33,1,0.333821629004
 'Jeff Ross',de,USA,#18e8e8,#18e8e8,2,0.333705848340
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.333443959179
 'Maria Sacharowa',de,Russland,#e81818,#e81818,2,0.333336125590
 'Yoon Suk Yeol',de,SüdKorea,#22bb66,#22bb66,2,0.333253232075
-'Jan Böhmermann',de,Deutschland,#11dd44,#11dd44,3,0.333240902462
 'Prince Charles',de,UK,#e838e8,#e838e8,2,0.333174011643
 'Lily Gladstone',de,USA,#18e8e8,#18e8e8,1,0.333121756003
 'Bridget Moynahan',de,USA,#18e8e8,#18e8e8,1,0.332967033182
@@ -1016,8 +1016,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Munger',de,unknown,#111111,#111111,1,0.255006696635
 'Mareike Fallwickl',de,Österreich,#6622bb,#6622bb,1,0.254808631015
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.254589514446
+'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.252720668223
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,1,0.252222829181
-'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.251636982538
 'King Charles',de,UK,#e838e8,#e838e8,2,0.251571587054
 'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.249662953188
 'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.249471227397
