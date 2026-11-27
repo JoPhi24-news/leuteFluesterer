@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Bond',de,unknown,#111111,#111111,3,0.495916007515
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.481725538782
 'Dolly Parton',de,unknown,#111111,#111111,3,0.480701306198
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.480520464959
@@ -12,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Cruise',de,unknown,#111111,#111111,3,0.473577061853
 'Dakota Johnson',de,unknown,#111111,#111111,3,0.473313704529
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.472082047266
+'Daniel Craig',de,unknown,#111111,#111111,2,0.471432574658
 'Manuela Schwesig',de,unknown,#111111,#111111,3,0.471284784085
-'Daniel Craig',de,unknown,#111111,#111111,2,0.470738205404
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.469772350304
 'Natalie Harp',de,unknown,#111111,#111111,3,0.467287303597
 'Andy Burnham',de,unknown,#111111,#111111,3,0.466519447955
@@ -43,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,3,0.454327267701
 'Javier Bardem',de,unknown,#111111,#111111,2,0.454037708235
 'Viktor Orban',de,unknown,#111111,#111111,3,0.453838189754
+'James Bond',de,unknown,#111111,#111111,3,0.453755863660
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,3,0.453182810028
 'Marine Tondelier',de,unknown,#111111,#111111,2,0.453062438064
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.453006103624
